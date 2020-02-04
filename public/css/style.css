@@ -1,0 +1,556 @@
+html,
+body {
+    height: 100%;
+    font-family: 'Montserrat', sans-serif;
+    margin: 0;
+}
+
+#top-bar,
+#top-bar li {
+    background: #30393e;
+    color: white;
+}
+
+#top-social-bar ion-icon {
+    font-size: 1.25em;
+}
+
+#main-navigation li {
+    margin-left: 30px;
+}
+
+.video-container {
+    height: 100%;
+    width: 100%;
+    position: relative;
+    overflow: hidden;
+}
+
+#myVideo {
+    min-width: 100%;
+    max-width: 100%;
+    min-height: 100%;
+    right: 0;
+    bottom: 0;
+    z-index: 0;
+}
+
+.area {
+    height: 100vh;
+}
+
+.area-full:not(.jumbo-footer) {
+    height: 100%;
+    padding: 20px 0;
+}
+
+.jumbo-footer {
+    padding: 20px 0;
+}
+
+h3 {
+    font-weight: bold;
+}
+
+.jumbotron {
+    margin-bottom: 0;
+}
+
+.bg-aliceblue {
+    background: aliceblue;
+}
+
+.bg-ivory {
+    background: #30393e;
+}
+
+.bg-mdu-blue {
+    background: #008cc0;;
+}
+
+.bg-mdu-red {
+    background: #ed174d;
+}
+
+.bg-mdu-yellow {
+    background: #ebe82e;
+}
+
+.bg-mdu-green {
+    background: #88c349;
+}
+
+.classes a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.checklist .checklist-items {
+    width: 100%;
+}
+
+.checklist .col-md {
+    padding: 0;
+}
+
+.checklist .list-group-item {
+    background: #30393e;
+    color: white;
+}
+
+.checklist .list-group-item ion-icon {
+    color: #ebe82e;
+}
+
+.quote-items {
+    background: aliceblue;
+    box-shadow: 4px 4px 6px rgba(0,0,0,0.6),
+                -4px -4px 12px rgba(255,255,255,1);
+    border-radius: 8px;
+}
+
+#photobanner-container {
+    width: 100%;
+    overflow: hidden;
+    margin: 50px 0;
+}
+
+.photobanner {
+    height: 233px;
+    width: 3550px;
+    margin-bottom: 80px;
+}
+
+.photobanner img {
+    width: 350px;
+    height: auto;
+}
+
+/*keyframe animations*/
+
+.first {
+    -webkit-animation: bannermove 25s linear infinite;
+    -moz-animation: bannermove 25s linear infinite;
+    -ms-animation: bannermove 25s linear infinite;
+    -o-animation: bannermove 25s linear infinite;
+    animation: bannermove 25s linear infinite;
+}
+
+@keyframes bannermove {
+    0% {
+        margin-left: 0px;
+    }
+    100% {
+        margin-left: -2125px;
+    }
+
+}
+
+@-moz-keyframes bannermove {
+    0% {
+        margin-left: 0px;
+    }
+    100% {
+        margin-left: -2125px;
+    }
+
+}
+
+@-webkit-keyframes bannermove {
+    0% {
+        margin-left: 0px;
+    }
+    100% {
+        margin-left: -2125px;
+    }
+
+}
+
+@-ms-keyframes bannermove {
+    0% {
+        margin-left: 0px;
+    }
+    100% {
+        margin-left: -2125px;
+    }
+
+}
+
+@-o-keyframes bannermove {
+    0% {
+        margin-left: 0px;
+    }
+    100% {
+        margin-left: -2125px;
+    }
+
+}
+
+/* end keyframe animations */
+
+.partner-items .card {
+    border: none;
+    background: aliceblue;
+}
+
+.partner-items img {
+    width: 60%;
+    padding: 10px;
+    opacity: 50%;
+    display: block;
+    margin: 0 auto;
+}
+
+.partner-items img:hover {
+    opacity: 100%;
+}
+
+.footer {
+    margin: 0 3%;
+    font-size: 90%;
+}
+
+.footer img {
+    width: 100%;
+}
+
+.footer-title {
+    border-right: 1px solid #ed174d;
+    writing-mode: vertical-lr;
+    text-orientation: upright;
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 70%;
+}
+
+.footer ul {
+    position: relative;
+    text-align: left;
+    margin-left: 20px;
+}
+
+.footer li {
+    color: white;
+    opacity: 70%;
+    padding: 0;
+    line-height: 1.5;
+    margin-left: 25px;
+}
+
+.footer a {
+    color: white;
+    padding: 0;
+}
+
+.footer li:hover {
+    text-decoration: underline;
+}
+
+.footer .col-1,
+.footer .col-3,
+.footer .col-5 {
+    padding: 0;
+}
+
+.footer iframe {
+    border: 1px solid #ed174d;
+}
+
+#credit {
+    margin: 0;
+}
+
+/*********************** ABOUT US *********************/
+
+.banner-wrap {
+    height: 200px;
+}
+
+.banner {
+    height: 100%;
+    background-image: url(/images/Website-color-banner.png);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/*---------------------------------------*/
+/* BIO ACCORDION */
+/*---------------------------------------*/
+/* Style the buttons that are used to open and close the accordion panel */
+.bioaccordion {
+    cursor: pointer;
+    width: 100%;
+    border: none;
+    outline: none;
+    background-color: aliceblue;
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+    font: inherit;
+    font-size: inherit;
+    font-weight: inherit;
+}
+
+.bioaccordion:hover {
+    background-color: #ebe82e;
+}
+
+/* Style the accordion panel. Note: hidden by default */
+.biopanel {
+    background-color: aliceblue;
+    max-height: 0;
+    overflow: hidden;
+    -webkit-transition: max-height 0.2s ease-out;
+    transition: max-height 0.2s ease-out;
+    z-index: 1;
+    width: 100%;
+}
+
+
+
+/*---------------------------------------*/
+/* TEACHERS */
+/*---------------------------------------*/
+
+.section-teachers {
+    background: aliceblue;
+}
+
+/*.about-teacher-wrapper {*/
+/*    display: grid;*/
+/*    grid-template-columns: repeat(4, 1fr);*/
+/*    !*grid-template-rows: 750px 850px 950px 750px;*!*/
+/*    grid-gap: 10px;*/
+/*    margin: 0 50px;*/
+/*}*/
+
+/*.about-teacher-wrapper2 {*/
+/*    display: grid;*/
+/*    grid-template-columns: repeat(4, 1fr);*/
+/*    !*grid-template-rows: 750px;*!*/
+/*    grid-gap: 10px;*/
+/*    margin: 0 50px;*/
+/*}*/
+
+.teacher-img {
+    width: 100%;
+}
+
+
+.about-teacher-card {
+    width: 100%;
+    box-shadow: 4px 4px 6px rgba(0,0,0,0.6),
+                -4px -4px 12px rgba(255,255,255,1);
+    margin-bottom: 20px;
+}
+
+.about-teacher-card h4 {
+    text-align: center;
+    text-transform: uppercase;
+    padding: 10px;
+    margin: 0;
+    font-size: 1em;
+    font-weight: bold;
+}
+
+.about-teacher-card p {
+    width: 100%;
+    padding: 20px;
+    font-size: 85%;
+}
+
+
+/****************** footer **********************/
+
+#calendar img {
+    max-width: 100%;
+    box-shadow: 4px 4px 6px rgba(0,0,0,0.6),
+                -4px -4px 12px rgba(255,255,255,1);
+    border-radius: 8px;
+}
+
+#bravo img {
+    width: 100%;
+    padding: 20px;
+}
+
+#studio img {
+    width: 100%;
+}
+
+#news .card,
+#blog .card {
+    transition: box-shadow 0.5s ease;
+}
+
+#news .card {
+    border: none;
+}
+
+#news .card:hover,
+#blog .card:hover {
+    box-shadow: 2px 2px 3px rgba(0,0,0,0.6),
+    -2px -2px 6px rgba(255,255,255,1);
+}
+
+#main-post-img {
+    max-height: 500px;
+    display: block;
+    margin: 0 auto;
+}
+
+#blog .card {
+    background: aliceblue;
+    border: 0;
+}
+
+#blog .card:nth-of-type(3n) {
+    border: 1px solid #ebe82e;
+}
+
+#blog .card:nth-of-type(3n + 1) {
+    border: 1px solid #008cc0;
+}
+
+#blog .card:nth-of-type(3n + 2) {
+    border: 1px solid #ed174d;
+}
+
+/*******************class pages*******************/
+
+.little-blue-box .card {
+    background: #008cc0;
+    color: white;
+}
+
+.little-red-box .card {
+    background: #ed174d;
+    color: white;
+    box-shadow: 4px 6px aliceblue;
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.little-red-box .card:hover {
+    transform: translate(-6px, -6px);
+    box-shadow: 10px 12px aliceblue;
+}
+
+.little-yellow-box .card {
+    background: #ebe82e;
+}
+
+#adult img {
+    width: 100%;
+    padding: 20px;
+}
+
+#adult p {
+    padding: 20px;
+}
+
+#adult button {
+    display: block;
+    margin: 0 auto;
+}
+
+#adult a,
+#littles a {
+    text-decoration: none;
+}
+
+#littles a {
+    color: inherit;
+}
+
+
+/* school year classes */
+
+#schoolyr-classes {
+    overflow-x: hidden;
+    position: relative;
+}
+
+#schoolyr-classes img {
+    display: block;
+    width: 100%;
+}
+
+.school-container {
+    padding: 0;
+    position: relative;
+}
+
+.school-overlay {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 25%;
+    width: 100%;
+    opacity: 0.85;
+    transition: .5s ease;
+    background-color: #008cc0;
+}
+
+.row-top .school-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 15%;
+    width: 100%;
+    opacity: 0.85;
+    transition: .5s ease;
+    background-color: #008cc0;
+}
+
+#schoolyr-title {
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 100%;
+    width: 100%;
+}
+
+#schoolyr-title h3 {
+    position: absolute;
+    color: white;
+    z-index: 3;
+    text-align: center;
+    font-size: 2.25em;
+    background: #ed174d;
+    padding: 10px;
+}
+
+.school-container:hover .school-overlay {
+    /*opacity: 0.85;*/
+    height: 100%;
+}
+
+.school-txt {
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    -webkit-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+    text-align: center;
+}
+
+.close {
+    color: #fff;
+    opacity: 1;
+    position: absolute;
+    top: 5px;
+    right: 8px;
+}
+
+.close:hover {
+    color: #fff;
+}
