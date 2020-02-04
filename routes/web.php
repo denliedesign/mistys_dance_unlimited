@@ -99,6 +99,18 @@ Route::get('guys', function () {
     return view('guys');
 });
 
+Route::get('costume', function () {
+    return view('costume');
+});
+
+Route::get('costume2', function () {
+    return view('costume2');
+});
+
+Route::get('costume3', function () {
+    return view('costume3');
+});
+
 Route::get('trial', 'FreeTrialController@create')->name('trial.create');
 Route::post('trial', 'FreeTrialController@store')->name('trial.store');
 

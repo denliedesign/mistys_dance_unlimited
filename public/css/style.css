@@ -554,3 +554,124 @@ h3 {
 .close:hover {
     color: #fff;
 }
+
+/* COSTUME */
+
+/*NEW*/
+
+.costume-txt {
+    font-weight: bold;
+    text-align: center;
+    margin-top: 0;
+    margin-bottom: 32px;
+}
+
+/**/
+
+
+
+
+.costume-content h2 {
+    text-align: center;
+    transform: skewY(-3deg);
+}
+
+.graded-costume-content h2 {
+    text-align: center;
+    transform: skewY(3deg);
+    color: white;
+}
+
+.graded-costume-content p {
+    text-align: center;
+    color: white;
+}
+
+.costume-content {
+    transform: skewY(3deg);
+    padding: 20px 0;
+    background: #ebe82e;
+    margin-bottom: 40px;
+}
+
+.childrens-costume {
+    transform: skewY(-3deg);
+    display: block;
+    width: 95%;
+    margin: 0 auto;
+}
+
+.costume-grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+}
+
+.costume-col img {
+    display: block;
+    width: 95%;
+    margin: 20px 10px;
+    border: solid 4px #30393e;
+    -webkit-box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
+    box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2), 0 3px 10px 0 rgba(0, 0, 0, 0.19);
+}
+
+.graded-costume-content {
+    transform: skewY(-3deg);
+    padding: 20px 0;
+    background: #008cc0;
+    margin-bottom: 40px;
+}
+
+.graded-costume {
+    transform: skewY(3deg);
+    display: block;
+    width: 95%;
+    margin: 0 auto;
+}
+
+#pc-sub-head {
+    transform: skewY(0deg);
+}
+
+#pc-audition-table {
+    color: white;
+    margin: 0 auto;
+}
+
+#pc-audition-table th {
+    text-transform: uppercase;
+    padding: 5px 0;
+    color: #ebe82e;
+}
+
+#pc-audition-table td {
+    text-transform: capitalize;
+    padding: 5px 0;
+}
+
+#y-head {
+    color: #ebe82e;
+}
+
+#blc-audition-logo {
+    max-width: 361px;
+    display: block;
+    margin: 0 auto;
+}
+
+/*
+
+#86d1bc;
+
+*/
+
+.blc-audition {
+    width: 95%;
+    margin: 0 auto;
+}
+
+.blc-blue {
+    color: #86d1bc;
+}
+
+/* END COSTUME */
