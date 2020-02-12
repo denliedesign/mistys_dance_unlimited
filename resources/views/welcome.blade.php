@@ -88,9 +88,18 @@
 {{--            <img src="images/temp-summer.jpg" alt="" style="width: 100%;">--}}
 {{--        </div>--}}
 
+        <div id="summer-temp" class="text-center bg-ivory text-white py-5 my-0">
+            <h3>Summer Schedule coming March 1st.</h3>
+            <p>Make your summer the best summer ever with MDU!</p>
+        </div>
+{{--        <div id="schoolyr-temp" class="text-center bg-ivory text-white py-5 my-0">--}}
+{{--            <h3>2020-21 coming Soon!</h3>--}}
+{{--            <p>Class Schedule will be published May 26th. Online Registration begins June 6th.</p>--}}
+{{--        </div>--}}
+
         <div id="schoolyr-classes">
-            <div id="schoolyr-title" class="d-flex align-items-center justify-content-center pt-5"><h3 class="d-none d-md-block">2019-2020 School Year Classes</h3></div>
-            <h3 class="d-block d-md-none text-center py-5">2019-2020 School Year Classes</h3>
+            <div id="schoolyr-title" class="d-flex align-items-center justify-content-center pt-5"><h3 class="d-none d-md-block">2020-21 Coming Soon!<br><small>Class Schedule will be published May 26th<br>Online Registration begins June 6th</small></h3></div>
+            <h3 class="d-block d-md-none text-center py-5">2020-21 Coming Soon!<br><small>Class Schedule will be published May 26th<br>Online Registration begins June 6th</small></h3>
             <div class="row row-top">
                 <div class="col-sm school-container">
                     <img src="images/littles.jpg" alt="">

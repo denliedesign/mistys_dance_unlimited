@@ -111,6 +111,42 @@ Route::get('costume3', function () {
     return view('costume3');
 });
 
+//Route::get('recitals/generals', function () {
+//    return view('recitals/generals');
+//});
+//
+//Route::get('recitals/ads', function () {
+//    return view('recitals/ads');
+//});
+//
+//Route::get('recitals/handbooks', function () {
+//    return view('recitals/handbooks');
+//});
+//
+//Route::get('recitals/memories', function () {
+//    return view('recitals/memories');
+//});
+//
+//Route::get('recitals/rehearsals', function () {
+//    return view('recitals/rehearsals');
+//});
+//
+//Route::get('recitals/seniors', function () {
+//    return view('recitals/seniors');
+//});
+//
+//Route::get('recitals/performances', function () {
+//    return view('recitals/performances');
+//});
+//
+//Route::get('recitals/tickets', function () {
+//    return view('recitals/tickets');
+//});
+
+Route::get('/recitals', function () {
+    return view('recitals.index');
+});
+
 Route::get('trial', 'FreeTrialController@create')->name('trial.create');
 Route::post('trial', 'FreeTrialController@store')->name('trial.store');
 
@@ -118,6 +154,14 @@ Route::resource('events', 'EventController');
 Route::resource('promotions', 'PromotionController');
 Route::resource('articles', 'ArticleController');
 Route::resource('posts', 'PostController');
+Route::resource('recitals/generals', 'GeneralController');
+Route::resource('recitals/ads', 'AdController');
+Route::resource('recitals/handbooks', 'HandbookController');
+Route::resource('recitals/memories', 'MemoryController');
+Route::resource('recitals/performances', 'PerformanceController');
+Route::resource('recitals/rehearsals', 'RehearsalController');
+Route::resource('recitals/seniors', 'SeniorController');
+Route::resource('recitals/tickets', 'TicketController');
 
 
 Auth::routes();

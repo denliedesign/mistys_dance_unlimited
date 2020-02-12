@@ -43,6 +43,38 @@
     tinymce.init({
         selector: '#post-textarea',
     });
+
+    tinymce.init({
+        selector: '#generals-textarea',
+    });
+
+    tinymce.init({
+        selector: '#ads-textarea',
+    });
+
+    tinymce.init({
+        selector: '#handbooks-textarea',
+    });
+
+    tinymce.init({
+        selector: '#memories-textarea',
+    });
+
+    tinymce.init({
+        selector: '#performances-textarea',
+    });
+
+    tinymce.init({
+        selector: '#rehearsals-textarea',
+    });
+
+    tinymce.init({
+        selector: '#seniors-textarea',
+    });
+
+    tinymce.init({
+        selector: '#tickets-textarea',
+    });
 </script>
 
 </body>

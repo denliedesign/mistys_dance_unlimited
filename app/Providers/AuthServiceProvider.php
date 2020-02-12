@@ -18,6 +18,14 @@ class AuthServiceProvider extends ServiceProvider
         'App\Event' => 'App\Policies\PromotionPolicy',
         'App\Event' => 'App\Policies\ArticlePolicy',
         'App\Event' => 'App\Policies\PostPolicy',
+        'App\Event' => 'App\Policies\GeneralPolicy',
+        'App\Event' => 'App\Policies\AdPolicy',
+        'App\Event' => 'App\Policies\HandbookPolicy',
+        'App\Event' => 'App\Policies\MemoryPolicy',
+        'App\Event' => 'App\Policies\PerformancePolicy',
+        'App\Event' => 'App\Policies\RehearsalPolicy',
+        'App\Event' => 'App\Policies\SeniorPolicy',
+        'App\Event' => 'App\Policies\TicketPolicy',
     ];
 
     /**
