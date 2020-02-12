@@ -10,7 +10,7 @@
 
     <div class="jumbotron jumbotron-fluid bg-aliceblue">
         <div class="container">
-            <h3 class="py-5 text-center">Business Ads</h3>
+            <h3 class="py-5 text-center">Business Program Ads</h3>
 
             @if(count($ads) > 0)
                 @foreach($ads as $ad)

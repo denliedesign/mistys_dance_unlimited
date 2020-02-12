@@ -10,7 +10,7 @@
 
     <div class="jumbotron jumbotron-fluid bg-aliceblue">
         <div class="container">
-            <h3 class="py-5 text-center">Show Orders</h3>
+            <h3 class="py-5 text-center">Show Assignments</h3>
 
             @if(count($performances) > 0)
                 @foreach($performances as $performance)
@@ -38,10 +38,10 @@
 
                     @can('update', \App\Performance::class)
                         <div class="pt-5">
-                            <h2>New Performance</h2>
+                            <h2>New Show</h2>
                             <form action="{{ route('performances.store', ['performance' => $performance]) }}" method="POST">
                                 @include('recitals/performances.form')
-                                <button type="submit" class="btn btn-primary">Add Performance</button>
+                                <button type="submit" class="btn btn-primary">Add Show</button>
                             </form>
                         </div>
                     @endcan

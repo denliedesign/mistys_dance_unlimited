@@ -10,7 +10,7 @@
 
     <div class="jumbotron jumbotron-fluid bg-aliceblue">
         <div class="container">
-            <h3 class="py-5 text-center">Seniors</h3>
+            <h3 class="py-5 text-center">Daddy Daughter Dance</h3>
 
             @if(count($seniors) > 0)
                 @foreach($seniors as $senior)
@@ -38,10 +38,10 @@
 
                     @can('update', \App\Senior::class)
                         <div class="pt-5">
-                            <h2>New Senior</h2>
+                            <h2>New Dance</h2>
                             <form action="{{ route('seniors.store', ['senior' => $senior]) }}" method="POST">
                                 @include('recitals/seniors.form')
-                                <button type="submit" class="btn btn-primary">Add Senior</button>
+                                <button type="submit" class="btn btn-primary">Add Dance</button>
                             </form>
                         </div>
                     @endcan
