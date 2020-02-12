@@ -65,6 +65,9 @@
                     <a class="nav-link" href="/#schoolyr-classes">School Year</a>
                 </li>
                 <li class="nav-item">
+                    <a class="nav-link" href="/recitals">Recital</a>
+                </li>
+                <li class="nav-item">
                     <a class="nav-link" href="/promotions">Promotions</a>
                 </li>
                 <li class="nav-item">
