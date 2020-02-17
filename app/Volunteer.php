@@ -4,11 +4,7 @@ namespace App;
 
 use Illuminate\Database\Eloquent\Model;
 
-class Event extends Model
+class Volunteer extends Model
 {
     protected $guarded = [];
-    protected $dates = [
-        'day',
-        'endday'
-    ];
 }

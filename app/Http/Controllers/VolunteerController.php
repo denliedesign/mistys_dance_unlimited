@@ -2,11 +2,11 @@
 
 namespace App\Http\Controllers;
 
-use App\Event;
+use App\Volunteer;
 use Illuminate\Http\Request;
 use function Sodium\compare;
 
-class EventController extends Controller
+class VolunteerController extends Controller
 {
     /**
      * Display a listing of the resource.
@@ -16,14 +16,14 @@ class EventController extends Controller
      */
     public function __construct()
     {
-        $this->events = Event::all()->sortBy('day');
-        \View::share('events', $this->events);
+        $this->volunteers = Volunteer::all();
+        \View::share('volunteers', $this->volunteers);
     }
 
     public function index()
     {
-        $event = new Event();
-        return view('events.index', compact('event'));
+        $volunteer = new Volunteer();
+        return view('recitals/volunteers.index', compact('volunteer'));
     }
 
     /**
@@ -44,17 +44,17 @@ class EventController extends Controller
      */
     public function store()
     {
-        $event = Event::create($this->validateRequest());
-        return redirect('events');
+        $volunteer = Volunteer::create($this->validateRequest());
+        return redirect('recitals/volunteers');
     }
 
     /**
      * Display the specified resource.
      *
-     * @param  \App\Event  $event
+     * @param  \App\Volunteer  $volunteer
      * @return \Illuminate\Http\Response
      */
-    public function show(Event $event)
+    public function show(Volunteer $volunteer)
     {
         //
     }
@@ -62,10 +62,10 @@ class EventController extends Controller
     /**
      * Show the form for editing the specified resource.
      *
-     * @param  \App\Event  $event
+     * @param  \App\Volunteer  $volunteer
      * @return \Illuminate\Http\Response
      */
-    public function edit(Event $event)
+    public function edit(Volunteer $volunteer)
     {
 
     }
@@ -74,33 +74,31 @@ class EventController extends Controller
      * Update the specified resource in storage.
      *
      * @param  \Illuminate\Http\Request  $request
-     * @param  \App\Event  $event
+     * @param  \App\Volunteer  $volunteer
      * @return \Illuminate\Http\Response
      */
-    public function update(Request $request, Event $event)
+    public function update(Request $request, Volunteer $volunteer)
     {
-        $event->update($this->validateRequest());
-        return redirect('events');
+        $volunteer->update($this->validateRequest());
+        return redirect('recitals/volunteers');
     }
 
     /**
      * Remove the specified resource from storage.
      *
-     * @param  \App\Event  $event
+     * @param  \App\Volunteer  $volunteer
      * @return \Illuminate\Http\Response
      */
-    public function destroy(Event $event)
+    public function destroy(Volunteer $volunteer)
     {
-        $event->delete();
-        return redirect('/events');
+        $volunteer->delete();
+        return redirect('recitals/volunteers');
     }
 
     private function validateRequest()
     {
         return request()->validate([
-            'day' => 'required',
-            'endday' => 'nullable',
-            'happening' => 'required',
+            'information' => 'required',
         ]);
     }
 }

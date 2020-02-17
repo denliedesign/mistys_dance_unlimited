@@ -10,6 +10,7 @@
 
     <div class="jumbotron jumbotron-fluid bg-aliceblue">
         <div class="container">
+            <a href="/recitals#everythingrecital">Back to Recital Page</a>
             <h3 class="py-5 text-center">Recital Dates & Venue</h3>
 
             @if(count($generals) > 0)

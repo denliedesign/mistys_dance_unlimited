@@ -162,6 +162,8 @@ Route::resource('recitals/performances', 'PerformanceController');
 Route::resource('recitals/rehearsals', 'RehearsalController');
 Route::resource('recitals/seniors', 'SeniorController');
 Route::resource('recitals/tickets', 'TicketController');
+Route::resource('recitals/photos', 'PhotoController');
+Route::resource('recitals/volunteers', 'VolunteerController');
 
 
 Auth::routes();

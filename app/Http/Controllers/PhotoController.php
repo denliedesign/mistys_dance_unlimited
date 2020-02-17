@@ -2,11 +2,11 @@
 
 namespace App\Http\Controllers;
 
-use App\Event;
+use App\Photo;
 use Illuminate\Http\Request;
 use function Sodium\compare;
 
-class EventController extends Controller
+class PhotoController extends Controller
 {
     /**
      * Display a listing of the resource.
@@ -16,14 +16,14 @@ class EventController extends Controller
      */
     public function __construct()
     {
-        $this->events = Event::all()->sortBy('day');
-        \View::share('events', $this->events);
+        $this->photos = Photo::all();
+        \View::share('photos', $this->photos);
     }
 
     public function index()
     {
-        $event = new Event();
-        return view('events.index', compact('event'));
+        $photo = new Photo();
+        return view('recitals/photos.index', compact('photo'));
     }
 
     /**
@@ -44,17 +44,17 @@ class EventController extends Controller
      */
     public function store()
     {
-        $event = Event::create($this->validateRequest());
-        return redirect('events');
+        $photo = Photo::create($this->validateRequest());
+        return redirect('recitals/photos');
     }
 
     /**
      * Display the specified resource.
      *
-     * @param  \App\Event  $event
+     * @param  \App\Photo  $photo
      * @return \Illuminate\Http\Response
      */
-    public function show(Event $event)
+    public function show(Photo $photo)
     {
         //
     }
@@ -62,10 +62,10 @@ class EventController extends Controller
     /**
      * Show the form for editing the specified resource.
      *
-     * @param  \App\Event  $event
+     * @param  \App\Photo  $photo
      * @return \Illuminate\Http\Response
      */
-    public function edit(Event $event)
+    public function edit(Photo $photo)
     {
 
     }
@@ -74,33 +74,31 @@ class EventController extends Controller
      * Update the specified resource in storage.
      *
      * @param  \Illuminate\Http\Request  $request
-     * @param  \App\Event  $event
+     * @param  \App\Photo  $photo
      * @return \Illuminate\Http\Response
      */
-    public function update(Request $request, Event $event)
+    public function update(Request $request, Photo $photo)
     {
-        $event->update($this->validateRequest());
-        return redirect('events');
+        $photo->update($this->validateRequest());
+        return redirect('recitals/photos');
     }
 
     /**
      * Remove the specified resource from storage.
      *
-     * @param  \App\Event  $event
+     * @param  \App\Photo  $photo
      * @return \Illuminate\Http\Response
      */
-    public function destroy(Event $event)
+    public function destroy(Photo $photo)
     {
-        $event->delete();
-        return redirect('/events');
+        $photo->delete();
+        return redirect('recitals/photos');
     }
 
     private function validateRequest()
     {
         return request()->validate([
-            'day' => 'required',
-            'endday' => 'nullable',
-            'happening' => 'required',
+            'information' => 'required',
         ]);
     }
 }

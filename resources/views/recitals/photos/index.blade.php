@@ -11,22 +11,22 @@
     <div class="jumbotron jumbotron-fluid bg-aliceblue">
         <div class="container">
             <a href="/recitals#everythingrecital">Back to Recital Page</a>
-            <h3 class="py-5 text-center">Business Program Ads</h3>
+            <h3 class="py-5 text-center">Individual Photos from Design Photography</h3>
 
-            @if(count($ads) > 0)
-                @foreach($ads as $ad)
-                    <p>{!! $ad->information !!}</p>
-                    @can('update', $ad)
+            @if(count($photos) > 0)
+                @foreach($photos as $photo)
+                    <p>{!! $photo->information !!}</p>
+                    @can('update', $photo)
                         <div>
-                            <form action="{{ route('ads.update', ['ad' => $ad]) }}" method="POST" class="p-3">
+                            <form action="{{ route('photos.update', ['photo' => $photo]) }}" method="POST" class="p-3">
                                 @method('PATCH')
-                                @include('recitals/ads.form')
+                                @include('recitals/photos.form')
 
                                 <button class="btn btn-primary" type="submit">Save</button>
                             </form>
                         </div>
                         <div>
-                            <form action="{{ route('ads.destroy', ['ad' => $ad->id]) }}" method="POST">
+                            <form action="{{ route('photos.destroy', ['photo' => $photo->id]) }}" method="POST">
                                 @method('DELETE')
                                 @csrf
 
@@ -37,15 +37,15 @@
                 @endforeach
             @else
 
-                    @can('update', \App\Ad::class)
-                        <div class="pt-5">
-                            <h2>New Ad</h2>
-                            <form action="{{ route('ads.store', ['ad' => $ad]) }}" method="POST">
-                                @include('recitals/ads.form')
-                                <button type="submit" class="btn btn-primary">Add Ad</button>
-                            </form>
-                        </div>
-                    @endcan
+                @can('update', \App\Photo::class)
+                    <div class="pt-5">
+                        <h2>New Photo</h2>
+                        <form action="{{ route('photos.store', ['photo' => $photo]) }}" method="POST">
+                            @include('recitals/photos.form')
+                            <button type="submit" class="btn btn-primary">Add Photo</button>
+                        </form>
+                    </div>
+                @endcan
             @endif
         </div>
     </div>

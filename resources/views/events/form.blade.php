@@ -1,6 +1,11 @@
 <div class="form-group">
-    <label for="day">Event Date</label>
+    <label for="day">Event Start Date</label>
     <input type="date" class="form-control" name="day" required>
+</div>
+
+<div class="form-group">
+    <label for="endday">Event End Date (if applicable)</label>
+    <input type="date" class="form-control" name="endday">
 </div>
 
 <div class="form-group">

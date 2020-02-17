@@ -75,6 +75,14 @@
     tinymce.init({
         selector: '#tickets-textarea',
     });
+
+    tinymce.init({
+        selector: '#photos-textarea',
+    });
+
+    tinymce.init({
+        selector: '#volunteers-textarea',
+    });
 </script>
 
 </body>

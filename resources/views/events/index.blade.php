@@ -16,7 +16,7 @@
                 <div class="col-sm-8">
 
                     @foreach($events as $event)
-                        <p>{{ $event->day->format('M d, Y') }}<span class="text-muted"> - </span><span class="font-weight-bold">{{ $event->happening }}</span></p>
+                        <p>{{ $event->day->format('M d') }}@if(!empty($event->endday))<span class="text-muted"> - </span>{{ $event->endday->format('M d, Y') }}@endif<span class="text-muted"> &nbsp; </span><span class="font-weight-bold">{{ $event->happening }}</span></p>
                         @can('update', $event)
                             <div class="dropdown pb-3">
                                 <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
