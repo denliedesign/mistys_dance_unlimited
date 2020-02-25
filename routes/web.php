@@ -119,6 +119,9 @@ Route::get('pre-pro', function () {
     return view('pre-pro');
 });
 
+Route::get('frozen-friends', 'FrozenFriendsController@index')->name('frozen-friends');
+Route::post('frozen-friends', 'FrozenFriendsController@store')->name('frozen-friends.store');
+
 Route::get('trial', 'FreeTrialController@create')->name('trial.create');
 Route::post('trial', 'FreeTrialController@store')->name('trial.store');
 
