@@ -6,7 +6,26 @@
 
     <div class="jumbotron jumbotron-fluid bg-aliceblue">
         <div class="container">
-            <h3 class="text-center pb-5">Frozen Friends</h3>
+            <img src="images/frozen-friends.png" class="pb-5" alt="" style="width: 100%;">
+            <h3 class="text-center pb-5">Frozen Friends Musical Theater Mini Session</h3>
+
+            <p>
+                Journey to Arendelle and beyond!  We'll dance, sing and go on a magical adventure. Let your imagination run wild as you pretend to be your favorite characters from the hit movies. Dazzle with your ice powers as Elsa, climb snowy mountains as Kristoff, ride through the wilderness as Sven, discover the Enchanted Forest as Anna, and more! A short presentation for families at the end is the "icing" on the cake!
+                <br><br>
+                Here's all the details:
+                <br><br>
+                <strong>Dates:</strong> March 2 - April 27 (No class on April 6)
+                <br><strong>Class Time:</strong> Mondays 5:30-6:00 PM
+                <br><strong>Ages:</strong> 4-6
+                <br><strong>Teacher:</strong> Miss Denise
+                <br><strong>Tuition:</strong> $39 per month (Due March 1st and April 1st)
+                <br><strong>Attire:</strong> Your favorite Frozen costume and ballet shoes
+                <br><strong>Performance:</strong> Special in-house performance for families on the last day of class
+                <br><br>
+                Sign Up your dancer by filling out this short form.  Miss Kris will be in touch to finalize payment and enrollment:)
+                <br><br>
+            </p>
+
             <form action="{{ route('frozen-friends.store') }}" method="POST">
                 <div class="form-group row">
                     <label class="col-sm-4 col-form-label" for="parentName">Parent Name</label>

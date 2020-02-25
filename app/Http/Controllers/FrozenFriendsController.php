@@ -30,7 +30,7 @@ class FrozenFriendsController extends Controller
             'birthdate' => 'required'
         ]);
 
-        Mail::to('customdenlie@gmail.com')->send(new FrozenFriendsMail($frozen));
+        Mail::to('kris.mistysdance@gmail.com')->send(new FrozenFriendsMail($frozen));
 
         return redirect('/')->with('message', 'Thank you for your interest. We wil contact you shortly.');
 
