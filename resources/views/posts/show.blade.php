@@ -17,7 +17,7 @@
             </div>
             <div class="col-md-2">
                 <ul class="list-group list-group-flush">
-                    @foreach($posts as $post)
+                    @foreach($posts->take(5) as $post)
                         <li class="list-group-item">
                             <a href="/posts/{{ $post->id }}"><img src="{{ asset('/storage/' . $post->image) }}" alt="" class="img-thumbnail"></a>
                             <a href="/posts/{{ $post->id }}">{{ $post->title }}</a>

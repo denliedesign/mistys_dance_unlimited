@@ -17,7 +17,7 @@ class ArticleController extends Controller
 
     public function __construct()
     {
-        $this->articles = Article::all();
+        $this->articles = Article::all()->sortByDesc('created_at');
         \View::share('articles', $this->articles);
     }
 

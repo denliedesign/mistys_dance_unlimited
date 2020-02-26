@@ -22,8 +22,9 @@ class PostController extends Controller
         \View::share('posts', $this->posts);
     }
 
-    public function index()
+    public function index(Post $post)
     {
+        $posts = Post::orderByDesc('shown')->paginate(6);
         return view('posts.index', compact('posts'));
     }
 
