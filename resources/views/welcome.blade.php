@@ -92,7 +92,7 @@
             <h3>Summer Schedule coming March 1st.</h3>
             <p>Make your summer the best summer ever with MDU!</p>
         </div>
-        <div id="summer-temp" class="text-center bg-mdu-red text-white py-5 my-0">
+        <div id="schoolyr-classes" class="text-center bg-mdu-red text-white py-5 my-0">
             <h3>2020-21 Coming Soon!<br><small>Class Schedule will be published May 26th<br>Online Registration begins June 6th</small></h3>
         </div>
 {{--        <div id="schoolyr-temp" class="text-center bg-ivory text-white py-5 my-0">--}}
