@@ -92,75 +92,78 @@
             <h3>Summer Schedule coming March 1st.</h3>
             <p>Make your summer the best summer ever with MDU!</p>
         </div>
+        <div id="summer-temp" class="text-center bg-mdu-red text-white py-5 my-0">
+            <h3>2020-21 Coming Soon!<br><small>Class Schedule will be published May 26th<br>Online Registration begins June 6th</small></h3>
+        </div>
 {{--        <div id="schoolyr-temp" class="text-center bg-ivory text-white py-5 my-0">--}}
 {{--            <h3>2020-21 coming Soon!</h3>--}}
 {{--            <p>Class Schedule will be published May 26th. Online Registration begins June 6th.</p>--}}
 {{--        </div>--}}
 
-        <div id="schoolyr-classes">
-            <div id="schoolyr-title" class="d-flex align-items-center justify-content-center pt-5"><h3 class="d-none d-md-block">2020-21 Coming Soon!<br><small>Class Schedule will be published May 26th<br>Online Registration begins June 6th</small></h3></div>
-            <h3 class="d-block d-md-none text-center py-5">2020-21 Coming Soon!<br><small>Class Schedule will be published May 26th<br>Online Registration begins June 6th</small></h3>
-            <div class="row row-top">
-                <div class="col-sm school-container">
-                    <img src="images/littles.jpg" alt="">
-                    <a href="littles">
-                        <div class="school-overlay">
-                            <div class="school-txt">For the Littles</div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-sm school-container">
-                    <img src="images/big-kids.jpg" alt="">
-                    <a href="big-kids">
-                        <div class="school-overlay">
-                            <div class="school-txt">For the Big Kids</div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-sm school-container">
-                    <img src="images/adult.jpg" alt="">
-                    <a href="adults">
-                        <div class="school-overlay">
-                            <div class="school-txt">For Adults</div>
-                        </div>
-                    </a>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-sm school-container">
-                    <img src="images/pg.jpg" alt="">
-                    <a href="pc">
-                        <div class="school-overlay">
-                            <div class="school-txt">Performing Groups</div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-sm school-container">
-                    <img src="images/prepro.jpg" alt="">
-                    <a href="prepro">
-                        <div class="school-overlay">
-                            <div class="school-txt">Pre-Professional</div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-sm school-container">
-                    <img src="images/BLC.jpg" alt="">
-                    <a href="https://balletlacrosse.com" target="_blank">
-                        <div class="school-overlay">
-                            <div class="school-txt">Ballet La Crosse</div>
-                        </div>
-                    </a>
-                </div>
-                <div class="col-sm school-container">
-                    <img src="images/boys.jpg" alt="">
-                    <a href="guys">
-                        <div class="school-overlay">
-                            <div class="school-txt">Boys</div>
-                        </div>
-                    </a>
-                </div>
-            </div>
-        </div>
+{{--        <div id="schoolyr-classes">--}}
+{{--            <div id="schoolyr-title" class="d-flex align-items-center justify-content-center pt-5"><h3 class="d-none d-md-block">2020-21 Coming Soon!<br><small>Class Schedule will be published May 26th<br>Online Registration begins June 6th</small></h3></div>--}}
+{{--            <h3 class="d-block d-md-none text-center py-5">2020-21 Coming Soon!<br><small>Class Schedule will be published May 26th<br>Online Registration begins June 6th</small></h3>--}}
+{{--            <div class="row row-top">--}}
+{{--                <div class="col-sm school-container">--}}
+{{--                    <img src="images/littles.jpg" alt="">--}}
+{{--                    <a href="littles">--}}
+{{--                        <div class="school-overlay">--}}
+{{--                            <div class="school-txt">For the Littles</div>--}}
+{{--                        </div>--}}
+{{--                    </a>--}}
+{{--                </div>--}}
+{{--                <div class="col-sm school-container">--}}
+{{--                    <img src="images/big-kids.jpg" alt="">--}}
+{{--                    <a href="big-kids">--}}
+{{--                        <div class="school-overlay">--}}
+{{--                            <div class="school-txt">For the Big Kids</div>--}}
+{{--                        </div>--}}
+{{--                    </a>--}}
+{{--                </div>--}}
+{{--                <div class="col-sm school-container">--}}
+{{--                    <img src="images/adult.jpg" alt="">--}}
+{{--                    <a href="adults">--}}
+{{--                        <div class="school-overlay">--}}
+{{--                            <div class="school-txt">For Adults</div>--}}
+{{--                        </div>--}}
+{{--                    </a>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--            <div class="row">--}}
+{{--                <div class="col-sm school-container">--}}
+{{--                    <img src="images/pg.jpg" alt="">--}}
+{{--                    <a href="pc">--}}
+{{--                        <div class="school-overlay">--}}
+{{--                            <div class="school-txt">Performing Groups</div>--}}
+{{--                        </div>--}}
+{{--                    </a>--}}
+{{--                </div>--}}
+{{--                <div class="col-sm school-container">--}}
+{{--                    <img src="images/prepro.jpg" alt="">--}}
+{{--                    <a href="prepro">--}}
+{{--                        <div class="school-overlay">--}}
+{{--                            <div class="school-txt">Pre-Professional</div>--}}
+{{--                        </div>--}}
+{{--                    </a>--}}
+{{--                </div>--}}
+{{--                <div class="col-sm school-container">--}}
+{{--                    <img src="images/BLC.jpg" alt="">--}}
+{{--                    <a href="https://balletlacrosse.com" target="_blank">--}}
+{{--                        <div class="school-overlay">--}}
+{{--                            <div class="school-txt">Ballet La Crosse</div>--}}
+{{--                        </div>--}}
+{{--                    </a>--}}
+{{--                </div>--}}
+{{--                <div class="col-sm school-container">--}}
+{{--                    <img src="images/boys.jpg" alt="">--}}
+{{--                    <a href="guys">--}}
+{{--                        <div class="school-overlay">--}}
+{{--                            <div class="school-txt">Boys</div>--}}
+{{--                        </div>--}}
+{{--                    </a>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
 
         <div class="jumbotron jumbotron-fluid bg-aliceblue" id="checklist">
             <div class="container">
