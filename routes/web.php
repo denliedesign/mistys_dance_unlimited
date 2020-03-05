@@ -119,6 +119,10 @@ Route::get('pre-pro', function () {
     return view('pre-pro');
 });
 
+Route::get('summer', function () {
+    return view('summer');
+});
+
 Route::get('frozen-friends', 'FrozenFriendsController@index')->name('frozen-friends');
 Route::post('frozen-friends', 'FrozenFriendsController@store')->name('frozen-friends.store');
 

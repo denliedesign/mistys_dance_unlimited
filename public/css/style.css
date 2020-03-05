@@ -262,6 +262,19 @@ h3 {
 }
 
 /*********************** ABOUT US *********************/
+.summer-banner-wrap {
+    height: 500px;
+}
+
+.summer-banner {
+    height: 100%;
+    background-image: url(/images/summer1.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .recital-banner-wrap {
     height: 500px;
 }
@@ -718,3 +731,7 @@ h3 {
 }
 
 /*********************** END RECITAL *********************/
+
+/*#summer a {*/
+/*    color: black;*/
+/*}*/
