@@ -18,6 +18,9 @@
             <img src="images/summer2.jpg" alt="" class="img-thumbnail my-3">
             <img src="images/summer3.jpg" alt="" class="img-thumbnail my-3">
             <img src="images/summer4.jpg" alt="" class="img-thumbnail my-3">
+            <div class="text-center">
+                <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login"><button class="btn btn-danger btn-lg">REGISTER NOW!</button></a>
+            </div>
         </div>
     </div>
 
