@@ -76,6 +76,9 @@
                 <li class="nav-item">
                     <a class="nav-link" href="/posts">Blog</a>
                 </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank">Register</a>
+                </li>
             </ul>
         </div>
     </nav>
