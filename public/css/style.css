@@ -735,3 +735,60 @@ h3 {
 /*#summer a {*/
 /*    color: black;*/
 /*}*/
+
+#covid-table td {
+    background: white;
+    height: 100px;
+    border-radius: 0;
+}
+
+#white-calendar-block {
+    background: white !important;
+}
+
+#yellow-week td {
+    background: yellow;
+}
+
+#turquoise-week td {
+    background: turquoise !important;
+}
+
+#violet-week td {
+    background: violet;
+}
+
+#spring-break-week,
+#suspension-week,
+#makeup-week,
+#makeup-week-april {
+    position: relative;
+}
+
+#spring-break-text {
+    position: absolute;
+    white-space: nowrap;
+    top: 350px;
+    left: 50%;
+}
+
+#suspension-week-text {
+    position: absolute;
+    white-space: nowrap;
+    top: 450px;
+    left: 25%;
+}
+
+#makeup-week-text {
+    position: absolute;
+    white-space: nowrap;
+    top: 550px;
+    left: 25%;
+}
+
+#makeup-week-april-text {
+    position: absolute;
+    white-space: nowrap;
+    top: 150px;
+    left: 25%;
+}
