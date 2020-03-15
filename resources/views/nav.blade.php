@@ -34,7 +34,7 @@
             <div class="covid-calendar mb-5">
                 <h1 class="text-center mt-5">March 2020</h1>
                 <div class="table-responsive">
-                    <table class="table d-flex justify-content-center" id="covid-table">
+                    <table class="table d-flex justify-content-start justify-content-md-center" id="covid-table">
                         <tr>
                             <td>Sunday</td>
                             <td>Monday</td>
@@ -102,7 +102,7 @@
                 </div>
                 <h1 class="text-center mt-5">April 2020</h1>
                 <div class="table-responsive">
-                    <table class="table d-flex justify-content-center" id="covid-table">
+                    <table class="table d-flex justify-content-start justify-content-md-center" id="covid-table">
                         <tr>
                             <td>Sunday</td>
                             <td>Monday</td>
