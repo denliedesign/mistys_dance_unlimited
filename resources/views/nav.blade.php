@@ -3,34 +3,42 @@
         <div class="card-header text-center bg-danger" id="headingOne">
             <h2 class="mb-0">
                 <button class="btn btn-link text-white" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                    COVID-19 Closure Message
+                    IMPORTANT COVID-19 UPDATE for Monday, March 16 - Studio Closing today
                 </button>
             </h2>
         </div>
 
         <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
             <div class="card-body">
-                Dear MDU Family,
+                <strong>Dear MDU Families,</strong>
                 <br><br>
-                At Misty's Dance Unlimited, the health and safety of our faculty and students are our most important priorities.
+                We are living in a historic moment.  As such, please be assured that we are making the best decisions we can on a daily (and sometimes hourly) basis for our students and our employees.
                 <br><br>
-                This afternoon Gov. Tony Evers has directed the state Department of Health Services to mandated all K-12 schools to shut down beginning Wednesday, March 18.
+                To that end, based on current information and recommendations available as of March 16, 2020, we have made the following updates to our COVID-19 response:
                 <br><br>
-                We have determined that is it in the best interest of our faculty and families to temporarily suspend all classes for that time period as well. Our last day of classes before the shut down will be the same as the schools - Tuesday, March 17.
+                <strong>CLASS UPDATES</strong>
+                <ul>
+                    <li><strong>Our temporary suspension of classes will begin effective immediately Monday, March 16, 2020.</strong></li>
+                    <li>Remote work policies for our employees will begin effective immediately Monday, March 16, 2020.</li>
+                    <li>Our employees will follow the schools in shifting their attention from traditional content delivery to online engagement opportunities for students. More to come after this week (which is now our Spring Break week).</li>
+                    <li>We will also continue to follow the lead of the State of Wisconsin Health Department and La Crosse County Health Department as to when it is safe for local schools to re-open for classes.</li>
+                </ul>
+                <strong>PERFORMANCES & RECITALS</strong>
+                <ul>
+                    <li><strong>The Ballet La Crosse Requiem show that was supposed to take place on April 8, is being rescheduled.</strong>  Those who are involved in that production will receive details as they become available, but we do expect it will be weeks before local theaters will be willing to look at new dates. Thank you for your understanding and patience.</li>
+                    <li><strong>Spring Recital:</strong>  We have been in continuous communication with Viterbo University in regard to rescheduling possibilities for our recital should that become necessary.  As you can imagine, Viterbo needs to prioritize rescheduling decisions for their OWN programs such as classes and graduation before looking at new dates for community events.  While that piece of the puzzle is very likely to be in the air for a while, what I CAN assure you of is this: in the unlikely case that Viterbo would not be able to offer an alternate date for the Spring Recital, Viterbo would refund your tickets.</li>
+                </ul>
+                <strong>In closing, while there are many uncertainties in this time, here are a couple of things I DO know for certain from 28 years of teaching <3.</strong>
                 <br><br>
-                To manage this change, we will be moving our previously schedule spring break up to the first week of the closure (meaning we will not have our ordinary spring break during Easter).
+                <strong>The kids are watching how the adults they trust are handling this situation. <3</strong>
                 <br><br>
-                Also, we run a 32 week dance season, BUT we had scheduled for 33 weeks on the calendar this year! That means we already had one extra week of classes built into our schedule, for which we are VERY grateful.
+                They are taking cues from us as to how to process the entire situation. History is playing out before their eyes.  Little ones are going to need extra assurance, time and familiar things. It's also worth noting that kids who are of the age of having a cell phone are not only hearing updates from schools, national networks, and home but they are also getting a 24/7 info-feed from on social platforms like Snapshot and TikTok. Teens may act like they are okay, but check in with them anyway...You might not think they are listening, but they are.<3
                 <br><br>
-                <strong>We are planning to resume classes along with the local schools on Monday, April 6 and will offer a week of make up classes immediately following recital to cover the other service days.</strong> If anything changes with that timeline we will let you know.
+                Lastly, as many of you know our studio not only serves our students here in the Coulee Region, but also provides resources and support for 300 studios the world through our More Than Just Great Dancing!® Affiliated Studios program. Those studios serve 120,000 kids each week - ALL of whom are going through the same thing we are right now.  Just like your kids are looking to you right now, our affiliated studios are looking to us.  I just wanted to thank you AGAIN for being an amazing studio family - your support helps not just our Coulee Region kids, but kids across the world as well.
                 <br><br>
-                <strong>In the meantime, we have been in contact with recital costume suppliers and Viterbo University and recital dates remain unchanged.</strong> We will continue to monitor the situation, and should other changes to our season be needed we will update you accordingly.
+                With much appreciation,
                 <br><br>
-                <strong>As always, but especially now, we greatly appreciate your support during these challenging times and so do all of the kids and teachers.</strong>
-                <br><br>
-                In partnership,
-                <br><br>
-                Misty Lown
+               Misty Lown
             <div class="covid-calendar mb-5">
                 <h1 class="text-center mt-5">March 2020</h1>
                 <div class="table-responsive">
@@ -65,9 +73,9 @@
                         <tr id="yellow-week">
                             <div id="spring-break-week">
                                 <div id="spring-break-text">CLASSES CLOSED FOR SPRING BREAK</div>
-                                <td id="white-calendar-block">15</td>
-                                <td id="white-calendar-block">16</td>
-                                <td id="white-calendar-block">17</td>
+                                <td>15</td>
+                                <td>16</td>
+                                <td>17</td>
                                 <td>18</td>
                                 <td>19</td>
                                 <td>20</td>
@@ -136,6 +144,11 @@
                     </table>
                 </div>
             </div>
+                COVID-19 Message Archive
+                <ul>
+                    <li><a href="/covid-19/3-13-20">3-13-20</a></li>
+                    <li><a href="/covid-19/3-12-20">3-12-20</a></li>
+                </ul>
             </div>
         </div>
     </div>
