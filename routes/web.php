@@ -131,6 +131,10 @@ Route::get('/covid-19/3-13-20', function () {
     return view('covid-19.3-13-20');
 });
 
+Route::get('/covid-19/3-16-20', function () {
+    return view('covid-19.3-16-20');
+});
+
 Route::get('frozen-friends', 'FrozenFriendsController@index')->name('frozen-friends');
 Route::post('frozen-friends', 'FrozenFriendsController@store')->name('frozen-friends.store');
 

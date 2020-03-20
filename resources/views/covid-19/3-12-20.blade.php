@@ -6,6 +6,7 @@
     </div>
 
     <div class="container my-5">
+        <h1 class="text-center">COVID-19 UPDATE</h1>
         <p>
             Dear MDU family,
             <br><br>
