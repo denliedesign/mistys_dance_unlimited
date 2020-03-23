@@ -19,7 +19,7 @@
 <div class="container py-5 my-5" id="community-content">
     <h1 class="text-center mb-2" id="community-head"><a href="/community"><span id="red-mdu-span">MDU</span> ONLINE</a></h1>
     <div class="row">
-        <div class="col-3" id="community-nav">
+        <div class="col-md-3" id="community-nav">
             <ul class="nav flex-column">
                 <li class="nav-item">
                     <a class="nav-link" href="/community/fun-and-free-childrens-activities">Fun & FREE Children's Activities</a>
@@ -53,7 +53,7 @@
                 </li>
             </ul>
         </div>
-        <div class="col-9" id="community-p">
+        <div class="col-md-9" id="community-p">
             @yield('resources')
         </div>
     </div>
