@@ -12,8 +12,8 @@
 
     <br><br><h4>Virtual Tours</h4>
     <a href="https://docs.google.com/document/d/1SvIdgTx9djKO6SjyvPDsoGlkgE3iExmi3qh2KRRku_w/mobilebasic?fbclid=IwAR0yyuOgnbJ9b0LpxHB7ICxbW41f58iowP0L_g1oKiLEAPz3OFIGjdk5W4I" target="_blank">Virtual Field Trips</a>
-    <a href="https://www.travelandleisure.com/attractions/museums-galleries/museums-with-virtual-tours" target="_blank">Museums with Virtual Tours</a>
-    <a href="https://www.travelandleisure.com/trip-ideas/national-parks/virtual-national-parks-tours" target="_blank">National Parks with Virtual Tours</a>
+    <br><a href="https://www.travelandleisure.com/attractions/museums-galleries/museums-with-virtual-tours" target="_blank">Museums with Virtual Tours</a>
+    <br><a href="https://www.travelandleisure.com/trip-ideas/national-parks/virtual-national-parks-tours" target="_blank">National Parks with Virtual Tours</a>
     <br><a href="https://www.louvre.fr/en/visites-en-ligne" target="_blank">Travel to Paris, France to see amazing works of art at The Louvre with this virtual field trip.</a>
     <br><a href="https://www.thechinaguide.com/" target="_blank">This Virtual Tour of the Great Wall of China is beautiful and makes history come to life.</a>
     <br><a href="https://www.nps.gov/yell/learn/photosmultimedia/webcams.htm" target="_blank">Tour Yellowstone National Park!</a>
