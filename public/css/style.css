@@ -792,3 +792,62 @@ h3 {
     top: 150px;
     left: 25%;
 }
+
+/*************************************/
+/* COMMUNITY PAGE ********************/
+/*************************************/
+
+#community-body {
+    height: 100%;
+    background: url("/images/mdu-creative.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+#community-content {
+    /*background-image: linear-gradient(to right, rgba(207, 192, 187, 0.75), #cfc0bb);*/
+    /*border-radius: 5px;*/
+}
+
+#community-nav {
+    background: transparent;
+    margin-top: 30px;
+}
+
+#community-nav li {
+    background: #008cc0;
+    margin: 5px 0;
+    border-radius: 5px;
+    box-shadow: 2px 2px 3px rgba(0,0,0,0.6);
+}
+
+#community-nav li:hover {
+    transform: skewY(1deg);
+}
+
+#community-nav a {
+    color: white;
+}
+
+#community-p {
+    background-image: linear-gradient(to right, rgba(230, 227, 222, 0.75), #e6e3de);
+    border-radius: 5px;
+    padding: 38px;
+}
+
+#community-p p {
+    padding: 0;
+    margin: 0;
+}
+
+#red-mdu-span {
+    color: #ef3816;
+    font-weight: bold;
+}
+
+#community-head a {
+    color: inherit;
+    text-decoration: none;
+}

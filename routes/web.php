@@ -123,6 +123,50 @@ Route::get('summer', function () {
     return view('summer');
 });
 
+Route::get('community', function () {
+    return view('community.index');
+});
+
+Route::get('/community/fun-and-free-childrens-activities', function () {
+    return view('community.fun-and-free-childrens-activities');
+});
+
+Route::get('/community/dance-at-home', function () {
+    return view('community.dance-at-home');
+});
+
+Route::get('/community/dance-videos', function () {
+    return view('community.dance-videos');
+});
+
+Route::get('/community/live-stream-dance-classes', function () {
+    return view('community.live-stream-dance-classes');
+});
+
+Route::get('/community/family-events', function () {
+    return view('community.family-events');
+});
+
+Route::get('/community/calendar', function () {
+    return view('community.calendar');
+});
+
+Route::get('/community/live-events', function () {
+    return view('community.live-events');
+});
+
+Route::get('/community/adult-classes', function () {
+    return view('community.adult-classes');
+});
+
+Route::get('/community/community-partners', function () {
+    return view('community.community-partners');
+});
+
+Route::get('/community/music-resources', function () {
+    return view('community.music-resources');
+});
+
 Route::get('/covid-19/3-12-20', function () {
     return view('covid-19.3-12-20');
 });
