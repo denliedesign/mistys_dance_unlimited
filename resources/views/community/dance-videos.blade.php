@@ -7,6 +7,9 @@
     <br><a href="https://vimeo.com/397943019#">Emily Bufferd - Warm Up</a>
     <br><a href="https://www.youtube.com/user/DanceTeacherWeb/videos">Dance Teacher Web</a>
     <br><a href="https://www.youtube.com/watch?v=fcT9uRJqCrE">Ballet Class with Tamara Rojo</a>
+    <br><a href="https://www.youtube.com/watch?v=FrISNpG0bZk">Ballet Barre with Dutch National Ballet</a>
+    <br><a href="https://www.youtube.com/watch?v=UKlem02B6kI">Ballet Barre with Maria Khoreva of Mariinsky Ballet</a>
+    <br><a href="https://www.youtube.com/watch?v=nQ5eUJNXrMw">60-MINUTE SPECIAL | Cirque du Soleil</a>
     <br><br>
     <h4>FREE Online Video Instruction</h4>
     This is a FREE online video instruction, that you can send to your students to use at home.
