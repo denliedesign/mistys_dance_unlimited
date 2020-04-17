@@ -39,5 +39,5 @@
         Misty Lown
         </p>
     </div>
-
+    @include('footer')
 @endsection

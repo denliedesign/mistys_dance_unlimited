@@ -131,5 +131,5 @@
         </div>
         </p>
     </div>
-
+    @include('footer')
 @endsection
