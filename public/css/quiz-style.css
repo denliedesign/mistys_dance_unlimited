@@ -1,0 +1,44 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+}
+
+/*#page-wrap {
+  height: 100%;
+  margin: 0 auto;
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  background: red;
+}*/
+
+#teacher-quiz input[type=radio] {
+    position: fixed;
+    opacity: 0;
+}
+
+#teacher-quiz label {
+    padding: 1px 6px;
+}
+
+#teacher-quiz label:hover {
+    background: #ebe82e;
+    border-radius: 3px;
+}
+
+.btn-primary {
+    background: #008cc0 !important;
+    border: none;
+    box-shadow: 2px 2px 4px #30393e,
+    -1px -1px 2px white;
+}
+
+.btn-primary:hover {
+    background: #01A0DC !important;
+    border: none;
+    box-shadow: 1px 1px 2px #30393e,
+    -1px -1px 2px white;
+}
+
+.container-bg {
+    background: #ebe82e;
+}

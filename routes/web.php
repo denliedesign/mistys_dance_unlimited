@@ -187,6 +187,18 @@ Route::get('/covid-19/4-8-20', function () {
     return view('covid-19.4-8-20');
 });
 
+Route::get('/quiz', function () {
+    return view('quiz.index');
+});
+
+Route::post('/quiz/test', function () {
+    return view('quiz.test');
+});
+
+Route::post('/quiz/grade', function () {
+    return view('quiz.grade');
+});
+
 Route::get('frozen-friends', 'FrozenFriendsController@index')->name('frozen-friends');
 Route::post('frozen-friends', 'FrozenFriendsController@store')->name('frozen-friends.store');
 
