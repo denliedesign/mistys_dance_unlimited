@@ -4,14 +4,14 @@
 
 @section('content')
 
-    <div class="recital-banner-wrap">
-        <div class="recital-banner"></div>
+    <div class="banner-wrap">
+        <div class="banner"></div>
     </div>
 
     <div class="jumbotron jumbotron-fluid bg-aliceblue">
         <div class="container">
             <a href="/recitals#everythingrecital">Back to Recital Page</a>
-            <h3 class="py-5 text-center">Show Assignments</h3>
+            <h3 class="py-5 text-center">Red Carpet Recital Experience</h3>
 
             @if(count($performances) > 0)
                 @foreach($performances as $performance)

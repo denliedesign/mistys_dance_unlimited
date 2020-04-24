@@ -4,14 +4,14 @@
 
 @section('content')
 
-    <div class="recital-banner-wrap">
-        <div class="recital-banner"></div>
+    <div class="banner-wrap">
+        <div class="banner"></div>
     </div>
 
     <div class="jumbotron jumbotron-fluid bg-aliceblue">
         <div class="container">
             <a href="/recitals#everythingrecital">Back to Recital Page</a>
-            <h3 class="py-5 text-center">Recital Dates & Venue</h3>
+            <h3 class="py-5 text-center">Zoom Recital Party Week</h3>
 
             @if(count($generals) > 0)
                 @foreach($generals as $general)
