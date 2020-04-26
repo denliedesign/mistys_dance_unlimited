@@ -44,518 +44,518 @@
 
 
             if ($answer1 == "canine") {
-                $totalDenise = $totalDenise + 1;
-                $totalTiffany = $totalTiffany + 1;
-                $totalMisty = $totalMisty + 1;
-                $totalKrisa = $totalKrisa + 1;
-                $totalAlex = $totalAlex + 1;
-                $totalKeagan = $totalKeagan + 1;
-                $totalShayna = $totalShayna + 1;
-                $totalKylie = $totalKylie + 1;
-                $totalDennis = $totalDennis + 1;
-                $totalKris = $totalKris + 1;
+                $totalDenise = $totalDenise + 1.01;
+                $totalTiffany = $totalTiffany + 1.01;
+                $totalMisty = $totalMisty + 1.01;
+                $totalKrisa = $totalKrisa + 1.01;
+                $totalAlex = $totalAlex + 1.01;
+                $totalKeagan = $totalKeagan + 1.01;
+                $totalShayna = $totalShayna + 1.01;
+                $totalKylie = $totalKylie + 1.01;
+                $totalDennis = $totalDennis + 1.01;
+                $totalKris = $totalKris + 1.01;
             }
             if ($answer1 == "feline") {
-                $totalBeth = $totalBeth + 1;
-                $totalSandy = $totalSandy + 1;
-                $totalLarissa = $totalLarissa + 1;
+                $totalBeth = $totalBeth + 1.01;
+                $totalSandy = $totalSandy + 1.01;
+                $totalLarissa = $totalLarissa + 1.01;
             }
 
             if ($answer2 == "sweet") {
-                $totalDenise = $totalDenise + 1;
-                $totalKrisa = $totalKrisa + 1;
-                $totalKeagan = $totalKeagan + 1;
-                $totalShayna = $totalShayna + 1;
-                $totalKylie = $totalKylie + 1;
-                $totalDennis = $totalDennis + 1;
-                $totalSandy = $totalSandy + 1;
-                $totalKris = $totalKris + 1;
+                $totalDenise = $totalDenise + 1.02;
+                $totalKrisa = $totalKrisa + 1.02;
+                $totalKeagan = $totalKeagan + 1.02;
+                $totalShayna = $totalShayna + 1.02;
+                $totalKylie = $totalKylie + 1.02;
+                $totalDennis = $totalDennis + 1.02;
+                $totalSandy = $totalSandy + 1.02;
+                $totalKris = $totalKris + 1.02;
             }
             if ($answer2 == "salty") {
-                $totalTiffany = $totalTiffany + 1;
-                $totalMisty = $totalMisty + 1;
-                $totalAlex = $totalAlex + 1;
-                $totalBeth = $totalBeth + 1;
-                $totalLarissa = $totalLarissa + 1;
+                $totalTiffany = $totalTiffany + 1.02;
+                $totalMisty = $totalMisty + 1.02;
+                $totalAlex = $totalAlex + 1.02;
+                $totalBeth = $totalBeth + 1.02;
+                $totalLarissa = $totalLarissa + 1.02;
             }
 
             if ($answer3 == "ballet") {
-                $totalDenise = $totalDenise + 1;
-                $totalAlex = $totalAlex + 1;
-                $totalLarissa = $totalLarissa + 1;
+                $totalDenise = $totalDenise + 1.03;
+                $totalAlex = $totalAlex + 1.03;
+                $totalLarissa = $totalLarissa + 1.03;
             }
             if ($answer3 == "lyrical") {
-                $totalTiffany = $totalTiffany + 1;
-                $totalShayna = $totalShayna + 1;
+                $totalTiffany = $totalTiffany + 1.03;
+                $totalShayna = $totalShayna + 1.03;
             }
             if ($answer3 == "contemporary") {
-                $totalMisty = $totalMisty + 1;
+                $totalMisty = $totalMisty + 1.03;
 
             }
             if ($answer3 == "jazz") {
-                $totalKrisa = $totalKrisa + 1;
-                $totalKylie = $totalKylie + 1;
+                $totalKrisa = $totalKrisa + 1.03;
+                $totalKylie = $totalKylie + 1.03;
 
             }
             if ($answer3 == "hiphop") {
-                $totalKeagan = $totalKeagan + 1;
-                $totalKris = $totalKris + 1;
+                $totalKeagan = $totalKeagan + 1.03;
+                $totalKris = $totalKris + 1.03;
 
             }
             if ($answer3 == "tap") {
-                $totalBeth = $totalBeth + 1;
-                $totalSandy = $totalSandy + 1;
+                $totalBeth = $totalBeth + 1.03;
+                $totalSandy = $totalSandy + 1.03;
 
             }
             if ($answer3 == "modern") {
-                $totalDennis = $totalDennis + 1;
+                $totalDennis = $totalDennis + 1.03;
             }
 
             if ($answer4 == "indian") {
-                $totalDenise = $totalDenise + 1;
+                $totalDenise = $totalDenise + 1.04;
             }
             if ($answer4 == "pizza") {
-                $totalTiffany = $totalTiffany + 1;
-                $totalKrisa = $totalKrisa + 1;
-                $totalSandy = $totalSandy + 1;
-                $totalKris = $totalKris + 1;
+                $totalTiffany = $totalTiffany + 1.04;
+                $totalKrisa = $totalKrisa + 1.04;
+                $totalSandy = $totalSandy + 1.04;
+                $totalKris = $totalKris + 1.04;
             }
             if ($answer4 == "pasta") {
-                $totalMisty = $totalMisty + 1;
-                $totalKeagan = $totalKeagan + 1;
-                $totalShayna = $totalShayna + 1;
-                $totalDennis = $totalDennis + 1;
+                $totalMisty = $totalMisty + 1.04;
+                $totalKeagan = $totalKeagan + 1.04;
+                $totalShayna = $totalShayna + 1.04;
+                $totalDennis = $totalDennis + 1.04;
             }
             if ($answer4 == "coffee") {
-                $totalAlex = $totalAlex + 1;
+                $totalAlex = $totalAlex + 1.04;
             }
             if ($answer4 == "chocolate") {
-                $totalKylie = $totalKylie + 1;
+                $totalKylie = $totalKylie + 1.04;
             }
             if ($answer4 == "grilledcheese") {
-                $totalBeth = $totalBeth + 1;
+                $totalBeth = $totalBeth + 1.04;
             }
             if ($answer4 == "asian") {
-                $totalLarissa = $totalLarissa + 1;
+                $totalLarissa = $totalLarissa + 1.04;
             }
 
             if ($answer5 == "anna") {
-                $totalDenise = $totalDenise + 1;
+                $totalDenise = $totalDenise + 1.05;
             }
             if ($answer5 == "belle") {
-                $totalTiffany = $totalTiffany + 1;
+                $totalTiffany = $totalTiffany + 1.05;
             }
             if ($answer5 == "marypoppins") {
-                $totalMisty = $totalMisty + 1;
+                $totalMisty = $totalMisty + 1.05;
             }
             if ($answer5 == "mulan") {
-                $totalKrisa = $totalKrisa + 1;
-                $totalAlex = $totalAlex + 1;
+                $totalKrisa = $totalKrisa + 1.05;
+                $totalAlex = $totalAlex + 1.05;
             }
             if ($answer5 == "simba") {
-                $totalKeagan = $totalKeagan + 1;
+                $totalKeagan = $totalKeagan + 1.05;
             }
             if ($answer5 == "cinderella") {
-                $totalShayna = $totalShayna + 1;
-                $totalLarissa = $totalLarissa + 1;
+                $totalShayna = $totalShayna + 1.05;
+                $totalLarissa = $totalLarissa + 1.05;
             }
             if ($answer5 == "pocahontas") {
-                $totalKylie = $totalKylie + 1;
+                $totalKylie = $totalKylie + 1.05;
             }
             if ($answer5 == "mushu") {
-                $totalBeth = $totalBeth + 1;
+                $totalBeth = $totalBeth + 1.05;
             }
             if ($answer5 == "tarzan") {
-                $totalDennis = $totalDennis + 1;
+                $totalDennis = $totalDennis + 1.05;
             }
             if ($answer5 == "tinkerbell") {
-                $totalSandy = $totalSandy + 1;
+                $totalSandy = $totalSandy + 1.05;
             }
             if ($answer5 == "dumbo") {
-                $totalKris = $totalKris + 1;
+                $totalKris = $totalKris + 1.05;
             }
 
             if ($answer6 == "english") {
-                $totalDenise = $totalDenise + 1;
-                $totalTiffany = $totalTiffany + 1;
-                $totalKrisa = $totalKrisa + 1;
+                $totalDenise = $totalDenise + 1.06;
+                $totalTiffany = $totalTiffany + 1.06;
+                $totalKrisa = $totalKrisa + 1.06;
             }
             if ($answer6 == "art") {
-                $totalMisty = $totalMisty + 1;
-                $totalShayna = $totalShayna + 1;
-                $totalLarissa = $totalLarissa + 1;
+                $totalMisty = $totalMisty + 1.06;
+                $totalShayna = $totalShayna + 1.06;
+                $totalLarissa = $totalLarissa + 1.06;
             }
             if ($answer6 == "math") {
-                $totalAlex = $totalAlex + 1;
-                $totalKeagan = $totalKeagan + 1;
-                $totalKylie = $totalKylie + 1;
+                $totalAlex = $totalAlex + 1.06;
+                $totalKeagan = $totalKeagan + 1.06;
+                $totalKylie = $totalKylie + 1.06;
             }
             if ($answer6 == "music") {
-                $totalBeth = $totalBeth + 1;
+                $totalBeth = $totalBeth + 1.06;
             }
             if ($answer6 == "history") {
-                $totalDennis = $totalDennis + 1;
-                $totalSandy = $totalSandy + 1;
+                $totalDennis = $totalDennis + 1.06;
+                $totalSandy = $totalSandy + 1.06;
             }
             if ($answer6 == "geography") {
-                $totalKris = $totalKris + 1;
+                $totalKris = $totalKris + 1.06;
             }
 
             if ($answer7 == "scrabble") {
-                $totalDenise = $totalDenise + 1;
+                $totalDenise = $totalDenise + 1.07;
             }
             if ($answer7 == "clue") {
-                $totalTiffany = $totalTiffany + 1;
-                $totalKylie = $totalKylie + 1;
+                $totalTiffany = $totalTiffany + 1.07;
+                $totalKylie = $totalKylie + 1.07;
             }
             if ($answer7 == "monopoly") {
-                $totalMisty = $totalMisty + 1;
-                $totalSandy = $totalSandy + 1;
-                $totalKris = $totalKris + 1;
+                $totalMisty = $totalMisty + 1.07;
+                $totalSandy = $totalSandy + 1.07;
+                $totalKris = $totalKris + 1.07;
             }
             if ($answer7 == "life") {
-                $totalKrisa = $totalKrisa + 1;
-                $totalBeth = $totalBeth + 1;
+                $totalKrisa = $totalKrisa + 1.07;
+                $totalBeth = $totalBeth + 1.07;
             }
             if ($answer7 == "trouble") {
-                $totalAlex = $totalAlex + 1;
+                $totalAlex = $totalAlex + 1.07;
             }
             if ($answer7 == "risk") {
-                $totalKeagan = $totalKeagan + 1;
+                $totalKeagan = $totalKeagan + 1.07;
             }
             if ($answer7 == "triviapursuit") {
-                $totalShayna = $totalShayna + 1;
+                $totalShayna = $totalShayna + 1.07;
             }
             if ($answer7 == "catan") {
-                $totalDennis = $totalDennis + 1;
+                $totalDennis = $totalDennis + 1.07;
             }
             if ($answer7 == "chess") {
-                $totalLarissa = $totalLarissa + 1;
+                $totalLarissa = $totalLarissa + 1.07;
             }
 
             if ($answer8 == "bali") {
-                $totalDenise = $totalDenise + 1;
+                $totalDenise = $totalDenise + 1.08;
             }
             if ($answer8 == "greece") {
-                $totalTiffany = $totalTiffany + 1;
-                $totalKylie = $totalKylie + 1;
+                $totalTiffany = $totalTiffany + 1.08;
+                $totalKylie = $totalKylie + 1.08;
             }
             if ($answer8 == "hiking") {
-                $totalMisty = $totalMisty + 1;
+                $totalMisty = $totalMisty + 1.08;
             }
             if ($answer8 == "hawaii") {
-                $totalKrisa = $totalKrisa + 1;
-                $totalKeagan = $totalKeagan + 1;
-                $totalShayna = $totalShayna + 1;
-                $totalBeth = $totalBeth + 1;
-                $totalSandy = $totalSandy + 1;
+                $totalKrisa = $totalKrisa + 1.08;
+                $totalKeagan = $totalKeagan + 1.08;
+                $totalShayna = $totalShayna + 1.08;
+                $totalBeth = $totalBeth + 1.08;
+                $totalSandy = $totalSandy + 1.08;
             }
             if ($answer8 == "switzerland") {
-                $totalAlex = $totalAlex + 1;
+                $totalAlex = $totalAlex + 1.08;
             }
             if ($answer8 == "japan") {
-                $totalDennis = $totalDennis + 1;
+                $totalDennis = $totalDennis + 1.08;
             }
             if ($answer8 == "italy") {
-                $totalLarissa = $totalLarissa + 1;
+                $totalLarissa = $totalLarissa + 1.08;
             }
             if ($answer8 == "safari") {
-                $totalKris = $totalKris + 1;
+                $totalKris = $totalKris + 1.08;
             }
 
             if ($answer9 == "panda") {
-                $totalDenise = $totalDenise + 1;
+                $totalDenise = $totalDenise + 1.09;
             }
             if ($answer9 == "chameleon") {
-                $totalTiffany = $totalTiffany + 1;
+                $totalTiffany = $totalTiffany + 1.09;
             }
             if ($answer9 == "dog") {
-                $totalMisty = $totalMisty + 1;
-                $totalKeagan = $totalKeagan + 1;
+                $totalMisty = $totalMisty + 1.09;
+                $totalKeagan = $totalKeagan + 1.09;
             }
             if ($answer9 == "zebra") {
-                $totalKrisa = $totalKrisa + 1;
+                $totalKrisa = $totalKrisa + 1.09;
             }
             if ($answer9 == "platypus") {
-                $totalAlex = $totalAlex + 1;
+                $totalAlex = $totalAlex + 1.09;
             }
             if ($answer9 == "fox") {
-                $totalShayna = $totalShayna + 1;
+                $totalShayna = $totalShayna + 1.09;
             }
             if ($answer9 == "duck") {
-                $totalKylie = $totalKylie + 1;
+                $totalKylie = $totalKylie + 1.09;
             }
             if ($answer9 == "giraffe") {
-                $totalBeth = $totalBeth + 1;
+                $totalBeth = $totalBeth + 1.09;
             }
             if ($answer9 == "monkey") {
-                $totalDennis = $totalDennis + 1;
+                $totalDennis = $totalDennis + 1.09;
             }
             if ($answer9 == "cat") {
-                $totalSandy = $totalSandy + 1;
-                $totalLarissa = $totalLarissa + 1;
+                $totalSandy = $totalSandy + 1.09;
+                $totalLarissa = $totalLarissa + 1.09;
             }
             if ($answer9 == "elephant") {
-                $totalKris = $totalKris + 1;
+                $totalKris = $totalKris + 1.09;
             }
 
             if ($answer10 == "turns") {
-                $totalDenise = $totalDenise + 1;
-                $totalTiffany = $totalTiffany + 1;
-                $totalKeagan = $totalKeagan + 1;
-                $totalShayna = $totalShayna + 1;
-                $totalKylie = $totalKylie + 1;
-                $totalBeth = $totalBeth + 1;
+                $totalDenise = $totalDenise + 1.10;
+                $totalTiffany = $totalTiffany + 1.10;
+                $totalKeagan = $totalKeagan + 1.10;
+                $totalShayna = $totalShayna + 1.10;
+                $totalKylie = $totalKylie + 1.10;
+                $totalBeth = $totalBeth + 1.10;
             }
             if ($answer10 == "legs") {
-                $totalMisty = $totalMisty + 1;
-                $totalLarissa = $totalLarissa + 1;
+                $totalMisty = $totalMisty + 1.10;
+                $totalLarissa = $totalLarissa + 1.10;
             }
             if ($answer10 == "leaps") {
-                $totalKrisa = $totalKrisa + 1;
-                $totalAlex = $totalAlex + 1;
-                $totalDennis = $totalDennis + 1;
+                $totalKrisa = $totalKrisa + 1.10;
+                $totalAlex = $totalAlex + 1.10;
+                $totalDennis = $totalDennis + 1.10;
             }
             if ($answer10 == "none") {
-                $totalSandy = $totalSandy + 1;
-                $totalKris = $totalKris + 1;
+                $totalSandy = $totalSandy + 1.10;
+                $totalKris = $totalKris + 1.10;
             }
 
 
             if ($answer11 == "family") {
-                $totalDenise = $totalDenise + 1;
+                $totalDenise = $totalDenise + 1.11;
             }
             if ($answer11 == "bake") {
-                $totalTiffany = $totalTiffany + 1;
+                $totalTiffany = $totalTiffany + 1.11;
             }
             if ($answer11 == "hike") {
-                $totalMisty = $totalMisty + 1;
-                $totalAlex = $totalAlex + 1;
+                $totalMisty = $totalMisty + 1.11;
+                $totalAlex = $totalAlex + 1.11;
             }
             if ($answer11 == "boat") {
-                $totalKrisa = $totalKrisa + 1;
+                $totalKrisa = $totalKrisa + 1.11;
             }
             if ($answer11 == "travel") {
-                $totalKeagan = $totalKeagan + 1;
+                $totalKeagan = $totalKeagan + 1.11;
             }
             if ($answer11 == "crafts") {
-                $totalShayna = $totalShayna + 1;
+                $totalShayna = $totalShayna + 1.11;
             }
             if ($answer11 == "puzzles") {
-                $totalKylie = $totalKylie + 1;
+                $totalKylie = $totalKylie + 1.11;
             }
             if ($answer11 == "sing") {
-                $totalBeth = $totalBeth + 1;
+                $totalBeth = $totalBeth + 1.11;
             }
             if ($answer11 == "videogames") {
-                $totalDennis = $totalDennis + 1;
+                $totalDennis = $totalDennis + 1.11;
             }
             if ($answer11 == "shop") {
-                $totalSandy = $totalSandy + 1;
+                $totalSandy = $totalSandy + 1.11;
             }
             if ($answer11 == "read") {
-                $totalLarissa = $totalLarissa + 1;
+                $totalLarissa = $totalLarissa + 1.11;
             }
             if ($answer11 == "eat") {
-                $totalKris = $totalKris + 1;
+                $totalKris = $totalKris + 1.11;
             }
 
             if ($answer12 == "invisibility") {
-                $totalDenise = $totalDenise + 1;
-                $totalBeth = $totalBeth + 1;
+                $totalDenise = $totalDenise + 1.12;
+                $totalBeth = $totalBeth + 1.12;
             }
             if ($answer12 == "time") {
-                $totalTiffany = $totalTiffany + 1;
-                $totalMisty = $totalMisty + 1;
-                $totalShayna = $totalShayna + 1;
-                $totalDennis = $totalDennis + 1;
+                $totalTiffany = $totalTiffany + 1.12;
+                $totalMisty = $totalMisty + 1.12;
+                $totalShayna = $totalShayna + 1.12;
+                $totalDennis = $totalDennis + 1.12;
             }
             if ($answer12 == "animals") {
-                $totalKrisa = $totalKrisa + 1;
+                $totalKrisa = $totalKrisa + 1.12;
             }
             if ($answer12 == "teleportation") {
-                $totalAlex = $totalAlex + 1;
+                $totalAlex = $totalAlex + 1.12;
             }
             if ($answer12 == "flight") {
-                $totalKeagan = $totalKeagan + 1;
+                $totalKeagan = $totalKeagan + 1.12;
             }
             if ($answer12 == "mindreader") {
-                $totalKylie = $totalKylie + 1;
-                $totalKris = $totalKris + 1;
+                $totalKylie = $totalKylie + 1.12;
+                $totalKris = $totalKris + 1.12;
             }
             if ($answer12 == "love") {
-                $totalSandy = $totalSandy + 1;
-                $totalLarissa = $totalLarissa + 1;
+                $totalSandy = $totalSandy + 1.12;
+                $totalLarissa = $totalLarissa + 1.12;
             }
 
             if ($answer13 == "summer") {
-                $totalDenise = $totalDenise + 1;
-                $totalMisty = $totalMisty + 1;
-                $totalKrisa = $totalKrisa + 1;
-                $totalShayna = $totalShayna + 1;
-                $totalKris = $totalKris + 1;
+                $totalDenise = $totalDenise + 1.13;
+                $totalMisty = $totalMisty + 1.13;
+                $totalKrisa = $totalKrisa + 1.13;
+                $totalShayna = $totalShayna + 1.13;
+                $totalKris = $totalKris + 1.13;
             }
             if ($answer13 == "fall") {
-                $totalTiffany = $totalTiffany + 1;
-                $totalAlex = $totalAlex + 1;
-                $totalKeagan = $totalKeagan + 1;
-                $totalBeth = $totalBeth + 1;
+                $totalTiffany = $totalTiffany + 1.13;
+                $totalAlex = $totalAlex + 1.13;
+                $totalKeagan = $totalKeagan + 1.13;
+                $totalBeth = $totalBeth + 1.13;
             }
             if ($answer13 == "spring") {
-                $totalKylie = $totalKylie + 1;
-                $totalSandy = $totalSandy + 1;
-                $totalLarissa = $totalLarissa + 1;
+                $totalKylie = $totalKylie + 1.13;
+                $totalSandy = $totalSandy + 1.13;
+                $totalLarissa = $totalLarissa + 1.13;
             }
             if ($answer13 == "winter") {
-                $totalDennis = $totalDennis + 1;
+                $totalDennis = $totalDennis + 1.13;
             }
 
             if ($answer14 == "underwear") {
-                $totalDenise = $totalDenise + 1;
+                $totalDenise = $totalDenise + 1.14;
             }
             if ($answer14 == "cardigan") {
-                $totalTiffany = $totalTiffany + 1;
+                $totalTiffany = $totalTiffany + 1.14;
             }
             if ($answer14 == "leggings") {
-                $totalMisty = $totalMisty + 1;
-                $totalAlex = $totalAlex + 1;
+                $totalMisty = $totalMisty + 1.14;
+                $totalAlex = $totalAlex + 1.14;
             }
             if ($answer14 == "jacket") {
-                $totalKrisa = $totalKrisa + 1;
+                $totalKrisa = $totalKrisa + 1.14;
             }
             if ($answer14 == "shoes") {
-                $totalKeagan = $totalKeagan + 1;
-                $totalBeth = $totalBeth + 1;
+                $totalKeagan = $totalKeagan + 1.14;
+                $totalBeth = $totalBeth + 1.14;
             }
             if ($answer14 == "pajamas") {
-                $totalShayna = $totalShayna + 1;
+                $totalShayna = $totalShayna + 1.14;
             }
             if ($answer14 == "sweatshirts") {
-                $totalKylie = $totalKylie + 1;
-                $totalLarissa = $totalLarissa + 1;
+                $totalKylie = $totalKylie + 1.14;
+                $totalLarissa = $totalLarissa + 1.14;
             }
             if ($answer14 == "socks") {
-                $totalDennis = $totalDennis + 1;
+                $totalDennis = $totalDennis + 1.14;
             }
             if ($answer14 == "slippers") {
-                $totalSandy = $totalSandy + 1;
+                $totalSandy = $totalSandy + 1.14;
             }
             if ($answer14 == "jeans") {
-                $totalKris = $totalKris + 1;
+                $totalKris = $totalKris + 1.14;
             }
 
             if ($answer15 == "practice") {
-                $totalDenise = $totalDenise + 1;
-                $totalShayna = $totalShayna + 1;
+                $totalDenise = $totalDenise + 1.15;
+                $totalShayna = $totalShayna + 1.15;
             }
             if ($answer15 == "full") {
-                $totalTiffany = $totalTiffany + 1;
-                $totalKeagan = $totalKeagan + 1;
-                $totalKylie = $totalKylie + 1;
-                $totalLarissa = $totalLarissa + 1;
+                $totalTiffany = $totalTiffany + 1.15;
+                $totalKeagan = $totalKeagan + 1.15;
+                $totalKylie = $totalKylie + 1.15;
+                $totalLarissa = $totalLarissa + 1.15;
             }
             if ($answer15 == "hand") {
-                $totalMisty = $totalMisty + 1;
+                $totalMisty = $totalMisty + 1.15;
             }
             if ($answer15 == "left") {
-                $totalKrisa = $totalKrisa + 1;
-                $totalDennis = $totalDennis + 1;
+                $totalKrisa = $totalKrisa + 1.15;
+                $totalDennis = $totalDennis + 1.15;
             }
             if ($answer15 == "smiling") {
-                $totalAlex = $totalAlex + 1;
-                $totalSandy = $totalSandy + 1;
-                $totalKris = $totalKris + 1;
+                $totalAlex = $totalAlex + 1.15;
+                $totalSandy = $totalSandy + 1.15;
+                $totalKris = $totalKris + 1.15;
             }
             if ($answer15 == "talking") {
-                $totalBeth = $totalBeth + 1;
+                $totalBeth = $totalBeth + 1.15;
             }
 
             if ($answer16 == "adventuring") {
-                $totalDenise = $totalDenise + 1;
-                $totalTiffany = $totalTiffany + 1;
-                $totalAlex = $totalAlex + 1;
-                $totalLarissa = $totalLarissa + 1;
+                $totalDenise = $totalDenise + 1.16;
+                $totalTiffany = $totalTiffany + 1.16;
+                $totalAlex = $totalAlex + 1.16;
+                $totalLarissa = $totalLarissa + 1.16;
             }
             if ($answer16 == "learning") {
-                $totalMisty = $totalMisty + 1;
-                $totalDennis = $totalDennis + 1;
+                $totalMisty = $totalMisty + 1.16;
+                $totalDennis = $totalDennis + 1.16;
             }
             if ($answer16 == "bingeing") {
-                $totalKrisa = $totalKrisa + 1;
-                $totalShayna = $totalShayna + 1;
-                $totalBeth = $totalBeth + 1;
+                $totalKrisa = $totalKrisa + 1.16;
+                $totalShayna = $totalShayna + 1.16;
+                $totalBeth = $totalBeth + 1.16;
             }
             if ($answer16 == "hanging") {
-                $totalKeagan = $totalKeagan + 1;
-                $totalSandy = $totalSandy + 1;
-                $totalKris = $totalKris + 1;
+                $totalKeagan = $totalKeagan + 1.16;
+                $totalSandy = $totalSandy + 1.16;
+                $totalKris = $totalKris + 1.16;
             }
             if ($answer16 == "napping") {
-                $totalKylie = $totalKylie + 1;
+                $totalKylie = $totalKylie + 1.16;
             }
 
 
             if ($answer17 == "enthusiastic") {
-                $totalDenise = $totalDenise + 1;
-                $totalKrisa = $totalKrisa + 1;
-                $totalKeagan = $totalKeagan + 1;
-                $totalBeth = $totalBeth + 1;
+                $totalDenise = $totalDenise + 1.17;
+                $totalKrisa = $totalKrisa + 1.17;
+                $totalKeagan = $totalKeagan + 1.17;
+                $totalBeth = $totalBeth + 1.17;
             }
             if ($answer17 == "hardworking") {
-                $totalTiffany = $totalTiffany + 1;
-                $totalMisty = $totalMisty + 1;
-                $totalAlex = $totalAlex + 1;
-                $totalShayna = $totalShayna + 1;
-                $totalKylie = $totalKylie + 1;
-                $totalLarissa = $totalLarissa + 1;
+                $totalTiffany = $totalTiffany + 1.17;
+                $totalMisty = $totalMisty + 1.17;
+                $totalAlex = $totalAlex + 1.17;
+                $totalShayna = $totalShayna + 1.17;
+                $totalKylie = $totalKylie + 1.17;
+                $totalLarissa = $totalLarissa + 1.17;
             }
             if ($answer17 == "introverted") {
-                $totalDennis = $totalDennis + 1;
+                $totalDennis = $totalDennis + 1.17;
             }
             if ($answer17 == "outgoing") {
-                $totalSandy = $totalSandy + 1;
-                $totalKris = $totalKris + 1;
+                $totalSandy = $totalSandy + 1.17;
+                $totalKris = $totalKris + 1.17;
             }
 
 
             if ($answer18 == "again") {
-                $totalDenise = $totalDenise + 1.1;
+                $totalDenise = $totalDenise + 1.18;
             }
             if ($answer18 == "lied") {
-                $totalTiffany = $totalTiffany + 1.1;
+                $totalTiffany = $totalTiffany + 1.18;
             }
             if ($answer18 == "ready") {
-                $totalMisty = $totalMisty + 1.1;
+                $totalMisty = $totalMisty + 1.18;
             }
             if ($answer18 == "yeah") {
-                $totalKrisa = $totalKrisa + 1.1;
+                $totalKrisa = $totalKrisa + 1.18;
             }
             if ($answer18 == "fine") {
-                $totalAlex = $totalAlex + 1.1;
+                $totalAlex = $totalAlex + 1.18;
             }
             if ($answer18 == "alive") {
-                $totalKeagan = $totalKeagan + 1.1;
+                $totalKeagan = $totalKeagan + 1.18;
             }
             if ($answer18 == "dancing") {
-                $totalShayna = $totalShayna + 1.1;
+                $totalShayna = $totalShayna + 1.18;
             }
             if ($answer18 == "remembers") {
-                $totalKylie = $totalKylie + 1.1;
+                $totalKylie = $totalKylie + 1.18;
             }
             if ($answer18 == "question") {
-                $totalBeth = $totalBeth + 1.1;
+                $totalBeth = $totalBeth + 1.18;
             }
             if ($answer18 == "shot") {
-                $totalDennis = $totalDennis + 1.1;
+                $totalDennis = $totalDennis + 1.18;
             }
             if ($answer18 == "love") {
-                $totalSandy = $totalSandy + 1.1;
+                $totalSandy = $totalSandy + 1.18;
             }
             if ($answer18 == "cheer") {
-                $totalLarissa = $totalLarissa + 1.1;
+                $totalLarissa = $totalLarissa + 1.18;
             }
             if ($answer18 == "on") {
-                $totalKris = $totalKris + 1.1;
+                $totalKris = $totalKris + 1.18;
             }
 
             ?>
@@ -576,7 +576,8 @@
                     $totalDenise > $totalSandy &&
                     $totalDenise > $totalLarissa &&
                     $totalDenise > $totalKris) {
-                    echo '<img src="/images/result-denise.jpg" alt="you are most like Miss Denise!" class="mx-5 img-fluid">';
+                    echo '<img src="/images/result-denise.jpg" alt="you are most like Miss Denise!" class="mx-5 img-fluid">
+                    <meta property="og:image" content="https://mistysdance.com/images/result-denise.jpg" />';
                 }
                 elseif (
                     $totalTiffany > $totalDenise &&
@@ -770,19 +771,19 @@
 
     <?php
 
-    if ($totalDenise > 4) echo 'Miss Denise ', round($totalDenise / 18 * 100), '%<br>';
-    if ($totalTiffany > 4) echo 'Miss Tiffany ', round($totalTiffany / 18 * 100), '%<br>';
-    if ($totalMisty > 4) echo 'Miss Misty ', round($totalMisty / 18 * 100), '%<br>';
-    if ($totalKrisa > 4) echo 'Miss Krisa ', round($totalKrisa / 18 * 100), '%<br>';
-    if ($totalAlex > 4) echo 'Miss Alex ', round($totalAlex / 18 * 100), '%<br>';
-    if ($totalKeagan > 4) echo 'Mr Keagan ', round($totalKeagan / 18 * 100), '%<br>';
-    if ($totalShayna > 4) echo 'Miss Shayna ', round($totalShayna / 18 * 100), '%<br>';
-    if ($totalKylie > 4) echo 'Miss Kylie ', round($totalKylie / 18 * 100), '%<br>';
-    if ($totalBeth > 4) echo 'Miss Beth ', round($totalBeth / 18 * 100), '%<br>';
-    if ($totalDennis > 4) echo 'Mr Dennis ', round($totalDennis / 18 * 100), '%<br>';
-    if ($totalSandy > 4) echo 'Miss Sandy ', round($totalSandy / 18 * 100), '%<br>';
-    if ($totalLarissa > 4) echo 'Miss Larissa ', round($totalLarissa / 18 * 100), '%<br>';
-    if ($totalKris > 4) echo 'Miss Kris ', round($totalKris / 18 * 100), '%';
+    if ($totalDenise > 4) echo 'Miss Denise ', round($totalDenise / 19.71 * 100), '%<br>';
+    if ($totalTiffany > 4) echo 'Miss Tiffany ', round($totalTiffany / 19.71 * 100), '%<br>';
+    if ($totalMisty > 4) echo 'Miss Misty ', round($totalMisty / 19.71 * 100), '%<br>';
+    if ($totalKrisa > 4) echo 'Miss Krisa ', round($totalKrisa / 19.71 * 100), '%<br>';
+    if ($totalAlex > 4) echo 'Miss Alex ', round($totalAlex / 19.71 * 100), '%<br>';
+    if ($totalKeagan > 4) echo 'Mr Keagan ', round($totalKeagan / 19.71 * 100), '%<br>';
+    if ($totalShayna > 4) echo 'Miss Shayna ', round($totalShayna / 19.71 * 100), '%<br>';
+    if ($totalKylie > 4) echo 'Miss Kylie ', round($totalKylie / 19.71 * 100), '%<br>';
+    if ($totalBeth > 4) echo 'Miss Beth ', round($totalBeth / 19.71 * 100), '%<br>';
+    if ($totalDennis > 4) echo 'Mr Dennis ', round($totalDennis / 19.71 * 100), '%<br>';
+    if ($totalSandy > 4) echo 'Miss Sandy ', round($totalSandy / 19.71 * 100), '%<br>';
+    if ($totalLarissa > 4) echo 'Miss Larissa ', round($totalLarissa / 19.71 * 100), '%<br>';
+    if ($totalKris > 4) echo 'Miss Kris ', round($totalKris / 19.71 * 100), '%';
 
     ?>
 </div>

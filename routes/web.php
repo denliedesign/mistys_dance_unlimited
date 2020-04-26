@@ -199,6 +199,10 @@ Route::post('/quiz/grade', function () {
     return view('quiz.grade');
 });
 
+Route::get('/quiz/grade', function () {
+    return view('quiz.redirect');
+});
+
 Route::get('frozen-friends', 'FrozenFriendsController@index')->name('frozen-friends');
 Route::post('frozen-friends', 'FrozenFriendsController@store')->name('frozen-friends.store');
 
