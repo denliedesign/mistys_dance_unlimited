@@ -577,7 +577,10 @@
                     $totalDenise > $totalLarissa &&
                     $totalDenise > $totalKris)
                     <img src="/images/result-denise.jpg" alt="you are most like Miss Denise!" class="mx-5 img-fluid">
-                    @section('result', 'result-denise')
+                    <div>
+                        <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fmistysdance.com%2Fquiz%2Fdenise&layout=button_count&size=large&appId=460035168057180&width=88&height=28" width="88" height="28" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+                    </div>
+
                 @elseif (
                     $totalTiffany > $totalDenise &&
                     $totalTiffany > $totalMisty &&
