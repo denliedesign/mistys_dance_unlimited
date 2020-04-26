@@ -204,7 +204,7 @@ Route::get('/quiz/grade', function () {
 });
 
 Route::get('/quiz/denise', function () {
-    return view('quiz.redirect');
+    return view('quiz.denise');
 });
 
 Route::get('frozen-friends', 'FrozenFriendsController@index')->name('frozen-friends');
