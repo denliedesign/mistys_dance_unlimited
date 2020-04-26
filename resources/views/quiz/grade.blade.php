@@ -562,8 +562,8 @@
 
             <div class="d-flex justify-content-center align-items-center">
 
-                <?php
-                if (
+
+                @if (
                     $totalDenise > $totalTiffany &&
                     $totalDenise > $totalMisty &&
                     $totalDenise > $totalKrisa &&
@@ -575,11 +575,10 @@
                     $totalDenise > $totalDennis &&
                     $totalDenise > $totalSandy &&
                     $totalDenise > $totalLarissa &&
-                    $totalDenise > $totalKris) {
-                    echo '<img src="/images/result-denise.jpg" alt="you are most like Miss Denise!" class="mx-5 img-fluid">
-                    <meta property="og:image" content="https://mistysdance.com/images/result-denise.jpg" />';
-                }
-                elseif (
+                    $totalDenise > $totalKris)
+                    <img src="/images/result-denise.jpg" alt="you are most like Miss Denise!" class="mx-5 img-fluid">
+                    @section('result', 'result-denise')
+                @elseif (
                     $totalTiffany > $totalDenise &&
                     $totalTiffany > $totalMisty &&
                     $totalTiffany > $totalKrisa &&
@@ -591,10 +590,10 @@
                     $totalTiffany > $totalDennis &&
                     $totalTiffany > $totalSandy &&
                     $totalTiffany > $totalLarissa &&
-                    $totalTiffany > $totalKris) {
-                    echo '<img src="/images/result-tiffany.jpg" alt="you are most like Miss Tiffany!" class="mx-5 img-fluid">';
-                }
-                elseif (
+                    $totalTiffany > $totalKris)
+                        <img src="/images/result-tiffany.jpg" alt="you are most like Miss Tiffany!" class="mx-5 img-fluid">';
+
+                @elseif (
                     $totalMisty > $totalDenise &&
                     $totalMisty > $totalTiffany &&
                     $totalMisty > $totalKrisa &&
@@ -606,10 +605,9 @@
                     $totalMisty > $totalDennis &&
                     $totalMisty > $totalSandy &&
                     $totalMisty > $totalLarissa &&
-                    $totalMisty > $totalKris) {
-                    echo '<img src="/images/result-misty.jpg" alt="you are most like Miss Misty!" class="mx-5 img-fluid">';
-                }
-                elseif (
+                    $totalMisty > $totalKris)
+                        <img src="/images/result-misty.jpg" alt="you are most like Miss Misty!" class="mx-5 img-fluid">';
+                @elseif (
                     $totalKrisa > $totalDenise &&
                     $totalKrisa > $totalMisty &&
                     $totalKrisa > $totalTiffany &&
@@ -621,10 +619,10 @@
                     $totalKrisa > $totalDennis &&
                     $totalKrisa > $totalSandy &&
                     $totalKrisa > $totalLarissa &&
-                    $totalKrisa > $totalKris) {
-                    echo '<img src="/images/result-krisa.jpg" alt="you are most like Miss Krisa!" class="mx-5 img-fluid">';
-                }
-                elseif (
+                    $totalKrisa > $totalKris)
+                        <img src="/images/result-krisa.jpg" alt="you are most like Miss Krisa!" class="mx-5 img-fluid">';
+
+                @elseif (
                     $totalAlex > $totalDenise &&
                     $totalAlex > $totalMisty &&
                     $totalAlex > $totalKrisa &&
@@ -636,10 +634,10 @@
                     $totalAlex > $totalDennis &&
                     $totalAlex > $totalSandy &&
                     $totalAlex > $totalLarissa &&
-                    $totalAlex > $totalKris) {
-                    echo '<img src="/images/result-alex.jpg" alt="you are most like Miss Alex!" class="mx-5 img-fluid">';
-                }
-                elseif (
+                    $totalAlex > $totalKris)
+                        <img src="/images/result-alex.jpg" alt="you are most like Miss Alex!" class="mx-5 img-fluid">';
+
+                @elseif (
                     $totalKeagan > $totalDenise &&
                     $totalKeagan > $totalMisty &&
                     $totalKeagan > $totalKrisa &&
@@ -651,10 +649,10 @@
                     $totalKeagan > $totalDennis &&
                     $totalKeagan > $totalSandy &&
                     $totalKeagan > $totalLarissa &&
-                    $totalKeagan > $totalKris) {
-                    echo '<img src="/images/result-keagan.jpg" alt="you are most like Mr Keagan!" class="mx-5 img-fluid">';
-                }
-                elseif (
+                    $totalKeagan > $totalKris)
+                        <img src="/images/result-keagan.jpg" alt="you are most like Mr Keagan!" class="mx-5 img-fluid">';
+
+                @elseif (
                     $totalShayna > $totalDenise &&
                     $totalShayna > $totalMisty &&
                     $totalShayna > $totalKrisa &&
@@ -666,10 +664,10 @@
                     $totalShayna > $totalDennis &&
                     $totalShayna > $totalSandy &&
                     $totalShayna > $totalLarissa &&
-                    $totalShayna > $totalKris) {
-                    echo '<img src="/images/result-shayna.jpg" alt="you are most like Miss Shayna!" class="mx-5 img-fluid">';
-                }
-                elseif (
+                    $totalShayna > $totalKris)
+                        <img src="/images/result-shayna.jpg" alt="you are most like Miss Shayna!" class="mx-5 img-fluid">';
+
+                @elseif (
                     $totalKylie > $totalDenise &&
                     $totalKylie > $totalMisty &&
                     $totalKylie > $totalKrisa &&
@@ -681,10 +679,10 @@
                     $totalKylie > $totalDennis &&
                     $totalKylie > $totalSandy &&
                     $totalKylie > $totalLarissa &&
-                    $totalKylie > $totalKris) {
-                    echo '<img src="/images/result-kylie.jpg" alt="you are most like Miss Kylie!" class="mx-5 img-fluid">';
-                }
-                elseif (
+                    $totalKylie > $totalKris)
+                        <img src="/images/result-kylie.jpg" alt="you are most like Miss Kylie!" class="mx-5 img-fluid">';
+
+                @elseif (
                     $totalBeth > $totalDenise &&
                     $totalBeth > $totalMisty &&
                     $totalBeth > $totalKrisa &&
@@ -696,10 +694,10 @@
                     $totalBeth > $totalDennis &&
                     $totalBeth > $totalSandy &&
                     $totalBeth > $totalLarissa &&
-                    $totalBeth > $totalKris) {
-                    echo '<img src="/images/result-beth.jpg" alt="you are most like Miss Beth!" class="mx-5 img-fluid">';
-                }
-                elseif (
+                    $totalBeth > $totalKris)
+                        <img src="/images/result-beth.jpg" alt="you are most like Miss Beth!" class="mx-5 img-fluid">';
+
+                @elseif (
                     $totalDennis > $totalDenise &&
                     $totalDennis > $totalMisty &&
                     $totalDennis > $totalKrisa &&
@@ -711,10 +709,10 @@
                     $totalDennis > $totalTiffany &&
                     $totalDennis > $totalSandy &&
                     $totalDennis > $totalLarissa &&
-                    $totalDennis > $totalKris) {
-                    echo '<img src="/images/result-dennis.jpg" alt="you are most like Mr Dennis!" class="mx-5 img-fluid">';
-                }
-                elseif (
+                    $totalDennis > $totalKris)
+                        <img src="/images/result-dennis.jpg" alt="you are most like Mr Dennis!" class="mx-5 img-fluid">';
+
+                @elseif (
                     $totalSandy > $totalDenise &&
                     $totalSandy > $totalMisty &&
                     $totalSandy > $totalKrisa &&
@@ -726,10 +724,10 @@
                     $totalSandy > $totalDennis &&
                     $totalSandy > $totalTiffany &&
                     $totalSandy > $totalLarissa &&
-                    $totalSandy > $totalKris) {
-                    echo '<img src="/images/result-sandy.jpg" alt="you are most like Miss Sandy!" class="mx-5 img-fluid">';
-                }
-                elseif (
+                    $totalSandy > $totalKris)
+                        <img src="/images/result-sandy.jpg" alt="you are most like Miss Sandy!" class="mx-5 img-fluid">';
+
+                @elseif (
                     $totalLarissa > $totalDenise &&
                     $totalLarissa > $totalMisty &&
                     $totalLarissa > $totalKrisa &&
@@ -741,10 +739,10 @@
                     $totalLarissa > $totalDennis &&
                     $totalLarissa > $totalSandy &&
                     $totalLarissa > $totalTiffany &&
-                    $totalLarissa > $totalKris) {
-                    echo '<img src="/images/result-larissa.jpg" alt="you are most like Miss Larissa!" class="mx-5 img-fluid">';
-                }
-                elseif (
+                    $totalLarissa > $totalKris)
+                        <img src="/images/result-larissa.jpg" alt="you are most like Miss Larissa!" class="mx-5 img-fluid">';
+
+                @elseif (
                     $totalKris > $totalDenise &&
                     $totalKris > $totalMisty &&
                     $totalKris > $totalKrisa &&
@@ -756,11 +754,10 @@
                     $totalKris > $totalDennis &&
                     $totalKris > $totalSandy &&
                     $totalKris > $totalLarissa &&
-                    $totalKris > $totalTiffany) {
-                    echo '<img src="/images/result-kris.jpg" alt="you are most like Miss Kris!" class="mx-5 img-fluid">';
-                }
+                    $totalKris > $totalTiffany)
+                        <img src="/images/result-kris.jpg" alt="you are most like Miss Kris!" class="mx-5 img-fluid">';
 
-                ?>
+                @endif
             </div>
         </div>
     </div>
