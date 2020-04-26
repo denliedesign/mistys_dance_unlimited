@@ -1,6 +1,6 @@
 @extends('layouts.quiz-app')
 
-@section('result', 'result-denise')
+<meta property="og:image" content="https://mistysdance.com/images/result-denise.jpg" />
 
 @section('content')
 
