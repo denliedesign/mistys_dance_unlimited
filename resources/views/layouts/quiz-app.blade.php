@@ -6,7 +6,6 @@
 
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-<meta property="og:url"                content="http://mistysdance.com/quiz" />
 <meta property="og:type"               content="quiz" />
 <meta property="og:title"              content="MDU Teacher Quiz" />
 <meta property="og:description"        content="This personality quiz will reveal which teacher you resemble most." />
