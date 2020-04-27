@@ -1,6 +1,6 @@
 @extends('layouts.quiz-app')
 
-<meta property="og:url"                content="http://mistysdance.com/quiz/denise" />
+<meta property="og:url"                content="http://mistysdance.com/quiz/larissa" />
 <meta property="og:image" content="https://mistysdance.com/images/result-larissa.jpg" />
 
 @section('content')
