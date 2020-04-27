@@ -807,19 +807,19 @@
 
     <?php
 
-    if ($totalDenise > 4) echo 'Miss Denise ', round($totalDenise / 19.71 * 100), '%<br>';
-    if ($totalTiffany > 4) echo 'Miss Tiffany ', round($totalTiffany / 19.71 * 100), '%<br>';
-    if ($totalMisty > 4) echo 'Miss Misty ', round($totalMisty / 19.71 * 100), '%<br>';
-    if ($totalKrisa > 4) echo 'Miss Krisa ', round($totalKrisa / 19.71 * 100), '%<br>';
-    if ($totalAlex > 4) echo 'Miss Alex ', round($totalAlex / 19.71 * 100), '%<br>';
-    if ($totalKeagan > 4) echo 'Mr Keagan ', round($totalKeagan / 19.71 * 100), '%<br>';
-    if ($totalShayna > 4) echo 'Miss Shayna ', round($totalShayna / 19.71 * 100), '%<br>';
-    if ($totalKylie > 4) echo 'Miss Kylie ', round($totalKylie / 19.71 * 100), '%<br>';
-    if ($totalBeth > 4) echo 'Miss Beth ', round($totalBeth / 19.71 * 100), '%<br>';
-    if ($totalDennis > 4) echo 'Mr Dennis ', round($totalDennis / 19.71 * 100), '%<br>';
-    if ($totalSandy > 4) echo 'Miss Sandy ', round($totalSandy / 19.71 * 100), '%<br>';
-    if ($totalLarissa > 4) echo 'Miss Larissa ', round($totalLarissa / 19.71 * 100), '%<br>';
-    if ($totalKris > 4) echo 'Miss Kris ', round($totalKris / 19.71 * 100), '%';
+    if ($totalDenise > 5) echo 'Miss Denise ', round($totalDenise / 19.71 * 100), '%<br>';
+    if ($totalTiffany > 5) echo 'Miss Tiffany ', round($totalTiffany / 19.71 * 100), '%<br>';
+    if ($totalMisty > 5) echo 'Miss Misty ', round($totalMisty / 19.71 * 100), '%<br>';
+    if ($totalKrisa > 5) echo 'Miss Krisa ', round($totalKrisa / 19.71 * 100), '%<br>';
+    if ($totalAlex > 5) echo 'Miss Alex ', round($totalAlex / 19.71 * 100), '%<br>';
+    if ($totalKeagan > 5) echo 'Mr Keagan ', round($totalKeagan / 19.71 * 100), '%<br>';
+    if ($totalShayna > 5) echo 'Miss Shayna ', round($totalShayna / 19.71 * 100), '%<br>';
+    if ($totalKylie > 5) echo 'Miss Kylie ', round($totalKylie / 19.71 * 100), '%<br>';
+    if ($totalBeth > 5) echo 'Miss Beth ', round($totalBeth / 19.71 * 100), '%<br>';
+    if ($totalDennis > 5) echo 'Mr Dennis ', round($totalDennis / 19.71 * 100), '%<br>';
+    if ($totalSandy > 5) echo 'Miss Sandy ', round($totalSandy / 19.71 * 100), '%<br>';
+    if ($totalLarissa > 5) echo 'Miss Larissa ', round($totalLarissa / 19.71 * 100), '%<br>';
+    if ($totalKris > 5) echo 'Miss Kris ', round($totalKris / 19.71 * 100), '%';
 
     ?>
 </div>
