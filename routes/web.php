@@ -207,6 +207,54 @@ Route::get('/quiz/denise', function () {
     return view('quiz.denise');
 });
 
+Route::get('/quiz/alex', function () {
+    return view('quiz.alex');
+});
+
+Route::get('/quiz/beth', function () {
+    return view('quiz.beth');
+});
+
+Route::get('/quiz/dennis', function () {
+    return view('quiz.dennis');
+});
+
+Route::get('/quiz/keagan', function () {
+    return view('quiz.keagan');
+});
+
+Route::get('/quiz/kris', function () {
+    return view('quiz.kris');
+});
+
+Route::get('/quiz/krisa', function () {
+    return view('quiz.krisa');
+});
+
+Route::get('/quiz/kylie', function () {
+    return view('quiz.kylie');
+});
+
+Route::get('/quiz/larissa', function () {
+    return view('quiz.larissa');
+});
+
+Route::get('/quiz/misty', function () {
+    return view('quiz.misty');
+});
+
+Route::get('/quiz/sandy', function () {
+    return view('quiz.sandy');
+});
+
+Route::get('/quiz/shayna', function () {
+    return view('quiz.shayna');
+});
+
+Route::get('/quiz/tiffany', function () {
+    return view('quiz.tiffany');
+});
+
 Route::get('frozen-friends', 'FrozenFriendsController@index')->name('frozen-friends');
 Route::post('frozen-friends', 'FrozenFriendsController@store')->name('frozen-friends.store');
 

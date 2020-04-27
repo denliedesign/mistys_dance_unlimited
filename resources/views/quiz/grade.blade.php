@@ -594,7 +594,10 @@
                     $totalTiffany > $totalSandy &&
                     $totalTiffany > $totalLarissa &&
                     $totalTiffany > $totalKris)
-                        <img src="/images/result-tiffany.jpg" alt="you are most like Miss Tiffany!" class="mx-5 img-fluid">';
+                        <img src="/images/result-tiffany.jpg" alt="you are most like Miss Tiffany!" class="mx-5 img-fluid">
+                    <div>
+                        <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fmistysdance.com%2Fquiz%2Ftiffany&layout=button_count&size=large&appId=460035168057180&width=88&height=28" width="88" height="28" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+                    </div>
 
                 @elseif (
                     $totalMisty > $totalDenise &&
@@ -609,7 +612,10 @@
                     $totalMisty > $totalSandy &&
                     $totalMisty > $totalLarissa &&
                     $totalMisty > $totalKris)
-                        <img src="/images/result-misty.jpg" alt="you are most like Miss Misty!" class="mx-5 img-fluid">';
+                        <img src="/images/result-misty.jpg" alt="you are most like Miss Misty!" class="mx-5 img-fluid">
+                    <div>
+                        <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fmistysdance.com%2Fquiz%2Fmisty&layout=button_count&size=large&appId=460035168057180&width=88&height=28" width="88" height="28" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+                    </div>
                 @elseif (
                     $totalKrisa > $totalDenise &&
                     $totalKrisa > $totalMisty &&
@@ -623,7 +629,10 @@
                     $totalKrisa > $totalSandy &&
                     $totalKrisa > $totalLarissa &&
                     $totalKrisa > $totalKris)
-                        <img src="/images/result-krisa.jpg" alt="you are most like Miss Krisa!" class="mx-5 img-fluid">';
+                        <img src="/images/result-krisa.jpg" alt="you are most like Miss Krisa!" class="mx-5 img-fluid">
+                    <div>
+                        <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fmistysdance.com%2Fquiz%2Fkrisa&layout=button_count&size=large&appId=460035168057180&width=88&height=28" width="88" height="28" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+                    </div>
 
                 @elseif (
                     $totalAlex > $totalDenise &&
@@ -638,7 +647,10 @@
                     $totalAlex > $totalSandy &&
                     $totalAlex > $totalLarissa &&
                     $totalAlex > $totalKris)
-                        <img src="/images/result-alex.jpg" alt="you are most like Miss Alex!" class="mx-5 img-fluid">';
+                        <img src="/images/result-alex.jpg" alt="you are most like Miss Alex!" class="mx-5 img-fluid">
+                    <div>
+                        <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fmistysdance.com%2Fquiz%2Falex&layout=button_count&size=large&appId=460035168057180&width=88&height=28" width="88" height="28" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+                    </div>
 
                 @elseif (
                     $totalKeagan > $totalDenise &&
@@ -653,7 +665,10 @@
                     $totalKeagan > $totalSandy &&
                     $totalKeagan > $totalLarissa &&
                     $totalKeagan > $totalKris)
-                        <img src="/images/result-keagan.jpg" alt="you are most like Mr Keagan!" class="mx-5 img-fluid">';
+                        <img src="/images/result-keagan.jpg" alt="you are most like Mr Keagan!" class="mx-5 img-fluid">
+                    <div>
+                        <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fmistysdance.com%2Fquiz%2Fkeagan&layout=button_count&size=large&appId=460035168057180&width=88&height=28" width="88" height="28" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+                    </div>
 
                 @elseif (
                     $totalShayna > $totalDenise &&
@@ -668,7 +683,10 @@
                     $totalShayna > $totalSandy &&
                     $totalShayna > $totalLarissa &&
                     $totalShayna > $totalKris)
-                        <img src="/images/result-shayna.jpg" alt="you are most like Miss Shayna!" class="mx-5 img-fluid">';
+                        <img src="/images/result-shayna.jpg" alt="you are most like Miss Shayna!" class="mx-5 img-fluid">
+                    <div>
+                        <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fmistysdance.com%2Fquiz%2Fshayna&layout=button_count&size=large&appId=460035168057180&width=88&height=28" width="88" height="28" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+                    </div>
 
                 @elseif (
                     $totalKylie > $totalDenise &&
@@ -683,7 +701,10 @@
                     $totalKylie > $totalSandy &&
                     $totalKylie > $totalLarissa &&
                     $totalKylie > $totalKris)
-                        <img src="/images/result-kylie.jpg" alt="you are most like Miss Kylie!" class="mx-5 img-fluid">';
+                        <img src="/images/result-kylie.jpg" alt="you are most like Miss Kylie!" class="mx-5 img-fluid">
+                    <div>
+                        <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fmistysdance.com%2Fquiz%2Fkylie&layout=button_count&size=large&appId=460035168057180&width=88&height=28" width="88" height="28" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+                    </div>
 
                 @elseif (
                     $totalBeth > $totalDenise &&
@@ -698,7 +719,10 @@
                     $totalBeth > $totalSandy &&
                     $totalBeth > $totalLarissa &&
                     $totalBeth > $totalKris)
-                        <img src="/images/result-beth.jpg" alt="you are most like Miss Beth!" class="mx-5 img-fluid">';
+                        <img src="/images/result-beth.jpg" alt="you are most like Miss Beth!" class="mx-5 img-fluid">
+                    <div>
+                        <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fmistysdance.com%2Fquiz%2Fbeth&layout=button_count&size=large&appId=460035168057180&width=88&height=28" width="88" height="28" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+                    </div>
 
                 @elseif (
                     $totalDennis > $totalDenise &&
@@ -713,7 +737,10 @@
                     $totalDennis > $totalSandy &&
                     $totalDennis > $totalLarissa &&
                     $totalDennis > $totalKris)
-                        <img src="/images/result-dennis.jpg" alt="you are most like Mr Dennis!" class="mx-5 img-fluid">';
+                        <img src="/images/result-dennis.jpg" alt="you are most like Mr Dennis!" class="mx-5 img-fluid">
+                    <div>
+                        <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fmistysdance.com%2Fquiz%2Fdennis&layout=button_count&size=large&appId=460035168057180&width=88&height=28" width="88" height="28" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+                    </div>
 
                 @elseif (
                     $totalSandy > $totalDenise &&
@@ -728,7 +755,10 @@
                     $totalSandy > $totalTiffany &&
                     $totalSandy > $totalLarissa &&
                     $totalSandy > $totalKris)
-                        <img src="/images/result-sandy.jpg" alt="you are most like Miss Sandy!" class="mx-5 img-fluid">';
+                        <img src="/images/result-sandy.jpg" alt="you are most like Miss Sandy!" class="mx-5 img-fluid">
+                    <div>
+                        <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fmistysdance.com%2Fquiz%2Fsandy&layout=button_count&size=large&appId=460035168057180&width=88&height=28" width="88" height="28" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+                    </div>
 
                 @elseif (
                     $totalLarissa > $totalDenise &&
@@ -743,7 +773,10 @@
                     $totalLarissa > $totalSandy &&
                     $totalLarissa > $totalTiffany &&
                     $totalLarissa > $totalKris)
-                        <img src="/images/result-larissa.jpg" alt="you are most like Miss Larissa!" class="mx-5 img-fluid">';
+                        <img src="/images/result-larissa.jpg" alt="you are most like Miss Larissa!" class="mx-5 img-fluid">
+                    <div>
+                        <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fmistysdance.com%2Fquiz%2Flarissa&layout=button_count&size=large&appId=460035168057180&width=88&height=28" width="88" height="28" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+                    </div>
 
                 @elseif (
                     $totalKris > $totalDenise &&
@@ -758,7 +791,10 @@
                     $totalKris > $totalSandy &&
                     $totalKris > $totalLarissa &&
                     $totalKris > $totalTiffany)
-                        <img src="/images/result-kris.jpg" alt="you are most like Miss Kris!" class="mx-5 img-fluid">';
+                        <img src="/images/result-kris.jpg" alt="you are most like Miss Kris!" class="mx-5 img-fluid">
+                    <div>
+                        <iframe src="https://www.facebook.com/plugins/share_button.php?href=https%3A%2F%2Fmistysdance.com%2Fquiz%2Fkris&layout=button_count&size=large&appId=460035168057180&width=88&height=28" width="88" height="28" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allow="encrypted-media"></iframe>
+                    </div>
 
                 @endif
             </div>
