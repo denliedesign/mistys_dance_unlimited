@@ -9,8 +9,9 @@
 {{--    </div>--}}
 
     <div class="jumbotron jumbotron-fluid bg-aliceblue p-0">
+        <img src="/images/MDURedCarpetRecital.png" alt="Red Carpet Recital" style="width: 100%;" class="mt-5">
         <div class="container" id="everythingrecital">
-            <img src="/images/MDURedCarpetRecital.png" alt="Red Carpet Recital" style="width: 100%;" class="mt-5">
+
 {{--            <h3 class="text-center py-5">Everything Recital</h3>--}}
 {{--            <p class="lead font-weight-bold">Birthday parties are fun and easy at Misty’s Dance Unlimited!</p>--}}
 

@@ -4,9 +4,11 @@
 
 @section('content')
 
-    <div class="banner-wrap">
-        <div class="banner"></div>
-    </div>
+{{--    <div class="banner-wrap">--}}
+{{--        <div class="banner"></div>--}}
+{{--    </div>--}}
+
+<img src="/images/MDUVirtualRecital.png" alt="Virtual Recital" style="width: 100%;" class="mt-5">
 
     <div class="jumbotron jumbotron-fluid bg-aliceblue">
         <div class="container">

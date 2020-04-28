@@ -807,22 +807,23 @@
 
     <?php
 
-    if ($totalDenise > 5) echo 'Miss Denise ', round($totalDenise / 19.71 * 100), '%<br>';
-    if ($totalTiffany > 5) echo 'Miss Tiffany ', round($totalTiffany / 19.71 * 100), '%<br>';
-    if ($totalMisty > 5) echo 'Miss Misty ', round($totalMisty / 19.71 * 100), '%<br>';
-    if ($totalKrisa > 5) echo 'Miss Krisa ', round($totalKrisa / 19.71 * 100), '%<br>';
-    if ($totalAlex > 5) echo 'Miss Alex ', round($totalAlex / 19.71 * 100), '%<br>';
-    if ($totalKeagan > 5) echo 'Mr Keagan ', round($totalKeagan / 19.71 * 100), '%<br>';
-    if ($totalShayna > 5) echo 'Miss Shayna ', round($totalShayna / 19.71 * 100), '%<br>';
-    if ($totalKylie > 5) echo 'Miss Kylie ', round($totalKylie / 19.71 * 100), '%<br>';
-    if ($totalBeth > 5) echo 'Miss Beth ', round($totalBeth / 19.71 * 100), '%<br>';
-    if ($totalDennis > 5) echo 'Mr Dennis ', round($totalDennis / 19.71 * 100), '%<br>';
-    if ($totalSandy > 5) echo 'Miss Sandy ', round($totalSandy / 19.71 * 100), '%<br>';
-    if ($totalLarissa > 5) echo 'Miss Larissa ', round($totalLarissa / 19.71 * 100), '%<br>';
-    if ($totalKris > 5) echo 'Miss Kris ', round($totalKris / 19.71 * 100), '%';
+    if ($totalDenise > 5) echo 'Miss Denise', '<br>';
+    if ($totalTiffany > 5) echo 'Miss Tiffany', '<br>';
+    if ($totalMisty > 5) echo 'Miss Misty', '<br>';
+    if ($totalKrisa > 5) echo 'Miss Krisa', '<br>';
+    if ($totalAlex > 5) echo 'Miss Alex', '<br>';
+    if ($totalKeagan > 5) echo 'Mr Keagan', '<br>';
+    if ($totalShayna > 5) echo 'Miss Shayna', '<br>';
+    if ($totalKylie > 5) echo 'Miss Kylie', '<br>';
+    if ($totalBeth > 5) echo 'Miss Beth', '<br>';
+    if ($totalDennis > 5) echo 'Mr Dennis', '<br>';
+    if ($totalSandy > 5) echo 'Miss Sandy', '<br>';
+    if ($totalLarissa > 5) echo 'Miss Larissa', '<br>';
+    if ($totalKris > 5) echo 'Miss Kris';
 
     ?>
 </div>
 
+{{--, round($totalDenise / 19.71 * 100), '%<br>'--}}
 
 @endsection
