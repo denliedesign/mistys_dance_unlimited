@@ -187,6 +187,10 @@ Route::get('/covid-19/4-8-20', function () {
     return view('covid-19.4-8-20');
 });
 
+Route::get('/covid-19/4-15-20', function () {
+    return view('covid-19.4-15-20');
+});
+
 Route::get('/quiz', function () {
     return view('quiz.index');
 });
