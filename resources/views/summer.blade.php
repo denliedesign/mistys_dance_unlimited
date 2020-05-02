@@ -14,7 +14,7 @@
 
     <div class="jumbotron jumbotron-fluid bg-aliceblue">
         <div class="container" id="summer">
-            <h3 class="text-center"><a href="images/summer-calendar.pdf" target="_blank">Summer Calendar 2020</a></h3>
+            <h3 class="text-center">Summer Calendar 2020</h3>
             <img src="images/summer2.jpg" alt="" class="img-thumbnail my-3">
             <img src="images/summer3.jpg" alt="" class="img-thumbnail my-3">
             <img src="images/summer4.jpg" alt="" class="img-thumbnail my-3">
