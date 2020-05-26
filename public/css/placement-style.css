@@ -1,0 +1,35 @@
+.placement-login {
+    list-style-type: none;
+}
+
+*, html, body {
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+#placement-content {
+    height: 100vh;
+    border: 20px solid #008cc0;
+    /*background: linear-gradient(white, #008cc0);*/
+    background-image: url("/images/springhill.jpg");
+    background-size: cover;
+    background-attachment: scroll;
+    background-position: center;
+}
+
+.table th, .table td {
+    border-top: 3px solid transparent !important;
+    background: none;
+}
+
+.table thead {
+    background: #ed174d;
+    color: white;
+    text-transform: uppercase;
+}
+
+.table {
+    box-shadow: 4px 4px 6px rgba(0,0,0,0.6),
+    -4px -4px 12px white;
+    border-radius: 10px;
+}

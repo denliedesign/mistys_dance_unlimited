@@ -283,6 +283,7 @@ Route::resource('recitals/seniors', 'SeniorController');
 Route::resource('recitals/tickets', 'TicketController');
 Route::resource('recitals/photos', 'PhotoController');
 Route::resource('recitals/volunteers', 'VolunteerController');
+Route::resource('students', 'StudentController');
 
 
 Auth::routes();
