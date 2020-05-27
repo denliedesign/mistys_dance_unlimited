@@ -91,9 +91,9 @@
         <div>
             <a href="/summer"><img src="images/summer1.jpg" alt="" style="width: 100%;"></a>
         </div>
-        <div id="schoolyr-classes" class="text-center bg-mdu-red text-white py-5 my-0">
-            <h3>2020-21 Fall Registration Coming Soon!<br><small>Class Schedule will be published May 26th<br>Online Registration begins June 6th</small></h3>
-        </div>
+{{--        <div id="schoolyr-classes" class="text-center bg-mdu-red text-white py-5 my-0">--}}
+{{--            <h3>2020-21 Fall Registration Coming Soon!<br><small>Class Schedule will be published May 26th<br>Online Registration begins June 6th</small></h3>--}}
+{{--        </div>--}}
 {{--        <div id="schoolyr-temp" class="text-center bg-ivory text-white py-5 my-0">--}}
 {{--            <h3>2020-21 coming Soon!</h3>--}}
 {{--            <p>Class Schedule will be published May 26th. Online Registration begins June 6th.</p>--}}
