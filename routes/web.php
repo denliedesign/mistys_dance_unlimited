@@ -123,6 +123,10 @@ Route::get('summer', function () {
     return view('summer');
 });
 
+Route::get('fall', function () {
+    return view('fall');
+});
+
 Route::get('community', function () {
     return view('community.index');
 });

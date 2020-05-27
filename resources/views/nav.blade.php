@@ -117,13 +117,13 @@
                     <a class="nav-link" href="/aboutus">About Us</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/summer">Summer</a>
-                </li>
-                <li class="nav-item">
                     <a class="nav-link" href="/recitals">Recital</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/pc">Auditions</a>
+                    <a class="nav-link" href="/summer">Summer</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="/fall">Classes</a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="/promotions">Promotions</a>
