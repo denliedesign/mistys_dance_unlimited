@@ -4,17 +4,18 @@
 
 @section('content')
 
-    <div class="summer-banner-wrap d-none d-md-block">
-        <div class="fall-banner"></div>
-    </div>
+{{--    <div class="summer-banner-wrap d-none d-md-block">--}}
+{{--        <div class="fall-banner"></div>--}}
+{{--    </div>--}}
 
-    <div class="d-md-none">
-        <img src="images/fall1.jpg" alt="" style="width: 100%;">
-    </div>
+{{--    <div class="d-block d-md-none">--}}
+{{--        <img src="images/fall1.jpg" alt="" style="width: 100%;">--}}
+{{--    </div>--}}
 
     <div class="jumbotron jumbotron-fluid bg-aliceblue">
         <div class="container" id="summer">
             <h3 class="text-center"><a href="/images/2020schedule.pdf" target="_blank">2020-2021 Schedule</a></h3>
+            <img src="images/fall1.jpg" alt="" class="img-thumbnail my-3">
             <img src="images/fall2.jpg" alt="" class="img-thumbnail my-3">
             <img src="images/fall3.jpg" alt="" class="img-thumbnail my-3">
             <img src="images/fall4.jpg" alt="" class="img-thumbnail my-3">
