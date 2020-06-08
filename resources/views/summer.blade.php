@@ -23,6 +23,12 @@
             </div>
         </div>
     </div>
+    <div class="bg-mdu-yellow pt-1 pb-5">
+        <p class="text-center mt-5 mb-1">Fall Schedule is Now Available</p>
+        <div class="d-flex justify-content-center">
+            <a href="/fall"><div class="btn btn-primary text-uppercase">Learn More</div></a>
+        </div>
+    </div>
 
     @include('footer')
 
