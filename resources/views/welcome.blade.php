@@ -224,6 +224,7 @@
                         <hr>
                         <div class="d-flex justify-content-center">
                             <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-danger text-center text-uppercase">Register</div></a>
+                            <a href="/summer" class="ml-2"><div class="btn btn-primary text-center text-uppercase">Schedule</div></a>
                         </div>
                     </div>
                 </div>
@@ -237,6 +238,7 @@
                         <hr>
                         <div class="d-flex justify-content-center">
                             <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-danger text-center text-uppercase">Register</div></a>
+                            <a href="/summer" class="ml-2"><div class="btn btn-primary text-center text-uppercase">Schedule</div></a>
                         </div>
                     </div>
                 </div>
@@ -249,6 +251,7 @@
                         <hr>
                         <div class="d-flex justify-content-center">
                             <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-danger text-center text-uppercase">Register</div></a>
+                                                    <a ref="/summer" class="ml-2"><div class="btn btn-primary text-center text-uppercase">Schedule</div></a>
                         </div>
                     </div>
                 </div>
@@ -262,6 +265,7 @@
                         <hr>
                         <div class="d-flex justify-content-center">
                             <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-danger text-center text-uppercase">Register</div></a>
+                                                    <a ref="/summer" class="ml-2"><div class="btn btn-primary text-center text-uppercase">Schedule</div></a>
                         </div>
                     </div>
                 </div>
@@ -314,6 +318,7 @@
                         <hr>
                         <div class="d-flex justify-content-center">
                             <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-danger text-center text-uppercase">Register</div></a>
+                                                    <a ref="/summer" class="ml-2"><div class="btn btn-primary text-center text-uppercase">Schedule</div></a>
                         </div>
                     </div>
                 </div>
@@ -371,6 +376,7 @@
                             <hr>
                             <div class="d-flex justify-content-center">
                                 <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-danger text-center text-uppercase">Register</div></a>
+                                <a href="/summer" class="ml-2"><div class="btn btn-primary text-center text-uppercase">Schedule</div></a>
                             </div>
                         </div>
                     </div>
@@ -383,6 +389,7 @@
                             <hr>
                             <div class="d-flex justify-content-center">
                                 <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-danger text-center text-uppercase">Register</div></a>
+                                <a href="/summer" class="ml-2"><div class="btn btn-primary text-center text-uppercase">Schedule</div></a>
                             </div>
                         </div>
                     </div>
@@ -434,12 +441,28 @@
             <h2 class="my-5 font-weight-bold text-center text-uppercase">Dance Blog</h2>
             <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3">
                 <div class="blog-card col">
+                    <a class="blog-link-img" href="/posts/3"><img src="images/insta1.png" alt="" class="img-fluid mb-4"></a>
+                    <div class="row">
+                        <div class="col-3">
+                            <div class="gold-date-box">
+                                <p class="my-0 py-0 text-center gold-number">04</p>
+                                <p class="my-0 py-0 text-center gold-month">JUN</p>
+                            </div>
+                        </div>
+                        <div class="col-9">
+                            <a class="blog-link text-dark" href="/posts/3"><h5 class="font-weight-bold">National Honor Society for Dance Arts</h5></a>
+                            <p>We are excited to announce that once again, we will be recognizing those dancers who have gone above and beyond their regular dance class commitments, academic requirements and have qualified to achieve induction into the National Honor Society for Dance Arts!</p>
+                            <div class="short-divide"></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="blog-card col">
                     <a class="blog-link-img" href="/posts/10"><img src="images/insta4.png" alt="" class="img-fluid mb-4"></a>
                     <div class="row">
                         <div class="col-3">
                             <div class="gold-date-box">
                                 <p class="my-0 py-0 text-center gold-number">19</p>
-                                <p class="my-0 py-0 text-center gold-month">FEB</p>
+                                <p class="my-0 py-0 text-center gold-month">MAY</p>
                             </div>
                         </div>
                         <div class="col-9">
@@ -455,28 +478,12 @@
                         <div class="col-3">
                             <div class="gold-date-box">
                                 <p class="my-0 py-0 text-center gold-number">18</p>
-                                <p class="my-0 py-0 text-center gold-month">DEC</p>
+                                <p class="my-0 py-0 text-center gold-month">APR</p>
                             </div>
                         </div>
                         <div class="col-9">
                             <a class="blog-link text-dark" href="/posts/2"><h5 class="font-weight-bold">Why We Teach Dance</h5></a>
                             <p>At Misty’s Dance Unlimited, our teachers come from a variety of backgrounds.  Most of them grew up dancing and then chose to combine their passion for dance with their interest in education.</p>
-                            <div class="short-divide"></div>
-                        </div>
-                    </div>
-                </div>
-                <div class="blog-card col">
-                    <a class="blog-link-img" href="/posts/3"><img src="images/insta1.png" alt="" class="img-fluid mb-4"></a>
-                    <div class="row">
-                        <div class="col-3">
-                            <div class="gold-date-box">
-                                <p class="my-0 py-0 text-center gold-number">04</p>
-                                <p class="my-0 py-0 text-center gold-month">NOV</p>
-                            </div>
-                        </div>
-                        <div class="col-9">
-                            <a class="blog-link text-dark" href="/posts/3"><h5 class="font-weight-bold">National Honor Society for Dance Arts</h5></a>
-                            <p>We are excited to announce that once again, we will be recognizing those dancers who have gone above and beyond their regular dance class commitments, academic requirements and have qualified to achieve induction into the National Honor Society for Dance Arts!</p>
                             <div class="short-divide"></div>
                         </div>
                     </div>
