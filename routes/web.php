@@ -199,6 +199,14 @@ Route::get('/covid-19/4-28-20', function () {
     return view('covid-19.4-28-20');
 });
 
+Route::get('/covid-19/5-15-20', function () {
+    return view('covid-19.5-15-20');
+});
+
+Route::get('/covid-19/6-10-20', function () {
+    return view('covid-19.6-10-20');
+});
+
 Route::get('/quiz', function () {
     return view('quiz.index');
 });
