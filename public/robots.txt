@@ -1,2 +1,20 @@
+Sitemap: https://www.mistysdance.com/sitemap.xml
 User-agent: *
-Disallow:
+Disallow: /PHPblog
+Disallow: /y-p-d
+Disallow: /footernav
+Disallow: /classes
+Disallow: /blog
+Disallow: /news
+Disallow: /costume
+Disallow: /costume2
+Disallow: /costume3
+Disallow: /dance
+Disallow: /team
+Disallow: /registration
+Disallow: /index.html
+Disallow: /costume3.html
+Disallow: /costume2.html
+Disallow: /costume.html
+Disallow: /auditions.html
+Disallow: /files
