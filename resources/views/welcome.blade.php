@@ -6,7 +6,7 @@
             <div class="card-header text-center bg-danger" id="headingOne">
                 <h2 class="mb-0">
                     <button class="btn btn-link text-white" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                        Update: First Steps Back
+                        Update: COVID-19
                     </button>
                 </h2>
             </div>
@@ -255,7 +255,77 @@
             <div class="four-dash"></div>
             <div class="five-dash"></div>
         </div>
+    </div>
 
+    <div class="my-5 text-white d-none d-md-block">
+        <div class="row m-0 c-0">
+            <div class="col-5 bg-light-gray px-5 py-2">
+                <h1 class="text-uppercase text-right">mdu is a safer</h1>
+                <p>MDU focuses on a hierarchy of measures to create a Safer Studio&trade; environment beginning with requiring students and staff who are ill to stay home, followed by frequent hand cleansing and good hygiene practices, amplified cleaning, and making curricular and facility adaptations to minimizing contact and mingling.</p>
+                <div class="d-flex justify-content-center">
+                    <img src="/images/safer-studio-logo.png" alt="" style="max-height: 250px;">
+                </div>
+            </div>
+            <div class="col-7 bg-mdu-gray py-2">
+                <h1 class="text-uppercase">studio&trade;</h1>
+                <p class="font-weight-bold">MDU is Youth Protection Advocates in Dance&reg; Certified!</p>
+                <p>
+                    <ion-icon name="checkmark"></ion-icon> Background checked and CPR certified teachers
+                    <br><ion-icon name="checkmark"></ion-icon> Safety Studio&trade; Policy
+                    <br><ion-icon name="checkmark"></ion-icon> Teacher training & proven curriculum
+                    <br><ion-icon name="checkmark"></ion-icon> A focus on safety & wellness for every student
+                    <br><ion-icon name="checkmark"></ion-icon> Secured facilities
+                    <br><ion-icon name="checkmark"></ion-icon> Viewing windows
+                    <br><ion-icon name="checkmark"></ion-icon> Professional sprung floors
+                    <br><ion-icon name="checkmark"></ion-icon> Social media safety practices
+                </p>
+                <div>
+                    <img src="/images/ypad-logo-rotate.png" alt="" style="height: 150px;">
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="my-5 p-2 text-white d-block d-md-none bg-mdu-gray text-white">
+        <h2 class="text-uppercase">mdu is a safer studio&trade;</h2>
+        <p>MDU focuses on a hierarchy of measures to create a Safer Studio&trade; environment beginning with requiring
+            students and staff who are ill to stay home, followed by frequent hand cleansing and good hygiene practices,
+            amplified cleaning, and making curricular and facility adaptations to minimizing contact and mingling.</p>
+        <div class="d-flex justify-content-center pb-2">
+            <img src="/images/safer-studio-logo.png" alt="" style="max-height: 250px;">
+        </div>
+        <p class="font-weight-bold">MDU is Youth Protection Advocates in Dance&reg; Certified!</p>
+        <p>
+            <ion-icon name="checkmark"></ion-icon>
+            Background checked and CPR certified teachers
+            <br>
+            <ion-icon name="checkmark"></ion-icon>
+            Safety Studio&trade; Policy
+            <br>
+            <ion-icon name="checkmark"></ion-icon>
+            Teacher training & proven curriculum
+            <br>
+            <ion-icon name="checkmark"></ion-icon>
+            A focus on safety & wellness for every student
+            <br>
+            <ion-icon name="checkmark"></ion-icon>
+            Secured facilities
+            <br>
+            <ion-icon name="checkmark"></ion-icon>
+            Viewing windows
+            <br>
+            <ion-icon name="checkmark"></ion-icon>
+            Professional sprung floors
+            <br>
+            <ion-icon name="checkmark"></ion-icon>
+            Social media safety practices
+        </p>
+        <div class="d-flex justify-content-center">
+            <img src="/images/ypad-logo-rotate.png" alt="" style="height: 150px;">
+        </div>
+    </div>
+
+    <div class="container">
         <h2 class="my-5 font-weight-bold text-uppercase">Summer & Fall Classes</h2>
         <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 mb-5">
             <div class="col px-2 pb-3">
@@ -266,8 +336,9 @@
                         {{--                        <p class="m-0 text-center text-muted">Tues 4:30-5:00</p>--}}
                         <hr>
                         <div class="d-flex justify-content-center">
-                            <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-danger text-center text-uppercase">Register</div></a>
-                            <a href="/summer" class="ml-2"><div class="btn btn-primary text-center text-uppercase">Schedule</div></a>
+                            <a href="/summer" class="ml-2"><div class="btn btn-green btn-sm text-center text-uppercase">View Schedule</div></a>
+                            <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-sm btn-aqua text-center text-uppercase">Register</div></a>
+
                         </div>
                     </div>
                 </div>
@@ -280,8 +351,9 @@
                         {{--                        <p class="m-0 text-center text-muted">Fri 5:30-6:00</p>--}}
                         <hr>
                         <div class="d-flex justify-content-center">
-                            <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-danger text-center text-uppercase">Register</div></a>
-                            <a href="/summer" class="ml-2"><div class="btn btn-primary text-center text-uppercase">Schedule</div></a>
+                            <a href="/summer" class="ml-2"><div class="btn btn-green btn-sm text-center text-uppercase">View Schedule</div></a>
+                            <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-sm btn-aqua text-center text-uppercase">Register</div></a>
+
                         </div>
                     </div>
                 </div>
@@ -293,8 +365,8 @@
                         <p class="m-0 text-center"><strong>Graded Technique</strong></p>
                         <hr>
                         <div class="d-flex justify-content-center">
-                            <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-danger text-center text-uppercase">Register</div></a>
-                                                    <a ref="/summer" class="ml-2"><div class="btn btn-primary text-center text-uppercase">Schedule</div></a>
+                            <a ref="/summer" class="ml-2"><div class="btn btn-green btn-sm text-center text-uppercase">View Schedule</div></a>
+                            <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-sm btn-aqua text-center text-uppercase">Register</div></a>
                         </div>
                     </div>
                 </div>
@@ -307,8 +379,8 @@
                         {{--                        <p class="m-0 text-center text-muted">Sat 1:00-5:00</p>--}}
                         <hr>
                         <div class="d-flex justify-content-center">
-                            <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-danger text-center text-uppercase">Register</div></a>
-                                                    <a ref="/summer" class="ml-2"><div class="btn btn-primary text-center text-uppercase">Schedule</div></a>
+                            <a ref="/summer" class="ml-2"><div class="btn btn-green btn-sm text-center text-uppercase">View Schedule</div></a>
+                            <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-sm btn-aqua text-center text-uppercase">Register</div></a>
                         </div>
                     </div>
                 </div>
@@ -321,7 +393,7 @@
                         {{--                        <p class="m-0 text-center text-muted">Mon 4:00-9:00</p>--}}
                         <hr>
                         <div class="d-flex justify-content-center text-center">
-                            if interested email<br>mistysdance@gmail.com
+                            for more information email:<br>mistysdance@gmail.com
                         </div>
                     </div>
                 </div>
@@ -334,7 +406,7 @@
                         {{--                        <p class="m-0 text-center text-muted">Mon-Sat 3:30-5:30</p>--}}
                         <hr>
                         <div class="d-flex justify-content-center text-center">
-                            if interested email<br>mistysdance@gmail.com
+                            for more information email:<br>mistysdance@gmail.com
                         </div>
                     </div>
                 </div>
@@ -347,7 +419,7 @@
                         {{--                        <p class="m-0 text-center text-muted">Wed 5:00-5:30</p>--}}
                         <hr>
                         <div class="d-flex justify-content-center">
-                            <a href="https://www.balletlacrosse.com/" target="_blank"><div class="btn btn-danger text-center text-uppercase">More Info</div></a>
+                            <a href="https://www.balletlacrosse.com/" target="_blank"><div class="btn btn-aqua btn-sm text-center text-uppercase">More Info</div></a>
                         </div>
                     </div>
                 </div>
@@ -360,8 +432,8 @@
                         {{--                        <p class="m-0 text-center text-muted">Wed 8:00-9:00</p>--}}
                         <hr>
                         <div class="d-flex justify-content-center">
-                            <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-danger text-center text-uppercase">Register</div></a>
-                                                    <a ref="/summer" class="ml-2"><div class="btn btn-primary text-center text-uppercase">Schedule</div></a>
+                            <a ref="/summer" class="ml-2"><div class="btn btn-green btn-sm text-center text-uppercase">View Schedule</div></a>
+                            <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-sm btn-aqua text-center text-uppercase">Register</div></a>
                         </div>
                     </div>
                 </div>
@@ -418,8 +490,9 @@
                             <p class="m-0 text-center"><strong>Modern</strong></p>
                             <hr>
                             <div class="d-flex justify-content-center">
-                                <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-danger text-center text-uppercase">Register</div></a>
-                                <a href="/summer" class="ml-2"><div class="btn btn-primary text-center text-uppercase">Schedule</div></a>
+                                <a href="/summer" class="ml-2"><div class="btn btn-green btn-sm text-center text-uppercase">View Schedule</div></a>
+                                <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-sm btn-aqua text-center text-uppercase">Register</div></a>
+
                             </div>
                         </div>
                     </div>
@@ -431,8 +504,9 @@
                             <p class="m-0 text-center"><strong>Man in Motion</strong></p>
                             <hr>
                             <div class="d-flex justify-content-center">
-                                <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-danger text-center text-uppercase">Register</div></a>
-                                <a href="/summer" class="ml-2"><div class="btn btn-primary text-center text-uppercase">Schedule</div></a>
+                                <a href="/summer" class="ml-2"><div class="btn btn-green btn-sm text-center text-uppercase">View Schedule</div></a>
+                                <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-sm btn-aqua text-center text-uppercase">Register</div></a>
+
                             </div>
                         </div>
                     </div>
@@ -444,7 +518,7 @@
                             <p class="m-0 text-center"><strong>Ballet La Crosse</strong></p>
                             <hr>
                             <div class="d-flex justify-content-center">
-                                <a href="https://www.balletlacrosse.com/" target="_blank"><div class="btn btn-danger text-center text-uppercase">More Info</div></a>
+                                <a href="https://www.balletlacrosse.com/" target="_blank"><div class="btn btn-aqua btn-sm text-center text-uppercase">More Info</div></a>
                             </div>
                         </div>
                     </div>
@@ -456,7 +530,7 @@
                             <p class="m-0 text-center"><strong>Pre-Professional Ballet</strong></p>
                             <hr>
                             <div class="d-flex justify-content-center text-center">
-                                if interested email<br>mistysdance@gmail.com
+                                for more information email:<br>mistysdance@gmail.com
                             </div>
                         </div>
                     </div>
@@ -468,12 +542,12 @@
     <div id="trial-section" class="pb-3">
         <div class="container">
             <div class="row">
-                <div class="col-sm-12">
+                <div class="col-sm-12 text-center">
                     <h4 class="mt-5 mb-4">We Have Built a Reputation for Excellence in Dance Instruction</h4>
                     <p class="mb-5">From your child’s first class to their graduation performance, MDU has a class for everyone! We specialize in beginners of all ages and offer training through pre-professional levels. But, MDU is More Than Just Great Dancing®! Our dancers go beyond technique to develop important life skills, learning to be respectful, confident and conscientious young people who share their gifts and talents with the community.</p>
                 </div>
 {{--                <div class="col-sm-4 d-flex justify-content-center align-items-center">--}}
-{{--                    <div class="btn btn-danger">Try Your First Class Free!</div>--}}
+{{--                    <div class="btn btn-aqua">Try Your First Class Free!</div>--}}
 {{--                </div>--}}
             </div>
         </div>

@@ -3,7 +3,7 @@
         <div class="card-header text-center bg-danger" id="headingOne">
             <h2 class="mb-0">
                 <button class="btn btn-link text-white" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                    Update: First Steps Back
+                    Update: COVID-19
                 </button>
             </h2>
         </div>
