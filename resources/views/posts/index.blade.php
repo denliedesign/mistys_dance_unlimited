@@ -21,13 +21,14 @@
                         <a href="/posts/{{ $post->id }}">
                             <img src="{{ asset('/storage/' . $post->image) }}" class="card-img-top" alt="...">
                         </a>
-                        <div class="card-body">
-                            <h5 class="card-title text-center text-uppercase font-weight-bold">{{ $post->title }}</h5>
-                            <p class="card-text">{!! strip_tags(substr($post->content, 0, 125)) . '...' !!}</p>
-                        </div>
+{{--                        <div class="card-body">--}}
+{{--                            <h5 class="card-title text-center text-uppercase font-weight-bold">{{ $post->title }}</h5>--}}
+{{--                            <p class="card-text">{!! strip_tags(substr($post->content, 0, 125)) . '...' !!}</p>--}}
+{{--                        </div>--}}
+                        @can('update', \App\Post::class)
                         <div class="card-footer">
-                            <p class="card-text"><small>{{ $post->shown->format('M d, Y') }}</small></p>
-                            @can('update', \App\Post::class)
+{{--                            <p class="card-text"><small>{{ $post->shown->format('M d, Y') }}</small></p>--}}
+
                                 <div class="admin-controls d-flex justify-content-center align-items-center pb-2">
                                     <div><a href="/posts/{{ $post->id }}/edit">Edit Post</a></div>
                                     <div>
@@ -39,8 +40,9 @@
                                         </form>
                                     </div>
                                 </div>
-                            @endcan
+
                         </div>
+                        @endcan
                     </div>
                 @endforeach
             </div>
