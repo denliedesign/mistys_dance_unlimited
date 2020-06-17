@@ -13,23 +13,27 @@
 
             <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
                 <div class="card-body">
-                    Dear MDU Family,
+                    <strong><u>Studio Closed Wednesday, June 18 - Sunday, June 22</u></strong>
                     <br><br>
-                    Two weeks ago we took our first steps towards re-opening our facility by serving ONE family at a time at our Red Carpet Recitals!
+                    MDU has been working closely with La Crosse County Health Department leaders and adhering to their guidelines since the beginning of the COVID-19 situation. This week, I had another call with them to make sure our opening and operational plans were above and beyond community health expectations (which they were<3).
                     <br><br>
-                    Next week we take forward by serving TWO rooms at a time (which is less than we had on opening day 23 years ago:).
-                    <br>I know so many of our students are busting at the seems to get back (and parents might be more than ready to get their kids out of the house!) but we are sticking with our staggered and structured re-opening, one baby step at a time.
+                    Today, Wednesday, June 17, the La Crosse County Health Department changed the status of our county on the Coulee COVID-19 Compass from “orange” to “red”.  While the associated changes are recommendations and NOT mandates, we would rather be “safe than sorry” as my dad always used to say.  To that end, the programming for summer classes that were set to start today and tomorrow <strong>will begin next week instead</strong> and be extended accordingly by one week.
                     <br><br>
-                    And, by baby steps, I mean BABY steps.  We are still 50% online for June and of the programs we are offering on-site, we are only opening 28% of our classrooms.
-                    <br>Please see our <a href="/articles/9">June Newsletter</a> for additional information regarding our first steps back into the classroom and thank you for your patience as we build our program back one step at a time &#9829;.
-                    <br>Please check the MDU website before your class for the stop-and-go light indicator in the upper right-hand corner which indicates the status of classes.
-                    <br>Sincerely,
-                    <br>Misty Lown
+                    Our website and social media will be updated regarding the status of classes on Monday, June 22nd at 12pm.  If our county is still “red” according to the Compass, we will host our classes via online distance learning until we return to “orange”.
+                    <br><br>
+                    My appreciation goes to our management team who built a flexible schedule to adapt to any circumstance. Our hope is that our community will work together over the rest of the week and weekend to stay home when possible and help our county to “return to orange” so our kids can return to in-person classes next week. They’ve waited so long, please help by staying home when possible. <3
+                    <br><br>
+                    Thank you AGAIN for your support.  Our staff, our students, and families thank you!
+                    <br><br>
+                    Sincerely,
+                    <br><br>
+                    Misty Lown
                     <hr>
                     <br><br>
                     COVID-19 Message Archive
                     <ul>
-                        {{--                    <li><a href="/covid-19/6-10-20">6-10-20</a></li>--}}
+{{--                        <li><a href="/covid-19/6-17-20">6-17-20</a></li>--}}
+                        <li><a href="/covid-19/6-10-20">6-10-20</a></li>
                         <li><a href="/covid-19/5-15-20">5-15-20</a></li>
                         <li><a href="/covid-19/4-28-20">4-28-20</a></li>
                         <li><a href="/covid-19/4-15-20">4-15-20</a></li>
