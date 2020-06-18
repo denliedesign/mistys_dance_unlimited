@@ -6,7 +6,7 @@
         <div class="banner"></div>
     </div>
 
-    <h3 class="text-center py-5">Promotions</h3>
+    <h3 class="text-center py-5">Tutu Fun Run</h3>
     @can('update', \App\Promotion::class)
         <p class="text-center"><a href="promotions/create">New Promotion</a></p>
     @endcan

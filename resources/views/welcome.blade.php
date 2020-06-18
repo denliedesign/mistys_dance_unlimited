@@ -89,7 +89,7 @@
                             <a class="nav-link" href="/fall">Fall</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="/promotions">Promotions</a>
+                            <a class="nav-link" href="/promotions">Tutu Fun Run</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="/articles">News</a>
