@@ -13,26 +13,29 @@
 
             <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
                 <div class="card-body">
-                    <strong><u>Studio Closed Wednesday, June 18 - Sunday, June 22</u></strong>
+                    Dear MDU Family,
                     <br><br>
-                    MDU has been working closely with La Crosse County Health Department leaders and adhering to their guidelines since the beginning of the COVID-19 situation. This week, I had another call with them to make sure our opening and operational plans were above and beyond community health expectations (which they were<3).
+                    As you know, we voluntarily closed our business last Wednesday when the La Crosse County Coulee COVID-19 Compass turned to RED. It was our hope that our community would band together to stay home and help curb the growing numbers of positive test results.
                     <br><br>
-                    Today, Wednesday, June 17, the La Crosse County Health Department changed the status of our county on the Coulee COVID-19 Compass from “orange” to “red”.  While the associated changes are recommendations and NOT mandates, we would rather be “safe than sorry” as my dad always used to say.  To that end, the programming for summer classes that were set to start today and tomorrow <strong>will begin next week instead</strong> and be extended accordingly by one week.
+                    As of yesterday afternoon, the Coulee Covid-19 Compass remains in RED for our county. <strong>To help our community stay healthy and safe, MDU classes for the week of June 22-27 will be held ONLINE.</strong>  All private lessons and skills tests will be rescheduled. Please look for an individual email if that pertains to you <3.
                     <br><br>
-                    Our website and social media will be updated regarding the status of classes on Monday, June 22nd at 12pm.  If our county is still “red” according to the Compass, we will host our classes via online distance learning until we return to “orange”.
+                    We have been asked we will open back up if Coulee COVID-19 Compass goes to ORANGE later this week. The answer is that we will not. We feel strongly that our families and teachers need to be able to make plans for the week and that would not be good to wake up each day wondering and waiting for an announcement of what life will look like for the day. To that end, <strong>we will be making our decisions on the status of summer classes on a week-by-week basis.</strong>  A decision about the status of each week’s classes will be announced Sunday nights at 6pm.
                     <br><br>
-                    My appreciation goes to our management team who built a flexible schedule to adapt to any circumstance. Our hope is that our community will work together over the rest of the week and weekend to stay home when possible and help our county to “return to orange” so our kids can return to in-person classes next week. They’ve waited so long, please help by staying home when possible. <3
+                    <strong>Please check your email for online zoom links to your classes this week.</strong>
                     <br><br>
-                    Thank you AGAIN for your support.  Our staff, our students, and families thank you!
+                    Thank you for your support as we seek to do our part to continue to serve our students while being good stewards of community health and our continued support efforts for our students and staff.
                     <br><br>
-                    Sincerely,
+                    We appreciate our MDU families more than words can express and we can't wait to see you again in person some day.
+                    <br><br>
+                    In partnership,
                     <br><br>
                     Misty Lown
                     <hr>
                     <br><br>
                     COVID-19 Message Archive
                     <ul>
-{{--                        <li><a href="/covid-19/6-17-20">6-17-20</a></li>--}}
+{{--                        <li><a href="/covid-19/6-22-20">6-22-20</a></li>--}}
+                        <li><a href="/covid-19/6-17-20">6-17-20</a></li>
                         <li><a href="/covid-19/6-10-20">6-10-20</a></li>
                         <li><a href="/covid-19/5-15-20">5-15-20</a></li>
                         <li><a href="/covid-19/4-28-20">4-28-20</a></li>

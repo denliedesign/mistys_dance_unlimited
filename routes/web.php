@@ -211,6 +211,10 @@ Route::get('/covid-19/6-17-20', function () {
     return view('covid-19.6-17-20');
 });
 
+Route::get('/covid-19/6-22-20', function () {
+    return view('covid-19.6-22-20');
+});
+
 Route::get('/quiz', function () {
     return view('quiz.index');
 });
