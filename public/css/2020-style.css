@@ -44,15 +44,15 @@
 .red-light {
     background: red;
     border: 2px solid red;
-    opacity: 100%;
-    filter: brightness(125%) blur(1px);
+    opacity: 25%;
+    filter: brightness(25%) blur(0);
 }
 
 .yellow-light {
     background: yellow;
     border: 2px solid yellow;
-    opacity: 25%;
-    filter: brightness(25%) blur(0);
+    opacity: 100%;
+    filter: brightness(125%) blur(1px);
 }
 
 .green-light {
@@ -62,7 +62,7 @@
     filter: brightness(25%) blur(0);
 }
 
-.red-light:hover {
+.yellow-light:hover {
     transform: scale(1.1);
 }
 
