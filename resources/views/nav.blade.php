@@ -10,30 +10,35 @@
 
         <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
             <div class="card-body">
-                <strong>Dear MDU Families,</strong>
+                Dear MDU Family,
                 <br><br>
-                As you know, last Wednesday when the Coulee COVID-19 Compass turned red, we voluntarily closed our studio classes to support community health and our teachers have been serving our students enthusiastically online this week.  We have also been working in cooperation with the La Crosse County Health Department to create a path forward to support student learning under all circumstances.
+                Today is a great day!  Today, our studio will have a modified opening, an event that our staff and students have been looking forward to for 12 days during our recent voluntary closure to support community health.
                 <br><br>
-                This afternoon we had a good discussion with the La Crosse County Health Department about the safety standards that we have in place at the studio.  As a result of this discussion, the La Crosse County Health Department is in support of MDU opening for <u>modified live classes</u> at the studio next week, <u>with a Zoom video feed</u> from the studio for those who prefer to, or need to, keep learning at home.
+                We are pleased to share that our Safer Studio™ plans have earned the support of the La Crosse County Health Department which allows us to offer service continuity going forward.  What does that mean? It means that means the plans and precautions we have put into place support our ability to hold in-person classes with modifications - even during “red”.
                 <br><br>
-                <strong>Please note:</strong>
+                The response to our planning and communication has been overwhelmingly positive and we are pleased to be able to offer you two ways to dance this week:
+                <br><br>
                 <ol>
-                    <li>We are finishing all classes for this week (6/22 - 6/27) ONLINE as previously announced.</li>
-                    <li>Next week (6/29 - 7/3) we will offer modified live classes at the studio with a zoom feed option from the classroom for those who prefer to, or need to, keep learning at home.</li>
+                    <li>You can join us for <strong>in-person classes</strong>, which will be limited to 9 students per class; or</li>
+                    <li>If you are uncomfortable attending in-person classes, you are welcome to learn-at-home with our new <strong>live-streamed classes</strong> via Zoom.  Please check your email for at-home participation zoom links to your classes.</li>
                 </ol>
-                As you may recall when we started our summer term on June 15, assembly guidelines from the country allowed for 15 students in a class.  We will be reducing that to 9 students for next week’s classes.  Please note, there will be NO changes to the schedules - we will just split any class that has more than 9 students enrolled and add teachers as needed <3.  Please refer to our June term re-opening policies for full details.
+                The County has expressed their appreciation for our continued efforts to support community health by offering a variety of ways for students to continue to dance safely.  After all, health is not just about avoiding sickness. It’s also about building strong bodies, minds, and hearts - something that happens in each and every class at MDU!
                 <br><br>
-                We will continue to follow the More Than Just Great Dancing!® Safer Studio™ guidelines for operations and the Youth Protection Advocates in Dance® Studio Sanitation guidelines for cleaning. Our teachers will continue to be well checked before attending class and be wearing masks.  As always we ask families with any symptoms of illness of any kind to dance at home <3.
+                That said, you are probably aware that the number of positive COVID-19 cases in the County has increased significantly in the past few weeks.  It probably also goes without saying that we are a school, and schools are going to experience reports of COVID-19 exposure as they welcome back their staff and students.  The County has assured me that single reports of exposure risk will not require a studio closure.  If the studio receives a report of exposure risk, the reporter will be asked to share with the County, any affected classes will be notified, and exposure-risk level cleaning will be enacted.  The County encourages those with exposure risk to self-quarantine for 14 days from the date of potential exposure.  MDU has the ability to monitor staff self-quarantine but does not have the capacity to monitor student self-quarantine. As such, parents will be asked to use their own discretion as to their comfortability returning to class or if they would rather participate from home.  There is absolutely no penalty for absence and classes may be made up in-person (space permitting) or online (anytime).  If the studio receives a cluster report of exposure risk, we will work directly with the County on the next steps.
                 <br><br>
-                In closing, I want to thank our MDU parents for your continued support and to thank the La Crosse County Health Department for their good work. I also want to encourage an environment of grace and empathy as we all navigate these challenging times.  Talk to your children about how they are feeling. Their feelings are important. Talk as a family about your comfort attending a class of up to 9 other students that would be sanitized and socially distanced - or your possible preference to learn from home next week. We support your decisions 100% and we look forward to seeing you next whether in person or online. <3
+                Thank you MDU Family, for working together to minimize risk, keep our staff and students safe, and keep our studio operational.   We continue to follow the highest standards of care and ask you to do the same.  For a full list of our re-opening procedures please see attached document.
+                <br><br>
+                Thank you again for your support!  We appreciate our MDU family every day and we can’t wait to see you this week!
                 <br><br>
                 Sincerely,
-                <br>Misty Lown
+                <br><br>
+                Misty Lown
                 <hr>
                 <br><br>
                 COVID-19 Message Archive
                 <ul>
-{{--                    <li><a href="/covid-19/6-24-20">6-24-20</a></li>--}}
+{{--                    <li><a href="/covid-19/6-29-20">6-29-20</a></li>--}}
+                    <li><a href="/covid-19/6-24-20">6-24-20</a></li>
                     <li><a href="/covid-19/6-22-20">6-22-20</a></li>
                     <li><a href="/covid-19/6-17-20">6-17-20</a></li>
                     <li><a href="/covid-19/6-10-20">6-10-20</a></li>
