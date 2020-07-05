@@ -380,7 +380,7 @@
                         <p class="m-0 text-center"><strong>Graded Technique</strong></p>
                         <hr>
                         <div class="d-flex justify-content-center">
-                            <a ref="/summer" class="ml-2"><div class="btn btn-green btn-sm text-center text-uppercase">View Schedule</div></a>
+                            <a href="/summer" class="ml-2"><div class="btn btn-green btn-sm text-center text-uppercase">View Schedule</div></a>
                             <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-sm btn-aqua text-center text-uppercase">Register</div></a>
                         </div>
                     </div>
@@ -394,7 +394,7 @@
                         {{--                        <p class="m-0 text-center text-muted">Sat 1:00-5:00</p>--}}
                         <hr>
                         <div class="d-flex justify-content-center">
-                            <a ref="/summer" class="ml-2"><div class="btn btn-green btn-sm text-center text-uppercase">View Schedule</div></a>
+                            <a href="/summer" class="ml-2"><div class="btn btn-green btn-sm text-center text-uppercase">View Schedule</div></a>
                             <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-sm btn-aqua text-center text-uppercase">Register</div></a>
                         </div>
                     </div>
