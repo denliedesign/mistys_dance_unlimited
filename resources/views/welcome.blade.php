@@ -211,12 +211,12 @@
                         <div class="box-one flip-card-front d-flex align-items-center justify-content-center text-center">
                             <div>
                                 <ion-icon name="business-outline"></ion-icon>
-                                <p>In-Studio Classes</p>
+                                <p>In-Studio Classes with Livestream Backup</p>
                             </div>
                         </div>
                         <div class="box-one flip-card-back d-flex align-items-center justify-content-center text-center">
                             <p>
-                                We offer in-studio classes with livestream backup. Dance in person with us confidently...
+                                Dance in person with us confidently. We follow the Safer Studio Standards and all of our classes are backed up on livestream in case you have to stay home.
                             </p>
                         </div>
                     </div>
@@ -245,12 +245,12 @@
                         <div class="box-two flip-card-front d-flex align-items-center justify-content-center text-center">
                             <div>
                                 <ion-icon name="play-circle-outline"></ion-icon>
-                                <p>Online Classes</p>
+                                <p>Online & Pre-Recorded Classes</p>
                             </div>
                         </div>
                         <div class="box-two flip-card-back d-flex align-items-center justify-content-center text-center">
                             <p>
-                                Not ready to dance in-studio yet? You can take an online class or pre-recorded class.
+                                Not ready to dance in-studio yet? You can take an online class or purchase a pre-recorded class to watch as many times as you like.
                             </p>
                         </div>
                     </div>
