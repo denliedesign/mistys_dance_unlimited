@@ -9,6 +9,9 @@
         </div>
 
         <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+            <div class="d-flex justify-content-center">
+                <img src="/images/safer-studio-logo.jpg" alt="" style="max-height: 175px;">
+            </div>
             <div class="card-body">
                 Dear MDU Family,
                 <br><br>

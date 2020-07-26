@@ -12,6 +12,9 @@
             </div>
 
             <div id="collapseOne" class="collapse" aria-labelledby="headingOne" data-parent="#accordionExample">
+                <div class="d-flex justify-content-center">
+                    <img src="/images/safer-studio-logo.jpg" alt="" style="max-height: 175px;">
+                </div>
                 <div class="card-body">
                     Dear MDU Family,
                     <br><br>
@@ -164,97 +167,90 @@
 
     <div class="container">
         <div class="d-none d-md-block">
-            <div id="colored-boxes" class="d-flex justify-content-between">
-                <div id="box-one" class="flip-card">
+            <div id="colored-boxes" class="d-flex justify-content-center">
+{{--                <div id="box-one" class="flip-card">--}}
+{{--                    <div class="flip-card-inner">--}}
+{{--                        <div class="box-one flip-card-front d-flex align-items-center justify-content-center text-center">--}}
+{{--                            <div>--}}
+{{--                                <ion-icon name="person-outline"></ion-icon>--}}
+{{--                                <p>Private Lessons</p>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                        <div class="box-one flip-card-back d-flex align-items-center justify-content-center text-center">--}}
+{{--                            <p>--}}
+{{--                                One-to-one instruction--}}
+{{--                                <br><u>Great for:</u>--}}
+{{--                                <br>&middot; Rapid learning & advancement--}}
+{{--                                <br>&middot; Coaching on specific skills--}}
+{{--                                <br>&middot; Complex scheduling needs--}}
+{{--                            </p>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--                <div id="box-two" class="flip-card">--}}
+{{--                    <div class="flip-card-inner">--}}
+{{--                        <div class="box-two flip-card-front d-flex align-items-center justify-content-center text-center">--}}
+{{--                            <div>--}}
+{{--                                <ion-icon name="people-outline"></ion-icon>--}}
+{{--                                <p>Semi-Private Classes</p>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                        <div class="box-two flip-card-back d-flex align-items-center justify-content-center text-center">--}}
+{{--                            <p>--}}
+{{--                                One instructor to a small group of students--}}
+{{--                                <br><u>Great for:</u>--}}
+{{--                                <br>&middot; Rapid learning & advancement--}}
+{{--                                <br>&middot; Small group--}}
+{{--                                <br>&middot; Learning challenges or health concerns--}}
+{{--                            </p>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+                <div id="box-one" class="flip-card mr-1">
                     <div class="flip-card-inner">
                         <div class="box-one flip-card-front d-flex align-items-center justify-content-center text-center">
                             <div>
-                                <ion-icon name="person-outline"></ion-icon>
-                                <p>Private Lessons</p>
+                                <ion-icon name="business-outline"></ion-icon>
+                                <p>In-Studio Classes</p>
                             </div>
                         </div>
                         <div class="box-one flip-card-back d-flex align-items-center justify-content-center text-center">
                             <p>
-                                One-to-one instruction
-                                <br><u>Great for:</u>
-                                <br>&middot; Rapid learning & advancement
-                                <br>&middot; Coaching on specific skills
-                                <br>&middot; Complex scheduling needs
+                                We offer in-studio classes with livestream backup. Dance in person with us confidently...
                             </p>
                         </div>
                     </div>
                 </div>
-                <div id="box-two" class="flip-card">
+{{--                <div id="box-four" class="flip-card">--}}
+{{--                    <div class="flip-card-inner">--}}
+{{--                        <div class="box-four flip-card-front d-flex align-items-center justify-content-center text-center">--}}
+{{--                            <div>--}}
+{{--                                <ion-icon name="videocam-outline"></ion-icon>--}}
+{{--                                <p>Online Classes</p>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                        <div class="box-four flip-card-back d-flex align-items-center justify-content-center text-center">--}}
+{{--                            <p>--}}
+{{--                                One instructor to a small group of students--}}
+{{--                                <br><u>Great for:</u>--}}
+{{--                                <br>&middot; Learning from the convenience of your own home--}}
+{{--                                <br>&middot; Makeup classes--}}
+{{--                                <br>&middot; Preference Health concerns--}}
+{{--                            </p>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+                <div id="box-two" class="flip-card ml-1">
                     <div class="flip-card-inner">
                         <div class="box-two flip-card-front d-flex align-items-center justify-content-center text-center">
                             <div>
-                                <ion-icon name="people-outline"></ion-icon>
-                                <p>Semi-Private Classes</p>
+                                <ion-icon name="play-circle-outline"></ion-icon>
+                                <p>Online Classes</p>
                             </div>
                         </div>
                         <div class="box-two flip-card-back d-flex align-items-center justify-content-center text-center">
                             <p>
-                                One instructor to a small group of students
-                                <br><u>Great for:</u>
-                                <br>&middot; Rapid learning & advancement
-                                <br>&middot; Small group
-                                <br>&middot; Learning challenges or health concerns
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div id="box-three" class="flip-card">
-                    <div class="flip-card-inner">
-                        <div class="box-three flip-card-front d-flex align-items-center justify-content-center text-center">
-                            <div>
-                                <ion-icon name="business-outline"></ion-icon>
-                                <p>Traditional Studio Classes</p>
-                            </div>
-                        </div>
-                        <div class="box-three flip-card-back d-flex align-items-center justify-content-center text-center">
-                            <p>
-                                <u>Great for:</u>
-                                <br>&middot; A traditional classroom learning environment
-                                <br>&middot; Social-emotional learning
-                                <br>&middot; Group dynamics and choreography
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div id="box-four" class="flip-card">
-                    <div class="flip-card-inner">
-                        <div class="box-four flip-card-front d-flex align-items-center justify-content-center text-center">
-                            <div>
-                                <ion-icon name="videocam-outline"></ion-icon>
-                                <p>Online Classes</p>
-                            </div>
-                        </div>
-                        <div class="box-four flip-card-back d-flex align-items-center justify-content-center text-center">
-                            <p>
-                                One instructor to a small group of students
-                                <br><u>Great for:</u>
-                                <br>&middot; Learning from the convenience of your own home
-                                <br>&middot; Makeup classes
-                                <br>&middot; Preference Health concerns
-                            </p>
-                        </div>
-                    </div>
-                </div>
-                <div id="box-five" class="flip-card">
-                    <div class="flip-card-inner">
-                        <div class="box-five flip-card-front d-flex align-items-center justify-content-center text-center">
-                            <div>
-                                <ion-icon name="play-circle-outline"></ion-icon>
-                                <p>Prerecorded Classes</p>
-                            </div>
-                        </div>
-                        <div class="box-five flip-card-back d-flex align-items-center justify-content-center text-center">
-                            <p>
-                                One instructor to a small group of students
-                                <br><u>Great for:</u>
-                                <br>&middot; Learning at your own pace and at your own time
-                                <br>&middot; Watching as many times as you like
-                                <br>&middot; Health concerns
+                                Not ready to dance in-studio yet? You can take an online class or pre-recorded class.
                             </p>
                         </div>
                     </div>
@@ -263,39 +259,47 @@
         </div>
 
         <h5 class="text-center mt-3 mb-3">A dance class for every interest and learning preference!</h5>
-        <div id="colored-dashes" class="d-flex justify-content-around">
+        <div id="colored-dashes" class="d-flex justify-content-center">
             <div class="one-dash"></div>
             <div class="two-dash"></div>
-            <div class="three-dash"></div>
-            <div class="four-dash"></div>
-            <div class="five-dash"></div>
+{{--            <div class="three-dash"></div>--}}
+{{--            <div class="four-dash"></div>--}}
+{{--            <div class="five-dash"></div>--}}
         </div>
     </div>
 
     <div class="my-5 text-white d-none d-md-block">
         <div class="row m-0 c-0">
-            <div class="col-5 bg-light-gray px-5 py-2">
-                <h1 class="text-uppercase text-right">mdu is a safer</h1>
-                <p>MDU focuses on a hierarchy of measures to create a Safer Studio&trade; environment beginning with requiring students and staff who are ill to stay home, followed by frequent hand cleansing and good hygiene practices, amplified cleaning, and making curricular and facility adaptations to minimizing contact and mingling.</p>
-                <div class="d-flex justify-content-center">
-                    <img src="/images/safer-studio-logo.png" alt="" style="max-height: 250px;">
+            <div class="col-6 bg-light-gray pl-5 py-2">
+                <div class="container">
+                    <h1 class="text-uppercase text-right">mdu is a safer</h1>
+                    <p class="text-center">MDU focuses on a hierarchy of measures to create a Safer Studio&trade; environment beginning with requiring students and staff who are ill to stay home, followed by frequent hand cleansing and good hygiene practices, amplified cleaning, and making curricular and facility adaptations to minimizing contact and mingling.</p>
+                    <div class="d-flex justify-content-center">
+                        <img src="/images/safer-studio-logo.png" alt="" style="max-height: 200px;">
+                    </div>
                 </div>
             </div>
-            <div class="col-7 bg-mdu-gray py-2">
-                <h1 class="text-uppercase">studio&trade;</h1>
-                <p class="font-weight-bold">MDU is Youth Protection Advocates in Dance&reg; Certified!</p>
-                <p>
-                    <ion-icon name="checkmark"></ion-icon> Background checked and CPR certified teachers
-                    <br><ion-icon name="checkmark"></ion-icon> Safety Studio&trade; Policy
-                    <br><ion-icon name="checkmark"></ion-icon> Teacher training & proven curriculum
-                    <br><ion-icon name="checkmark"></ion-icon> A focus on safety & wellness for every student
-                    <br><ion-icon name="checkmark"></ion-icon> Secured facilities
-                    <br><ion-icon name="checkmark"></ion-icon> Viewing windows
-                    <br><ion-icon name="checkmark"></ion-icon> Professional sprung floors
-                    <br><ion-icon name="checkmark"></ion-icon> Social media safety practices
-                </p>
-                <div>
-                    <img src="/images/ypad-logo-rotate.png" alt="" style="height: 150px;">
+            <div class="col-6 bg-mdu-gray py-2">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm">
+                            <h1 class="text-uppercase">studio&trade;</h1>
+                            <p class="font-weight-bold">MDU is Youth Protection Advocates in Dance&reg; Certified!</p>
+                            <p>
+                                <ion-icon name="checkmark"></ion-icon> Background checked and CPR certified teachers
+                                <br><ion-icon name="checkmark"></ion-icon> Safety Studio&trade; Policy
+                                <br><ion-icon name="checkmark"></ion-icon> Teacher training & proven curriculum
+                                <br><ion-icon name="checkmark"></ion-icon> A focus on safety & wellness for every student
+                                <br><ion-icon name="checkmark"></ion-icon> Secured facilities
+                                <br><ion-icon name="checkmark"></ion-icon> Viewing windows
+                                <br><ion-icon name="checkmark"></ion-icon> Professional sprung floors
+                                <br><ion-icon name="checkmark"></ion-icon> Social media safety practices
+                            </p>
+                        </div>
+                        <div class="col-sm d-flex align-items-center justify-content-center">
+                            <img src="/images/ypad-logo-rotate.png" alt="" class="img-fluid">
+                        </div>
+                    </div>
                 </div>
             </div>
         </div>
@@ -350,10 +354,10 @@
                         <p class="m-0 text-center"><strong>Preschool Classes</strong></p>
                         {{--                        <p class="m-0 text-center text-muted">Tues 4:30-5:00</p>--}}
                         <hr>
-                        <div class="d-flex justify-content-center">
-                            <a href="/summer" class="ml-2"><div class="btn btn-green btn-sm text-center text-uppercase">View Schedule</div></a>
+                        <div class="text-center">
+                            <a href="/summer" class="ml-2"><div class="btn btn-green btn-sm text-center text-uppercase">View Summer Schedule</div></a>
+                            <a href="/fall" class="ml-2"><div class="btn btn-pink btn-sm text-center text-uppercase">View Fall Schedule</div></a>
                             <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-sm btn-aqua text-center text-uppercase">Register</div></a>
-
                         </div>
                     </div>
                 </div>
@@ -365,8 +369,9 @@
                         <p class="m-0 text-center"><strong>Early Elementary School</strong></p>
                         {{--                        <p class="m-0 text-center text-muted">Fri 5:30-6:00</p>--}}
                         <hr>
-                        <div class="d-flex justify-content-center">
-                            <a href="/summer" class="ml-2"><div class="btn btn-green btn-sm text-center text-uppercase">View Schedule</div></a>
+                        <div class="text-center">
+                            <a href="/summer" class="ml-2"><div class="btn btn-green btn-sm text-center text-uppercase">View Summer Schedule</div></a>
+                            <a href="/fall" class="ml-2"><div class="btn btn-pink btn-sm text-center text-uppercase">View Fall Schedule</div></a>
                             <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-sm btn-aqua text-center text-uppercase">Register</div></a>
 
                         </div>
@@ -379,8 +384,9 @@
                     <div class="class-card-content my-3">
                         <p class="m-0 text-center"><strong>Graded Technique</strong></p>
                         <hr>
-                        <div class="d-flex justify-content-center">
-                            <a href="/summer" class="ml-2"><div class="btn btn-green btn-sm text-center text-uppercase">View Schedule</div></a>
+                        <div class="text-center">
+                            <a href="/summer" class="ml-2"><div class="btn btn-green btn-sm text-center text-uppercase">View Summer Schedule</div></a>
+                            <a href="/fall" class="ml-2"><div class="btn btn-pink btn-sm text-center text-uppercase">View Fall Schedule</div></a>
                             <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-sm btn-aqua text-center text-uppercase">Register</div></a>
                         </div>
                     </div>
@@ -393,8 +399,9 @@
                         <p class="m-0 text-center"><strong>Boys Only Classes</strong></p>
                         {{--                        <p class="m-0 text-center text-muted">Sat 1:00-5:00</p>--}}
                         <hr>
-                        <div class="d-flex justify-content-center">
-                            <a href="/summer" class="ml-2"><div class="btn btn-green btn-sm text-center text-uppercase">View Schedule</div></a>
+                        <div class="text-center">
+                            <a href="/summer" class="ml-2"><div class="btn btn-green btn-sm text-center text-uppercase">View Summer Schedule</div></a>
+                            <a href="/fall" class="ml-2"><div class="btn btn-pink btn-sm text-center text-uppercase">View Fall Schedule</div></a>
                             <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-sm btn-aqua text-center text-uppercase">Register</div></a>
                         </div>
                     </div>
@@ -433,7 +440,7 @@
                         <p class="m-0 text-center"><strong>Ballet La Crosse</strong></p>
                         {{--                        <p class="m-0 text-center text-muted">Wed 5:00-5:30</p>--}}
                         <hr>
-                        <div class="d-flex justify-content-center">
+                        <div class="text-center">
                             <a href="https://www.balletlacrosse.com/" target="_blank"><div class="btn btn-aqua btn-sm text-center text-uppercase">More Info</div></a>
                         </div>
                     </div>
@@ -446,8 +453,9 @@
                         <p class="m-0 text-center"><strong>Adult Classes</strong></p>
                         {{--                        <p class="m-0 text-center text-muted">Wed 8:00-9:00</p>--}}
                         <hr>
-                        <div class="d-flex justify-content-center">
-                            <a ref="/summer" class="ml-2"><div class="btn btn-green btn-sm text-center text-uppercase">View Schedule</div></a>
+                        <div class="text-center">
+                            <a ref="/summer" class="ml-2"><div class="btn btn-green btn-sm text-center text-uppercase">View Summer Schedule</div></a>
+                            <a href="/fall" class="ml-2"><div class="btn btn-pink btn-sm text-center text-uppercase">View Fall Schedule</div></a>
                             <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-sm btn-aqua text-center text-uppercase">Register</div></a>
                         </div>
                     </div>
@@ -467,8 +475,8 @@
                 </div>
                 <div class="col-sm-3 text-center text-white">
                     <ion-icon name="checkmark-circle-outline"></ion-icon>
-                    <p class="achievement-number">5</p>
-                    <p class="achievement-text">Ways To Take Class</p>
+                    <p class="achievement-number">2</p>
+                    <p class="achievement-text">Ways To Take Class - <br>In-Studio & Online</p>
                 </div>
                 <div class="col-sm-3 text-center text-white">
                     <ion-icon name="body-outline"></ion-icon>
@@ -504,8 +512,9 @@
                         <div class="class-card-content my-3">
                             <p class="m-0 text-center"><strong>Modern</strong></p>
                             <hr>
-                            <div class="d-flex justify-content-center">
-                                <a href="/summer" class="ml-2"><div class="btn btn-green btn-sm text-center text-uppercase">View Schedule</div></a>
+                            <div class="text-center">
+                                <a href="/summer" class="ml-2"><div class="btn btn-green btn-sm text-center text-uppercase">View Summer Schedule</div></a>
+                                <a href="/fall" class="ml-2"><div class="btn btn-pink btn-sm text-center text-uppercase">View Fall Schedule</div></a>
                                 <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-sm btn-aqua text-center text-uppercase">Register</div></a>
 
                             </div>
@@ -518,8 +527,9 @@
                         <div class="class-card-content my-3">
                             <p class="m-0 text-center"><strong>Man in Motion</strong></p>
                             <hr>
-                            <div class="d-flex justify-content-center">
-                                <a href="/summer" class="ml-2"><div class="btn btn-green btn-sm text-center text-uppercase">View Schedule</div></a>
+                            <div class="text-center">
+                                <a href="/summer" class="ml-2"><div class="btn btn-green btn-sm text-center text-uppercase">View Summer Schedule</div></a>
+                                <a href="/fall" class="ml-2"><div class="btn btn-pink btn-sm text-center text-uppercase">View Fall Schedule</div></a>
                                 <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-sm btn-aqua text-center text-uppercase">Register</div></a>
 
                             </div>

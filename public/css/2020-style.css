@@ -229,9 +229,10 @@
 .box-four, .four-dash { background: #10c45c; }
 .box-five, .five-dash { background: #d94da6; }
 
-.btn-green { background: #10c45c !important; color: white !important; margin-right: 3px; }
+.btn-pink { background: #d94da6 !important; color: white !important; margin-bottom: 3px; }
+.btn-green { background: #10c45c !important; color: white !important; margin-bottom: 3px; }
 .btn-aqua { background: #1ec1d9 !important; color: white !important; }
-.btn-green:hover, .btn-aqua:hover { filter: brightness(90%);}
+.btn-pink:hover, .btn-green:hover, .btn-aqua:hover { filter: brightness(90%);}
 
 .bg-mdu-gray {
     background: #657380;
