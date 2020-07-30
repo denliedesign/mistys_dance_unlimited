@@ -17,33 +17,30 @@
                 </div>
                 <div class="card-body">
                     Dear MDU Family,
+                    <br><br>As you are probably aware, our local schools have changed course from last week’s school board approved plans to open both “face-to-to face + virtual instruction” to opening “virtually only” for at least the first 30 days of fall.
+                    <br><br><strong>Before I share our plans going forward, let me share this:</strong>  I have sat in (virtually) on weekly planning meetings with the schools and the County since June.  In that time I have witnessed <u>nothing short of an amazing group of professionals</u> working cooperatively and diligently to manage a challenging and continuously changing situation.  The local schools, along with our county officials, had an impossible task and made impossible decisions.  We support the decisions that have been made and we cheer on our local schools.  We will also continue to attend weekly meetings and foster good communication with our friends in public education.
+                    <br><br><strong>That said, we are going to stay on our path of gradually and responsibly opening services and learning to live in this new world.</strong>
+                    <br><br>A gradual and responsible opening has been our path since day one and we haven’t changed.  When the Wisconsin Supreme Court struck down the Governor’s Safer-at-Home order we could’ve opened back at full capacity, but we didn’t.  We stayed on our plan for a gradual and responsible opening.
+                    <br><br>And, we are staying with our plan for a gradual and responsible opening now. Because for as much as we identify with, and support, our colleagues in public education, <u>we are different</u>:
                     <br><br>
-                    Today is a great day!  Today, our studio will have a modified opening, an event that our staff and students have been looking forward to for 12 days during our recent voluntary closure to support community health.
-                    <br><br>
-                    We are pleased to share that our Safer Studio™ plans have earned the support of the La Crosse County Health Department which allows us to offer service continuity going forward.  What does that mean? It means that means the plans and precautions we have put into place support our ability to hold in-person classes with modifications - even during “red”.
-                    <br><br>
-                    The response to our planning and communication has been overwhelmingly positive and we are pleased to be able to offer you two ways to dance this week:
-                    <br><br>
-                    <ol>
-                        <li>You can join us for <strong>in-person classes</strong>, which will be limited to 9 students per class; or</li>
-                        <li>If you are uncomfortable attending in-person classes, you are welcome to learn-at-home with our new <strong>live-streamed classes</strong> via Zoom.  Please check your email for at-home participation zoom links to your classes.</li>
-                    </ol>
-                    The County has expressed their appreciation for our continued efforts to support community health by offering a variety of ways for students to continue to dance safely.  After all, health is not just about avoiding sickness. It’s also about building strong bodies, minds, and hearts - something that happens in each and every class at MDU!
-                    <br><br>
-                    That said, you are probably aware that the number of positive COVID-19 cases in the County has increased significantly in the past few weeks.  It probably also goes without saying that we are a school, and schools are going to experience reports of COVID-19 exposure as they welcome back their staff and students.  The County has assured me that single reports of exposure risk will not require a studio closure.  If the studio receives a report of exposure risk, the reporter will be asked to share with the County, any affected classes will be notified, and exposure-risk level cleaning will be enacted.  The County encourages those with exposure risk to self-quarantine for 14 days from the date of potential exposure.  MDU has the ability to monitor staff self-quarantine but does not have the capacity to monitor student self-quarantine. As such, parents will be asked to use their own discretion as to their comfortability returning to class or if they would rather participate from home.  There is absolutely no penalty for absence and classes may be made up in-person (space permitting) or online (anytime).  If the studio receives a cluster report of exposure risk, we will work directly with the County on the next steps.
-                    <br><br>
-                    Thank you MDU Family, for working together to minimize risk, keep our staff and students safe, and keep our studio operational.   We continue to follow the highest standards of care and ask you to do the same.  For a full list of our re-opening procedures please see attached document.
-                    <br><br>
-                    Thank you again for your support!  We appreciate our MDU family every day and we can’t wait to see you this week!
-                    <br><br>
-                    Sincerely,
-                    <br><br>
-                    Misty Lown
+                    <ul>
+                        <li>The public schools have 250+ “switches” that need to be adjusted each time the Coulee COVID Compass changes.  We don’t.  We have just five.</li>
+                        <li>The public schools have students in their buildings for 40+ hours per week.  We don’t.  Half our students are here for just 30 minutes per week - that’s 1% of the time they would spend in school.</li>
+                        <li>Many of our public schools have aging facilities. At only two years old our facility is equipped with modern and massive air handling capacity.</li>
+                        <li>K-12 education is compulsory.  Participation in our programs is voluntary.</li>
+                    </ul>
+                    It is because of those differences, our comprehensive planning, as well as the CDC acknowledgment of the benefits of in-person instruction that we stay on our path of gradual and responsible reopening.  According to the CDC, social interaction among children in grades K-12 is important not only for emotional wellbeing, but also for children’s language, communication, social, and interpersonal skills. A weekly dance class supports all of those functions as well as addressing the need for physical activity and creative expression.
+                    <br><br>Additionally, when we surveyed our families 93% wanted a return to traditional instruction. All summer we have been testing our systems and slowly building capacity to meet that expectation.
+                    <br><br><strong>On August 17th we will open our fall classes at 50% capacity.</strong> To learn more about our plans for fall, including an option for supported virtual academic learning during the day, please join me for an MDU Family Chat on Saturday night, August 1 at 7pm.  <a href="https://zoom.us/j/97212346027" target="_blank">Click here to attend.</a>
+                    <br><br>We hope you will consider joining us as we ALL learn how to move forward in this new world.
+                    <br><br>Respectfully,
+                    <br><br>Misty Lown
                     <hr>
                     <br><br>
                     COVID-19 Message Archive
                     <ul>
-{{--                        <li><a href="/covid-19/6-29-20">6-29-20</a></li>--}}
+{{--                        <li><a href="/covid-19/7-28-20">7-28-20</a></li>--}}
+                        <li><a href="/covid-19/6-29-20">6-29-20</a></li>
                         <li><a href="/covid-19/6-24-20">6-24-20</a></li>
                         <li><a href="/covid-19/6-22-20">6-22-20</a></li>
                         <li><a href="/covid-19/6-17-20">6-17-20</a></li>

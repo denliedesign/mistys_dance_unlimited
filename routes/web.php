@@ -127,6 +127,10 @@ Route::get('fall', function () {
     return view('fall');
 });
 
+Route::get('thirdoption', function () {
+    return view('thirdoption');
+});
+
 Route::get('community', function () {
     return view('community.index');
 });
@@ -221,6 +225,10 @@ Route::get('/covid-19/6-24-20', function () {
 
 Route::get('/covid-19/6-29-20', function () {
     return view('covid-19.6-29-20');
+});
+
+Route::get('/covid-19/7-28-20', function () {
+    return view('covid-19.7-28-20');
 });
 
 Route::get('/quiz', function () {
