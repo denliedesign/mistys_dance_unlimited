@@ -1,41 +1,29 @@
 @extends('layouts.app')
 
-@section('title', '2020-2021 Schedule | Misty\'s Dance Unlimited')
+@section('title', '2020-2021 Fall Schedule | Misty\'s Dance Unlimited')
 
 @section('content')
 
-{{--    <div class="summer-banner-wrap d-none d-md-block">--}}
-{{--        <div class="fall-banner"></div>--}}
-{{--    </div>--}}
+    <div class="banner-wrap">
+        <div class="banner"></div>
+    </div>
 
-{{--    <div class="d-block d-md-none">--}}
-{{--        <img src="images/fall1.jpg" alt="" style="width: 100%;">--}}
-{{--    </div>--}}
-
-    <div class="jumbotron jumbotron-fluid bg-aliceblue">
-        <div class="container" id="summer">
-            <h3 class="text-center"><a href="/images/2020schedule.pdf" target="_blank">2020-2021 Schedule</a></h3>
-            <div class="text-center">
-                <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><button class="btn btn-danger btn-lg">REGISTER HERE!</button></a>
+    <div class="container my-5">
+        <div class="row" id="fall-select">
+            <div class="col">
+                <a href="/fall-studio">
+                    <div class="box-three d-flex align-items-center justify-content-center">
+                        In-Studio Classes with Livestream Backup
+                    </div>
+                </a>
             </div>
-            <img src="images/fall1.jpg" alt="" class="img-thumbnail my-3">
-            <img src="images/fall2.jpg" alt="" class="img-thumbnail my-3">
-            <img src="images/fall3.jpg" alt="" class="img-thumbnail my-3">
-            <img src="images/fall4.jpg" alt="" class="img-thumbnail my-3">
-            <img src="images/fall5.jpg" alt="" class="img-thumbnail my-3">
-            <img src="images/fall6.jpg" alt="" class="img-thumbnail my-3">
-            <img src="images/fall7.jpg" alt="" class="img-thumbnail my-3">
-            <img src="images/fall8.jpg" alt="" class="img-thumbnail my-3">
-            <img src="images/fall9.jpg" alt="" class="img-thumbnail my-3">
-            <img src="images/fall10.jpg" alt="" class="img-thumbnail my-3">
-            <img src="images/fall11.jpg" alt="" class="img-thumbnail my-3">
-            <img src="images/fall12.jpg" alt="" class="img-thumbnail my-3">
-            <div class="text-center">
-                <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><button class="btn btn-danger btn-lg">REGISTER NOW!</button></a>
+            <div class="col">
+                <a href="/fall-online">
+                    <div class="box-four d-flex align-items-center justify-content-center">
+                        Online & Pre-Recorded Classes
+                    </div>
+                </a>
             </div>
-{{--            <div class="text-center">--}}
-{{--                <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login"><button class="btn btn-danger btn-lg">REGISTER NOW!</button></a>--}}
-{{--            </div>--}}
         </div>
     </div>
 
