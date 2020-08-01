@@ -6,12 +6,15 @@
         <div class="banner"></div>
     </div>
 
-    <img src="/images/third-option-learning-hub.jpg" alt="" class="img-fluid">
+    <div class="d-flex justify-content-center">
+        <img src="/images/third-option-learning-hub-2.jpg" alt="" class="img-fluid">
+    </div>
 
     <div class="container my-5">
-        <p class="text-center">
-            <br><br>Enrollment will require a $45 non-refundable enrollment fee.  Tuition will be paid weekly beginning the first week of school to allow families flexibility to re-enter school should that become an option or go back to learning from home if that becomes necessary.  We have had twice as many inquiries as space available so spaces will be available on a first-come-first-serve basis.
-            Thank you for your support!
+        <p class="text-center" style="font-size: 1.33em;">
+            Enrollment will require a $45 non-refundable enrollment fee. Weekly fees will be paid weekly on Mondays beginning the first week of school. Weekly payments to allow families flexibility to re-enter school should that become an option or go back to learning from home if that becomes necessary.  Sibling discount available. Withdraw at any time with a one week notice.
+            <br><br>
+            Registration for families seeking full day, 5 days a week placement will begin Saturday, Aug. 1 at 8am.  Registration for part-time placements begins Monday, August 3 at noon pending availability.
         </p>
         <div class="text-center">
             <a href="https://forms.gle/f4S91qDHkRNBjUwV8" target="_blank" class="mr-3"><button class="btn btn-green btn-lg">Financial & Special Educational Assistance</button></a>
