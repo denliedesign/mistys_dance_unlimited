@@ -872,4 +872,8 @@ h3 {
     text-decoration: none;
 }
 
+.btn-pink { background: #d94da6 !important; color: white !important; margin-bottom: 3px; }
+.btn-green { background: #10c45c !important; color: white !important; margin-bottom: 3px; }
+.btn-aqua { background: #1ec1d9 !important; color: white !important; }
+.btn-pink:hover, .btn-green:hover, .btn-aqua:hover { filter: brightness(90%);}
 
