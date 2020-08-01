@@ -11,7 +11,7 @@
     </div>
 
     <div class="container my-5">
-        <p class="text-center" style="font-size: 1.33em;">
+        <p class="text-center bg-dark text-white py-5" style="font-size: 1.33em;">
             Enrollment will require a $45 non-refundable enrollment fee. Weekly fees will be paid weekly on Mondays beginning the first week of school. Weekly payments allow families flexibility to re-enter school should that become an option or go back to learning from home if that becomes necessary.  Sibling discount available. Withdraw at any time with a one week notice.
             <br><br>
             Registration for families seeking full day, 5 days a week placement will begin Saturday, Aug. 1 at 8am.  Registration for part-time placements begins Monday, August 3 at noon pending availability.
