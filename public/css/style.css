@@ -68,8 +68,16 @@ h3 {
     background: #008cc0;;
 }
 
+.txt-mdu-blue {
+    color: #008cc0;;
+}
+
 .bg-mdu-red {
     background: #ed174d;
+}
+
+.txt-mdu-red {
+    color: #ed174d;
 }
 
 .bg-mdu-yellow {
@@ -877,3 +885,32 @@ h3 {
 .btn-aqua { background: #1ec1d9 !important; color: white !important; }
 .btn-pink:hover, .btn-green:hover, .btn-aqua:hover { filter: brightness(90%);}
 
+.third-bg {
+    height: 100%;
+    width: 100%;
+    background-image: url(/images/studio.jpg);
+    background-attachment: scroll;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+}
+
+.third-bg-wrap {
+    height: 100%;
+    width: 100%;
+}
+
+.ribbon-wrap {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#third-option-icon-wrap ion-icon {
+    font-size: 4em;
+    color: black;
+    /*display: block;*/
+    /*margin: 0 auto;*/
+}

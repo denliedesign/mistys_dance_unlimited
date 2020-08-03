@@ -136,9 +136,16 @@ Route::get('fall-online', function () {
 });
 
 
-
 Route::get('thirdoption', function () {
     return view('thirdoption');
+});
+
+Route::get('thirdoption-temp', function () {
+    return view('thirdoption-temp');
+});
+
+Route::get('thirdoption-faq', function () {
+    return view('thirdoption-faq');
 });
 
 Route::get('community', function () {
