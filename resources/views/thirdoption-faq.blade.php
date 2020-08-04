@@ -83,6 +83,9 @@
                    <br><br>
                    Please note: A one week notice is required to withdraw.
                    <br><br>
+                   <strong>Sibling Discounts</strong>
+                   <br>Yes! We do have a sibling discount for this program of 30%. So if you have one child in 4th grade and one in 2nd and you are choosing part-time programming, you would pay $25/day for the first child and $17.50/day for the 2nd child.
+                   <br><br>
                    <strong>Why is there a fee?</strong>
                    <br>Weekly fees are charged to cover expenses such as the hiring of staff, background checks, training, administration, equipment, wifi, materials, cleaning and space.
                    <br><br>

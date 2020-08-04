@@ -67,9 +67,9 @@
 
     <div class="container mb-5">
         <p class="text-center bg-dark text-white py-5" style="font-size: 1.33em;">
-            Enrollment will require a $45 non-refundable enrollment fee. Weekly fees will be paid weekly on Mondays beginning the first week of school. Weekly payments allow families flexibility to re-enter school should that become an option or go back to learning from home if that becomes necessary.  Sibling discount available. Withdraw at any time with a one week notice.
+            Enrollment will require a $45 non-refundable enrollment fee. Fees paid weekly. Cancel at any time with a one week notice. A sibling discount of 30% is available. Complimentary early drop off and late pick up are available for an hour on either side of programming. Additional surround care is offered at just $5/per hour.
             <br><br>
-            Registration for families seeking full day, 5 days a week placement will begin Saturday, Aug. 1 at 8am.  Registration for part-time placements begins Monday, August 3 at noon pending availability.
+            Registration is now open for full-time and part-time students!
         </p>
         <div class="text-center">
             <a href="https://forms.gle/f4S91qDHkRNBjUwV8" target="_blank" class="mr-4"><button style="font-size: 1.5em;" class="font-weight-bold p-4 btn btn-green btn-lg">Financial & Special Educational Assistance</button></a>
