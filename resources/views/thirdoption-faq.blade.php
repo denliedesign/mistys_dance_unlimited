@@ -29,7 +29,7 @@
                    at home.
                    <br><br>
                    <strong>Is this only for children in the CRVA?</strong>
-                   <br>We explored many models of service, including a hybrid of CRVA + 30-day virtual only students, but as of now, not enough information is available from the schools regarding the compatibility of those schedules and platforms. We are going to focus on serving only students enrolled in the CRVA at this time. To enroll in the CRVA click here. (It will say Holmen, but there will be a place to indicate your home school in the form). If the schools release new information that expands our understanding of how we can serve both well, or if we find other community partners/locations to expand service, we will provide an update.
+                   <br>We will be open all of the first semester to serve CRVA students.  But we also have space to serve families who need support for the 30-day virtual start to school.
                    <br><br>
                    <strong>How is Third Option™ Learning Hub different from a school?</strong>
                    <br>Third Option™ Learning Hub is a service offering at Misty’s Dance Unlimited, LLC, an independent youth learning facility, which does not operate under the same guidelines as public schools. As a private organization, we are able to set our own class sizes, educational best practices and standards of care. Misty’s Dance Unlimited, LLC follows our national association guidelines and is independently youth protection certified.

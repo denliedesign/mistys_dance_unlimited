@@ -28,8 +28,8 @@
                         <ion-icon name="time-outline"></ion-icon>
                         <p>
                             <strong>Schedule Options</strong>
-                            <br>Half Day - $25/day
-                            <br>Full Day - $39/day
+                            <br>Half Day - $25/day ($8.33/hr)
+                            <br>Full Day - $39/day ($6.50/hr)
                             <br>Financial Assistance Available
                         </p>
                     </div>
@@ -71,7 +71,41 @@
             <br><br>
             Registration is now open for full-time and part-time students!
         </p>
-        <div class="text-center">
+    </div>
+
+    <div class="container my-5">
+        <div class="row">
+            <div class="col-sm d-flex align-items-center">
+                <div>
+                    <h1 class="txt-mdu-red text-capitalize">Choose the right level of support for your learner</h1>
+                    Now offering:
+                    <br><br>
+                    <ul id="thirdoption-list">
+                        <li> ✔️Morning-only</li>
+
+                        <li> ✔️Full-school-day</li>
+
+                        <li> ✔️Choose 2, 3, or 5 days per week</li>
+
+                        <li> ✔️CRVA or 30-Day virtual school start support</li>
+
+                        <li> ✔️Enrichment activities</li>
+
+                        <li> ✔️Sibling discounts</li>
+
+                        <li> ✔️Complimentary surround care</li>
+
+                        <li> ✔️No long term commitments - cancel at anytime</li>
+                    </ul>
+                    Our learning hub offers live, in-person support from our Instructional Guides for as little as $6.50/hour. Financial assistance is available. Enroll today!
+
+                </div>
+            </div>
+            <div class="col-sm d-flex align-items-center">
+                <img src="/images/thirdoption-arts.jpg" alt="kid coloring" class="img-fluid">
+            </div>
+        </div>
+        <div class="text-center my-5">
             <a href="https://forms.gle/f4S91qDHkRNBjUwV8" target="_blank" class="mr-4"><button style="font-size: 1.5em;" class="font-weight-bold p-4 btn btn-green btn-lg">Financial & Special Educational Assistance</button></a>
             <a href="/thirdoption-faq" class="mr-4"><button style="font-size: 1.5em;" class="font-weight-bold p-4 btn btn-aqua btn-lg">FAQ</button></a>
             <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><button style="font-size: 1.5em;" class="font-weight-bold p-4 btn btn-danger btn-lg">REGISTER NOW!</button></a>
