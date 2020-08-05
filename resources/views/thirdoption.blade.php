@@ -15,12 +15,15 @@
                 <h1 class="txt-mdu-red">Supporting Families</h1>
                 <h1 class="txt-mdu-red">Supporting Schools</h1>
                 <p>
-                    According to Stephen R. Covey, it's possible to “transcend traditional solutions by forging a path toward a third option. A third alternative moves beyond this way or that way to a higher and better way—a far better place than either had envisioned.”
+                    Introducing: Third Option™ Learning Hub!
                     <br><br>
-                    Third Option™ Learning Hub is a way we can support local schools by keeping enrollments in local districts via Coulee Region Virtual Academy. It's also a way to offer support for parents who may be  looking for more help and socialization than may be available at home.
+                    Looking for another option to support your child’s virtual learning this fall? Trying to figure out how to balance work and home-learning?  Do you value quality instructors and enrichment activities for your child? Check out Third Option™ Learning Hub at MDU for support for your CRVA or 30-day virtual school start student!
                     <br><br>
-                    Special educational needs may be supported with cooperation from the La Crosse area Autism Foundation. Needs based financial assistance available.
-                </p>
+                    Third Option™ was designed to support Coulee Region Virtual Academy and can also support 30-day virtual school start students! Classes will be held inside MDU’s bright and cheery studio spaces. Socialize safely in our full or part-time program.  Choose the right level of support for your learner.
+                    <br><br>
+                    Special educational needs may be supported with cooperation from the La Crosse Area Autism Foundation. Financial assistance is available. Enroll today!
+                    <br><br>
+                    “Transcend traditional solutions by forging a path toward a third option. A third alternative moves beyond this way or that way to a higher and better way—a far better place than either had envisioned.” - Stephen R. Covey                </p>
             </div>
             <div class="col-sm d-flex align-items-center">
                 <div class="row row-cols-2 row-cols-lg-2 text-center" id="third-option-icon-wrap">
