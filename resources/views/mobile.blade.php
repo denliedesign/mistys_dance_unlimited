@@ -41,6 +41,9 @@
                         <a class="nav-link" href="/fall">Fall</a>
                     </li>
                     <li class="nav-item">
+                        <a class="nav-link" href="/thirdoption">Third Option™ Learning Hub</a>
+                    </li>
+                    <li class="nav-item">
                         <a class="nav-link" href="/promotions">Promotions</a>
                     </li>
                     <li class="nav-item">
