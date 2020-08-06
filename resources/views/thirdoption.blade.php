@@ -31,9 +31,9 @@
                         <ion-icon name="time-outline"></ion-icon>
                         <p>
                             <strong>Schedule Options</strong>
-                            <br>Half Day - $25/day ($8.33/hr)
-                            <br>Full Day - $39/day ($6.50/hr)
-                            <br>Financial Assistance Available
+                            <br>School Day - 8:30am-2:30pm
+                            <br>Mornings - 8:30am-11:30am
+                            <br>Surround-care for one hour before and after.
                         </p>
                     </div>
                     <div class="col-sm">
@@ -67,6 +67,15 @@
                             <strong>Enrichment Activities</strong>
                             <br>Explore our afternoon enrichment activities including
                             <br>art, crafts, dance, yoga, acting, science experiments, and more!
+                        </p>
+                    </div>
+                    <div class="col-sm">
+                        <ion-icon name="card-outline"></ion-icon>
+                        <p>
+                            <strong>Fees</strong>
+                            <br>Half Day - $25/day ($8.33/hr)
+                            <br>Full Day - $39/day ($6.50/hr)
+                            <br>Financial Assistance Available <ion-icon name="heart" id="heart-icon"></ion-icon>
                         </p>
                     </div>
                 </div>

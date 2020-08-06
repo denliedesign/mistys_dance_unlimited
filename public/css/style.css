@@ -918,3 +918,8 @@ h3 {
 #thirdoption-list {
     list-style-type: none;
 }
+
+#heart-icon {
+    font-size: 0.75em !important;
+    color: #ed174d !important;
+}
