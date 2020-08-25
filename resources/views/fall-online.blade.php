@@ -19,6 +19,7 @@
             <br>Tap ¾-  5:45-6:30pm
             <br>Grown Up Grooves- <span id="red-mdu-span">FREE ADULT CLASS</span> 1st Wednesday of each Month @ 7pm
             <br><br><strong>Thursdays</strong>
+            <br>Fairytale Ballet (3-4 year olds)- 5:30-6:00pm
             <br>Storybook Ballet (4-5 year olds)- 6:00-6:30pm
             <br>Beg/Building Ballet (2nd and 3rd Graders)- 6:30-7:00pm
             <br>Beg/Building Tap (2nd and 3rd Graders)- 7:00-7:30pm
