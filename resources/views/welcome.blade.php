@@ -6,7 +6,7 @@
             <div class="card-header text-center bg-danger" id="headingOne">
                 <h2 class="mb-0">
                     <button class="btn btn-link text-white" type="button" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                        Update: COVID-19
+                        Safer Studio™ Policy 9/1/2020
                     </button>
                 </h2>
             </div>
@@ -16,35 +16,65 @@
                     <img src="/images/safer-studio-logo.jpg" alt="" style="max-height: 175px;">
                 </div>
                 <div class="card-body">
-                    Dear MDU Family,
-                    <br><br>
-                    Today was another big day in State and Local news.
-                    <br><br>
-                    <strong>Here's the OFFICIAL news:</strong>
-                    <br>Today Governor Evers issued Executive Order 82 and Emergency Order 1 "calling on all Wisconsinites to join in the collective effort to stop the devastating impact of COVID-19 by wearing a face covering, not harassing or threatening Wisconsinites who wear a face covering, and showing patience and compassion for those who are unable to wear a face-covering safely."
-                    <br>Parents, according to Gov. Ever's Executive Order 82 and Emergency Order 1, please send your kiddos who are age 5 and older to dance in a cloth face-covering unless you have an exception.  If you don't have one and need one, we will provide a blue paper one for you like the kind they have at the local clinics:).
-                    <br><br><strong>Here's the MDU way:</strong>
-                    <ul>
-                        <li>
-                            Let's give our best <strong>EFFORT</strong> to be supporters of this change!  Most of us CAN mask up and it's no biggie. Our teachers have been masked up and teaching their hearts out for two months already. The Executive Order EXPECTS this. <3
+                    {{-- start message here --}}
+
+                    <strong>
+                        At Misty’s Dance Unlimited, LLC (MDU) the health and safety of our members’ staff, students, guests, and communities have always been our highest priority;
+                    </strong>
+                    <br>a commitment that has only been heightened at this time in history.  That’s why we have used local and national guidelines to inform our best practices for service continuity and re-opening.
+                    <br>
+                    <br>Because dance meets imperative student needs for physical, social, and emotional well being, we are committed to helping our staff and students navigate reopening. We follow the Safer Studio™ standards put forth by our national association, More Than Just Great Dancing!® along with the utmost care and consultation of our local health departments and locally available information.
+                    <br>
+                    <br><strong>Governmental Regulations</strong>
+                    <br>MDU follows the Governor’s Executive Order #82, which mandates the use of masks inside buildings and advocates the same for clients until Sept. 28.  We also adhere to the Governor’s Emergency Order #1, which allows for exceptions.
+                    <br>
+                    <br><strong>Education</strong>
+                    <br>MDU staff, parents, and dancers are informed about the symptoms of COVID-19 including, fever, cough, shortness of breath, diarrhea (watery), sore throat/congestion, headache, chills, muscle and joint pain (multiple), nausea or vomiting and, loss of sense of smell.
+                    <br>
+                    <br>Dancers and staff should STAY HOME if they have any symptoms of COVID-19. They should also notify the studio owners/administrators and contact healthcare providers if they develop symptoms.  If in doubt, sit them out.
+                    <br>
+                    <br><strong>Return to Training</strong>
+                    <ol>
+                        <li>MDU follows a <strong>phased approach</strong> to reopening physical services.
                         </li>
-                        <li>
-                            Let's also give our best <strong>GRACE</strong> to the kiddo who CAN'T wear the mask!  A small number of our peers and students cannot mask up a variety of reasons and the Emergency Order PROTECTS this. <3
+                        <li>MDU’s reopening plan:
                         </li>
-                    </ul>
-                    In a world that is increasingly changing, <strong>BEST-EFFORT + GRACE is a winning model</strong> for our kids <3.  Our youth need the caring adults in their lives to be steady more than ever. Hang in there, parents. You've got this and we support you!  We will get through this together!
-                    <br><br>
-                    In partnership,
+                            <ol type="a">
+                                <li><strong>Reinforces an attendance policy</strong> that does not allow employees to work when sick or students to attend classes when sick.
+                                </li>
+                                <li><strong>Reinforces of proper hygiene and health standards</strong> with all staff members and students, including frequent handwashing and/or sanitizing, not touching the face, and sneezing and/or coughing into elbows.
+                                </li>
+                                <li><strong>Increases frequency of sanitation</strong> in high traffic areas and high touch surfaces of the studio such as barres, floors, counters, stereos, and bathrooms/locker areas.
+                                </li>
+                                <li><strong>Adjusts studio operations</strong> based on public health guidelines and recommendations regarding PPE, assembly/gathering/occupancy size, and social distancing where possible and practical.
+                                </li>
+                                <li><strong>Adjusts curriculum</strong> and teacher training to reduce or eliminate hand-holding, equipment-sharing, and mingling where possible and practical.
+                                </li>
+                                <li><strong>Communicates a clear policy for each phase of opening</strong> regarding student drop-off and pick-up, lobby availability, and amenity use.
+                                </li>
+                            </ol>
+                        <li>MDU has a <strong>variety of service options</strong> available including private instruction, small group instruction, traditional classes, and online instruction where possible and practical, to meet the needs of students and staff as well as for the ability to maintain service continuity in any situation.
+                        </li>
+                        <li>MDU has a clear <strong>system of communicating</strong> the status of classes, such as a “green, yellow, red” protocol. Green indicates it is safe to attend face-to-face classes. Yellow indicates a cautionary change to service delivery. Red indicates clients should stay home and attend class online.
+                        </li>
+                        <li>MDU understands that unlike older children and adults, young children cannot be expected to maintain social distancing at all times. Therefore, we focus on a <strong>hierarchy of measures</strong> beginning with avoiding contact with anyone with symptoms, frequent hand cleaning and good hygiene practices, amplified cleaning, and minimizing contact and mingling.
+                        </li>
+                        <li>If MDU receives a report of exposure risk, any affected classes will be notified, and exposure-risk level cleaning will be enacted.  There is <u>absolutely no penalty for absence</u> and classes may be made up in-person (space permitting) or online (anytime).
+                        </li>
+                    </ol>
+
+                    <br><strong>Additional Considerations</strong>
+                    <br>As MDU we are proud of the work our team has done since 1999 to create the highest quality experiences and environments for our staff, students, and guests.  Because of this groundwork, and the strength of our network, we believe our studio is in a strong position for a gradual and responsibly phased reopening. We are honored to continue to serve our community in this time.
+                    <br>
+                    <br>Sincerely,
                     <br>Misty Lown
-                    <br><br>
-                    PS Please note the Emergency Order still allows for our teachers to drop their masks for a moment to give instructions from an appropriate distance of more than 6 ft. which greatly increases classroom comprehension.   <3
-                    <br>PPS Don't forget to join me Saturday, August 1 at 7pm for a MDU Back-to-School Family Chat where I will share more details about what fall will look like.  We've got great things going on and I can't wait to share them with you.  Join here:
-                    <a href="https://zoom.us/j/97212346027" target="_blank">https://zoom.us/j/97212346027</a>
+                    {{-- end message here --}}
                     <hr>
                     <br><br>
                     COVID-19 Message Archive
                     <ul>
-{{--                        <li><a href="/covid-19/7-30-20">7-30-20</a></li>--}}
+{{--                        <li><a href="/covid-19/9-1-20">9-1-20</a></li>--}}
+                        <li><a href="/covid-19/7-30-20">7-30-20</a></li>
                         <li><a href="/covid-19/7-28-20">7-28-20</a></li>
                         <li><a href="/covid-19/6-29-20">6-29-20</a></li>
                         <li><a href="/covid-19/6-24-20">6-24-20</a></li>
@@ -98,9 +128,6 @@
                     <ul class="navbar-nav">
                         <li class="nav-item active">
                             <a class="nav-link" href="/aboutus">About Us</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="/summer">Summer</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="/fall">Fall</a>
@@ -351,7 +378,7 @@
     </div>
 
     <div class="container">
-        <h2 class="my-5 font-weight-bold text-uppercase">Summer & Fall Classes</h2>
+        <h2 class="my-5 font-weight-bold text-uppercase">Fall Classes</h2>
         <div class="row row-cols-1 row-cols-md-2 row-cols-lg-4 mb-5">
             <div class="col px-2 pb-3">
                 <div class="class-card-wrap border border-muted">
@@ -361,7 +388,6 @@
                         {{--                        <p class="m-0 text-center text-muted">Tues 4:30-5:00</p>--}}
                         <hr>
                         <div class="text-center">
-                            <a href="/summer" class="ml-2"><div class="btn btn-green btn-sm text-center text-uppercase">View Summer Schedule</div></a>
                             <a href="/fall" class="ml-2"><div class="btn btn-pink btn-sm text-center text-uppercase">View Fall Schedule</div></a>
                             <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-sm btn-aqua text-center text-uppercase">Register</div></a>
                         </div>
@@ -376,7 +402,6 @@
                         {{--                        <p class="m-0 text-center text-muted">Fri 5:30-6:00</p>--}}
                         <hr>
                         <div class="text-center">
-                            <a href="/summer" class="ml-2"><div class="btn btn-green btn-sm text-center text-uppercase">View Summer Schedule</div></a>
                             <a href="/fall" class="ml-2"><div class="btn btn-pink btn-sm text-center text-uppercase">View Fall Schedule</div></a>
                             <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-sm btn-aqua text-center text-uppercase">Register</div></a>
 
@@ -391,7 +416,6 @@
                         <p class="m-0 text-center"><strong>Graded Technique</strong></p>
                         <hr>
                         <div class="text-center">
-                            <a href="/summer" class="ml-2"><div class="btn btn-green btn-sm text-center text-uppercase">View Summer Schedule</div></a>
                             <a href="/fall" class="ml-2"><div class="btn btn-pink btn-sm text-center text-uppercase">View Fall Schedule</div></a>
                             <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-sm btn-aqua text-center text-uppercase">Register</div></a>
                         </div>
@@ -406,7 +430,6 @@
                         {{--                        <p class="m-0 text-center text-muted">Sat 1:00-5:00</p>--}}
                         <hr>
                         <div class="text-center">
-                            <a href="/summer" class="ml-2"><div class="btn btn-green btn-sm text-center text-uppercase">View Summer Schedule</div></a>
                             <a href="/fall" class="ml-2"><div class="btn btn-pink btn-sm text-center text-uppercase">View Fall Schedule</div></a>
                             <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-sm btn-aqua text-center text-uppercase">Register</div></a>
                         </div>
@@ -460,7 +483,6 @@
                         {{--                        <p class="m-0 text-center text-muted">Wed 8:00-9:00</p>--}}
                         <hr>
                         <div class="text-center">
-                            <a ref="/summer" class="ml-2"><div class="btn btn-green btn-sm text-center text-uppercase">View Summer Schedule</div></a>
                             <a href="/fall" class="ml-2"><div class="btn btn-pink btn-sm text-center text-uppercase">View Fall Schedule</div></a>
                             <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-sm btn-aqua text-center text-uppercase">Register</div></a>
                         </div>
@@ -519,7 +541,6 @@
                             <p class="m-0 text-center"><strong>Modern</strong></p>
                             <hr>
                             <div class="text-center">
-                                <a href="/summer" class="ml-2"><div class="btn btn-green btn-sm text-center text-uppercase">View Summer Schedule</div></a>
                                 <a href="/fall" class="ml-2"><div class="btn btn-pink btn-sm text-center text-uppercase">View Fall Schedule</div></a>
                                 <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-sm btn-aqua text-center text-uppercase">Register</div></a>
 
@@ -534,7 +555,6 @@
                             <p class="m-0 text-center"><strong>Man in Motion</strong></p>
                             <hr>
                             <div class="text-center">
-                                <a href="/summer" class="ml-2"><div class="btn btn-green btn-sm text-center text-uppercase">View Summer Schedule</div></a>
                                 <a href="/fall" class="ml-2"><div class="btn btn-pink btn-sm text-center text-uppercase">View Fall Schedule</div></a>
                                 <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-sm btn-aqua text-center text-uppercase">Register</div></a>
 

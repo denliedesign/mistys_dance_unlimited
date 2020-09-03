@@ -35,9 +35,6 @@
                         <a class="nav-link" href="/aboutus">About Us</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="/summer">Summer</a>
-                    </li>
-                    <li class="nav-item">
                         <a class="nav-link" href="/fall">Fall</a>
                     </li>
                     <li class="nav-item">
@@ -78,32 +75,32 @@
 <div id="mobile-class-types" class="text-white text-center d-block d-md-none">
     <div class="box-one py-2">
         <div>
-            <ion-icon name="person-outline"></ion-icon>
-            <p>Private Lessons</p>
+            <ion-icon name="business-outline"></ion-icon>
+            <p>In-Studio Classes with Livestream Backup</p>
         </div>
     </div>
     <div class="box-two py-2">
         <div>
-            <ion-icon name="people-outline"></ion-icon>
-            <p>Semi-Private Classes</p>
-        </div>
-    </div>
-    <div class="box-three py-2">
-        <div>
-            <ion-icon name="business-outline"></ion-icon>
-            <p>Traditional Studio Classes</p>
-        </div>
-    </div>
-    <div class="box-four py-2">
-        <div>
-            <ion-icon name="videocam-outline"></ion-icon>
-            <p>Online Classes</p>
-        </div>
-    </div>
-    <div class="box-five py-2">
-        <div>
             <ion-icon name="play-circle-outline"></ion-icon>
-            <p>Prerecorded Classes</p>
+            <p>Online & Pre-Recorded Classes</p>
         </div>
     </div>
+{{--    <div class="box-three py-2">--}}
+{{--        <div>--}}
+{{--            <ion-icon name="business-outline"></ion-icon>--}}
+{{--            <p>Traditional Studio Classes</p>--}}
+{{--        </div>--}}
+{{--    </div>--}}
+{{--    <div class="box-four py-2">--}}
+{{--        <div>--}}
+{{--            <ion-icon name="videocam-outline"></ion-icon>--}}
+{{--            <p>Online Classes</p>--}}
+{{--        </div>--}}
+{{--    </div>--}}
+{{--    <div class="box-five py-2">--}}
+{{--        <div>--}}
+{{--            <ion-icon name="play-circle-outline"></ion-icon>--}}
+{{--            <p>Prerecorded Classes</p>--}}
+{{--        </div>--}}
+{{--    </div>--}}
 </div>
