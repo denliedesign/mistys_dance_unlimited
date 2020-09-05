@@ -192,68 +192,68 @@ Route::get('/community/music-resources', function () {
     return view('community.music-resources');
 });
 
-Route::get('/covid-19/3-12-20', function () {
-    return view('covid-19.3-12-20');
+Route::get('/saferstudiopolicy/3-12-20', function () {
+    return view('saferstudiopolicy.3-12-20');
 });
 
-Route::get('/covid-19/3-13-20', function () {
-    return view('covid-19.3-13-20');
+Route::get('/saferstudiopolicy/3-13-20', function () {
+    return view('saferstudiopolicy.3-13-20');
 });
 
-Route::get('/covid-19/3-16-20', function () {
-    return view('covid-19.3-16-20');
+Route::get('/saferstudiopolicy/3-16-20', function () {
+    return view('saferstudiopolicy.3-16-20');
 });
 
-Route::get('/covid-19/3-20-20', function () {
-    return view('covid-19.3-20-20');
+Route::get('/saferstudiopolicy/3-20-20', function () {
+    return view('saferstudiopolicy.3-20-20');
 });
 
-Route::get('/covid-19/4-8-20', function () {
-    return view('covid-19.4-8-20');
+Route::get('/saferstudiopolicy/4-8-20', function () {
+    return view('saferstudiopolicy.4-8-20');
 });
 
-Route::get('/covid-19/4-15-20', function () {
-    return view('covid-19.4-15-20');
+Route::get('/saferstudiopolicy/4-15-20', function () {
+    return view('saferstudiopolicy.4-15-20');
 });
 
-Route::get('/covid-19/4-28-20', function () {
-    return view('covid-19.4-28-20');
+Route::get('/saferstudiopolicy/4-28-20', function () {
+    return view('saferstudiopolicy.4-28-20');
 });
 
-Route::get('/covid-19/5-15-20', function () {
-    return view('covid-19.5-15-20');
+Route::get('/saferstudiopolicy/5-15-20', function () {
+    return view('saferstudiopolicy.5-15-20');
 });
 
-Route::get('/covid-19/6-10-20', function () {
-    return view('covid-19.6-10-20');
+Route::get('/saferstudiopolicy/6-10-20', function () {
+    return view('saferstudiopolicy.6-10-20');
 });
 
-Route::get('/covid-19/6-17-20', function () {
-    return view('covid-19.6-17-20');
+Route::get('/saferstudiopolicy/6-17-20', function () {
+    return view('saferstudiopolicy.6-17-20');
 });
 
-Route::get('/covid-19/6-22-20', function () {
-    return view('covid-19.6-22-20');
+Route::get('/saferstudiopolicy/6-22-20', function () {
+    return view('saferstudiopolicy.6-22-20');
 });
 
-Route::get('/covid-19/6-24-20', function () {
-    return view('covid-19.6-24-20');
+Route::get('/saferstudiopolicy/6-24-20', function () {
+    return view('saferstudiopolicy.6-24-20');
 });
 
-Route::get('/covid-19/6-29-20', function () {
-    return view('covid-19.6-29-20');
+Route::get('/saferstudiopolicy/6-29-20', function () {
+    return view('saferstudiopolicy.6-29-20');
 });
 
-Route::get('/covid-19/7-28-20', function () {
-    return view('covid-19.7-28-20');
+Route::get('/saferstudiopolicy/7-28-20', function () {
+    return view('saferstudiopolicy.7-28-20');
 });
 
-Route::get('/covid-19/saferstudiopolicy', function () {
-    return view('covid-19.saferstudiopolicy');
+Route::get('/saferstudiopolicy/7-30-20', function () {
+    return view('saferstudiopolicy.7-30-20');
 });
 
-Route::get('/covid-19/9-1-20', function () {
-    return view('covid-19.9-1-20');
+Route::get('/saferstudiopolicy/9-1-20', function () {
+    return view('saferstudiopolicy.9-1-20');
 });
 
 Route::get('/quiz', function () {

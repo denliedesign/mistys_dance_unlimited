@@ -71,24 +71,24 @@
                     {{-- end message here --}}
                     <hr>
                     <br><br>
-                    COVID-19 Message Archive
+                    Safer Studio Policy Archive
                     <ul>
-{{--                        <li><a href="/covid-19/9-1-20">9-1-20</a></li>--}}
-                        <li><a href="/covid-19/saferstudiopolicy">Safer Studio Policy</a></li>
-                        <li><a href="/covid-19/7-28-20">7-28-20</a></li>
-                        <li><a href="/covid-19/6-29-20">6-29-20</a></li>
-                        <li><a href="/covid-19/6-24-20">6-24-20</a></li>
-                        <li><a href="/covid-19/6-22-20">6-22-20</a></li>
-                        <li><a href="/covid-19/6-17-20">6-17-20</a></li>
-                        <li><a href="/covid-19/6-10-20">6-10-20</a></li>
-                        <li><a href="/covid-19/5-15-20">5-15-20</a></li>
-                        <li><a href="/covid-19/4-28-20">4-28-20</a></li>
-                        <li><a href="/covid-19/4-15-20">4-15-20</a></li>
-                        <li><a href="/covid-19/4-8-20">4-8-20</a></li>
-                        <li><a href="/covid-19/3-20-20">3-20-20</a></li>
-                        <li><a href="/covid-19/3-16-20">3-16-20</a></li>
-                        <li><a href="/covid-19/3-13-20">3-13-20</a></li>
-                        <li><a href="/covid-19/3-12-20">3-12-20</a></li>
+{{--                        <li><a href="/saferstudiopolicy/9-1-20">9-1-20</a></li>--}}
+                        <li><a href="/saferstudiopolicy/7-30-20">7-30-20</a></li>
+                        <li><a href="/saferstudiopolicy/7-28-20">7-28-20</a></li>
+                        <li><a href="/saferstudiopolicy/6-29-20">6-29-20</a></li>
+                        <li><a href="/saferstudiopolicy/6-24-20">6-24-20</a></li>
+                        <li><a href="/saferstudiopolicy/6-22-20">6-22-20</a></li>
+                        <li><a href="/saferstudiopolicy/6-17-20">6-17-20</a></li>
+                        <li><a href="/saferstudiopolicy/6-10-20">6-10-20</a></li>
+                        <li><a href="/saferstudiopolicy/5-15-20">5-15-20</a></li>
+                        <li><a href="/saferstudiopolicy/4-28-20">4-28-20</a></li>
+                        <li><a href="/saferstudiopolicy/4-15-20">4-15-20</a></li>
+                        <li><a href="/saferstudiopolicy/4-8-20">4-8-20</a></li>
+                        <li><a href="/saferstudiopolicy/3-20-20">3-20-20</a></li>
+                        <li><a href="/saferstudiopolicy/3-16-20">3-16-20</a></li>
+                        <li><a href="/saferstudiopolicy/3-13-20">3-13-20</a></li>
+                        <li><a href="/saferstudiopolicy/3-12-20">3-12-20</a></li>
                     </ul>
                 </div>
             </div>
