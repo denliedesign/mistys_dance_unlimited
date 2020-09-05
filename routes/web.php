@@ -248,8 +248,8 @@ Route::get('/covid-19/7-28-20', function () {
     return view('covid-19.7-28-20');
 });
 
-Route::get('/covid-19/7-30-20', function () {
-    return view('covid-19.7-30-20');
+Route::get('/covid-19/saferstudiopolicy', function () {
+    return view('covid-19.saferstudiopolicy');
 });
 
 Route::get('/covid-19/9-1-20', function () {

@@ -68,7 +68,7 @@
                 COVID-19 Message Archive
                 <ul>
 {{--                    <li><a href="/covid-19/9-1-20">9-1-20</a></li>--}}
-                    <li><a href="/covid-19/7-30-20">7-30-20</a></li>
+                    <li><a href="/covid-19/saferstudiopolicy">Safer Studio Policy</a></li>
                     <li><a href="/covid-19/7-28-20">7-28-20</a></li>
                     <li><a href="/covid-19/6-29-20">6-29-20</a></li>
                     <li><a href="/covid-19/6-24-20">6-24-20</a></li>
