@@ -135,9 +135,9 @@
                         <li class="nav-item">
                             <a class="nav-link" href="/thirdoption">Third Option™ Learning Hub</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="/promotions">Tutu Fun Run</a>
-                        </li>
+{{--                        <li class="nav-item">--}}
+{{--                            <a class="nav-link" href="/promotions">Tutu Fun Run</a>--}}
+{{--                        </li>--}}
                         <li class="nav-item">
                             <a class="nav-link" href="/articles">News</a>
                         </li>
