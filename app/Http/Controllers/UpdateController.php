@@ -27,6 +27,7 @@ class UpdateController extends Controller
      */
     public function create(Update $update)
     {
+        $this->authorize('update', Update::class);
         $update = new Update();
         return view('updates.create', compact('update'));
     }
