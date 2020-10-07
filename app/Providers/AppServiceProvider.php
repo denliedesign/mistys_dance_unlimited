@@ -2,6 +2,7 @@
 
 namespace App\Providers;
 
+use App\Update;
 use App\User;
 use Illuminate\Support\ServiceProvider;
 
@@ -26,6 +27,10 @@ class AppServiceProvider extends ServiceProvider
     {
         view()->composer('*',function($view) {
             $view->with('users', User::all());
+        });
+
+        view()->composer('*',function($view) {
+            $view->with('updates', Update::all());
         });
     }
 }

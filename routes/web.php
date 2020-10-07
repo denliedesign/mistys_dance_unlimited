@@ -324,6 +324,14 @@ Route::get('/quiz/tiffany', function () {
     return view('quiz.tiffany');
 });
 
+Route::get('dance-class-la-crosse-wi', function () {
+    return view('dance-class-la-crosse-wi');
+});
+
+Route::get('/saferstudiopolicy/archive', function () {
+    return view('saferstudiopolicy.archive');
+});
+
 Route::get('frozen-friends', 'FrozenFriendsController@index')->name('frozen-friends');
 Route::post('frozen-friends', 'FrozenFriendsController@store')->name('frozen-friends.store');
 
@@ -345,6 +353,7 @@ Route::resource('recitals/tickets', 'TicketController');
 Route::resource('recitals/photos', 'PhotoController');
 Route::resource('recitals/volunteers', 'VolunteerController');
 Route::resource('students', 'StudentController');
+Route::resource('updates', 'UpdateController');
 
 
 Auth::routes();
