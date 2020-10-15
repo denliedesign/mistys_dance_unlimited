@@ -1,6 +1,7 @@
 @extends('layouts.app')
 
 @section('title', 'News | Misty\'s Dance Unlimited')
+@section('description', 'Keep Up To Date With The Latest News From MDU!')
 
 @section('content')
 

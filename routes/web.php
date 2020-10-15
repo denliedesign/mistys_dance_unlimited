@@ -332,6 +332,10 @@ Route::get('/saferstudiopolicy/archive', function () {
     return view('saferstudiopolicy.archive');
 });
 
+Route::get('pre-pro-2019', function () {
+    return view('pre-pro-2019');
+});
+
 Route::get('frozen-friends', 'FrozenFriendsController@index')->name('frozen-friends');
 Route::post('frozen-friends', 'FrozenFriendsController@store')->name('frozen-friends.store');
 

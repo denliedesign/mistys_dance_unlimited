@@ -1,5 +1,10 @@
 Sitemap: https://www.mistysdance.com/sitemap.xml
 User-agent: *
+Disallow: /adults
+Disallow: /summer
+Disallow: /pc
+Disallow: /promotions
+Disallow: /recitals
 Disallow: /PHPblog
 Disallow: /y-p-d
 Disallow: /footernav

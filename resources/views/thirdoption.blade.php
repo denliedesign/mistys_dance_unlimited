@@ -1,5 +1,6 @@
 @extends('layouts.app')
 @section('title', 'Third Option Learning Hub | Misty\'s Dance Unlimited')
+@section('description', 'Another Option To Support Your Child’s Virtual Learning This Fall')
 @section('content')
 
     <div class="third-bg-wrap">

@@ -1,6 +1,7 @@
 @extends('layouts.app')
 
 @section('title', 'Calendar of Events | Misty\'s Dance Unlimited')
+@section('description', 'Join In On The Fun & Festivities At Misty\'s Dance Unlimited.')
 
 @section('content')
 

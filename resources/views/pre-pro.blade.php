@@ -9,416 +9,173 @@
 
             <ul class="nav my-3 justify-content-center">
                 <li class="nav-item">
-                    <a class="nav-link disabled" href="#">September</a>
+                    <a class="nav-link text-info" href="#fall">Fall</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link disabled" href="#">October</a>
+                    <a class="nav-link disabled" href="#winter">Winter</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link text-info" href="#november">November</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link text-info" href="#january">December</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link text-info" href="#january">January</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link text-info" href="#january">February</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link disabled" href="#">March</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link text-info" href="#april">April</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link disabled" href="#">May</a>
+                    <a class="nav-link disabled" href="#spring">Spring</a>
                 </li>
             </ul>
 
 
-            <div class="card-deck">
+            <div class="card-deck" id="fall">
                 <div class="card bg-white">
                     <div class="card-body">
-                        <h5 class="card-title">Pre-Pro Demo</h5>
+                        <h5 class="card-title">3 Versions of Paquita</h5>
                         <p class="card-text">
-                            <a href="https://drive.google.com/open?id=16bJsad9wnZDGlGj6CK23oD66mvzetoRN" target="_blank">Pre-Pro 1</a>
-                            <br><a href="https://drive.google.com/open?id=1kCuGk__lX4waKu6BdIj2LMIojePb9_tQ" target="_blank">Pre-Pro 2/3 Video 1</a>
-                            <br><a href="https://drive.google.com/open?id=1mRzA9ixfCUg48t_2p75Q4ZaaPUweCu_e" target="_blank">Pre-Pro 2/3 Video 2</a>
-                            <br><a href="https://drive.google.com/open?id=1L3a-EVbCeEXrbnafyoM4f9bo8EPiKD8j" target="_blank">Pre-Pro 2/3 Video 3</a>
+                            The 3 versions of “Paquita” below offer different interpretations and selections that students can compare and contrast.  The full ballet is rarely performed, so the selections and excerpts chosen differ greatly from one company to the next, but the Petipa choreography remains mostly intact throughout all versions.  Since we’re working on variations and group selections from Paquita for our upcoming BLC project, dancers can use these videos for reference and research.
                         </p>
                     </div>
                 </div>
+            </div>
+
+            <div class="row mt-5">
+                <div class="col-md">
+                    <h5 class="lead"><em>American Ballet Theater from 1984</em></h5>
+                    <iframe width="100%" height="315" src="https://www.youtube.com/embed/As9zyB6QXk4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
+                <div class="col-md">
+                    <h5 class="lead"><em>Vaganova School Graduation Performance from 2017</em></h5>
+                    <iframe width="100%" height="315" src="https://www.youtube.com/embed/vh04YpfQ624" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                </div>
+            </div>
+            <div class="my-5">
+                <h5 class="lead"><em>Kirov Paquita from 1991:  4 separate videos</em></h5>
+                <div class="row mb-3">
+                    <div class="col-md">
+                        <iframe width="100%" height="315" src="https://www.youtube.com/embed/3iLqEs6gWFM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                    <div class="col-md">
+                        <iframe width="100%" height="315" src="https://www.youtube.com/embed/yi8_OudE9_Q" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="col-md">
+                        <iframe width="100%" height="315" src="https://www.youtube.com/embed/Hfy34vsRAU8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                    <div class="col-md">
+                        <iframe width="100%" height="315" src="https://www.youtube.com/embed/qclJ_2yJc4E" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                </div>
+            </div>
+
+            <div class="card-deck" id="fall">
                 <div class="card bg-white">
                     <div class="card-body">
-                        <h5 class="card-title">Resources</h5>
+                        <h5 class="card-title">Other Educational Videos</h5>
                         <p class="card-text">
-                            <a href="https://www.youtube.com/watch?v=fcT9uRJqCrE" target="_blank">Ballet Class with Tamara Rojo</a>
-                            <br><a href="https://www.youtube.com/watch?v=FrISNpG0bZk" target="_blank">Ballet Barre with Dutch National Ballet</a>
-                            <br><a href="https://www.youtube.com/watch?v=UKlem02B6kI" target="_blank">Ballet Barre with Maria Khoreva of Mariinsky Ballet</a>
-                            <br><a href="https://www.youtube.com/watch?v=nQ5eUJNXrMw" target="_blank">60-MINUTE SPECIAL | Cirque du Soleil</a>
-                            <br><a href="http://www.operatoday.com/content/2020/03/the_royal_opera.php" target="_blank">The Royal Opera House launches a programme of free online content for the culturally curious at home</a>
+                            Become familiar with the classic Nutcracker ballet. MDU Pre-professional dancers will be doing excerpts from Act 2.
+                            <br>Watch as the legendary modern dance pioneer Martha Graham narrates her technique class from 1975.
+                            <br>We've provided a how to sew and tie pointe shoe video as a constant tool to have on hand.
                         </p>
                     </div>
                 </div>
-{{--                <div class="card bg-white">--}}
-{{--                    <div class="card-body">--}}
-{{--                        <h5 class="card-title">Local Performances</h5>--}}
-{{--                        <p class="card-text">--}}
-{{--                            <span class="pp-date text-info font-weight-light">2/20-2/23 </span>Shen Yun <small class="text-muted">in Minneapolis</small>--}}
-{{--                            <br><span class="pp-date text-info font-weight-light">2/21 </span>Lula Washington <small class="text-muted">at Viterbo</small>--}}
-{{--                            <br><span class="pp-date text-info font-weight-light">2/22-2/23 </span>Ballet West performing "Jewels" <small class="text-muted">in Minneapolis</small>--}}
-{{--                            <br><span class="pp-date text-info font-weight-light">3/28 </span><a href="images/james-sewell.pdf" target="_blank" class="text-danger">James Sewell Ballet</a> <small class="text-muted">in Winona</small>--}}
-{{--                        </p>--}}
-{{--                    </div>--}}
-{{--                </div>--}}
-{{--                <div class="card bg-white">--}}
-{{--                    <div class="card-body">--}}
-{{--                        <h5 class="card-title">Nearby Auditions</h5>--}}
-{{--                        <p class="card-text">--}}
-{{--                            <span class="pp-date text-info font-weight-light">02/29</span>--}}
-{{--                            <a href="https://www.ballet58.org/summer-intensive" target="_blank" class="text-body">--}}
-{{--                                Ballet 5:8 (Christian based ballet company and school, Katie Peterson has studied over the summer here)--}}
-{{--                            </a>--}}
-{{--                            <small class="text-muted">in Chicago</small>--}}
-{{--                            <br>--}}
-{{--                            <span class="pp-date text-info font-weight-light">02/22</span>--}}
-{{--                            <a href="https://www.ballet58.org/summer-intensive" target="_blank" class="text-body">--}}
-{{--                                Ballet 5:8--}}
-{{--                            </a>--}}
-{{--                            <small class="text-muted">in Milwaukee</small>--}}
-{{--                            <br>--}}
-{{--                            <span class="pp-date text-info font-weight-light">N/A</span>--}}
-{{--                            <a href="https://www.stlouisballet.org/summerprogram" target="_blank" class="text-body">--}}
-{{--                                St. Louis Ballet (Miss CiCi's company's summer program)--}}
-{{--                            </a>--}}
-{{--                            <small class="text-muted">no audition requirement listed on website</small>--}}
-{{--                            <br>--}}
-{{--                            <span class="pp-date text-info font-weight-light">N/A</span>--}}
-{{--                            <a href="https://www.classical-ballet-academy.com/summer-intensive" target="_blank" class="text-body">--}}
-{{--                                Classical Ballet Academy (owned by former director of the Colorado ballet school who trained at the Vaganova School - Miss Amanda studied with her for 2 summers)--}}
-{{--                            </a>--}}
-{{--                            <small class="text-muted">audition by video</small>--}}
-{{--                            <br>--}}
-{{--                            <span class="pp-date text-info font-weight-light">2/23</span>--}}
-{{--                            <a href="https://www.aacenterfordance.org/copy-of-winter-intensive" target="_blank" class="text-body">--}}
-{{--                                A&A Ballet (former directors of the Joffrey school)--}}
-{{--                            </a>--}}
-{{--                            <small class="text-muted">in Chicago</small>--}}
-{{--                            <br>--}}
-{{--                            <span class="pp-date text-info font-weight-light">2/22</span>--}}
-{{--                            <a href="https://www.milwaukeeballet.org/summer-intensive/auditions/" target="_blank" class="text-body">--}}
-{{--                                Milwaukee Ballet--}}
-{{--                            </a>--}}
-{{--                            <small class="text-muted">in Milwaukee</small>--}}
-{{--                            <br>--}}
-{{--                            <span class="pp-date text-info font-weight-light">N/A</span>--}}
-{{--                            <a href="https://bluelake.org/summercamp/majors/dance.php" target="_blank" class="text-body">--}}
-{{--                                Blue Lake Fine Arts--}}
-{{--                            </a>--}}
-{{--                            <small class="text-muted">no audition required</small>--}}
-{{--                            <br>--}}
-{{--                        </p>--}}
-{{--                    </div>--}}
-{{--                </div>--}}
             </div>
 
             <div class="row my-5">
                 <div class="col-md">
-                    <h5 class="lead"><em>1990 New York City Ballet - Serenade</em></h5>
-                    <iframe width="100%" height="315" src="https://www.youtube.com/embed/Xd9R9S6-9E4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <h5 class="lead"><em>Mariinsky's Nutcraker</em></h5>
+                    <iframe width="100%" height="315" src="https://www.youtube.com/embed/7neCn9nP0bo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
                 <div class="col-md">
-                    <h5 class="lead"><em>2011 Sacramento Ballet - Serenade</em></h5>
-                    <iframe width="100%" height="315" src="https://www.youtube.com/embed/LhJ79lVKWBM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <h5 class="lead"><em>Martha Graham Technique 1975</em></h5>
+                    <iframe width="100%" height="315" src="https://www.youtube.com/embed/FuCbs25LGh0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
-            </div>
-
-            <div class="p-4 my-5 border bg-white" id="april">
-                <h3 class="mb-3"><span class="text-uppercase text-info font-weight-bold">April</span> Dancers, Teachers, & Choreographers</h3>
-                <div class="row">
-                    <div class="col">
-                        <ul>
-                            <p class="bg-warning p-2"><strong>Alonzo King</strong></p>
-
-                            <li>Tiahna</li>
-                            <li>Kyla</li>
-                            <li>Sophie</li>
-                        </ul>
-                    </div>
-                    <div class="col">
-                        <ul>
-                            <p class="bg-warning p-2"><strong>George Balanchine</strong></p>
-
-                            <li>Amber</li>
-                            <li>Hannah</li>
-                            <li>Grace V</li>
-                        </ul>
-                    </div>
-                    <div class="col">
-                        <ul>
-                            <p class="bg-warning p-2"><strong>José Manuel Carreño</strong></p>
-
-                            <li>Hayley</li>
-                            <li>Belle</li>
-                            <li>Lara</li>
-                        </ul>
-                    </div>
-                    <div class="col">
-                        <ul>
-                            <p class="bg-warning p-2"><strong>Carla Fracci</strong></p>
-
-                            <li>Sophia</li>
-                            <li>Maya</li>
-                            <li>Taryn</li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col">
-                        <ul>
-                            <p class="bg-warning p-2"><strong>Amanda McKerrow</strong></p>
-
-                            <li>Megan</li>
-                            <li>Ada</li>
-                            <li>Anna</li>
-                        </ul>
-                    </div>
-                    <div class="col">
-                        <ul>
-                            <p class="bg-warning p-2"><strong>Alexandra Danilova</strong></p>
-
-                            <li>Julia</li>
-                            <li>Sylvie</li>
-                            <li>Kaelin</li>
-                        </ul>
-                    </div>
-                    <div class="col">
-                        <ul>
-                            <p class="bg-warning p-2"><strong>Charles Weidman</strong></p>
-
-                            <li>Elise</li>
-                            <li>Grace M</li>
-                            <li>Brooke</li>
-                        </ul>
-                    </div>
-                    <div class="col">
-                        <ul>
-                            <p class="bg-warning p-2"><strong>Vaslav Nijinsky</strong></p>
-
-                            <li>Isabella</li>
-                            <li>Grechyn</li>
-                            <li>Annika</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-
-            <div class="row my-5">
-                <div class="col-md">
-                    <h5 class="lead"><em>Alvin Ailey and the AMAZING Donna Wood in CRY 1982</em></h5>
-                    <iframe width="100%" height="315" src="https://www.youtube.com/embed/39cc1D5yD2A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                </div>
-                <div class="col-md">
-                    <h5 class="lead"><em>Alvin Ailey American Dance Theater: Revelations</em></h5>
-                    <iframe width="100%" height="315" src="https://www.youtube.com/embed/RrPJ4kt3a64" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                </div>
-            </div>
-
-            <div class="row my-5">
                 <div class="col-md">
                     <h5 class="lead"><em>How to Sew Pointe Shoes</em></h5>
                     <iframe width="100%" height="315" src="https://www.youtube.com/embed/4q--RBX_kp8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
-                <div class="col-md">
-                    <h5 class="lead"><em>The Nutcraker Ballet Mariinsky Theatre</em></h5>
-                    <iframe width="100%" height="315" src="https://www.youtube.com/embed/7neCn9nP0bo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                </div>
             </div>
 
-            <div class="p-4 my-5 border bg-white" id="january">
-                <h3 class="mb-3"><span class="text-uppercase text-info font-weight-bold">Dec/Jan/Feb</span> Dancers, Teachers, & Choreographers</h3>
+
+            <div class="p-4 my-5 border bg-white" id="april">
+                <h3 class="mb-3"><span class="text-uppercase text-info font-weight-bold">Fall</span> Dancers, Teachers, & Choreographers</h3>
                 <div class="row">
                     <div class="col">
                         <ul>
-                            <p class="bg-warning p-2"><strong>Lester Horton <br><span class="lead">&</span><br> Maria Tallchief</strong></p>
+                            <p class="bg-warning p-2"><strong>Bella Lewisky & Enrico Cecchetti</strong></p>
 
-                            <li>Tiahna</li>
-                            <li>Kyla</li>
-                            <li>Sophie</li>
+                            <li>Siena</li>
+                            <li>Danielle</li>
                         </ul>
                     </div>
                     <div class="col">
                         <ul>
-                            <p class="bg-warning p-2"><strong>Doris Humphrey <br><span class="lead">&</span><br> Antony Tudor</strong></p>
+                            <p class="bg-warning p-2"><strong>Louis Falco & Sergei Diaghilev</strong></p>
 
+                            <li>Carmina</li>
+                            <li>Annelise</li>
+                        </ul>
+                    </div>
+                    <div class="col">
+                        <ul>
+                            <p class="bg-warning p-2"><strong>Tywla Tharpe & Maruice Bejart</strong></p>
+
+                            <li>Julia</li>
                             <li>Amber</li>
-                            <li>Hannah</li>
+                        </ul>
+                    </div>
+                    <div class="col">
+                        <ul>
+                            <p class="bg-warning p-2"><strong>Ruth St. Denis & John Cranko</strong></p>
+
+                            <li>Hayley</li>
+                            <li>Tiahna</li>
+                        </ul>
+                    </div>
+                    <div class="col">
+                        <ul>
+                            <p class="bg-warning p-2"><strong>Lar Lubovitch & Alexandra Danilova</strong></p>
+
+                            <li>Kaelin</li>
+                            <li>Elise</li>
+                        </ul>
+                    </div>
+                    <div class="col">
+                        <ul>
+                            <p class="bg-warning p-2"><strong>Merce Cunningham & David Howard</strong></p>
+
+                            <li>Sophia K</li>
+                            <li>Megan</li>
+                        </ul>
+                    </div>
+                    <div class="col">
+                        <ul>
+                            <p class="bg-warning p-2"><strong>Eric Hawkins & Marie Taglioni</strong></p>
+
+                            <li>Grace M</li>
+                            <li>Ada</li>
+                        </ul>
+                    </div>
+                    <div class="col">
+                        <ul>
+                            <p class="bg-warning p-2"><strong>Joyce Trisler & Rudolf Nureyev</strong></p>
+
+                            <li>Isabella H</li>
+                            <li>Sylvie</li>
+                        </ul>
+                    </div>
+                    <div class="col">
+                        <ul>
+                            <p class="bg-warning p-2"><strong>Jennifer Muller & Jose Manuel Correno</strong></p>
+
+                            <li>Kendyl H</li>
                             <li>Grace V</li>
                         </ul>
                     </div>
                     <div class="col">
                         <ul>
-                            <p class="bg-warning p-2"><strong>José Limón <br><span class="lead">&</span><br> Cynthia Gregory</strong></p>
+                            <p class="bg-warning p-2"><strong>Charles Weidman & Patricia McBride</strong></p>
 
-                            <li>Hayley</li>
-                            <li>Belle</li>
                             <li>Lara</li>
-                        </ul>
-                    </div>
-                    <div class="col">
-                        <ul>
-                            <p class="bg-warning p-2"><strong>Martha Graham <br><span class="lead">&</span><br> Mikael Baryshnikov</strong></p>
-
-                            <li>Sophia</li>
-                            <li>Maya</li>
-                            <li>Taryn</li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col">
-                        <ul>
-                            <p class="bg-warning p-2"><strong>Paul Taylor <br><span class="lead">&</span><br> Svetlana Zakharova</strong></p>
-
-                            <li>Megan</li>
-                            <li>Ada</li>
-                            <li>Anna</li>
-                        </ul>
-                    </div>
-                    <div class="col">
-                        <ul>
-                            <p class="bg-warning p-2"><strong>Joyce Trisler <br><span class="lead">&</span><br> Sergei Diaghilev</strong></p>
-
-                            <li>Julia</li>
-                            <li>Sylvie</li>
-                            <li>Kaelin</li>
-                        </ul>
-                    </div>
-                    <div class="col">
-                        <ul>
-                            <p class="bg-warning p-2"><strong>Maurice Béjart <br><span class="lead">&</span><br> Aggripina Vaganova</strong></p>
-
-                            <li>Elise</li>
-                            <li>Grace M</li>
-                            <li>Brooke</li>
-                        </ul>
-                    </div>
-                    <div class="col">
-                        <ul>
-                            <p class="bg-warning p-2"><strong>Pearl Lang <br><span class="lead">&</span><br> Jerome Robbins</strong></p>
-
-                            <li>Isabella</li>
-                            <li>Grechyn</li>
-                            <li>Annika</li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
-
-            <div class="row my-5">
-                <div class="col-md">
-                    <h5 class="lead"><em>Paul Taylor</em></h5>
-                    <iframe width="100%" height="315" src="https://www.youtube.com/embed/blq1BNhyyVg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                </div>
-                <div class="col-md">
-                    <h5 class="lead"><em>Paul Taylor Dance Company</em></h5>
-                    <iframe width="100%" height="315" src="https://www.youtube.com/embed/27jXGTYPqKg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                </div>
-            </div>
-
-            <div class="row my-5">
-                <div class="col-md">
-                    <h5 class="lead"><em>Giselle 1969</em></h5>
-                    <iframe width="100%" height="315" src="https://www.youtube.com/embed/BbYlMnFgp3c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                </div>
-                <div class="col-md">
-                    <h5 class="lead"><em>Giselle 2005</em></h5>
-                    <iframe width="100%" height="315" src="https://www.youtube.com/embed/cqOm922Fhx8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                </div>
-            </div>
-
-            <div class="p-4 my-5 border bg-white" id="november">
-                <h3 class="mb-3"><span class="text-uppercase text-info font-weight-bold">November</span> Dancers, Teachers, & Choreographers</h3>
-                <div class="row">
-                    <div class="col">
-                        <ul>
-                            <p class="bg-warning p-2"><strong>August Bournonville <br><span class="lead">&</span><br> Bella Lewitzky</strong></p>
-
-                            <li>Tiahna</li>
-                            <li>Kyla</li>
-                            <li>Sophie</li>
-                        </ul>
-                    </div>
-                    <div class="col">
-                        <ul>
-                            <p class="bg-warning p-2"><strong>Alessandra Ferri <br><span class="lead">&</span><br> Louis Falco</strong></p>
-
-                            <li>Amber</li>
                             <li>Hannah</li>
-                            <li>Grace V</li>
-                        </ul>
-                    </div>
-                    <div class="col">
-                        <ul>
-                            <p class="bg-warning p-2"><strong>Margot Fonteyn <br><span class="lead">&</span><br> Alvin Ailey</strong></p>
-
-                            <li>Hayley</li>
-                            <li>Belle</li>
-                            <li>Lara</li>
-                        </ul>
-                    </div>
-                    <div class="col">
-                        <ul>
-                            <p class="bg-warning p-2"><strong>Anna Pavlova <br><span class="lead">&</span><br> Merce Cunningham</strong></p>
-
-                            <li>Sophia</li>
-                            <li>Maya</li>
-                            <li>Taryn</li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="row">
-                    <div class="col">
-                        <ul>
-                            <p class="bg-warning p-2"><strong>Rudolf Nureyev <br><span class="lead">&</span><br> Ruth St. Denis</strong></p>
-
-                            <li>Megan</li>
-                            <li>Ada</li>
-                            <li>Anna</li>
-                        </ul>
-                    </div>
-                    <div class="col">
-                        <ul>
-                            <p class="bg-warning p-2"><strong>Christopher Wheeldon <br><span class="lead">&</span><br> Hanya Holm</strong></p>
-
-                            <li>Julia</li>
-                            <li>Sylvie</li>
-                            <li>Kaelin</li>
-                        </ul>
-                    </div>
-                    <div class="col">
-                        <ul>
-                            <p class="bg-warning p-2"><strong>Sylvie Guillem <br><span class="lead">&</span><br> Eric Hawkins</strong></p>
-
-                            <li>Elise</li>
-                            <li>Grace M</li>
-                            <li>Brooke</li>
-                        </ul>
-                    </div>
-                    <div class="col">
-                        <ul>
-                            <p class="bg-warning p-2"><strong>Robert Joffrey <br><span class="lead">&</span><br> Twyla Tharp</strong></p>
-
-                            <li>Isabella</li>
-                            <li>Grechyn</li>
-                            <li>Annika</li>
+                            <li>Sophie C</li>
                         </ul>
                     </div>
                 </div>
             </div>
-
         </div>
 
         <div class="pb-3 bg-ivory" id="pp-footer">
