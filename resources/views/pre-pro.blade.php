@@ -77,7 +77,7 @@
             <div class="row my-5">
                 <div class="col-md">
                     <h5 class="lead"><em>Mariinsky's Nutcraker</em></h5>
-                    <iframe width="100%" height="315" src="https://vimeo.com/85312130" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <iframe src="https://player.vimeo.com/video/85312130" width="100%" height="315" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
                 </div>
                 <div class="col-md">
                     <h5 class="lead"><em>Martha Graham Technique 1975</em></h5>
