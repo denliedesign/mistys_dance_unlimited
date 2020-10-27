@@ -67,8 +67,11 @@
                     <a class="nav-link" href="/fall">Fall</a>
                 </li>
                 <li class="nav-item">
-                    <a class="nav-link" href="/thirdoption">Third Option™ Learning Hub</a>
+                    <a class="nav-link" href="/events">Calendar of Events</a>
                 </li>
+{{--                <li class="nav-item">--}}
+{{--                    <a class="nav-link" href="/thirdoption">Third Option™ Learning Hub</a>--}}
+{{--                </li>--}}
 {{--                <li class="nav-item">--}}
 {{--                    <a class="nav-link" href="/promotions">Tutu Fun Run</a>--}}
 {{--                </li>--}}
@@ -80,6 +83,9 @@
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank">Register</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="https://mistysdance.store" target="_blank">Store</a>
                 </li>
             </ul>
         </div>
