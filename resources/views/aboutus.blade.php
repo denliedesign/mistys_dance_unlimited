@@ -14,13 +14,13 @@
             <section>
                 <h3 class="py-5 text-center">About Us</h3>
             </section>
-            <div class="about-teacher-wrapper row">
+            <div class="about-teacher-wrapper row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4">
                 <div class="teacher-col col-sm">
                     <div class="about-teacher-card">
                         <img class="teacher-img" src="images/teacher4.jpg">
                         <button class="bioaccordion"><h4>Miss Misty Lown</h4></button>
                         <div class="biopanel">
-                            <p>Miss Misty has been sharing her passion for dance and mentorship with students for 25 years. She is the founder of More Than Just Great Dancing™ affiliated dance studios and “A Chance to Dance Foundation”, a 501(c)3 charitable organization. Misty is passionate about community service and has given over $150,000 in combined cash and studio scholarships over the past 15 years.</p>
+                            <p>Miss Misty has been sharing her passion for dance and mentorship with students for 29 years. She is the founder of More Than Just Great Dancing™ affiliated dance studios and “A Chance to Dance Foundation”, a 501(c)3 charitable organization. Misty is passionate about community service and has given over $500,000 in combined cash and studio scholarships over the past 23 years.</p>
                         </div>
                     </div>
                 </div>
@@ -29,7 +29,7 @@
                         <img class="teacher-img" src="images/teacher5.jpg">
                         <button class="bioaccordion"><h4>Miss Shayna Stellflue</h4></button>
                         <div class="biopanel">
-                            <p>Miss Shayna is the School Director of Misty’s Dance Unlimited and leads a staff of 27 teachers. She began teaching at MDU in 1999 and is the creator of “Dancin’ Kids!”, a popular performance group for 7-9 yr. olds. Miss Shayna recently co-authored a Children’s Curriculum for More Than Just Great Dancing™ and is passionate about instilling confidence in every child.</p>
+                            <p>Miss Shayna is the General Manager of Misty’s Dance Unlimited and leads COVID Safety Team and Recitals. She began teaching at MDU in 1999 and is the creator of “Dancin’ Kids!”, a popular performance group for 7-9 yr. olds. Miss Shayna co-authored a Children’s Curriculum for More Than Just Great Dancing™ and is passionate about instilling confidence in every child.</p>
                         </div>
                     </div>
                 </div>
@@ -43,25 +43,15 @@
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="row">
+
+
                 <div class="teacher-col col-sm">
                     <div class="about-teacher-card">
                         <img class="teacher-img" src="images/teacher11.jpg">
                         <button class="bioaccordion"><h4>Miss Amanda Schams</h4></button>
                         <div class="biopanel">
 
-                            <p>Miss Amanda has taught ballet and Pilates across the Midwest for two decades and for 11 years at MDU. She trained in Madison, with the Milwaukee Ballet and the Nutmeg Conservatory. She graduated from the U of Iowa with a dance minor. She has performed professionally with the Madison Ballet and as a guest artist throughout the Midwest..</p>
-                        </div>
-                    </div>
-                </div>
-                <div class="teacher-col col-sm">
-                    <div class="about-teacher-card">
-                        <img class="teacher-img" src="images/teacher7.jpg">
-                        <button class="bioaccordion"><h4>Miss Jessica Apfel-Miller</h4></button>
-                        <div class="biopanel">
-
-                            <p>Jessica brings over 25 years of ballet, tap, and jazz teaching experience to MDU. She has been an instructor since MDU opened. Miss Jessica is also the owner of “Rooms by Jess”, an interior decorating business. Miss Jessica is passionate about inclusion and creating healthy environments for young women to grow in confidence.</p>
+                            <p>Miss Amanda has taught ballet and Pilates across the Midwest for two decades and for 17 years at MDU. She trained in Madison, with the Milwaukee Ballet and the Nutmeg Conservatory. She graduated from the University of Iowa with a dance minor. She has performed professionally with the Madison Ballet and as a guest artist throughout the Midwest.</p>
                         </div>
                     </div>
                 </div>
@@ -75,8 +65,8 @@
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="row">
+
+
                 <div class="teacher-col col-sm">
                     <div class="about-teacher-card">
                         <img class="teacher-img" src="images/teacher1.jpg">
@@ -107,8 +97,8 @@
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="row">
+
+
                 <div class="teacher-col col-sm">
                     <div class="about-teacher-card">
                         <img class="teacher-img" src="images/teacher10.jpg">
@@ -125,7 +115,7 @@
                         <button class="bioaccordion"><h4>Miss Denise Meyer</h4></button>
                         <div class="biopanel">
 
-                            <p>Miss Denise and Miss Misty grew up dancing together at Marilyn School of Dance in La Crosse. Miss Denise is currently an English professor at Western and has loved being back in the dance classroom sine 2009.</p>
+                            <p>Miss Denise and Miss Misty grew up dancing together at Marilyn School of Dance in La Crosse. Miss Denise is currently an English professor at Western and has loved being back in the dance classroom since 2009. Miss Denise teaches in our Children's program, leads our Darby's Dancer's program and is a rehearsal assistant for Ballet La Crosse.</p>
                         </div>
                     </div>
                 </div>
@@ -135,12 +125,12 @@
                         <button class="bioaccordion"><h4>Miss Larissa Oberly</h4></button>
                         <div class="biopanel">
 
-                            <p>Miss Larissa is a former professional ballerina with the Estonian National Ballet in Europe. She teaches for MDU's Pre-Professional Program and our classical performing company, Ballet La Crosse since 2011.</p>
+                            <p>Miss Larissa is a former professional ballerina with the Estonian National Ballet in Europe. She has been teaching for MDU's Pre-Professional Program and our classical performing company, Ballet La Crosse since 2011. Ballet La Crosse was founded by Miss Larissa's late husband and beloved ballet master, Mr. Kennet Oberly.</p>
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="row">
+
+
                 <div class="teacher-col col-sm">
                     <div class="about-teacher-card">
                         <img class="teacher-img" src="images/teacher-deb.jpg">
@@ -171,32 +161,30 @@
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="row">
+
+
                 <div class="teacher-col col-sm">
                     <div class="about-teacher-card">
                         <img class="teacher-img" src="images/teacher-aw.jpg">
                         <button class="bioaccordion"><h4>Miss Anna Weidner</h4></button>
                         <div class="biopanel">
 
-                            <p>Miss Anna is a recent graduate of the University of Wisconsin-La Crosse where she was a member of the LC Hip Hop Dance Team. She grew up dancing at Jan's School of Dance in Hastings, Minnesota for 13 years where she studied and competed in ballet, tap, jazz, lyrical, modern, hip hop, and her favorite, clogging! With a wide range of training under her belt, Anna is excited to teach your little ones the magic and fun of dance! Anna has been teaching at MDU since 2017.</p>
+                            <p>Miss Anna is a graduate of the UW-La Crosse where she was a member of the Hip Hop Dance Team. She grew up dancing at Jan's School of Dance in Hastings, MN. Anna has been teaching at MDU since 2017 and is currently the Varsity Dance Team coach at Viterbo University.</p>
                         </div>
                     </div>
                 </div>
-                <div class="col-sm"></div>
-                <div class="col-sm"></div>
             </div>
 
             <div id="support-staff-area" class="pb-5 container">
                 <h3 class="py-5 text-center">Support Staff</h3>
-                <div class="about-teacher-wrapper2 row">
+                <div class="about-teacher-wrapper2 row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4">
                     <div class="teacher-col col-sm">
                         <div class="about-teacher-card">
                             <img class="teacher-img" src="images/teacher-sandy.jpg">
                             <button class="bioaccordion"><h4>Miss Sandy Averill</h4></button>
                             <div class="biopanel">
 
-                                <p>Miss Sandy has been with MDU since day one. She is our Front Desk manager as well as Miss Misty’s mom! Sandy is the friendly face you will see at our front desk always happy to help. She enjoys the warmth and camaraderie of the families and staff at MDU and watching our students grow throughout the years.</p>
+                                <p>Miss Sandy has been with MDU since day one! She is our Hospitality Services leader at the front desk as well as Miss Misty’s mom! Miss Sandy is the first friendly face you will see when you come in and always happy to help. She enjoys the warmth and camaraderie of the families and staff at MDU and watching our students grow throughout the years.</p>
                             </div>
                         </div>
                     </div>
@@ -206,17 +194,7 @@
                             <button class="bioaccordion"><h4>Miss Kris Nandory</h4></button>
                             <div class="biopanel">
 
-                                <p>Kris comes to us with 25 plus years of excelling in managerial careers. She started at MDU in 2013 as the Business Manager and Enrollment Coordinator. She loves working with families and kids! She manages student enrollment, studio emails, family accounts, student attendance, and more!</p>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="teacher-col col-sm">
-                        <div class="about-teacher-card">
-                            <img class="teacher-img" src="images/teacher-toni.jpg">
-                            <button class="bioaccordion"><h4>Miss Toni Key</h4></button>
-                            <div class="biopanel">
-
-                                <p>Miss Antoinette “Toni” Key has worked at MDU since 2012 as a seamstress, front desk staff, and as the Administrative Assistant for Ballet La Crosse. Toni has been a full time science teacher and a curriculum and technology leader in her school district for the last 21 years.  She is very excited to now have joined the MTJGD, Ballet La Crosse and MDU teams full time!</p>
+                                <p>Kris comes to us with 25 plus years of excelling in managerial careers. She started at MDU in 2013 and currently serves as our Family Services leader and well as coordinating our boutique, Everything Dance. She manages student enrollment, studio emails, family accounts, student attendance, and more! She loves working with families and kids!</p>
                             </div>
                         </div>
                     </div>

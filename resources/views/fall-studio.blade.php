@@ -21,10 +21,10 @@
             <img src="images/fall1.jpg" alt="" class="img-thumbnail my-3">
             <img src="images/fall2.jpg" alt="" class="img-thumbnail my-3">
             <img src="images/fall3.jpg" alt="" class="img-thumbnail my-3">
-            <img src="images/fall4.jpg" alt="" class="img-thumbnail my-3">
-            <img src="images/fall5.jpg" alt="" class="img-thumbnail my-3">
+            <img src="images/fall4.jpg" alt="" class="img-thumbnail my-3" id="preschool">
+            <img src="images/fall5.jpg" alt="" class="img-thumbnail my-3" id="elementary">
             <img src="images/fall6.jpg" alt="" class="img-thumbnail my-3">
-            <img src="images/fall7.jpg" alt="" class="img-thumbnail my-3">
+            <img src="images/fall7.jpg" alt="" class="img-thumbnail my-3" id="graded">
             <img src="images/fall8.jpg" alt="" class="img-thumbnail my-3">
             <img src="images/fall9.jpg" alt="" class="img-thumbnail my-3">
             <img src="images/fall10.jpg" alt="" class="img-thumbnail my-3">
