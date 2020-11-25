@@ -17,7 +17,7 @@
             <div class="about-teacher-wrapper row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4">
                 <div class="teacher-col col-sm">
                     <div class="about-teacher-card">
-                        <img class="teacher-img" src="images/teacher4.jpg">
+                        <img class="teacher-img" src="images/teacher-misty.jpg">
                         <button class="bioaccordion"><h4>Miss Misty Lown</h4></button>
                         <div class="biopanel">
                             <p>Miss Misty has been sharing her passion for dance and mentorship with students for 29 years. She is the founder of More Than Just Great Dancing™ affiliated dance studios and “A Chance to Dance Foundation”, a 501(c)3 charitable organization. Misty is passionate about community service and has given over $500,000 in combined cash and studio scholarships over the past 23 years.</p>
@@ -170,6 +170,26 @@
                         <div class="biopanel">
 
                             <p>Miss Anna is a graduate of the UW-La Crosse where she was a member of the Hip Hop Dance Team. She grew up dancing at Jan's School of Dance in Hastings, MN. Anna has been teaching at MDU since 2017 and is currently the Varsity Dance Team coach at Viterbo University.</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="teacher-col col-sm">
+                    <div class="about-teacher-card">
+                        <img class="teacher-img" src="images/teacher-emily.jpg">
+                        <button class="bioaccordion"><h4>Miss Emily Sweeny</h4></button>
+                        <div class="biopanel">
+
+                            <p>Bio coming soon!</p>
+                        </div>
+                    </div>
+                </div>
+                <div class="teacher-col col-sm">
+                    <div class="about-teacher-card">
+                        <img class="teacher-img" src="images/teacher-keagan.jpg">
+                        <button class="bioaccordion"><h4>Mr Keagan Walz</h4></button>
+                        <div class="biopanel">
+
+                            <p>Bio coming soon!</p>
                         </div>
                     </div>
                 </div>
