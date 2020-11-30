@@ -32,35 +32,7 @@
                     <span class="navbar-toggler-icon"></span>
                 </button>
                 <div class="collapse navbar-collapse d-flex justify-content-end" id="main-navigation">
-                    <ul class="navbar-nav">
-                        <li class="nav-item active">
-                            <a class="nav-link" href="/aboutus">About Us</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="/fall">Fall</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="/events">Events</a>
-                        </li>
-{{--                        <li class="nav-item">--}}
-{{--                            <a class="nav-link" href="/thirdoption">Third Option™ Learning Hub</a>--}}
-{{--                        </li>--}}
-                        <li class="nav-item">
-                            <a class="nav-link" href="/promotions">Promos</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="/articles">News</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="/posts">Blog</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank">Register</a>
-                        </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="https://mistysdance.store" target="_blank">Store</a>
-                        </li>
-                    </ul>
+                    @include('nav-list')
                 </div>
             </nav>
             <div id="head-title" class="pt-5 mt-5">
@@ -674,9 +646,9 @@
                             <li class="nav-item">
                                 <a class="nav-link" href="https://docs.google.com/forms/d/e/1FAIpQLSfzEyUJ7xwdSlv_IMNtLznZo1Lwk5jH0yfAKQZ32jGRpuWdCw/viewform?c=0&w=1" target="_blank">Performance Request Form</a>
                             </li>
-                            <li class="nav-item">
-                                <a class="nav-link" href="/bravo">Bravo! Community Partners</a>
-                            </li>
+{{--                            <li class="nav-item">--}}
+{{--                                <a class="nav-link" href="/bravo">Bravo! Community Partners</a>--}}
+{{--                            </li>--}}
                             <li class="nav-item">
                                 <a class="nav-link" href="/studio">Studio</a>
                             </li>
@@ -684,7 +656,10 @@
                                 <a class="nav-link" href="/employment">Employment</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" href="https://mistysdance.store/" target="_blank">Store</a>
+                                <a class="nav-link" href="https://mistysdance.store/" target="_blank">Holiday Specials</a>
+                            </li>
+                            <li class="nav-item">
+                                <a class="nav-link" href="https://www.everythingdanceboutique.com/" target="_blank">Everything Dance Boutique</a>
                             </li>
                             <!-- Authentication Links -->
                             @guest

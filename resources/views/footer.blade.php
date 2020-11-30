@@ -35,9 +35,9 @@
                         <li class="nav-item">
                             <a class="nav-link" href="https://docs.google.com/forms/d/e/1FAIpQLSfzEyUJ7xwdSlv_IMNtLznZo1Lwk5jH0yfAKQZ32jGRpuWdCw/viewform?c=0&w=1" target="_blank">Performance Request Form</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="/bravo">Bravo! Community Partners</a>
-                        </li>
+{{--                        <li class="nav-item">--}}
+{{--                            <a class="nav-link" href="/bravo">Bravo! Community Partners</a>--}}
+{{--                        </li>--}}
                         <li class="nav-item">
                             <a class="nav-link" href="/studio">Studio</a>
                         </li>
@@ -45,7 +45,10 @@
                             <a class="nav-link" href="/employment">Employment</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="https://mistysdance.store/" target="_blank">Store</a>
+                            <a class="nav-link" href="https://mistysdance.store/" target="_blank">Holiday Specials</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="nav-link" href="https://www.everythingdanceboutique.com/" target="_blank">Everything Dance Boutique</a>
                         </li>
                         <!-- Authentication Links -->
                         @guest

@@ -30,29 +30,7 @@
                 <span class="navbar-toggler-icon"></span>
             </button>
             <div class="collapse navbar-collapse" id="main-navigation" style="background: black;">
-                <ul class="navbar-nav">
-                    <li class="nav-item active">
-                        <a class="nav-link" href="/aboutus">About Us</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="/fall">Fall</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="/thirdoption">Third Option™ Learning Hub</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="/promotions">Promotions</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="/articles">News</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="/posts">Blog</a>
-                    </li>
-                    <li class="nav-item">
-                        <a class="nav-link" href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank">Register</a>
-                    </li>
-                </ul>
+                @include('nav-list')
             </div>
         </nav>
         <div id="head-title" class="mt-5 pt-5">
