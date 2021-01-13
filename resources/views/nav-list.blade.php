@@ -24,7 +24,7 @@
         <a class="nav-link" href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank">Register</a>
     </li>
     <li class="nav-item">
-        <a class="nav-link" href="https://mistysdance.store" target="_blank">Holiday Specials</a>
+        <a class="nav-link" href="https://mistysdance.store" target="_blank">MDU Apparel</a>
     </li>
     <li class="nav-item">
         <a class="nav-link" href="https://www.everythingdanceboutique.com/" target="_blank">Everything Dance Boutique</a>
