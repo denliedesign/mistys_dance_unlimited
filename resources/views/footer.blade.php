@@ -45,7 +45,7 @@
                             <a class="nav-link" href="/employment">Employment</a>
                         </li>
                         <li class="nav-item">
-                            <a class="nav-link" href="https://mistysdance.store/" target="_blank">MDU Apparel</a>
+                            <a class="nav-link" href="https://mistysdance.store/" target="_blank">MDU Sale</a>
                         </li>
                         <li class="nav-item">
                             <a class="nav-link" href="https://www.everythingdanceboutique.com/" target="_blank">Everything Dance Boutique</a>
