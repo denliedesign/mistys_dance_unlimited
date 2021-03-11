@@ -15,6 +15,10 @@
     <div class="jumbotron jumbotron-fluid bg-aliceblue">
         <div class="container" id="summer">
             <h3 class="text-center">Summer Calendar 2020</h3>
+            <div class="text-center">
+                {{--                <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login"><button class="btn btn-danger btn-lg">REGISTER NOW!</button></a>--}}
+                Registration starts Monday!
+            </div>
             <img src="images/summer-1.jpg" alt="" class="img-thumbnail my-3">
             <img src="images/summer-2.jpg" alt="" class="img-thumbnail my-3">
             <img src="images/summer-3.jpg" alt="" class="img-thumbnail my-3">
@@ -24,7 +28,8 @@
             <img src="images/summer-7.jpg" alt="" class="img-thumbnail my-3">
             <img src="images/summer-8.jpg" alt="" class="img-thumbnail my-3">
             <div class="text-center">
-                <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login"><button class="btn btn-danger btn-lg">REGISTER NOW!</button></a>
+{{--                <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login"><button class="btn btn-danger btn-lg">REGISTER NOW!</button></a>--}}
+                Registration starts Monday!
             </div>
 
 {{--            <div id="almuni" class="d-flex justify-content-end m-5">--}}
