@@ -3,7 +3,7 @@
         <a class="nav-link" href="/aboutus">About Us</a>
     </li>
     <li class="nav-item">
-        <a class="nav-link" href="/fall">2020-2021 Classes</a>
+        <a class="nav-link" href="/summer">Summer</a>
     </li>
     <li class="nav-item">
         <a class="nav-link" href="/events">Events</a>
