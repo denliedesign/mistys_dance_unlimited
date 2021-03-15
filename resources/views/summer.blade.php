@@ -1,6 +1,6 @@
 @extends('layouts.app')
 
-@section('title', 'Summer 2020 | Misty\'s Dance Unlimited')
+@section('title', 'Summer 2021 | Misty\'s Dance Unlimited')
 
 @section('content')
 
@@ -14,10 +14,9 @@
 
     <div class="jumbotron jumbotron-fluid bg-aliceblue">
         <div class="container" id="summer">
-            <h3 class="text-center">Summer Calendar 2020</h3>
+            <h3 class="text-center">Summer Calendar 2021</h3>
             <div class="text-center">
-                {{--                <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login"><button class="btn btn-danger btn-lg">REGISTER NOW!</button></a>--}}
-                Registration starts Monday!
+                <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><button class="btn btn-danger btn-lg">ENROLL NOW!</button></a>
             </div>
             <img src="images/summer-1.jpg" alt="" class="img-thumbnail my-3">
             <img src="images/summer-2.jpg" alt="" class="img-thumbnail my-3">
@@ -28,8 +27,7 @@
             <img src="images/summer-7.jpg" alt="" class="img-thumbnail my-3">
             <img src="images/summer-8.jpg" alt="" class="img-thumbnail my-3">
             <div class="text-center">
-{{--                <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login"><button class="btn btn-danger btn-lg">REGISTER NOW!</button></a>--}}
-                Registration starts Monday!
+                <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><button class="btn btn-danger btn-lg">ENROLL NOW!</button></a>
             </div>
 
 {{--            <div id="almuni" class="d-flex justify-content-end m-5">--}}
