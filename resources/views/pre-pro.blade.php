@@ -11,13 +11,93 @@
                 <li class="nav-item">
                     <a class="nav-link text-info" href="#fall">Fall</a>
                 </li>
+{{--                <li class="nav-item">--}}
+{{--                    <a class="nav-link disabled" href="#winter">Winter</a>--}}
+{{--                </li>--}}
                 <li class="nav-item">
-                    <a class="nav-link disabled" href="#winter">Winter</a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link disabled" href="#spring">Spring</a>
+                    <a class="nav-link text-info" href="#spring">Spring</a>
                 </li>
             </ul>
+
+
+            <div id="spring">
+                <div class="p-4 my-5 border bg-white" id="april">
+                    <h3 class="mb-3"><span class="text-uppercase text-info font-weight-bold">Spring</span> Dancers, Teachers, & Choreographers</h3>
+                    <div class="row">
+                        <div class="col">
+                            <ul>
+                                <p class="bg-warning p-2"><strong>Hanya Holm & George Balanchine</strong></p>
+
+                                <li>Siena</li>
+                                <li>Danielle</li>
+                            </ul>
+                        </div>
+                        <div class="col">
+                            <ul>
+                                <p class="bg-warning p-2"><strong>Alwin Nikolais & Anna Pavlova</strong></p>
+
+                                <li>Carmina</li>
+                                <li>Annelise</li>
+                            </ul>
+                        </div>
+                        <div class="col">
+                            <ul>
+                                <p class="bg-warning p-2"><strong>Mary Anthony & Michel Fokine</strong></p>
+
+                                <li>Julia</li>
+                                <li>Amber</li>
+                            </ul>
+                        </div>
+                        <div class="col">
+                            <ul>
+                                <p class="bg-warning p-2"><strong>Ted Shawn & Natalia Makarova</strong></p>
+
+                                <li>Hayley</li>
+                                <li>Tiahna</li>
+                            </ul>
+                        </div>
+                        <div class="col">
+                            <ul>
+                                <p class="bg-warning p-2"><strong>Paul Taylor & Nina Ananaishvilli</strong></p>
+
+                                <li>Kaelin</li>
+                                <li>Lara</li>
+                                <li>Hannah</li>
+                            </ul>
+                        </div>
+                        <div class="col">
+                            <ul>
+                                <p class="bg-warning p-2"><strong>José Limón & Vaslav Nijinsky</strong></p>
+
+                                <li>Megan</li>
+                            </ul>
+                        </div>
+                        <div class="col">
+                            <ul>
+                                <p class="bg-warning p-2"><strong>Doris Humphrey & Jacques d'Amboise</strong></p>
+
+                                <li>Grace M</li>
+                                <li>Sophie C</li>
+                            </ul>
+                        </div>
+                        <div class="col">
+                            <ul>
+                                <p class="bg-warning p-2"><strong>Isadora Duncan & Margot Fonteyn</strong></p>
+
+                                <li>Sylvie</li>
+                            </ul>
+                        </div>
+                        <div class="col">
+                            <ul>
+                                <p class="bg-warning p-2"><strong>Katherine Dunham & Alexander Godunov</strong></p>
+
+                                <li>Kendyl H</li>
+                                <li>Grace V</li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+            </div>
 
 
             <div class="card-deck" id="fall">
