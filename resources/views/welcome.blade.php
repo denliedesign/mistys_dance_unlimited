@@ -469,75 +469,103 @@
         </div>
     </div>
 
-    <div id="teacher-focus-section">
+    <div>
         <div class="container">
-            <div class="row pt-5" id="top-teacher-focus">
-                <div class="col-12 col-md-6">
-                    <p class="text-uppercase my-5" id="focus-label">Teacher Feature</p>
-                    <p id="focus-name" class="my-5">Mr. Dennis</p>
-                    <p class="my-5">Mr. Dennis grew up studying ballet at Maple Conservatory of Dance in California. He graduated from Belhaven University with a BFA in dance and has danced professionally with Ballet Mississippi and Filter Dance Company. Additionally, he has four years of experience in Martial Arts. Mr. Dennis has taught at MDU since 2015.</p>
-                    <p id="focus-list" class="text-uppercase font-weight-bold mt-5">teacher classes:</p>
-                </div>
-                <div class="col-6 d-flex justify-content-center">
-                    <img src="images/teacher-of-the-month.png" alt="" class="img-fluid d-none d-md-block">
-                </div>
-            </div>
-            <div class="row pb-5" id="teacher-focus-classes">
-                <div class="col-sm-3 mb-2">
-                    <div class="class-card-wrap border border-muted bg-white">
-                        <img src="/images/modern-dennis.jpg" alt="" class="img-fluid">
-                        <div class="class-card-content my-3">
-                            <p class="m-0 text-center"><strong>Modern</strong></p>
-                            <hr>
-                            <div class="text-center">
-                                <a href="/fall" class="ml-2"><div class="btn btn-pink btn-sm text-center text-uppercase">View Fall Schedule</div></a>
-                                <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-sm btn-aqua text-center text-uppercase">Register</div></a>
-
-                            </div>
-                        </div>
+            <div class="row">
+                <div class="col-sm">
+                    <div class="d-flex align-items-center justify-content-center">
+                        <img src="/images/darbys-dancers-logo.jpeg" alt="darbys dancers logo" class="img-fluid">
+                    </div>
+                    <div class="d-flex align-items-center justify-content-center">
+                        <img src="/images/darbys-1.jpg" alt="darbys dancer on stage" class="img-fluid">
                     </div>
                 </div>
-                <div class="col-sm-3 mb-2">
-                    <div class="class-card-wrap border border-muted bg-white">
-                        <img src="/images/boys.jpg" alt="" class="img-fluid">
-                        <div class="class-card-content my-3">
-                            <p class="m-0 text-center"><strong>Man in Motion</strong></p>
-                            <hr>
-                            <div class="text-center">
-                                <a href="/fall" class="ml-2"><div class="btn btn-pink btn-sm text-center text-uppercase">View Fall Schedule</div></a>
-                                <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-sm btn-aqua text-center text-uppercase">Register</div></a>
-
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-3 mb-2">
-                    <div class="class-card-wrap border border-muted bg-white">
-                        <img src="/images/BLC.jpg" alt="" class="img-fluid">
-                        <div class="class-card-content my-3">
-                            <p class="m-0 text-center"><strong>Ballet La Crosse</strong></p>
-                            <hr>
-                            <div class="d-flex justify-content-center">
-                                <a href="https://www.balletlacrosse.com/" target="_blank"><div class="btn btn-aqua btn-sm text-center text-uppercase">More Info</div></a>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-sm-3 mb-2">
-                    <div class="class-card-wrap border border-muted bg-white">
-                        <img src="/images/prepro.jpg" alt="" class="img-fluid">
-                        <div class="class-card-content my-3">
-                            <p class="m-0 text-center"><strong>Pre-Professional Ballet</strong></p>
-                            <hr>
-                            <div class="d-flex justify-content-center text-center">
-                                for more information email:<br>mistysdance@gmail.com
-                            </div>
-                        </div>
-                    </div>
+                <div class="col-sm">
+                    <p class="my-5">
+                        Giving extra special kids a <em>Chance to Dance</em> this school year!
+                        <br><br>
+                        Misty’s Dance Unlimited (MDU) is proud to offer this program each dance season called <strong>Darby’s Dancers</strong>. Darby’s Dancers is a 501(c)(3) organization founded by the parents of Darby Jones of Huntsville, Alabama. Darby’s Dancers provides an opportunity for children with special needs to participate in the performing arts through dance education.
+                        <br><br>
+                        At once-a-week classes at MDU, Darby’s Dancers learn all types of dance in a fun, encouraging atmosphere. Dancers in the program gain confidence, coordination, strength and lifelong friends, all while feeling like a star. DD also provides volunteer opportunities for teens who dance at MDU. Our youth volunteers learn important lessons in responsibility and friendship by providing one-on-one assistance to a special needs dancer.
+                        <br><br>
+                        DD classes are taught by volunteer dance instructors and take place in donated studio space. The charitable contributions of youth volunteers, dance instructors, community dance studios and local businesses allow DD to provide dance classes, supplies and costumes to special needs dancers at no cost to their parents.
+                        <br><br>
+                        If you would like to learn more about Darby’s Dancers for your child, please email mistysdance@gmail.com.
+                    </p>
                 </div>
             </div>
         </div>
     </div>
+
+{{--    <div id="teacher-focus-section">--}}
+{{--        <div class="container">--}}
+{{--            <div class="row pt-5" id="top-teacher-focus">--}}
+{{--                <div class="col-12 col-md-6">--}}
+{{--                    <p class="text-uppercase my-5" id="focus-label">Teacher Feature</p>--}}
+{{--                    <p id="focus-name" class="my-5">Mr. Dennis</p>--}}
+{{--                    <p class="my-5">Mr. Dennis grew up studying ballet at Maple Conservatory of Dance in California. He graduated from Belhaven University with a BFA in dance and has danced professionally with Ballet Mississippi and Filter Dance Company. Additionally, he has four years of experience in Martial Arts. Mr. Dennis has taught at MDU since 2015.</p>--}}
+{{--                    <p id="focus-list" class="text-uppercase font-weight-bold mt-5">teacher classes:</p>--}}
+{{--                </div>--}}
+{{--                <div class="col-6 d-flex justify-content-center">--}}
+{{--                    <img src="images/teacher-of-the-month.png" alt="" class="img-fluid d-none d-md-block">--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--            <div class="row pb-5" id="teacher-focus-classes">--}}
+{{--                <div class="col-sm-3 mb-2">--}}
+{{--                    <div class="class-card-wrap border border-muted bg-white">--}}
+{{--                        <img src="/images/modern-dennis.jpg" alt="" class="img-fluid">--}}
+{{--                        <div class="class-card-content my-3">--}}
+{{--                            <p class="m-0 text-center"><strong>Modern</strong></p>--}}
+{{--                            <hr>--}}
+{{--                            <div class="text-center">--}}
+{{--                                <a href="/fall" class="ml-2"><div class="btn btn-pink btn-sm text-center text-uppercase">View Fall Schedule</div></a>--}}
+{{--                                <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-sm btn-aqua text-center text-uppercase">Register</div></a>--}}
+
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--                <div class="col-sm-3 mb-2">--}}
+{{--                    <div class="class-card-wrap border border-muted bg-white">--}}
+{{--                        <img src="/images/boys.jpg" alt="" class="img-fluid">--}}
+{{--                        <div class="class-card-content my-3">--}}
+{{--                            <p class="m-0 text-center"><strong>Man in Motion</strong></p>--}}
+{{--                            <hr>--}}
+{{--                            <div class="text-center">--}}
+{{--                                <a href="/fall" class="ml-2"><div class="btn btn-pink btn-sm text-center text-uppercase">View Fall Schedule</div></a>--}}
+{{--                                <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-sm btn-aqua text-center text-uppercase">Register</div></a>--}}
+
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--                <div class="col-sm-3 mb-2">--}}
+{{--                    <div class="class-card-wrap border border-muted bg-white">--}}
+{{--                        <img src="/images/BLC.jpg" alt="" class="img-fluid">--}}
+{{--                        <div class="class-card-content my-3">--}}
+{{--                            <p class="m-0 text-center"><strong>Ballet La Crosse</strong></p>--}}
+{{--                            <hr>--}}
+{{--                            <div class="d-flex justify-content-center">--}}
+{{--                                <a href="https://www.balletlacrosse.com/" target="_blank"><div class="btn btn-aqua btn-sm text-center text-uppercase">More Info</div></a>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--                <div class="col-sm-3 mb-2">--}}
+{{--                    <div class="class-card-wrap border border-muted bg-white">--}}
+{{--                        <img src="/images/prepro.jpg" alt="" class="img-fluid">--}}
+{{--                        <div class="class-card-content my-3">--}}
+{{--                            <p class="m-0 text-center"><strong>Pre-Professional Ballet</strong></p>--}}
+{{--                            <hr>--}}
+{{--                            <div class="d-flex justify-content-center text-center">--}}
+{{--                                for more information email:<br>mistysdance@gmail.com--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
+{{--    </div>--}}
 
     <div id="trial-section" class="pb-3">
         <div class="container">
