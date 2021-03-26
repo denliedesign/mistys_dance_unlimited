@@ -28,7 +28,7 @@
                     </div>
                     <div class="col-md">
                         <h5 class="lead"><em>Lar Lubovitch</em></h5>
-                        <iframe width="100%" height="315" src="https://www.youtube.com/watch?v=p122V0_FDxI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        <iframe width="100%" height="315" src="https://www.youtube.com/embed/p122V0_FDxI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     </div>
                 </div>
                 <div class="p-4 my-5 border bg-white" id="april">
