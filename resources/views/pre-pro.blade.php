@@ -24,7 +24,7 @@
                 <div class="row my-5">
                     <div class="col-md">
                         <h5 class="lead"><em>Swan Lake Little Swans - Choreography by Rudolf Nureyev</em></h5>
-                        <iframe width="100%" height="315" src="https://www.youtube.com/watch?v=jSTia7AmWDI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                        <iframe width="100%" height="315" src="https://www.youtube.com/embed/jSTia7AmWDI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                     </div>
                     <div class="col-md">
                         <h5 class="lead"><em>Lar Lubovitch</em></h5>
