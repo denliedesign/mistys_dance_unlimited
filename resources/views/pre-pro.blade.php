@@ -21,6 +21,16 @@
 
 
             <div id="spring">
+                <div class="row my-5">
+                    <div class="col-md">
+                        <h5 class="lead"><em>Swan Lake Little Swans - Choreography by Rudolf Nureyev</em></h5>
+                        <iframe width="100%" height="315" src="https://www.youtube.com/watch?v=jSTia7AmWDI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                    <div class="col-md">
+                        <h5 class="lead"><em>Lar Lubovitch</em></h5>
+                        <iframe width="100%" height="315" src="https://www.youtube.com/watch?v=p122V0_FDxI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    </div>
+                </div>
                 <div class="p-4 my-5 border bg-white" id="april">
                     <h3 class="mb-3"><span class="text-uppercase text-info font-weight-bold">Spring</span> Dancers, Teachers, & Choreographers</h3>
                     <div class="row">
