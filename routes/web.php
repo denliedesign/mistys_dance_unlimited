@@ -336,10 +336,6 @@ Route::get('pre-pro-2019', function () {
     return view('pre-pro-2019');
 });
 
-Route::get('audition', function () {
-    return view('audition');
-});
-
 Route::get('frozen-friends', 'FrozenFriendsController@index')->name('frozen-friends');
 Route::post('frozen-friends', 'FrozenFriendsController@store')->name('frozen-friends.store');
 

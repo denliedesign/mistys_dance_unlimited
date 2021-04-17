@@ -1,5 +1,5 @@
 @extends('layouts.app')
-@section('title', 'Performing Groups | Misty\'s Dance Unlimited')
+@section('title', 'Audition Info | Misty\'s Dance Unlimited')
 @section('content')
 
 <div class="banner-wrap">
@@ -7,13 +7,33 @@
 </div>
 
 <div class="jumbotron jumbotron-fluid bg-aliceblue">
-    <div class="container" id="performinggroups">
-        <img src="images/virtualauditions.jpg" alt="" class="img-fluid">
-        <div class="text-center">
-            <a href="https://docs.google.com/forms/d/e/1FAIpQLSd98lsJuan7kCwUL4WOiSiLIJg4Vm-YBTq-IDc57Jz3Yq1x1A/viewform?vc=0&c=0&w=1&usp=mail_form_link" target="_blank"><button class="btn btn-danger btn-lg">FILL OUT FORM</button></a>
+    <div class="container" id="adult">
+        <a href="/images/pg.pdf" target="_blank"><h3 class="py-5 text-center">Audition Info</h3></a>
+        <div class="text-center d-flex justify-content-center">
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSea2TA8tTUqBxQDWOKCE9Mtc2AlAV0Aea8xiiwRblmZi0S5rQ/viewform?gxids=7628" target="_blank"><button class="btn btn-danger btn-lg mx-1">Pre-Pro Ballet Sign Up</button></a>
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSeD9_U29AsvKHkZ4oFT0Erbji3kQANPuqGGZ3Ofpz9LGwsTvQ/viewform?gxids=7628" target="_blank"><button class="btn btn-danger btn-lg mx-1">Performing Groups Sign Up</button></a>
+        </div>
+        <img src="/images/pg-benefits.jpg" alt="performing benefits" class="img-fluid">
+        <div class="text-center d-flex justify-content-center">
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSea2TA8tTUqBxQDWOKCE9Mtc2AlAV0Aea8xiiwRblmZi0S5rQ/viewform?gxids=7628" target="_blank"><button class="btn btn-danger btn-lg mx-1">Pre-Pro Ballet Sign Up</button></a>
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSeD9_U29AsvKHkZ4oFT0Erbji3kQANPuqGGZ3Ofpz9LGwsTvQ/viewform?gxids=7628" target="_blank"><button class="btn btn-danger btn-lg mx-1">Performing Groups Sign Up</button></a>
+        </div>
+        <img src="/images/pg-audition-info.jpg" alt="audition info" class="img-fluid">
+        <div class="text-center d-flex justify-content-center">
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSea2TA8tTUqBxQDWOKCE9Mtc2AlAV0Aea8xiiwRblmZi0S5rQ/viewform?gxids=7628" target="_blank"><button class="btn btn-danger btn-lg mx-1">Pre-Pro Ballet Sign Up</button></a>
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSeD9_U29AsvKHkZ4oFT0Erbji3kQANPuqGGZ3Ofpz9LGwsTvQ/viewform?gxids=7628" target="_blank"><button class="btn btn-danger btn-lg mx-1">Performing Groups Sign Up</button></a>
         </div>
     </div>
 </div>
+
+{{--<div class="jumbotron jumbotron-fluid bg-aliceblue">--}}
+{{--    <div class="container" id="performinggroups">--}}
+{{--        <img src="images/virtualauditions.jpg" alt="" class="img-fluid">--}}
+{{--        <div class="text-center">--}}
+{{--            <a href="https://docs.google.com/forms/d/e/1FAIpQLSd98lsJuan7kCwUL4WOiSiLIJg4Vm-YBTq-IDc57Jz3Yq1x1A/viewform?vc=0&c=0&w=1&usp=mail_form_link" target="_blank"><button class="btn btn-danger btn-lg">FILL OUT FORM</button></a>--}}
+{{--        </div>--}}
+{{--    </div>--}}
+{{--</div>--}}
 
 {{--<section class="section-one container pb-5">--}}
 {{--    <h3 class="text-center py-5">Performing Groups</h3>--}}
