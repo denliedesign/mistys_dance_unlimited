@@ -22,7 +22,7 @@
             <img src="images/summer-june.jpg" alt="" class="img-thumbnail my-3">
             <img src="images/summer-july.jpg" alt="" class="img-thumbnail my-3">
             <img src="images/summer-august.jpg" alt="" class="img-thumbnail my-3">
-            <img src="images/summer-8.jpg" alt="" class="img-thumbnail my-3">
+            <img src="images/miss-larissa-ballet-series.png" alt="" class="img-thumbnail my-3">
             <div class="text-center">
                 <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><button class="btn btn-danger btn-lg">ENROLL NOW!</button></a>
             </div>
