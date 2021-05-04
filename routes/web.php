@@ -336,6 +336,10 @@ Route::get('pre-pro-2019', function () {
     return view('pre-pro-2019');
 });
 
+Route::get('mdu-fest', function () {
+    return view('mdu-fest');
+});
+
 Route::get('frozen-friends', 'FrozenFriendsController@index')->name('frozen-friends');
 Route::post('frozen-friends', 'FrozenFriendsController@store')->name('frozen-friends.store');
 
@@ -358,6 +362,7 @@ Route::resource('recitals/photos', 'PhotoController');
 Route::resource('recitals/volunteers', 'VolunteerController');
 Route::resource('students', 'StudentController');
 Route::resource('updates', 'UpdateController');
+Route::resource('fests', 'FestController');
 
 
 Auth::routes();

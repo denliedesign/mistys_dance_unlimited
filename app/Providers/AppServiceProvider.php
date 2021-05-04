@@ -2,6 +2,7 @@
 
 namespace App\Providers;
 
+use App\Fest;
 use App\Update;
 use App\User;
 use Illuminate\Support\ServiceProvider;
@@ -31,6 +32,10 @@ class AppServiceProvider extends ServiceProvider
 
         view()->composer('*',function($view) {
             $view->with('updates', Update::all());
+        });
+
+        view()->composer('*',function($view) {
+            $view->with('fests', Fest::all());
         });
     }
 }
