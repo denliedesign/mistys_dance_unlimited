@@ -686,6 +686,9 @@
                                 <a class="nav-link" href="/employment">Employment</a>
                             </li>
                             <li class="nav-item">
+                                <a class="nav-link" href="/mdu-fest" target="_blank">MDU Fest</a>
+                            </li>
+                            <li class="nav-item">
                                 <a class="nav-link" href="https://mistysdance.store/" target="_blank">MDU Sale</a>
                             </li>
                             <li class="nav-item">
