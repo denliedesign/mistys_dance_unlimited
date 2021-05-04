@@ -50,10 +50,12 @@
 </div>
 
 <div class="container">
-    <nav class="navbar navbar-expand-lg navbar-light bg-white">
-        <a class="navbar-brand" href="/">
+    <div class="d-flex justify-content-center">
+        <a class="navbar-brand mt-3" href="/">
             <img src="/images/mdu-logo.png" height="80" alt="">
         </a>
+    </div>
+    <nav class="navbar navbar-expand-lg navbar-light bg-white">
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navigation" aria-controls="main-navigation" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>

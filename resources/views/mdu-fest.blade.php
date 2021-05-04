@@ -4,8 +4,8 @@
 
 @section('content')
 
-    <div class="banner-wrap">
-        <div class="banner"></div>
+    <div class="d-flex justify-content-center">
+        <img src="/images/mdu-fest-logo.jpg" alt="mdu fest logo" class="img-fluid">
     </div>
 
     <div class="jumbotron jumbotron-fluid bg-aliceblue">
@@ -23,7 +23,6 @@
                     <a href="/images/fest-dance-portrait.pdf">Dance Portraits</a>
                 </div>
             </div>
-
             <p>
 
             @foreach($fests as $fest)

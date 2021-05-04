@@ -26,8 +26,10 @@
 
     <div id="head-section" class="d-none d-md-block">
         <div class="container">
-            <nav class="navbar navbar-expand-lg">
+            <div class="d-flex justify-content-center pt-3">
                 <a class="navbar-brand" href="#"><img src="images/mdu-logo.png" alt="" id="logo"></a>
+            </div>
+            <nav class="navbar navbar-expand-lg">
                 <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#main-navigation" aria-controls="main-navigation" aria-expanded="false" aria-label="Toggle navigation">
                     <span class="navbar-toggler-icon"></span>
                 </button>

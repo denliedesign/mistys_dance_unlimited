@@ -8,9 +8,9 @@
     <li class="nav-item">
         <a class="nav-link" href="/events">Events</a>
     </li>
-    {{--                <li class="nav-item">--}}
-    {{--                    <a class="nav-link" href="/thirdoption">Third Option™ Learning Hub</a>--}}
-    {{--                </li>--}}
+    <li class="nav-item">
+        <a class="nav-link" href="/mdu-fest">MDU Fest</a>
+    </li>
     <li class="nav-item">
         <a class="nav-link" href="/promotions">Promos</a>
     </li>
