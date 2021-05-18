@@ -22,6 +22,9 @@
                 <div class="col">
                     <a href="/images/fest-dance-portrait.pdf">Dance Portraits</a>
                 </div>
+                <div class="col">
+                    <a href="/images/show-order.png">Show Orders</a>
+                </div>
             </div>
             <p>
 

@@ -1,0 +1,170 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    background: rgba(30, 193, 217, 1);
+}
+
+#nav-21,
+#nav-21 a,
+#nav-21 ion-icon {
+    color: black;
+    font-size: 1.05em;
+    opacity: 90%;
+}
+
+#nav-list-21 a {
+    color: black;
+}
+
+#primary-bg {
+    height: 100vh;
+    width: 100%;
+    background: url("/images/head1.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: scroll;
+    position: relative;
+}
+
+.color-filter-pink {
+    position: absolute;
+    background: #d94da6;
+    opacity: 60%;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+}
+
+.color-filter-green {
+    position: absolute;
+    background: #10c45c;
+    opacity: 60%;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+}
+
+.color-filter-blue {
+    position: absolute;
+    background: rgba(48, 122, 213, 1);
+    opacity: 60%;
+    height: 100%;
+    width: 100%;
+    top: 0;
+    left: 0;
+}
+
+#primary-txt {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-size: 4em;
+    text-align: center;
+    color: white;
+    text-transform: lowercase;
+}
+
+.secondary-txt {
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    color: white;
+}
+
+.btn-family {
+    color: white;
+    border-radius: 30px;
+    transition: background 0.4s ease;
+    padding: 10px 20px;
+}
+
+.txt-green { color: #10c45c; }
+.txt-blue { color: #307ad5; }
+.txt-pink { color: #d94da6; }
+
+.btn-turq { background: rgba(30, 193, 217, 1); }
+.btn-yellow, .bg-yellow { background: rgba(234, 184, 48, 1); }
+.btn-blue { background: rgba(48, 122, 213, 1); }
+.btn-green { background: rgba(16, 196, 92, 1); }
+.btn-pink { background: rgba(217, 77, 166, 1); }
+
+.btn-turq:hover { background: rgba(30, 193, 217, 0.7); color: white; }
+.btn-yellow:hover { background: rgba(234, 184, 48, 0.7); color: white; }
+.btn-blue:hover { background: rgba(48, 122, 213, 0.7); color: white; }
+.btn-green:hover { background: rgba(16, 196, 92, 0.7); color: white; }
+.btn-pink:hover { background: rgba(217, 77, 166, 0.7); color: white; }
+
+.primary-btn-pos {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.secondary-txt-pos {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 100%;
+    font-size: 1.25em;
+}
+
+.tertiary-txt-pos {
+    position: absolute;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    /*width: 100%;*/
+    font-size: 1.25em;
+}
+
+#next-steps {
+    transform: translateY(-75px);
+}
+
+.next-step {
+    background: white;
+    color: black;
+    width: 300px;
+    height: 200px;
+    padding: 40px 20px;
+    text-align: center;
+    margin: 0 20px;
+    border-radius: 15px;
+    font-weight: bold;
+    font-size: 1.25em;
+}
+
+#checklist-bg {
+    height: 100vh;
+    width: 100%;
+    background: url("/images/achieve.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: scroll;
+    position: relative;
+}
+
+#mtjgd-bg {
+    height: 100vh;
+    width: 100%;
+    background: url("/images/la-crosse-dance-studios.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: scroll;
+    position: relative;
+}
+
+#testimonials .col-sm {
+    background: white;
+    border-radius: 15px;
+}
+
+#footer ion-icon {
+    font-size: 1.5em;
+}

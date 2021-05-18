@@ -340,6 +340,10 @@ Route::get('mdu-fest', function () {
     return view('mdu-fest');
 });
 
+Route::get('template-two', function () {
+    return view('template-two');
+});
+
 Route::get('frozen-friends', 'FrozenFriendsController@index')->name('frozen-friends');
 Route::post('frozen-friends', 'FrozenFriendsController@store')->name('frozen-friends.store');
 
