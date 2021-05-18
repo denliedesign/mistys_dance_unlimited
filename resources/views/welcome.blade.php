@@ -747,7 +747,7 @@
                         <div style="width: 100%"><iframe width="100%" height="275" src="https://maps.google.com/maps?width=100%&amp;height=600&amp;hl=en&amp;q=923%2012th%20Ave%20S%2C%20STE%20103%2C%20Onalaska%2C%20WI%2054650+(Misty's%20Dance%20Unlimited)&amp;ie=UTF8&amp;t=&amp;z=16&amp;iwloc=B&amp;output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe></div>
                     </div>
                 </div>
-                <p class="pt-5" id="credit"><a href="https://denliedesign.com/" target="_blank"><small class="text-muted">Denlie Design</small></a></p>
+                <p class="pt-5" id="credit"><a href="https://denliedesign.com/" target="_blank"><small class="text-muted">Dance Website Design by Denlie Design</small></a></p>
             </div>
         </div>
     </div>
