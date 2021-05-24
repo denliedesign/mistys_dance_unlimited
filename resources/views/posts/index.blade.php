@@ -1,15 +1,15 @@
-@extends('layouts.app')
+@extends('layouts.vanilla')
 
 @section('title', 'Blog | Misty\'s Dance Unlimited')
 @section('description', 'Latest Trends, Tips, Tricks, and Guides for Dancers')
 
 @section('content')
 
-    <div class="banner-wrap">
+    <div class="banner-wrap d-none d-md-block">
         <div class="banner"></div>
     </div>
 
-    <div class="bg-aliceblue">
+    <div class="bg-white pb-5">
         <h3 class="text-center py-5">Blog</h3>
         @can('update', \App\Post::class)
             <p class="text-center"><a href="/posts/create">Create New Post</a></p>
@@ -53,5 +53,8 @@
         </div>
     </div>
 
-    @include('footer')
+    <div class="banner-wrap d-none d-md-block">
+        <div class="banner"></div>
+    </div>
+
 @endsection

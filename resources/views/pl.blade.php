@@ -1,19 +1,19 @@
-@extends('layouts.app')
+@extends('layouts.vanilla')
 
 @section('title', 'Private Lessons | Misty\'s Dance Unlimited')
 
 @section('content')
 
-    <div class="banner-wrap">
+    <div class="banner-wrap d-none d-md-block">
         <div class="banner"></div>
     </div>
 
-    <div class="jumbotron jumbotron-fluid bg-aliceblue">
+    <div class="bg-white pb-5">
         <div class="container" id="pl">
 
             <h3 class="text-center py-5">Private Lessons</h3>
             <div class="pl-items">
-                <p class="lead font-weight-bold">Get the greatest value out of your dance classes by taking private lessons!</p>
+                <p class="lead fw-bold">Get the greatest value out of your dance classes by taking private lessons!</p>
                 <p>
                     Work with a specialist to improve your form, master leaps and turns, work on flexibility, prepare choreography or work on material for an audition.<br><br>
                 Private lessons are available at various times during the week and all day on Saturdays.<br><br>
@@ -24,12 +24,12 @@
                     <li>MDU JFAC (Junior Faculty)</li>
                 </ul>
                 JFAC lessons are offered at a discount as we are training up young leaders for their own success in the classroom. -->
-                <p class="lead font-weight-bold">Rates and Scheduling:</p>
+                <p class="lead fw-bold">Rates and Scheduling:</p>
                 <p>
                 Schedule Your MDU Faculty Private Lessons Today!<br><br>
                 Private lessons begin at $20/half hour and vary by teacher.<br>
                 </p>
-                <button class="btn btn-danger"><a class="text-white" href="http://www.supersaas.com/schedule/MDUPrivateLessons/Private_Lesson" target="_blank">Schedule Now!</a></button><br><br>
+                <button class="btn btn-danger"><a class="text-white text-decoration-none" href="http://www.supersaas.com/schedule/MDUPrivateLessons/Private_Lesson" target="_blank">Schedule Now!</a></button><br><br>
 
                 <!-- <strong>Schedule Your MDU JFAC Private Lessons Today!</strong><br><br>
                 Private lessons begin at $20/half hour for MDU JFAC.<br><br>
@@ -43,7 +43,9 @@
         </div>
     </div>
 
-    @include('footer')
+    <div class="banner-wrap d-none d-md-block">
+        <div class="banner"></div>
+    </div>
 
 @endsection
 

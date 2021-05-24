@@ -1,64 +1,65 @@
-@extends('layouts.app')
+@extends('layouts.vanilla')
 
 @section('title', 'Calendar of Events | Misty\'s Dance Unlimited')
 @section('description', 'Join In On The Fun & Festivities At Misty\'s Dance Unlimited.')
 
 @section('content')
 
-    <div class="banner-wrap">
+    <div class="banner-wrap d-none d-md-block">
         <div class="banner"></div>
     </div>
 
-    <div class="jumbotron jumbotron-fluid bg-aliceblue">
+    <div class="bg-white pb-5">
         <div class="container" id="calendar">
             <h3 class="py-5 text-center">Calendar of Events</h3>
 
             <div class="row">
                 <div class="col-sm-8">
+                    <div>
 
-                    @foreach($events as $event)
-                        <p style="width: 100%;">
+                        @foreach($events as $event)
+                            <p style="width: 100%;">
                             <div style="width: 25% !important; display: inline-block;">{{ $event->day->format('M d') }}@if(!empty($event->endday))<span class="text-muted"> - </span>{{ $event->endday->format('M d, Y') }}@endif</div>
-{{--                            <span class="text-muted"> &nbsp; </span>--}}
-                            <div style="width: 70% !important; display: inline-block;"><span class="font-weight-bold">{{ $event->happening }}</span></div>
-                        </p>
-                        @can('update', $event)
-                            <div class="dropdown pb-3">
-                                <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                    Edit Event
-                                </button>
-                                <div class="dropdown-menu" aria-labelledby="dLabel">
-                                    <div>
-                                        <form action="{{ route('events.update', ['event' => $event]) }}" method="POST" class="p-3">
-                                            @method('PATCH')
-                                            @include('events.form')
+                            {{--                            <span class="text-muted"> &nbsp; </span>--}}
+                            <div style="width: 70% !important; display: inline-block;"><span class="fw-bold">{{ $event->happening }}</span></div>
+                            </p>
+                            @can('update', $event)
+                                <div class="dropdown pb-3">
+                                    <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                        Edit Event
+                                    </button>
+                                    <div class="dropdown-menu" aria-labelledby="dLabel">
+                                        <div>
+                                            <form action="{{ route('events.update', ['event' => $event]) }}" method="POST" class="p-3">
+                                                @method('PATCH')
+                                                @include('events.form')
 
-                                            <button class="btn btn-primary" type="submit">Save</button>
-                                        </form>
-                                    </div>
-                                    <div>
-                                        <form action="/events/{{ $event->id }}" method="POST">
-                                            @method('DELETE')
-                                            @csrf
+                                                <button class="btn btn-primary" type="submit">Save</button>
+                                            </form>
+                                        </div>
+                                        <div>
+                                            <form action="/events/{{ $event->id }}" method="POST">
+                                                @method('DELETE')
+                                                @csrf
 
-                                            <button class="btn btn-danger ml-3" type="submit">Delete</button>
-                                        </form>
+                                                <button class="btn btn-danger ml-3" type="submit">Delete</button>
+                                            </form>
+                                        </div>
                                     </div>
                                 </div>
+                            @endcan
+                        @endforeach
+
+                        @can('update', \App\Event::class)
+                            <div class="pt-5">
+                                <h2>New Event</h2>
+                                <form action="/events" method="POST">
+                                    @include('events.form')
+                                    <button type="submit" class="btn btn-primary">Add Event</button>
+                                </form>
                             </div>
                         @endcan
-                    @endforeach
-
-                    @can('update', \App\Event::class)
-                        <div class="pt-5">
-                            <h2>New Event</h2>
-                            <form action="/events" method="POST">
-                                @include('events.form')
-                                <button type="submit" class="btn btn-primary">Add Event</button>
-                            </form>
-                        </div>
-                    @endcan
-
+                    </div>
                 </div>
                 <div class="col-sm-4">
                     <img src="images/parent-quote.png" alt="">
@@ -68,7 +69,9 @@
         </div>
     </div>
 
-    @include('footer')
+    <div class="banner-wrap d-none d-md-block">
+        <div class="banner"></div>
+    </div>
 
 @endsection
 

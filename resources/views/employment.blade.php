@@ -1,19 +1,19 @@
-@extends('layouts.app')
+@extends('layouts.vanilla')
 
 @section('title', 'Employment | Misty\'s Dance Unlimited')
 
 @section('content')
 
-    <div class="banner-wrap">
+    <div class="banner-wrap d-none d-md-block">
         <div class="banner"></div>
     </div>
 
-    <div class="jumbotron jumbotron-fluid bg-aliceblue">
+    <div class="bg-white pb-5">
         <div class="container" id="employment">
 
             <h3 class="text-center py-5">Employment</h3>
-            <p class="lead font-weight-bold">MDU is growing!</p>
-            <p class="font-weight-bold">Find employment opportunities with us</p>
+            <p class="lead fw-bold">MDU is growing!</p>
+            <p class="fw-bold">Find employment opportunities with us</p>
             At Misty’s Dance Unlimited we are always looking for positive, enthusiastic, qualified instructors.
             <br><br>
             Employment for teaching positions available include:
@@ -34,7 +34,9 @@
         </div>
     </div>
 
-    @include('footer')
+    <div class="banner-wrap d-none d-md-block">
+        <div class="banner"></div>
+    </div>
 
 @endsection
 

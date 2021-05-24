@@ -27,7 +27,9 @@
 
     <img src="https://servedby.ipromote.com/ad/?src=pixel_cid&nid=2482&cid=T7VJY1WDF8F&cat=11902" width="1" height="1" border="0" alt="" style="position: absolute; visibility: hidden;">
 
+    @include('header-21')
     @yield('content')
+    @include('footer-21')
 
 </head>
 <body>

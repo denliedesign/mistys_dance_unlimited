@@ -1,18 +1,18 @@
-@extends('layouts.app')
+@extends('layouts.vanilla')
 
 @section('title', 'Birthday Parties | Misty\'s Dance Unlimited')
 
 @section('content')
 
-    <div class="banner-wrap">
+    <div class="banner-wrap d-none d-md-block">
         <div class="banner"></div>
     </div>
 
-    <div class="jumbotron jumbotron-fluid bg-aliceblue">
+    <div class="bg-white pb-5">
         <div class="container" id="birthday">
 
             <h3 class="text-center py-5">Birthday Parties</h3>
-            <p class="lead font-weight-bold">Birthday parties are fun and easy at Misty’s Dance Unlimited!</p>
+            <p class="lead fw-bold">Birthday parties are fun and easy at Misty’s Dance Unlimited!</p>
             <p>You’ve found it!  Imagine an hour and a half of dancing fun for your child with 10 of their closest friends! Let us help you celebrate your child’s big day.</p>
             <img src="images/birthday.png" style="max-width: 100%;"><br><br>
 
@@ -38,7 +38,7 @@
                 <li>Ballerina Dance Party</li>
             </ul>
 
-            <p class="lead font-weight-bold">Cost for MDU Birthday Party:</p>
+            <p class="lead fw-bold">Cost for MDU Birthday Party:</p>
             $125 for 10 children, $5 each additional child<br><br>
 
             <strong>Let us help you plan your Birthday Party!</strong><br><br>
@@ -48,7 +48,9 @@
         </div>
     </div>
 
-    @include('footer')
+    <div class="banner-wrap d-none d-md-block">
+        <div class="banner"></div>
+    </div>
 
 @endsection
 

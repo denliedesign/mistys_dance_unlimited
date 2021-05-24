@@ -140,10 +140,16 @@ body {
     font-size: 1.25em;
 }
 
+#checklist-bg p,
+#checklist-bg h2
+{
+    text-shadow: 1px 1px 4px black;
+}
+
 #checklist-bg {
-    height: 100vh;
+    height: 60vh;
     width: 100%;
-    background: url("/images/achieve.jpg");
+    background: url("/images/parents-love-mistys.jpg");
     background-size: cover;
     background-position: center;
     background-attachment: scroll;
@@ -167,4 +173,46 @@ body {
 
 #footer ion-icon {
     font-size: 1.5em;
+}
+
+.banner-wrap {
+    height: 200px;
+}
+
+.banner {
+    height: 100%;
+    background-image: url(/images/Website-color-banner.png);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+/*---------------------------------------*/
+/* BIO ACCORDION */
+/*---------------------------------------*/
+/* Style the buttons that are used to open and close the accordion panel */
+.bioaccordion {
+    cursor: pointer;
+    width: 100%;
+    border: none;
+    outline: none;
+    -webkit-transition: 0.4s;
+    transition: 0.4s;
+    background: white;
+}
+
+.bioaccordion:hover {
+    background: #ebe82e;
+}
+
+/* Style the accordion panel. Note: hidden by default */
+.biopanel {
+    max-height: 0;
+    overflow: hidden;
+    -webkit-transition: max-height 0.2s ease-out;
+    transition: max-height 0.2s ease-out;
+    z-index: 1;
+    width: 100%;
+    background: white;
 }

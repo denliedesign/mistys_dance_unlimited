@@ -1,20 +1,24 @@
-@extends('layouts.app')
+@extends('layouts.vanilla')
 
 @section('title', 'News Article | Misty\'s Dance Unlimited')
 
 @section('content')
 
-    <div class="banner-wrap">
+    <div class="banner-wrap d-none d-md-block">
         <div class="banner"></div>
     </div>
 
-    <h3 class="text-center py-5">{{ $article->articleTitle }}</h3>
-    <div class="container pb-5">
-        <p>{!! $article->articleContent !!}</p>
+    <div class="bg-white py-5">
+        <h3 class="text-center py-5">{{ $article->articleTitle }}</h3>
+        <div class="container pb-5">
+            <p>{!! $article->articleContent !!}</p>
+        </div>
     </div>
 
+    <div class="banner-wrap d-none d-md-block">
+        <div class="banner"></div>
+    </div>
 
-@include('footer')
 @endsection
 
 <style>
