@@ -18,7 +18,7 @@
                 <div class="promo-bg p-5">
                     <div class="row">
                         <div class="col-12 d-flex justify-content-center">
-                            <img src="{{ asset('/storage/' . $promotion->image) }}" alt="" style="max-height: 400px">
+                            <img src="{{ asset('/storage/' . $promotion->image) }}" alt="" style="max-height: 400px" class="img-fluid">
                         </div>
                     </div>
                     @endif

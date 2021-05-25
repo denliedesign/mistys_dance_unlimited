@@ -1,7 +1,7 @@
 <div class="d-flex justify-content-center pt-3 bg-white">
     <a class="navbar-brand" href="/"><img src="/images/mdu-logo.png" alt="" style="max-width: 257px;"></a>
 </div>
-<nav class="navbar navbar-expand-lg navbar-light bg-light d-flex justify-content-center">
+<nav class="navbar navbar-expand-lg navbar-light bg-white d-flex justify-content-center">
     <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#nav-list-21" aria-controls="nav-list-21" aria-expanded="false" aria-label="Toggle navigation">
         <span class="navbar-toggler-icon"></span>
     </button>
