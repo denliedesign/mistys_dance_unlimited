@@ -11,7 +11,11 @@
     <div class="bg-white">
         <div class="container py-5">
             <h2 class="text-center">Fall Schedule 2021</h2>
-            <p class="text-center">Published May 27</p>
+            <p class="text-center">
+                Published May 27
+                <br>Online Registration begins Sat. June 5th at 8 AM
+                <br>Classes begin Wed., Aug. 18th
+            </p>
             {{--        <div class="row" id="fall-select">--}}
             {{--            <div class="col">--}}
             {{--                <a href="/fall-studio">--}}
