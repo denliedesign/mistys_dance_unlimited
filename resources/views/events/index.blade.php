@@ -25,7 +25,7 @@
                             </p>
                             @can('update', $event)
                                 <div class="dropdown pb-3">
-                                    <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    <button class="btn btn-secondary dropdown-toggle" type="button" id="dropdownMenuButton" data-bs-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                         Edit Event
                                     </button>
                                     <div class="dropdown-menu" aria-labelledby="dLabel">
