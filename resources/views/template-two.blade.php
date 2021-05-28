@@ -40,39 +40,37 @@
 <div class="bg-white pb-5" id="class-categories">
     <div class="container pb-5">
         <h2 class="text-center pt-5">Classes</h2>
-        <div class="row">
+        <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-4">
             <div class="col-sm mt-4">
-                <img src="/images/littles.jpg" alt="ages 1-4 dancers" class="img-fluid shadow rounded">
+                <img src="/images/littles.jpg" alt="ages 1-4 dancers" class="img-fluid shadow rounded" style="max-height: 238px; object-fit: cover; object-position: -20% 0; width: 100%;">
                 <a href="/fall" class="btn-opacity"><div class="shadow btn btn-lg btn-green btn-family mt-2" style="width: 100%;">Ages 1-4</div></a>
             </div>
             <div class="col-sm mt-4">
-                <img src="/images/ages5-9.jpg" alt="ages 1-4 dancers" class="img-fluid shadow rounded">
+                <img src="/images/ages5-9.jpg" alt="ages 1-4 dancers" class="img-fluid shadow rounded" style="max-height: 238px; object-fit: cover; object-position: -20% 0; width: 100%;">
                 <a href="/fall" class="btn-opacity"><div class="shadow btn btn-lg btn-turq btn-family mt-2" style="width: 100%;">Ages 5-8</div></a>
             </div>
             <div class="col-sm mt-4">
-                <img src="/images/big-kids.jpg" alt="ages 1-4 dancers" class="img-fluid shadow rounded">
+                <img src="/images/big-kids.jpg" alt="ages 1-4 dancers" class="img-fluid shadow rounded" style="max-height: 238px; object-fit: cover; object-position: -20% 0; width: 100%;">
                 <a href="/fall" class="btn-opacity"><div class="shadow btn btn-lg btn-pink btn-family mt-2" style="width: 100%;">Ages 9+</div></a>
             </div>
             <div class="col-sm mt-4">
-                <img src="/images/boys.jpg" alt="ages 1-4 dancers" class="img-fluid shadow rounded">
+                <img src="/images/boys.jpg" alt="ages 1-4 dancers" class="img-fluid shadow rounded" style="max-height: 238px; object-fit: cover; object-position: -20% 0; width: 100%;">
                 <a href="/fall" class="btn-opacity"><div class="shadow btn btn-lg btn-blue btn-family mt-2" style="width: 100%;">Boys Only Classes</div></a>
             </div>
-        </div>
-        <div class="row">
             <div class="col-sm mt-4">
-                <img src="/images/pg.jpg" alt="ages 1-4 dancers" class="img-fluid shadow rounded">
+                <img src="/images/pg.jpg" alt="ages 1-4 dancers" class="img-fluid shadow rounded" style="max-height: 238px; object-fit: cover; object-position: -20% 0; width: 100%;">
                 <a href="/fall" class="btn-opacity"><div class="shadow btn btn-lg btn-green btn-family mt-2" style="width: 100%;">Performing Groups</div></a>
             </div>
             <div class="col-sm mt-4">
-                <img src="/images/prepro.jpg" alt="ages 1-4 dancers" class="img-fluid shadow rounded">
+                <img src="/images/prepro.jpg" alt="ages 1-4 dancers" class="img-fluid shadow rounded" style="max-height: 238px; object-fit: cover; object-position: -20% 0; width: 100%;">
                 <a href="/fall" class="btn-opacity"><div class="shadow btn btn-lg btn-turq btn-family mt-2" style="width: 100%;">PreProfessional</div></a>
             </div>
             <div class="col-sm mt-4">
-                <img src="/images/BLC.jpg" alt="ages 1-4 dancers" class="img-fluid shadow rounded">
+                <img src="/images/BLC.jpg" alt="ages 1-4 dancers" class="img-fluid shadow rounded" style="max-height: 238px; object-fit: cover; object-position: -20% 0; width: 100%;">
                 <a href="/fall" class="btn-opacity"><div class="shadow btn btn-lg btn-pink btn-family mt-2" style="width: 100%;">Ballet La Crosse</div></a>
             </div>
             <div class="col-sm mt-4">
-                <img src="/images/adult.jpg" alt="ages 1-4 dancers" class="img-fluid shadow rounded">
+                <img src="/images/adult.jpg" alt="ages 1-4 dancers" class="img-fluid shadow rounded" style="max-height: 238px; object-fit: cover; object-position: -20% 0; width: 100%;">
                 <a href="/fall" class="btn-opacity"><div class="shadow btn btn-lg btn-blue btn-family mt-2" style="width: 100%;">Adult Classes</div></a>
             </div>
         </div>
