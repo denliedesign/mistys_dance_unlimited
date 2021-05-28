@@ -8,6 +8,21 @@
 
     <div class="bg-white py-5">
         <div class="container">
+            <div class="text-center pb-4">
+                <div class="row">
+                    <div class="col-sm mt-3">
+                        <strong>Returning Student</strong>
+                        <br>Login using the main email from your studio account
+                    </div>
+                    <div class="col-sm mt-3">
+                        <strong>New Student</strong>
+                        <br>Register a new account with the main email from your studio account
+                        <div class="d-flex justify-content-center">
+                            <a href="/register" class="text-center text-decoration-none">Click here to <span class="text-danger fw-bold">Register</span></a>
+                        </div>
+                    </div>
+                </div>
+            </div>
             <div class="row justify-content-center">
                 <div class="col-md-8">
                     <div class="card">
@@ -74,9 +89,6 @@
                         </div>
                     </div>
                 </div>
-            </div>
-            <div class="d-flex justify-content-center mt-3">
-                <a href="/register" class="text-center text-decoration-none">New? Click here to <span class="text-danger fw-bold">Register</span></a>
             </div>
         </div>
     </div>
