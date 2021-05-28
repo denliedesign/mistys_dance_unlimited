@@ -3,14 +3,11 @@
         <a class="nav-link" href="/aboutus">About Us</a>
     </li>
     <li class="nav-item mx-2">
-        <a class="nav-link" href="/summer">Summer Classes</a>
+        <a class="nav-link" href="/#class-categories">Classes</a>
     </li>
-    <li class="nav-item mx-2">
-        <a class="nav-link" href="/fall">Fall Classes</a>
-    </li>
-    <li class="nav-item mx-2">
-        <a class="nav-link" href="/pc">Auditions</a>
-    </li>
+{{--    <li class="nav-item mx-2">--}}
+{{--        <a class="nav-link" href="/pc">Auditions</a>--}}
+{{--    </li>--}}
     <li class="nav-item mx-2">
         <a class="nav-link" href="/articles">News</a>
     </li>

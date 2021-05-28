@@ -3,9 +3,10 @@
 
     <div id="primary-bg">
         <div class="color-filter-pink"></div>
-        <h2 id="primary-txt" class="d-none d-sm-block">Take The First Step To Dance With Us</h2>
-        <h2 id="primary-txt" class="d-sm-none" style="font-size: 3em;">Take The First Step To Dance With Us</h2>
-        <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-turq primary-btn-pos btn-family">&#10097; Enroll today!</div></a>
+        <h2 id="primary-txt-mobile" class="d-md-none">Take The First Step To Dance With Us</h2>
+        <h2 id="primary-txt" class="d-none d-md-block">Take The First Step To Dance With Us</h2>
+        <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank" class="d-md-none btn-opacity"><div id="button-mobile" class="shadow btn btn-lg btn-turq primary-btn-pos btn-family">&#10097; Enroll today!</div></a>
+        <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank" class="d-none d-md-block btn-opacity"><div id="button-tablet" class="shadow btn btn-lg btn-turq primary-btn-pos btn-family">&#10097; Enroll today!</div></a>
     </div>
 
     @include('trial-modal')
@@ -27,7 +28,7 @@
         </div>
     </div>
 
-    <div id="vision" class="text-center text-white pb-5">
+    <div id="vision" class="text-center text-white">
         <div class="container">
             <h2>We Have Built a Reputation for Excellence in Dance Instruction</h2>
             <p>
@@ -36,7 +37,7 @@
         </div>
     </div>
 
-<div class="bg-white pb-5">
+<div class="bg-white pb-5" id="class-categories">
     <div class="container pb-5">
         <h2 class="text-center pt-5">Classes</h2>
         <div class="row">
@@ -46,11 +47,11 @@
             </div>
             <div class="col-sm mt-4">
                 <img src="/images/ages5-9.jpg" alt="ages 1-4 dancers" class="img-fluid shadow rounded">
-                <a href="/fall" class="btn-opacity"><div class="shadow btn btn-lg btn-turq btn-family mt-2" style="width: 100%;">Ages 5-9</div></a>
+                <a href="/fall" class="btn-opacity"><div class="shadow btn btn-lg btn-turq btn-family mt-2" style="width: 100%;">Ages 5-8</div></a>
             </div>
             <div class="col-sm mt-4">
                 <img src="/images/big-kids.jpg" alt="ages 1-4 dancers" class="img-fluid shadow rounded">
-                <a href="/fall" class="btn-opacity"><div class="shadow btn btn-lg btn-pink btn-family mt-2" style="width: 100%;">Ages 10+</div></a>
+                <a href="/fall" class="btn-opacity"><div class="shadow btn btn-lg btn-pink btn-family mt-2" style="width: 100%;">Ages 9+</div></a>
             </div>
             <div class="col-sm mt-4">
                 <img src="/images/boys.jpg" alt="ages 1-4 dancers" class="img-fluid shadow rounded">
@@ -181,50 +182,12 @@
         </div>
     </div>
 
-    <div id="testimonials" class="bg-yellow py-5">
-        <div class="container">
-            <div class="row m-0 p-0 d-flex justify-content-center">
-                <div class="col-sm m-4 p-4 shadow">
-                    <div>
-                        <ion-icon name="happy" style="font-size: 2.5em;" class="txt-green"></ion-icon>
-                        <p class="lead text-center">
-                            Heather Storbeck
-                        </p>
-                        <p>
-                            I have been so impressed with Misty’s Dance Unlimited as they have navigated through this unprecedented time with COVID. The communication and professionalism has been so amazing!! My daughter has danced for many years, but this is her first year with MDU  and she has loved every minute. They teach dance, but stress the importance of being a kind, hard working individual...they care about each student  as a person, not just a dancer. My daughter has gained so much confidence and has found a real love for the art of dance.
-                        </p>
-                    </div>
-                </div>
-                <div class="col-sm m-4 p-4 shadow">
-                    <div>
-                        <ion-icon name="happy" style="font-size: 2.5em;" class="txt-pink"></ion-icon>
-                        <p class="lead text-center">
-                            Sarah Fecht
-                        </p>
-                        <p>
-                            Some companies create catchy tag lines because they sound good, rhyme well, or are memorable.  MDU's - more than just great dance tag line speaks to the core of who they are.  This studio's focus is on building character, creating confidence, and improving the mental & physical strength in the lives that they touch.  I'm so thankful we found this studio and that my children are gaining life skills that will propel them into a successful adulthood.
-                        </p>
-                    </div>
-                </div>
-                <div class="col-sm m-4 p-4 shadow">
-                    <div>
-                        <ion-icon name="happy" style="font-size: 2.5em;" class="txt-blue"></ion-icon>
-                        <p class="lead text-center">
-                            Andrea Linder
-                        </p>
-                        <p>
-                            Misty's Dance has been an amazing place for my daughter to not only make friends but to find confidence in herself. They value all who walk through there doors and always greet you with a smile. I couldn't ask for a better place for my little girl to grow and learn through dance. Misty's Dance is definitely More Than Just Great Dancing! ❤
-                        </p>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
+    @include('testimonials')
 
-    <div id="call-to-action" class="bg-white pt-5">
-        <div class="text-center py-5">
-            <h2 class="txt-green mb-4">Ready To Get Started? Join The MDU Family Today!</h2>
-            <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-green btn-family">&#10097; Dance With Us Today!</div></a>
+    <div id="call-to-action" class="bg-white pt-5 pb-1">
+        <div class="text-center pt-2">
+            <h2 class="txt-green">Be A Part Of Our MDU Family!</h2>
+{{--            <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-green btn-family">&#10097; Dance With Us Today!</div></a>--}}
         </div>
     </div>
 

@@ -16,9 +16,9 @@ body {
 }
 
 #primary-bg {
-    height: 100vh;
+    height: 80vh;
     width: 100%;
-    background: url("/images/head1.jpg");
+    background: url("/images/mdu-home.jpg");
     background-size: cover;
     background-position: center;
     background-attachment: scroll;
@@ -57,10 +57,23 @@ body {
 
 #primary-txt {
     position: absolute;
-    top: 30%;
+    top: 10%;
+    left: 5%;
+    width: 40%;
+    /*transform: translate(-50%, -50%);*/
+    font-size: 4.25em;
+    text-align: center;
+    color: white;
+    text-transform: lowercase;
+}
+
+#primary-txt-mobile {
+    position: absolute;
+    top: 35%;
     left: 50%;
+    width: 100%;
     transform: translate(-50%, -50%);
-    font-size: 4em;
+    font-size: 3.5em;
     text-align: center;
     color: white;
     text-transform: lowercase;
@@ -100,7 +113,20 @@ body {
 
 .primary-btn-pos {
     position: absolute;
-    top: 50%;
+    bottom: 35%;
+    left: 19%;
+    /*transform: translate(-50%, -50%);*/
+}
+
+#button-tablet {
+    position: absolute;
+    bottom: 35%;
+    left: 18%;
+}
+
+#button-mobile {
+    position: absolute;
+    bottom: 30%;
     left: 50%;
     transform: translate(-50%, -50%);
 }
@@ -123,8 +149,12 @@ body {
     font-size: 1.25em;
 }
 
+#vision {
+    transform: translateY(-70px);
+}
+
 #next-steps {
-    transform: translateY(-75px);
+    transform: translateY(-150px);
 }
 
 .next-step {
@@ -166,7 +196,7 @@ body {
     position: relative;
 }
 
-#testimonials .col-sm {
+#testimonials .col-md {
     background: white;
     border-radius: 15px;
 }
@@ -215,4 +245,17 @@ body {
     z-index: 1;
     width: 100%;
     background: white;
+}
+
+.biopanel-open {
+    width: 100%;
+    background: white;
+}
+
+
+.box-three { background: #1ec1d9; border-radius: 20px; color: white; height: 150px; font-size: 1.5em; font-weight: bold; padding: 0 15px; text-align: center; }
+.box-four { background: #10c45c; border-radius: 20px; color: white; height: 150px; font-size: 1.5em; font-weight: bold; padding: 0 15px; text-align: center; }
+
+#fall-select a {
+    text-decoration: none;
 }

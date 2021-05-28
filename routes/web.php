@@ -87,9 +87,9 @@ Route::get('recreational', function () {
     return view('recreational');
 });
 
-Route::get('pc', function () {
-    return view('pc');
-});
+//Route::get('pc', function () {
+//    return view('pc');
+//});
 
 Route::get('prepro', function () {
     return view('prepro');
@@ -340,8 +340,8 @@ Route::get('mdu-fest', function () {
     return view('mdu-fest');
 });
 
-Route::get('template-two', function () {
-    return view('template-two');
+Route::get('classes', function () {
+    return view('classes');
 });
 
 Route::get('frozen-friends', 'FrozenFriendsController@index')->name('frozen-friends');

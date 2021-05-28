@@ -1,3 +1,19 @@
+<div id="next-steps-copy" class="d-sm-flex justify-content-center bg-white pt-5">
+    <div class="next-step mt-3 mt-md-0 shadow">
+        <p class="txt-green">Ready To Leap In?</p>
+        <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-green btn-family">&#10097; Enroll today!</div></a>
+    </div>
+    <div class="next-step mt-3 mt-md-0 shadow">
+        <p class="txt-blue">Want To Give It A Try?</p>
+        <div>
+            <button type="button" class="shadow btn btn-lg btn-blue btn-family btn-opacity" data-bs-toggle="modal" data-bs-target="#exampleModal">&#10097; Schedule A Trial!</button>
+        </div>
+    </div>
+    <div class="next-step mt-3 mt-md-0 shadow">
+        <p class="txt-pink">Still Have Questions?</p>
+        <a href="#footer" class="btn-opacity"><div class="shadow btn btn-lg btn-pink btn-family">&#10097; Contact Us!</div></a>
+    </div>
+</div>
 <div class="bg-white pb-5">
     <div class="container" id="footer">
         <div class="pt-5">
