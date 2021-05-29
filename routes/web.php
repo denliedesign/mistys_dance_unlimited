@@ -340,8 +340,36 @@ Route::get('mdu-fest', function () {
     return view('mdu-fest');
 });
 
-Route::get('classes', function () {
-    return view('classes');
+Route::get('/classes/1-4', function () {
+    return view('/classes/1-4');
+});
+
+Route::get('/classes/5-8', function () {
+    return view('/classes/5-8');
+});
+
+Route::get('/classes/9-and-up', function () {
+    return view('/classes/9-and-up');
+});
+
+Route::get('/classes/adult', function () {
+    return view('/classes/adult');
+});
+
+Route::get('/classes/boys', function () {
+    return view('/classes/boys');
+});
+
+Route::get('/classes/ballet-la-crosse', function () {
+    return view('/classes/ballet-la-crosse');
+});
+
+Route::get('/classes/performing-groups', function () {
+    return view('/classes/performing-groups');
+});
+
+Route::get('/classes/pre-pro', function () {
+    return view('/classes/pre-pro');
 });
 
 Route::get('frozen-friends', 'FrozenFriendsController@index')->name('frozen-friends');

@@ -171,7 +171,8 @@ body {
 }
 
 #checklist-bg p,
-#checklist-bg h2
+#checklist-bg h2,
+#checklist-bg ion-icon
 {
     text-shadow: 1px 1px 4px black;
 }
@@ -252,9 +253,11 @@ body {
     background: white;
 }
 
-
+.box-one { background: #eab830; border-radius: 20px; color: white; height: 150px; font-size: 1.5em; font-weight: bold; padding: 0 15px; text-align: center; }
+.box-two { background: #307ad5; border-radius: 20px; color: white; height: 150px; font-size: 1.5em; font-weight: bold; padding: 0 15px; text-align: center; }
 .box-three { background: #1ec1d9; border-radius: 20px; color: white; height: 150px; font-size: 1.5em; font-weight: bold; padding: 0 15px; text-align: center; }
 .box-four { background: #10c45c; border-radius: 20px; color: white; height: 150px; font-size: 1.5em; font-weight: bold; padding: 0 15px; text-align: center; }
+.box-five { background: #d94da6; border-radius: 20px; color: white; height: 150px; font-size: 1.5em; font-weight: bold; padding: 0 15px; text-align: center; }
 
 #fall-select a {
     text-decoration: none;

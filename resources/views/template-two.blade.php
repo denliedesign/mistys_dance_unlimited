@@ -43,35 +43,35 @@
         <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-4">
             <div class="col-sm mt-4">
                 <img src="/images/littles.jpg" alt="ages 1-4 dancers" class="img-fluid shadow rounded" style="max-height: 238px; object-fit: cover; object-position: -20% 0; width: 100%;">
-                <a href="/fall" class="btn-opacity"><div class="shadow btn btn-lg btn-green btn-family mt-2" style="width: 100%;">Ages 1-4</div></a>
+                <a href="/classes/1-4" class="btn-opacity"><div class="shadow btn btn-lg btn-green btn-family mt-2" style="width: 100%;">Ages 1-4</div></a>
             </div>
             <div class="col-sm mt-4">
                 <img src="/images/ages5-9.jpg" alt="ages 1-4 dancers" class="img-fluid shadow rounded" style="max-height: 238px; object-fit: cover; object-position: -20% 0; width: 100%;">
-                <a href="/fall" class="btn-opacity"><div class="shadow btn btn-lg btn-turq btn-family mt-2" style="width: 100%;">Ages 5-8</div></a>
+                <a href="/classes/5-8" class="btn-opacity"><div class="shadow btn btn-lg btn-turq btn-family mt-2" style="width: 100%;">Ages 5-8</div></a>
             </div>
             <div class="col-sm mt-4">
                 <img src="/images/big-kids.jpg" alt="ages 1-4 dancers" class="img-fluid shadow rounded" style="max-height: 238px; object-fit: cover; object-position: -20% 0; width: 100%;">
-                <a href="/fall" class="btn-opacity"><div class="shadow btn btn-lg btn-pink btn-family mt-2" style="width: 100%;">Ages 9+</div></a>
+                <a href="/classes/9-and-up" class="btn-opacity"><div class="shadow btn btn-lg btn-pink btn-family mt-2" style="width: 100%;">Ages 9+</div></a>
             </div>
             <div class="col-sm mt-4">
                 <img src="/images/boys.jpg" alt="ages 1-4 dancers" class="img-fluid shadow rounded" style="max-height: 238px; object-fit: cover; object-position: -20% 0; width: 100%;">
-                <a href="/fall" class="btn-opacity"><div class="shadow btn btn-lg btn-blue btn-family mt-2" style="width: 100%;">Boys Only Classes</div></a>
+                <a href="/classes/boys" class="btn-opacity"><div class="shadow btn btn-lg btn-blue btn-family mt-2" style="width: 100%;">Boys Only Classes</div></a>
             </div>
             <div class="col-sm mt-4">
                 <img src="/images/pg.jpg" alt="ages 1-4 dancers" class="img-fluid shadow rounded" style="max-height: 238px; object-fit: cover; object-position: -20% 0; width: 100%;">
-                <a href="/fall" class="btn-opacity"><div class="shadow btn btn-lg btn-green btn-family mt-2" style="width: 100%;">Performing Groups</div></a>
+                <a href="/classes/performing-groups" class="btn-opacity"><div class="shadow btn btn-lg btn-green btn-family mt-2" style="width: 100%;">Performing Groups</div></a>
             </div>
             <div class="col-sm mt-4">
                 <img src="/images/prepro.jpg" alt="ages 1-4 dancers" class="img-fluid shadow rounded" style="max-height: 238px; object-fit: cover; object-position: -20% 0; width: 100%;">
-                <a href="/fall" class="btn-opacity"><div class="shadow btn btn-lg btn-turq btn-family mt-2" style="width: 100%;">PreProfessional</div></a>
+                <a href="/classes/pre-pro" class="btn-opacity"><div class="shadow btn btn-lg btn-turq btn-family mt-2" style="width: 100%;">Pre-Professional</div></a>
             </div>
             <div class="col-sm mt-4">
                 <img src="/images/BLC.jpg" alt="ages 1-4 dancers" class="img-fluid shadow rounded" style="max-height: 238px; object-fit: cover; object-position: -20% 0; width: 100%;">
-                <a href="/fall" class="btn-opacity"><div class="shadow btn btn-lg btn-pink btn-family mt-2" style="width: 100%;">Ballet La Crosse</div></a>
+                <a href="/classes/ballet-la-crosse" class="btn-opacity"><div class="shadow btn btn-lg btn-pink btn-family mt-2" style="width: 100%;">Ballet La Crosse</div></a>
             </div>
             <div class="col-sm mt-4">
                 <img src="/images/adult.jpg" alt="ages 1-4 dancers" class="img-fluid shadow rounded" style="max-height: 238px; object-fit: cover; object-position: -20% 0; width: 100%;">
-                <a href="/fall" class="btn-opacity"><div class="shadow btn btn-lg btn-blue btn-family mt-2" style="width: 100%;">Adult Classes</div></a>
+                <a href="/classes/adult" class="btn-opacity"><div class="shadow btn btn-lg btn-blue btn-family mt-2" style="width: 100%;">Adult Classes</div></a>
             </div>
         </div>
     </div>
@@ -79,27 +79,27 @@
 
     <div id="checklist-bg">
         <div class="color-filter-green"></div>
-        <h2 class="secondary-txt d-none d-md-block">Parents &#x2764; Misty's...</h2>
+        <h2 class="secondary-txt d-none d-md-block">Parents <ion-icon name="heart"></ion-icon> Misty's...</h2>
         <div class="row secondary-txt-pos text-white text-center">
             <div class="col-sm">
                 <p>
-                    &#x2764; Sprung Floors
-                    <br>&#x2764; Secured Facility
-                    <br>&#x2764; Study Areas
+                    <ion-icon name="heart"></ion-icon> Sprung Floors
+                    <br><ion-icon name="heart"></ion-icon> Secured Facility
+                    <br><ion-icon name="heart"></ion-icon> Study Areas
                 </p>
             </div>
             <div class="col-sm">
                 <p>
-                    &#x2764; Written Curriculum
-                    <br>&#x2764; Background Checked
-                    <br>&#x2764; CPR Trained
+                    <ion-icon name="heart"></ion-icon> Written Curriculum
+                    <br><ion-icon name="heart"></ion-icon> Background Checked
+                    <br><ion-icon name="heart"></ion-icon> CPR Trained
                 </p>
             </div>
             <div class="col-sm">
                 <p>
-                    &#x2764; Full-Time Admin
-                    <br>&#x2764; YPAD Certified
-                    <br>&#x2764; Community Service
+                    <ion-icon name="heart"></ion-icon> Full-Time Admin
+                    <br><ion-icon name="heart"></ion-icon> YPAD Certified
+                    <br><ion-icon name="heart"></ion-icon> Community Service
                 </p>
             </div>
         </div>
@@ -154,7 +154,7 @@
             <div class="row">
                 <div class="col-sm">
                     <div class="d-flex justify-content-center">
-                        <img src="/images/safer-studio-logo.png" alt="safer studio logo" class="img-fluid" style="filter: invert(1);">
+                        <img src="/images/safer-studio-logo.png" alt="safer studio logo" class="img-fluid" style="width: 100%; height: 100%; filter: invert(1);">
                     </div>
                     <h2 class="text-center">MDU is a Safer Studio™</h2>
                     <p>
@@ -167,13 +167,13 @@
                     </div>
                     <h2 class="text-center">MDU is Youth Protection Advocates in Dance®  Certified!</h2>
                     <p>
-                        <span class="txt-pink">&#x2764;</span> Background checked and CPR certified teachers
-                        <br><span class="txt-pink">&#x2764;</span> Safer Studio™ Policy
-                        <br><span class="txt-pink">&#x2764;</span> Teacher training & proven curriculum
-                        <br><span class="txt-pink">&#x2764;</span> A focus on safety & wellness for every student
-                        <br><span class="txt-pink">&#x2764;</span> Secured facilities
-                        <br><span class="txt-pink">&#x2764;</span> Viewing windows
-                        <br><span class="txt-pink">&#x2764;</span> Social media safety practices
+                        <span class="txt-pink"><ion-icon name="heart"></ion-icon></span> Background checked and CPR certified teachers
+                        <br><span class="txt-pink"><ion-icon name="heart"></ion-icon></span> Safer Studio™ Policy
+                        <br><span class="txt-pink"><ion-icon name="heart"></ion-icon></span> Teacher training & proven curriculum
+                        <br><span class="txt-pink"><ion-icon name="heart"></ion-icon></span> A focus on safety & wellness for every student
+                        <br><span class="txt-pink"><ion-icon name="heart"></ion-icon></span> Secured facilities
+                        <br><span class="txt-pink"><ion-icon name="heart"></ion-icon></span> Viewing windows
+                        <br><span class="txt-pink"><ion-icon name="heart"></ion-icon></span> Social media safety practices
                     </p>
                 </div>
             </div>
