@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta property="og:title" content="Dance Classes | Onalaska, La Crosse, WI">
     <meta property="og:description" content="More than just great dancing! At MDU, we offer one of the most complete dance instruction programs in the Midwest and work with students of all ages and abilities.">
-    <meta property="og:image" content="https://mistysdance.com/images/schoolyr1.jpg">
+    <meta property="og:image" content="https://mistysdance.com/images/mdu-home.jpg">
     <meta property="og:url" content="https://mistysdance.com/index.php">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="description" content="@yield('description', 'From your child’s first class to their graduation performance. MDU has a class for everyone!')">
