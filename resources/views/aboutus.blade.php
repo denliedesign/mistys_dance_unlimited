@@ -36,7 +36,7 @@
                            <img class="img-fluid rounded shadow" src="images/teacher-misty.jpg">
                            <button class="bioaccordion"><p class="lead my-1 p-0">Miss Misty Lown</p></button>
                            <div class="biopanel-open">
-                               <p>Miss Misty has been sharing her passion for dance and mentorship with students for 29 years. She is the founder of More Than Just Great Dancing™ affiliated dance studios and “A Chance to Dance Foundation”, a 501(c)3 charitable organization. Misty is passionate about community service and has given over $500,000 in combined cash and studio scholarships over the past 23 years.</p>
+                               <p>Miss Misty has been sharing her passion for dance and mentorship with students for 30 years. She is the founder of More Than Just Great Dancing™ affiliated dance studios and “A Chance to Dance Foundation”, a 501(c)3 charitable organization. Misty is passionate about community service and has given over $500,000 in combined cash and studio scholarships over the past 23 years.</p>
                            </div>
                        </div>
                    </div>
@@ -45,7 +45,7 @@
                            <img class="img-fluid rounded shadow" src="images/teacher5.jpg">
                            <button class="bioaccordion"><p class="lead my-1 p-0">Miss Shayna Stellflue</p></button>
                            <div class="biopanel-open">
-                               <p>Miss Shayna is the General Manager of Misty’s Dance Unlimited and leads COVID Safety Team and Recitals. She began teaching at MDU in 1999 and is the creator of “Dancin’ Kids!”, a popular performance group for 7-9 yr. olds. Miss Shayna co-authored a Children’s Curriculum for More Than Just Great Dancing™ and is passionate about instilling confidence in every child.</p>
+                               <p>Miss Shayna is the General Manager of Misty’s Dance Unlimited and leads the Safety Team and Recitals. She began teaching at MDU in 1999 and is the creator of “Dancin’ Kids!”, a popular performance group for 7-9 yr. olds. Miss Shayna co-authored a Children’s Curriculum for More Than Just Great Dancing™ and is passionate about instilling confidence in every child.</p>
                            </div>
                        </div>
                    </div>
@@ -54,8 +54,7 @@
                            <img class="img-fluid rounded shadow" src="images/teacher6.jpg">
                            <button class="bioaccordion"><p class="lead my-1 p-0">Miss Tiffany Fischer</p></button>
                            <div class="biopanel-open">
-
-                               <p>Miss Tiffany grew up dancing at MDU and has many teaching since 2008. She is an award winning choreographer. Miss Tiffany is proficient in all styles of dance and has a passion for seeing students develop their God-given talents in a nurturing environment.</p>
+                               <p>Miss Tiffany grew up dancing at MDU and has been teaching since 2008. She is an award-winning choreographer. Miss Tiffany is proficient in all styles of dance and has a passion for seeing students develop their God-given talents in a nurturing environment.  Miss Tiffany teaches in our Children's program, Graded Technique program and Performing Groups program. She also is our Senior class advisor.</p>
                            </div>
                        </div>
                    </div>
@@ -120,8 +119,7 @@
                            <img class="img-fluid rounded shadow" src="images/teacher10.jpg">
                            <button class="bioaccordion"><p class="lead my-1 p-0">Miss Alex Meier</p></button>
                            <div class="biopanel-open">
-
-                               <p>Miss Alex has been teaching at MDU since 2012. She is a ballet and tap specialist with a love for children. She is a graduate of Winona State University. She is also a rehearsal assistant for Ballet La Crosse.</p>
+                            <p>Miss Alex has been teaching at MDU since 2012. She is a ballet and tap specialist with a love for children. She is a graduate of Winona State University and fuels her love of science during the day as a surgical technician for Gundersen Health. She currently serves as the administrative coordinator for Ballet La Crosse.</p>
                            </div>
                        </div>
                    </div>
@@ -130,8 +128,7 @@
                            <img class="img-fluid rounded shadow" src="images/teacher12.jpg">
                            <button class="bioaccordion"><p class="lead my-1 p-0">Miss Denise Meyer</p></button>
                            <div class="biopanel-open">
-
-                               <p>Miss Denise and Miss Misty grew up dancing together at Marilyn School of Dance in La Crosse. Miss Denise is currently an English professor at Western and has loved being back in the dance classroom since 2009. Miss Denise teaches in our Children's program, leads our Darby's Dancer's program and is a rehearsal assistant for Ballet La Crosse.</p>
+                           <p>Miss Denise and Miss Misty grew up dancing together at Marilyn School of Dance in La Crosse. Miss Denise is currently a training director at LHI in La Crosse and has loved being back in the dance classroom since 2009. Miss Denise teaches in our Children's program, leads our Darby's Dancer's program, and is a rehearsal assistant for Ballet La Crosse.</p>
                            </div>
                        </div>
                    </div>
@@ -147,16 +144,16 @@
                    </div>
 
 
-{{--                   <div class="teacher-col col-sm">--}}
-{{--                       <div class="about-teacher-card my-4 mx-5">--}}
-{{--                           <img class="img-fluid rounded shadow" src="images/teacher-deb.jpg">--}}
-{{--                           <button class="bioaccordion"><p class="lead my-1 p-0">Miss Debbie White</p></button>--}}
-{{--                           <div class="biopanel-open">--}}
+                   <div class="teacher-col col-sm">
+                       <div class="about-teacher-card my-4 mx-5">
+                           <img class="img-fluid rounded shadow" src="images/teacher-deb.jpg">
+                           <button class="bioaccordion"><p class="lead my-1 p-0">Miss Debbie White</p></button>
+                           <div class="biopanel-open">
 
-{{--                               <p>Miss Debbie started studying dance at age 15 at the former College of St. Teresa in Winona, MN. She performed with the Minnesota Collegiate Ballet Company for 2 years. She studied at the National Academy of Dance in Champaign, IL during high school. Later she taught and performed at the Rochester Ballet School in MN. She studied, danced, and taught several years at the Alvin Ailey School in New York City.</p>--}}
-{{--                           </div>--}}
-{{--                       </div>--}}
-{{--                   </div>--}}
+                               <p>Miss Debbie started studying dance at age 15 at the former College of St. Teresa in Winona, MN. She performed with the Minnesota Collegiate Ballet Company for 2 years. She studied at the National Academy of Dance in Champaign, IL during high school. Later she taught and performed at the Rochester Ballet School in MN. She studied, danced, and taught several years at the Alvin Ailey School in New York City.</p>
+                           </div>
+                       </div>
+                   </div>
 {{--                   <div class="teacher-col col-sm">--}}
 {{--                       <div class="about-teacher-card my-4 mx-5">--}}
 {{--                           <img class="img-fluid rounded shadow" src="images/teacher3.jpg">--}}
@@ -195,7 +192,7 @@
                            <button class="bioaccordion"><p class="lead my-1 p-0">Miss Emily Sweeny</p></button>
                            <div class="biopanel-open">
 
-                               <p>Bio coming soon!</p>
+                               <p>Miss Emily graduated from Mankato State University with a degree in Dance and Sports Management.  In addition to being a teacher at MDU, she is also the Coordinator of Youth Protection Advocates in Dance and oversees the training of hundreds of dance teachers nationwide each year.  Miss Emily has been a teacher at MDU since 2018.</p>
                            </div>
                        </div>
                    </div>
@@ -232,19 +229,71 @@
                </div>
 
                <div id="support-staff-area" class="pb-5 container">
-                   <h2 class="pt-5 text-center">Additional Faculty</h2>
-                   <ul class="list-group">
-                       <li class="list-group-item border-0">Abby Konopacki</li>
-                       <li class="list-group-item border-0">Cindy Anneke</li>
-                       <li class="list-group-item border-0">Chloe Jane Bulman</li>
-                       <li class="list-group-item border-0">Kaydra Moses</li>
-                       <li class="list-group-item border-0">Melanie Earll</li>
-                       <li class="list-group-item border-0">Maya Jobe</li>
-                       <li class="list-group-item border-0">Michelle Malone</li>
-                       <li class="list-group-item border-0">Nicole Fry</li>
-                       <li class="list-group-item border-0">Suzanne Swanson Wagner</li>
-                       <li class="list-group-item border-0">Richard Smith</li>
-                   </ul>
+                   <p class="pt-5 text-center">
+                       I would also like to take this moment to welcome several new team members to our MDU family. Our Dream Team (teachers and staff) are the heartbeat of our programs and I can’t wait for you to meet them:
+                   </p>
+                   <div class="row row-cols-2 row-cols-sm-2 row-cols-md-5 row-cols-lg-5">
+                       <div class="col-sm">
+                           <p>
+                               <strong>Miss Abby Konopacki</strong>
+                               grew up at MDU. She currently works as a para for Holmen Schools and teaches Children's and Graded Technique classes.
+                           </p>
+                       </div>
+                       <div class="col-sm">
+                           <p>
+                               <strong>Miss Cindy Anneke</strong>
+                               is a Preschool dance class specialist, a member of our Adult Tap program. Miss Cindy is also a proud dance mom.
+                           </p>
+                       </div>
+                       <div class="col-sm">
+                           <p>
+                               <strong>Miss Kaydra Moses</strong>
+                               is another MDU alumna who enjoys giving back to the next generation.  She is currently serving as one of our Performing Groups teachers.
+                           </p>
+                       </div>
+                       <div class="col-sm">
+                           <p>
+                               <strong>Miss Melanie Earll</strong>
+                               taught English and dance abroad is currently teaching Kindergarten at Eagle Bluff in addition to Children's programs at MDU. Miss Melanie is a proud MDU alumna.
+                           </p>
+                       </div>
+                       <div class="col-sm">
+                           <p>
+                               <strong>Miss Michelle Malone</strong>
+                               is an MDU alumna who has performed professionally with Ingredients Dance Company out of Dallas and with a ministry in Brazil. She currently teaches Hip Hop and leads her own company, I & E Dance Company, which is housed at MDU.
+                           </p>
+                       </div>
+                       <div class="col-sm">
+                           <p>
+                               <strong>Miss Katelyn Phelps</strong>
+                               is a former competitive dancer from Lakeshore Dance in the Milwaukee area. She is moving to La Crosse to attend school at UW-L.
+                           </p>
+                       </div>
+                       <div class="col-sm">
+                           <p>
+                               <strong>Miss Nicole Fry</strong>
+                               is a former competitive dancer from Young Dance Academy in the Milwaukee area. She is moving to La Crosse to attend Physician Assistant school at UW-L.
+                           </p>
+                       </div>
+                       <div class="col-sm">
+                           <p>
+                               <strong>Miss Brianna Augustine</strong>
+                               is a company member with Ballet Magnum Opus in Madison. She will be driving in a few times a month from Madison to guest teach classes.
+                           </p>
+                       </div>
+                       <div class="col-sm">
+                           <p>
+                               <strong>Miss Suzanne Swanson Wagner</strong>
+                               was Miss Misty's main teacher growing up and is the former owner of the Marilyn School of Dance in Tomah and Black River Falls. She will be driving in a couple of times per week to share her experience with our students–super exciting!
+                           </p>
+                       </div>
+                       <div class="col-sm">
+                           <p>
+                               <strong>Mr. Richard Smith</strong>
+                               , an MDU guest teacher favorite, will be doing a technique and teacher training residency with us in the fall. Mr. Richard is a former Giordano Jazz Company2 member and former Artistic Director of Inaside Chicago Dance.
+                           </p>
+                       </div>
+                   </div>
                </div>
            </section>
        </div>
