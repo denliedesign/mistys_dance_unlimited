@@ -372,6 +372,10 @@ Route::get('/classes/pre-pro', function () {
     return view('/classes/pre-pro');
 });
 
+Route::get('/classes', function () {
+    return view('/classes');
+});
+
 Route::get('frozen-friends', 'FrozenFriendsController@index')->name('frozen-friends');
 Route::post('frozen-friends', 'FrozenFriendsController@store')->name('frozen-friends.store');
 

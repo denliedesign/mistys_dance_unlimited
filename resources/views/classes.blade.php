@@ -1,6 +1,6 @@
 @extends('layouts.vanilla')
 
-@section('title', 'Performing Groups | Misty\'s Dance Unlimited')
+@section('title', 'Classes | Misty\'s Dance Unlimited')
 
 @section('content')
 
@@ -10,19 +10,19 @@
 
     <div class="bg-white">
         <div class="container py-5">
-            <h2 class="text-center">Performing Groups</h2>
+            <h2 class="text-center">Classes</h2>
             <div class="row" id="fall-select">
                 <div class="col">
-                    <a href="/images/classes/performing-groups.jpg" target="_blank">
-                        <div class="box-three d-flex align-items-center justify-content-center">
-                           Why Performing Groups?
+                    <a href="/summer">
+                        <div class="box-one d-flex align-items-center justify-content-center">
+                            Summer Schedule
                         </div>
                     </a>
                 </div>
                 <div class="col">
-                    <a href="/images/classes/performing-groups-info.jpg" target="_blank">
-                        <div class="box-four d-flex align-items-center justify-content-center">
-                            Performing Groups Reference Guide
+                    <a href="/fall">
+                        <div class="box-two d-flex align-items-center justify-content-center">
+                            Fall Schedule
                         </div>
                     </a>
                 </div>

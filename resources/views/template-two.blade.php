@@ -47,15 +47,15 @@
         <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-4">
             <div class="col-sm mt-4">
                 <img src="/images/littles.jpg" alt="ages 1-4 dancers" class="img-fluid shadow rounded" style="max-height: 238px; object-fit: cover; object-position: -20% 0; width: 100%;">
-                <a href="/classes/1-4" class="btn-opacity"><div class="shadow btn btn-lg btn-green btn-family mt-2" style="width: 100%;">Ages 1-4</div></a>
+                <a href="/classes" class="btn-opacity"><div class="shadow btn btn-lg btn-green btn-family mt-2" style="width: 100%;">Ages 1-4</div></a>
             </div>
             <div class="col-sm mt-4">
                 <img src="/images/ages5-9.jpg" alt="ages 1-4 dancers" class="img-fluid shadow rounded" style="max-height: 238px; object-fit: cover; object-position: -20% 0; width: 100%;">
-                <a href="/classes/5-8" class="btn-opacity"><div class="shadow btn btn-lg btn-turq btn-family mt-2" style="width: 100%;">Ages 5-8</div></a>
+                <a href="/classes" class="btn-opacity"><div class="shadow btn btn-lg btn-turq btn-family mt-2" style="width: 100%;">Ages 5-8</div></a>
             </div>
             <div class="col-sm mt-4">
                 <img src="/images/big-kids.jpg" alt="ages 1-4 dancers" class="img-fluid shadow rounded" style="max-height: 238px; object-fit: cover; object-position: -20% 0; width: 100%;">
-                <a href="/classes/9-and-up" class="btn-opacity"><div class="shadow btn btn-lg btn-pink btn-family mt-2" style="width: 100%;">Ages 9+</div></a>
+                <a href="/classes" class="btn-opacity"><div class="shadow btn btn-lg btn-pink btn-family mt-2" style="width: 100%;">Ages 9+</div></a>
             </div>
             <div class="col-sm mt-4">
                 <img src="/images/boys.jpg" alt="ages 1-4 dancers" class="img-fluid shadow rounded" style="max-height: 238px; object-fit: cover; object-position: -20% 0; width: 100%;">
