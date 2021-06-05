@@ -16,22 +16,22 @@
                 <br>Classes begin Wed., Aug. 18th
             </p>
             <div class="text-center">
-                <a href="/images/mdu-fall-2021.pdf" target="_blank">View PDF</a>
+                <a href="/images/mdu-fall-schedule-6-5.pdf" target="_blank">View PDF</a>
             </div>
             <div>
                 <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-2">
-                    <img src="/images/mdu-fall-2021-1.jpg" alt="fall schedule" class="img-fluid p-3">
-                    <img src="/images/mdu-fall-2021-2.jpg" alt="fall schedule" class="img-fluid p-3">
-                    <img src="/images/mdu-fall-2021-3.jpg" alt="fall schedule" class="img-fluid p-3">
-                    <img src="/images/mdu-fall-2021-4.jpg" alt="fall schedule" class="img-fluid p-3">
-                    <img src="/images/mdu-fall-2021-5.jpg" alt="fall schedule" class="img-fluid p-3">
-                    <img src="/images/mdu-fall-2021-6.jpg" alt="fall schedule" class="img-fluid p-3">
-                    <img src="/images/mdu-fall-2021-7.jpg" alt="fall schedule" class="img-fluid p-3">
-                    <img src="/images/mdu-fall-2021-8.jpg" alt="fall schedule" class="img-fluid p-3">
-                    <img src="/images/mdu-fall-2021-9.jpg" alt="fall schedule" class="img-fluid p-3">
-                    <img src="/images/mdu-fall-2021-10.jpg" alt="fall schedule" class="img-fluid p-3">
-                    <img src="/images/mdu-fall-2021-11.jpg" alt="fall schedule" class="img-fluid p-3">
-                    <img src="/images/mdu-fall-2021-12.jpg" alt="fall schedule" class="img-fluid p-3">
+                    <img src="/images/mdu-fall-schedule-6-5-1.jpg" alt="fall schedule" class="img-fluid p-3">
+                    <img src="/images/mdu-fall-schedule-6-5-2.jpg" alt="fall schedule" class="img-fluid p-3">
+                    <img src="/images/mdu-fall-schedule-6-5-3.jpg" alt="fall schedule" class="img-fluid p-3">
+                    <img src="/images/mdu-fall-schedule-6-5-4.jpg" alt="fall schedule" class="img-fluid p-3">
+                    <img src="/images/mdu-fall-schedule-6-5-5.jpg" alt="fall schedule" class="img-fluid p-3">
+                    <img src="/images/mdu-fall-schedule-6-5-6.jpg" alt="fall schedule" class="img-fluid p-3">
+                    <img src="/images/mdu-fall-schedule-6-5-7.jpg" alt="fall schedule" class="img-fluid p-3">
+                    <img src="/images/mdu-fall-schedule-6-5-8.jpg" alt="fall schedule" class="img-fluid p-3">
+                    <img src="/images/mdu-fall-schedule-6-5-9.jpg" alt="fall schedule" class="img-fluid p-3">
+                    <img src="/images/mdu-fall-schedule-6-5-10.jpg" alt="fall schedule" class="img-fluid p-3">
+                    <img src="/images/mdu-fall-schedule-6-5-11.jpg" alt="fall schedule" class="img-fluid p-3">
+                    <img src="/images/mdu-fall-schedule-6-5-12.jpg" alt="fall schedule" class="img-fluid p-3">
                 </div>
             </div>
             {{--        <div class="row" id="fall-select">--}}
