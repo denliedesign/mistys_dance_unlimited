@@ -17,10 +17,9 @@
             </p>
             <div class="row" id="fall-select">
                 <div class="col">
-                    <a href="/images/classes/boys-summer.pdf" target="_blank">
+                    <a href="/summer">
                         <div class="box-three d-flex align-items-center justify-content-center">
-                            Boys Only
-                            <br>Summer Classes
+                            Summer Classes
                         </div>
                     </a>
                 </div>
