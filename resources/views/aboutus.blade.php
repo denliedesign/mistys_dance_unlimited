@@ -14,9 +14,8 @@
            <section class="section-teachers container">
                <section>
                    <h2 class="pt-5 text-center">About Us</h2>
+                   <p class="font-pacifico" style="font-size: 2em;">Hi!</p>
                    <p>
-                       Hi!
-                       <br><br>
                        My name is Misty Lown and I am the founder of Misty's Dance Unlimited, LLC, or "MDU" as we call it around here <3. I started the studio on a simple principle that we have stayed TRUE to over the last two and a half decades–we are "More Than Just Great Dancing!®".
                        <br><br>
                        So what does that mean?  It means that at a baseline we provide EXCELLENCE in dance education. I did my graduate work in education and lead the nation's only safety certifying organization for dance teachers. Our teachers are qualified and certified. And, our PROVEN curriculum has inspired CONFIDENCE in thousands of students; placing students on every local dance team, and countless college programs.
@@ -24,9 +23,8 @@
                        HOWEVER, we are MORE Than Just Great Dancing!®  At MDU, dance has lasting value because dance lessons are LIFE LESSONS.  Dance meets imperative needs for social-emotional skills, mental well-being, and physical health and provides quality friendships and role models.  And, THAT is the greatest investment a parent could make in their child.  I don't only share that as a dance teacher but as a mom of five myself.
                        <br><br>
                        At MDU dance becomes a FAMILY and the studio becomes a second HOME for kids during their developmental years. We invite you to meet some of our amazing faculty below, some of whom have been inspiring Coulee Region children for over two decades.
-                       <br><br>
-                       Welcome to MDU!!
                    </p>
+                   <p class="font-pacifico" style="font-size: 2em;">Welcome to MDU!!</p>
                    <img src="/images/mdu-about-us.jpg" alt="misty with young dancers" class="img-fluid">
                    <h2 class="pt-5 text-center">Meet The Team</h2>
                </section>

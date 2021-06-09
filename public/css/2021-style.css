@@ -262,3 +262,7 @@ body {
 #fall-select a {
     text-decoration: none;
 }
+
+.font-pacifico {
+    font-family: 'Pacifico', cursive;
+}
