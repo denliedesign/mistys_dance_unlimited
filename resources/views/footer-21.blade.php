@@ -65,9 +65,9 @@
                                 <li class="list-group-item px-0 border-0">
                                     <a class="text-decoration-none txt-blue" href="/events">Calendar of Events</a>
                                 </li>
-                                <li class="list-group-item px-0 border-0">
-                                    <a class="text-decoration-none txt-blue" href="/birthday">Birthday Parties</a>
-                                </li>
+{{--                                <li class="list-group-item px-0 border-0">--}}
+{{--                                    <a class="text-decoration-none txt-blue" href="/birthday">Birthday Parties</a>--}}
+{{--                                </li>--}}
                                 <li class="list-group-item px-0 border-0">
                                     <a class="text-decoration-none txt-blue" href="/pl">Private Lessons</a>
                                 </li>

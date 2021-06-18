@@ -27,9 +27,9 @@ Route::get('contact', function () {
     return view('contact');
 });
 
-Route::get('birthday', function () {
-    return view('birthday');
-});
+//Route::get('birthday', function () {
+//    return view('birthday');
+//});
 
 Route::get('pl', function () {
     return view('pl');
