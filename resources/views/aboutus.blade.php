@@ -142,16 +142,16 @@
                    </div>
 
 
-                   <div class="teacher-col col-sm">
-                       <div class="about-teacher-card my-4 mx-5">
-                           <img class="img-fluid rounded shadow" src="images/teacher-deb.jpg">
-                           <button class="bioaccordion"><p class="lead my-1 p-0">Miss Debbie White</p></button>
-                           <div class="biopanel-open">
+{{--                   <div class="teacher-col col-sm">--}}
+{{--                       <div class="about-teacher-card my-4 mx-5">--}}
+{{--                           <img class="img-fluid rounded shadow" src="images/teacher-deb.jpg">--}}
+{{--                           <button class="bioaccordion"><p class="lead my-1 p-0">Miss Debbie White</p></button>--}}
+{{--                           <div class="biopanel-open">--}}
 
-                               <p>Miss Debbie started studying dance at age 15 at the former College of St. Teresa in Winona, MN. She performed with the Minnesota Collegiate Ballet Company for 2 years. She studied at the National Academy of Dance in Champaign, IL during high school. Later she taught and performed at the Rochester Ballet School in MN. She studied, danced, and taught several years at the Alvin Ailey School in New York City.</p>
-                           </div>
-                       </div>
-                   </div>
+{{--                               <p>Miss Debbie started studying dance at age 15 at the former College of St. Teresa in Winona, MN. She performed with the Minnesota Collegiate Ballet Company for 2 years. She studied at the National Academy of Dance in Champaign, IL during high school. Later she taught and performed at the Rochester Ballet School in MN. She studied, danced, and taught several years at the Alvin Ailey School in New York City.</p>--}}
+{{--                           </div>--}}
+{{--                       </div>--}}
+{{--                   </div>--}}
 {{--                   <div class="teacher-col col-sm">--}}
 {{--                       <div class="about-teacher-card my-4 mx-5">--}}
 {{--                           <img class="img-fluid rounded shadow" src="images/teacher3.jpg">--}}
@@ -174,16 +174,16 @@
                    </div>
 
 
-                   <div class="teacher-col col-sm">
-                       <div class="about-teacher-card my-4 mx-5">
-                           <img class="img-fluid rounded shadow" src="images/teacher-aw.jpg">
-                           <button class="bioaccordion"><p class="lead my-1 p-0">Miss Anna Weidner</p></button>
-                           <div class="biopanel-open">
+{{--                   <div class="teacher-col col-sm">--}}
+{{--                       <div class="about-teacher-card my-4 mx-5">--}}
+{{--                           <img class="img-fluid rounded shadow" src="images/teacher-aw.jpg">--}}
+{{--                           <button class="bioaccordion"><p class="lead my-1 p-0">Miss Anna Weidner</p></button>--}}
+{{--                           <div class="biopanel-open">--}}
 
-                               <p>Miss Anna is a graduate of the UW-La Crosse where she was a member of the Hip Hop Dance Team. She grew up dancing at Jan's School of Dance in Hastings, MN. Anna has been teaching at MDU since 2017 and is currently the Varsity Dance Team coach at Viterbo University.</p>
-                           </div>
-                       </div>
-                   </div>
+{{--                               <p>Miss Anna is a graduate of the UW-La Crosse where she was a member of the Hip Hop Dance Team. She grew up dancing at Jan's School of Dance in Hastings, MN. Anna has been teaching at MDU since 2017 and is currently the Varsity Dance Team coach at Viterbo University.</p>--}}
+{{--                           </div>--}}
+{{--                       </div>--}}
+{{--                   </div>--}}
                    <div class="teacher-col col-sm">
                        <div class="about-teacher-card my-4 mx-5">
                            <img class="img-fluid rounded shadow" src="images/teacher-emily.jpg">
