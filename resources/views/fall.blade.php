@@ -12,11 +12,16 @@
         <div class="container py-5">
             <h2 class="text-center">Fall Schedule 2021</h2>
             <p class="text-center">
-                Online Registration begins Sat. June 5th at 8 AM
+                Online Registration has begun! Sign up today.
                 <br>Classes begin Wed., Aug. 18th
             </p>
-            <div class="text-center">
-                <a href="/images/mdu-fall-schedule-6-5.pdf" target="_blank">View PDF</a>
+            <div class="text-center d-flex d-inline justify-content-center">
+                <div class="mx-3 px-3">
+                    <a href="/images/mdu-fall-schedule-6-5.pdf" target="_blank"><button class="btn btn-danger btn-lg">VIEW FALL SCHEDULE PDF</button></a>
+                </div>
+                <div class="mx-3 px-3">
+                    <a href="/images/fall-dress-code.pdf" target="_blank"><button class="btn btn-danger btn-lg">DRESS CODE</button></a>
+                </div>
             </div>
             <div>
                 <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-2">
