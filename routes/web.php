@@ -119,9 +119,9 @@ Route::get('pre-pro', function () {
     return view('pre-pro');
 });
 
-Route::get('summer', function () {
-    return view('summer');
-});
+//Route::get('summer', function () {
+//    return view('summer');
+//});
 
 Route::get('fall', function () {
     return view('fall');
