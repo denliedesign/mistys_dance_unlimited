@@ -35,7 +35,7 @@
                         </li>
                         <li class="list-group-item px-0 border-0">
                             <ion-icon name="mail"></ion-icon>
-                            info@mistysdance.com
+                            mistysdance@gmail.com
                         </li>
                     </ul>
                 </div>

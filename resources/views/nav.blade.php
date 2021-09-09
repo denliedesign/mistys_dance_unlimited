@@ -14,7 +14,7 @@
                 <ul id="top-contact-bar" class="list-group">
                     <li class="list-group-item border-0 py-1"><small><ion-icon name="pin"></ion-icon> 923 12th Ave S, STE 103, Onalaska, WI 54650</small></li>
                     <li class="list-group-item border-0 py-1"><small><ion-icon name="call"></ion-icon> 608.779.4642</small></li>
-                    <li class="list-group-item border-0 py-1"><small><ion-icon name="mail"></ion-icon> info@mistysdance.com</small></li>
+                    <li class="list-group-item border-0 py-1"><small><ion-icon name="mail"></ion-icon> mistysdance@gmail.com</small></li>
                 </ul>
             </div>
             <div class="col-sm-2 d-none d-md-block">
