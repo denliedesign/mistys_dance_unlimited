@@ -10,17 +10,18 @@
 
     <div class="bg-white">
         <div class="container py-5">
-            <h2 class="text-center">Fall Schedule 2021</h2>
+            <h2 class="text-center">2021-22 Class Schedule</h2>
             <p class="text-center">
-                Online Registration has begun! Sign up today.
-                <br>Classes begin Wed., Aug. 18th
+                Classes have just begun. It’s not too late to join us!
+                <br>
+                Sign up online today.
             </p>
             <div class="text-center d-flex d-inline justify-content-center">
                 <div class="mx-3 px-3">
                     <a href="/images/mdu-fall-schedule-6-5.pdf" target="_blank"><button class="btn btn-danger btn-lg">VIEW FALL SCHEDULE PDF</button></a>
                 </div>
                 <div class="mx-3 px-3">
-                    <a href="/images/fall-dress-code.pdf" target="_blank"><button class="btn btn-danger btn-lg">DRESS CODE</button></a>
+                    <a href="/images/fall-dress-code-9-8.pdf" target="_blank"><button class="btn btn-danger btn-lg">DRESS CODE</button></a>
                 </div>
             </div>
             <div>
