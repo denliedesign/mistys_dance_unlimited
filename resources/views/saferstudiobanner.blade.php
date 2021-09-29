@@ -1,9 +1,9 @@
 @foreach($updates->sortByDesc('created_at')->take(1) as $update)
 <div class="accordion" id="accordionExample">
     <div class="card">
-        <div class="card-header text-center bg-danger" id="headingOne">
+        <div class="card-header text-center" id="headingOne">
             <h2 class="mb-0">
-                <button class="btn btn-link text-white" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                <button class="btn btn-link text-dark" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
                     {{ $update->title }}
                 </button>
             </h2>
