@@ -21,7 +21,7 @@
                     <a href="/images/mdu-fall-schedule-6-5.pdf" target="_blank"><button class="btn btn-danger btn-lg">VIEW FALL SCHEDULE PDF</button></a>
                 </div>
                 <div class="mx-3 px-3">
-                    <a href="/images/fall-dress-code-9-8.pdf" target="_blank"><button class="btn btn-danger btn-lg">DRESS CODE</button></a>
+                    <a href="/images/fall-dress-code-10-9.pdf" target="_blank"><button class="btn btn-danger btn-lg">DRESS CODE</button></a>
                 </div>
             </div>
             <div>
