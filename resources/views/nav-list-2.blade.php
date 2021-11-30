@@ -23,4 +23,7 @@
     <li class="nav-item mx-2">
         <a class="nav-link" href="https://www.everythingdanceboutique.com/" target="_blank">Dance Boutique</a>
     </li>
+    <li class="nav-item mx-2">
+        <a class="nav-link" href="https://mistysdance.store" target="_blank">Gift of Dance</a>
+    </li>
 </ul>
