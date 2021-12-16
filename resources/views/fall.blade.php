@@ -12,13 +12,13 @@
         <div class="container py-5">
             <h2 class="text-center">2021-22 Class Schedule</h2>
             <p class="text-center">
-                Classes have just begun. It’s not too late to join us!
+                It’s not too late to join the fun – enrollment ends January 31st
                 <br>
-                Sign up online today.
+                Sign up <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank">HERE</a>
             </p>
             <div class="text-center d-flex d-inline justify-content-center">
                 <div class="mx-3 px-3">
-                    <a href="/images/mdu-fall-schedule-6-5.pdf" target="_blank"><button class="btn btn-danger btn-lg">VIEW FALL SCHEDULE PDF</button></a>
+                    <a href="/images/mdu-fall-schedule-6-5.pdf" target="_blank"><button class="btn btn-danger btn-lg">VIEW CLASS SCHEDULE PDF</button></a>
                 </div>
                 <div class="mx-3 px-3">
                     <a href="/images/fall-dress-code-10-9.pdf" target="_blank"><button class="btn btn-danger btn-lg">DRESS CODE</button></a>
