@@ -13,7 +13,7 @@
             <p class="text-center"><a href="promotions/create">New Promotion</a></p>
         @endcan
 
-        @foreach($promotions as $promotion)
+        @foreach($promotions->reverse() as $promotion)
             @if($promotion->image)
                 <div class="promo-bg p-5">
                     <div class="row">

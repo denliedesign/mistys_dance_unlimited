@@ -5,12 +5,12 @@
                 <p class="txt-green">Ready To Leap In?</p>
                 <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-green btn-family">&#10097; Enroll today!</div></a>
             </div>
-            <div class="next-step mt-3 mt-md-0 shadow">
-                <p class="txt-blue">Want To Give It A Try?</p>
-                <div>
-                    <button type="button" class="shadow btn btn-lg btn-blue btn-family btn-opacity" data-bs-toggle="modal" data-bs-target="#exampleModal">&#10097; Schedule A Trial!</button>
-                </div>
-            </div>
+{{--            <div class="next-step mt-3 mt-md-0 shadow">--}}
+{{--                <p class="txt-blue">Want To Give It A Try?</p>--}}
+{{--                <div>--}}
+{{--                    <button type="button" class="shadow btn btn-lg btn-blue btn-family btn-opacity" data-bs-toggle="modal" data-bs-target="#exampleModal">&#10097; Schedule A Trial!</button>--}}
+{{--                </div>--}}
+{{--            </div>--}}
             <div class="next-step mt-3 mt-md-0 shadow">
                 <p class="txt-pink">Still Have Questions?</p>
                 <a href="#footer" class="btn-opacity"><div class="shadow btn btn-lg btn-pink btn-family">&#10097; Contact Us!</div></a>
@@ -76,7 +76,7 @@
                         <div class="col-sm">
                             <ul class="list-group">
                                 <li class="list-group-item px-0 border-0">
-                                    <a class="text-decoration-none txt-blue" href="https://docs.google.com/forms/d/e/1FAIpQLSfjtVvTMmhClJI2nwgxCXcj5ejBQSJUiFu6cBNf1KeB84uhAQ/viewform" target="_blank">Student Lockers</a>
+                                    <a class="text-decoration-none txt-blue" href="https://forms.gle/trR2amJYHtqGYLAc9" target="_blank">Student Lockers</a>
                                 </li>
                                 <li class="list-group-item px-0 border-0">
                                     <a class="text-decoration-none txt-blue" href="https://docs.google.com/forms/d/e/1FAIpQLSfzEyUJ7xwdSlv_IMNtLznZo1Lwk5jH0yfAKQZ32jGRpuWdCw/viewform?c=0&w=1" target="_blank">Performance Request</a>
