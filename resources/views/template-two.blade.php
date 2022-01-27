@@ -186,6 +186,54 @@
 
     @include('testimonials')
 
+    <div class="bg-white py-5">
+        <div class="container">
+            <div class="d-flex align-items-center">
+                <div>
+                    <h3 class="text-center pb-5">Proudly Partnering With These Outstanding Organizations</h3>
+                    <div class="row row-cols-2 row-cols-sm-3 row-cols-md-4 row-cols-lg-4">
+                        <div class="partner-div p-2">
+                            <img src="images/partner1.jpeg" class="card-img-top" alt="...">
+                        </div>
+                        <div class="partner-div p-2">
+                            <img src="images/partner4.png" class="card-img-top" alt="...">
+                        </div>
+                        <div class="partner-div p-2">
+                            <img src="images/partner12.jpg" class="card-img-top" alt="...">
+                        </div>
+                        <div class="partner-div p-2">
+                            <img src="images/partner10.png" class="card-img-top" alt="...">
+                        </div>
+                        <div class="partner-div p-2">
+                            <img src="images/partner2.png" class="card-img-top" alt="...">
+                        </div>
+                        <div class="partner-div p-2">
+                            <img src="images/partner3.png" class="card-img-top" alt="...">
+                        </div>
+                        <div class="partner-div p-2">
+                            <img src="images/partner5.png" class="card-img-top" alt="...">
+                        </div>
+                        <div class="partner-div p-2">
+                            <img src="images/partner6.png" class="card-img-top" alt="...">
+                        </div>
+                        <div class="partner-div p-2">
+                            <img src="images/partner7.png" class="card-img-top" alt="...">
+                        </div>
+                        <div class="partner-div p-2">
+                            <img src="images/partner8.png" class="card-img-top" alt="...">
+                        </div>
+                        <div class="partner-div p-2">
+                            <img src="images/partner9.png" class="card-img-top" alt="...">
+                        </div>
+                        <div class="partner-div p-2">
+                            <img src="images/partner11.png" class="card-img-top" alt="...">
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
     <div id="call-to-action" class="bg-white pt-5 pb-1">
         <div class="text-center pt-2">
             <h2 class="txt-green">Be A Part Of Our MDU Family!</h2>
