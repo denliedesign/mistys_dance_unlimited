@@ -12,9 +12,14 @@
         <div class="container py-5">
             <h2 class="text-center">2021-22 Class Schedule</h2>
             <p class="text-center">
-                It’s not too late to join the fun – enrollment ends January 31st
+                Enrollment has closed for the 2021-22 season
                 <br>
-                Sign up <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank">HERE</a>
+                Check out our <a href="/promotions">Mini Sessions</a>
+                <br>
+                Our Summer Schedule will be released soon.
+{{--                It’s not too late to join the fun – enrollment ends January 31st--}}
+{{--                <br>--}}
+{{--                Sign up <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank">HERE</a>--}}
             </p>
             <div class="text-center d-flex d-inline justify-content-center">
                 <div class="mx-3 px-3">

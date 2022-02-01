@@ -1,6 +1,14 @@
 @extends('layouts.vanilla')
 @section('content')
 
+    <div>
+        <video autoplay loop muted controls style="height: auto; width: 100%;">
+            <source src="images/mdu-video.mp4" type="video/mp4">
+        </video>
+    </div>
+
+    <!-- PINK ENROLLMENT WITH CTA
+
     <div id="primary-bg">
         <div class="color-filter-pink"></div>
         <h2 id="primary-txt-mobile" class="d-md-none">Take The First Step To Dance With Us</h2>
@@ -9,30 +17,33 @@
         <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank" class="d-none d-md-block btn-opacity"><div id="button-tablet" class="shadow btn btn-lg btn-turq primary-btn-pos btn-family">&#10097; Enroll today!</div></a>
     </div>
 
-    @include('trial-modal')
+{{--    @include('trial-modal')--}}
 
-    <div class="container">
-        <div id="next-steps">
-            <div class="row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-3 d-flex justify-content-center">
-                <div class="next-step mt-3 mt-md-0 shadow">
-                    <p class="txt-green">Ready To Leap In?</p>
-                    <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-green btn-family">&#10097; Enroll today!</div></a>
+        <div class="container">
+            <div id="next-steps">
+                <div class="row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-3 d-flex justify-content-center">
+                    <div class="next-step mt-3 mt-md-0 shadow">
+                        <p class="txt-green">Ready To Leap In?</p>
+                        <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-green btn-family">&#10097; Enroll today!</div></a>
                 </div>
 {{--                <div class="next-step mt-3 mt-md-0 shadow">--}}
-{{--                    <p class="txt-blue">Want To Give It A Try?</p>--}}
-{{--                    <div>--}}
-{{--                        <button type="button" class="shadow btn btn-lg btn-blue btn-family btn-opacity" data-bs-toggle="modal" data-bs-target="#exampleModal">&#10097; Schedule A Trial!</button>--}}
-{{--                    </div>--}}
-{{--                </div>--}}
-                <div class="next-step mt-3 mt-md-0 shadow">
-                    <p class="txt-pink">Still Have Questions?</p>
-                    <a href="#footer" class="btn-opacity"><div class="shadow btn btn-lg btn-pink btn-family">&#10097; Contact Us!</div></a>
+    {{--                    <p class="txt-blue">Want To Give It A Try?</p>--}}
+    {{--                    <div>--}}
+    {{--                        <button type="button" class="shadow btn btn-lg btn-blue btn-family btn-opacity" data-bs-toggle="modal" data-bs-target="#exampleModal">&#10097; Schedule A Trial!</button>--}}
+    {{--                    </div>--}}
+    {{--                </div>--}}
+        <div class="next-step mt-3 mt-md-0 shadow">
+            <p class="txt-pink">Still Have Questions?</p>
+            <a href="#footer" class="btn-opacity"><div class="shadow btn btn-lg btn-pink btn-family">&#10097; Contact Us!</div></a>
                 </div>
             </div>
         </div>
     </div>
 
-    <div id="vision" class="text-center text-white">
+     END PINK ENROLLMENT WITH CTA-->
+
+{{--    <div id="vision" class="text-center text-white">--}}
+    <div class="text-center text-white py-5">
         <div class="container">
             <h2>We Have Built a Reputation for Excellence in Dance Instruction</h2>
             <p>
