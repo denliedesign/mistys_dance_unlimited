@@ -1,4 +1,4 @@
-<ul class="navbar-nav text-center">
+<ul class="navbar-nav text-center" onclick="downToBottom()">
     <li class="nav-item mx-2">
         <a class="nav-link" href="/aboutus">About Us</a>
     </li>

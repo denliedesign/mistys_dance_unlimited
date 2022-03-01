@@ -399,6 +399,7 @@ Route::resource('recitals/volunteers', 'VolunteerController');
 Route::resource('students', 'StudentController');
 Route::resource('updates', 'UpdateController');
 Route::resource('fests', 'FestController');
+Route::resource('hubs', 'HubController');
 
 
 Auth::routes();

@@ -128,3 +128,5 @@
 <p id="credit" class="bg-dark text-center pb-3 m-0">
     <a class="text-decoration-none" href="https://denliedesign.com/" target="_blank"><small class="text-muted">Dance Website Design by Denlie Design</small></a>
 </p>
+
+<div id="bottom"></div>

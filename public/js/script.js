@@ -16,3 +16,7 @@ for (i = 0; i < acc.length; i++) {
         }
     });
 }
+
+function downToBottom() {
+    gsap.to(window, {duration: 10, ease: 'power2.inOut', scrollTo: '#bottom'});
+}
