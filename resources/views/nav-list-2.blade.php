@@ -11,6 +11,9 @@
     <li class="nav-item mx-2">
         <a class="nav-link" href="fall">Schedule</a>
     </li>
+    <li class="nav-item mx-2">
+        <a class="nav-link" href="/hubs">Recital Hub</a>
+    </li>
 {{--    <li class="nav-item mx-2">--}}
 {{--        <a class="nav-link" href="/pc">Auditions</a>--}}
 {{--    </li>--}}
