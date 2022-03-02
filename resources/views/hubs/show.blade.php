@@ -10,7 +10,7 @@
 
     <div class="bg-white py-5">
         <div class="container pb-5">
-            @if($hubs->hubPdf)
+            @if($hub->hubPdf)
                 <img src="{{ asset('/storage/' . $hub->hubPdf) }}" class="img-fluid">
             @endif
             <p class="my-5">{!! $hub->hubContent !!}</p>
