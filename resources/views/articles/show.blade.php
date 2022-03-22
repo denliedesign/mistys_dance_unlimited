@@ -9,7 +9,11 @@
     </div>
 
     <div class="bg-white py-5">
-        <h3 class="text-center py-5">{{ $article->articleTitle }}</h3>
+        <div class="d-flex-justify-content-center">
+            <img src="{{ asset('/storage/' . $article->newsImage) }}" alt="" class="img-fluid" style="max-width: 400px; height: auto;">
+        </div>
+        <h3 class="text-center pt-5">{{ $article->newsTitle }}</h3>
+        <h3 class="text-center pb-5">{{ $article->articleTitle }}</h3>
         <div class="container pb-5">
             <p>{!! $article->articleContent !!}</p>
         </div>
