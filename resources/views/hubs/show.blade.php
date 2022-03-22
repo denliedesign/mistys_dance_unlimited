@@ -10,7 +10,7 @@
 
     <div class="bg-white py-5">
         <div class="container pb-5">
-            <div class="d-flex-justify-content-center">
+            <div class="d-flex justify-content-center">
                 <img src="{{ asset('/storage/' . $hub->hubImage) }}" alt="" class="img-fluid" style="max-width: 400px; height: auto;">
             </div>
             <h3 class="text-center py-5">{{ $hub->hubTitle }}</h3>
