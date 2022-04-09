@@ -55,9 +55,9 @@ Route::get('big-kids', function () {
     return view('big-kids');
 });
 
-Route::get('adults', function () {
-    return view('adults');
-});
+//Route::get('adults', function () {
+//    return view('adults');
+//});
 
 Route::get('2-4yr', function () {
     return view('2-4yr');
@@ -352,9 +352,9 @@ Route::get('/classes/9-and-up', function () {
     return view('/classes/9-and-up');
 });
 
-Route::get('/classes/adult', function () {
-    return view('/classes/adult');
-});
+//Route::get('/classes/adult', function () {
+//    return view('/classes/adult');
+//});
 
 Route::get('/classes/boys', function () {
     return view('/classes/boys');
