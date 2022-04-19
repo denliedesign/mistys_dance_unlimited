@@ -8,21 +8,34 @@
 
 <div class="bg-white pb-5">
     <div class="container" id="adult">
-        <a class="text-decoration-none" href="/images/pg.pdf" target="_blank"><h3 class="py-5 text-center">Audition Info</h3></a>
-        <div class="text-center d-flex justify-content-center">
-            <a href="https://docs.google.com/forms/d/e/1FAIpQLSea2TA8tTUqBxQDWOKCE9Mtc2AlAV0Aea8xiiwRblmZi0S5rQ/viewform?gxids=7628" target="_blank"><button class="btn btn-danger btn-lg mx-1">Pre-Pro Ballet Sign Up</button></a>
-            <a href="https://docs.google.com/forms/d/e/1FAIpQLSeD9_U29AsvKHkZ4oFT0Erbji3kQANPuqGGZ3Ofpz9LGwsTvQ/viewform?gxids=7628" target="_blank"><button class="btn btn-danger btn-lg mx-1">Performing Groups Sign Up</button></a>
+{{--        <a class="text-decoration-none" href="/images/pg.pdf" target="_blank"><h3 class="py-5 text-center">Audition Info</h3></a>--}}
+{{--        <div class="text-center d-flex justify-content-center">--}}
+{{--            <a href="https://docs.google.com/forms/d/e/1FAIpQLSea2TA8tTUqBxQDWOKCE9Mtc2AlAV0Aea8xiiwRblmZi0S5rQ/viewform?gxids=7628" target="_blank"><button class="btn btn-danger btn-lg mx-1">Pre-Pro Ballet Sign Up</button></a>--}}
+{{--            <a href="https://docs.google.com/forms/d/e/1FAIpQLSeD9_U29AsvKHkZ4oFT0Erbji3kQANPuqGGZ3Ofpz9LGwsTvQ/viewform?gxids=7628" target="_blank"><button class="btn btn-danger btn-lg mx-1">Performing Groups Sign Up</button></a>--}}
+{{--        </div>--}}
+{{--        <img src="/images/pg-benefits.jpg" alt="performing benefits" class="img-fluid">--}}
+{{--        <div class="text-center d-flex justify-content-center">--}}
+{{--            <a href="https://docs.google.com/forms/d/e/1FAIpQLSea2TA8tTUqBxQDWOKCE9Mtc2AlAV0Aea8xiiwRblmZi0S5rQ/viewform?gxids=7628" target="_blank"><button class="btn btn-danger btn-lg mx-1">Pre-Pro Ballet Sign Up</button></a>--}}
+{{--            <a href="https://docs.google.com/forms/d/e/1FAIpQLSeD9_U29AsvKHkZ4oFT0Erbji3kQANPuqGGZ3Ofpz9LGwsTvQ/viewform?gxids=7628" target="_blank"><button class="btn btn-danger btn-lg mx-1">Performing Groups Sign Up</button></a>--}}
+{{--        </div>--}}
+{{--        <img src="/images/pg-audition-info.jpg" alt="audition info" class="img-fluid">--}}
+{{--        <div class="text-center d-flex justify-content-center">--}}
+{{--            <a href="https://docs.google.com/forms/d/e/1FAIpQLSea2TA8tTUqBxQDWOKCE9Mtc2AlAV0Aea8xiiwRblmZi0S5rQ/viewform?gxids=7628" target="_blank"><button class="btn btn-danger btn-lg mx-1">Pre-Pro Ballet Sign Up</button></a>--}}
+{{--            <a href="https://docs.google.com/forms/d/e/1FAIpQLSeD9_U29AsvKHkZ4oFT0Erbji3kQANPuqGGZ3Ofpz9LGwsTvQ/viewform?gxids=7628" target="_blank"><button class="btn btn-danger btn-lg mx-1">Performing Groups Sign Up</button></a>--}}
+{{--        </div>--}}
+
+        <h1 class="text-center py-5">
+            MDU 2022-23 Performing Groups, Ballet La Crosse and Pre-Professional Ballet Auditions
+        </h1>
+        <div class="d-flex justify-content-center">
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSc6E6cnhJquc9RKiKxPGA2cGYdtih2suUCPav6mecneQu7s7w/viewform?usp=sf_link" target="_blank">
+                <button class="btn btn-danger btn-lg">Dates, Details, & Sign Up Form</button>
+            </a>
         </div>
-        <img src="/images/pg-benefits.jpg" alt="performing benefits" class="img-fluid">
-        <div class="text-center d-flex justify-content-center">
-            <a href="https://docs.google.com/forms/d/e/1FAIpQLSea2TA8tTUqBxQDWOKCE9Mtc2AlAV0Aea8xiiwRblmZi0S5rQ/viewform?gxids=7628" target="_blank"><button class="btn btn-danger btn-lg mx-1">Pre-Pro Ballet Sign Up</button></a>
-            <a href="https://docs.google.com/forms/d/e/1FAIpQLSeD9_U29AsvKHkZ4oFT0Erbji3kQANPuqGGZ3Ofpz9LGwsTvQ/viewform?gxids=7628" target="_blank"><button class="btn btn-danger btn-lg mx-1">Performing Groups Sign Up</button></a>
+        <div class="d-flex justify-content-center my-5">
+            <img src="/images/pre-audition-meeting.png" alt="pre-audition meeting dancers" style="max-width: 400px; height: auto;">
         </div>
-        <img src="/images/pg-audition-info.jpg" alt="audition info" class="img-fluid">
-        <div class="text-center d-flex justify-content-center">
-            <a href="https://docs.google.com/forms/d/e/1FAIpQLSea2TA8tTUqBxQDWOKCE9Mtc2AlAV0Aea8xiiwRblmZi0S5rQ/viewform?gxids=7628" target="_blank"><button class="btn btn-danger btn-lg mx-1">Pre-Pro Ballet Sign Up</button></a>
-            <a href="https://docs.google.com/forms/d/e/1FAIpQLSeD9_U29AsvKHkZ4oFT0Erbji3kQANPuqGGZ3Ofpz9LGwsTvQ/viewform?gxids=7628" target="_blank"><button class="btn btn-danger btn-lg mx-1">Performing Groups Sign Up</button></a>
-        </div>
+
     </div>
 </div>
 

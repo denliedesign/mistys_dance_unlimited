@@ -87,9 +87,9 @@ Route::get('recreational', function () {
     return view('recreational');
 });
 
-//Route::get('pc', function () {
-//    return view('pc');
-//});
+Route::get('pc', function () {
+    return view('pc');
+});
 
 Route::get('prepro', function () {
     return view('prepro');
