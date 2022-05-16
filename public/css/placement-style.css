@@ -1,3 +1,8 @@
+body {
+    background: #f8f8ff;
+}
+
+
 .placement-login {
     list-style-type: none;
 }
@@ -8,13 +13,13 @@
 
 
 #placement-content {
-    height: 100vh;
-    border: 20px solid #008cc0;
+    /*height: 100vh;*/
+    /*border: 20px solid #008cc0;*/
     /*background: linear-gradient(white, #008cc0);*/
-    background-image: url("/images/springhill.jpg");
-    background-size: cover;
-    background-attachment: scroll;
-    background-position: center;
+    /*background-image: url("/images/springhill.jpg");*/
+    /*background-size: cover;*/
+    /*background-attachment: scroll;*/
+    /*background-position: center;*/
 }
 
 .table th, .table td {

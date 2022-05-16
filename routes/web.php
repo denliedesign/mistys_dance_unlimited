@@ -11,6 +11,9 @@
 |
 */
 
+use App\Http\Controllers\StudentController;
+use Illuminate\Support\Facades\Route;
+
 Route::get('/', function () {
     return view('welcome');
 });
@@ -397,6 +400,7 @@ Route::resource('recitals/tickets', 'TicketController');
 Route::resource('recitals/photos', 'PhotoController');
 Route::resource('recitals/volunteers', 'VolunteerController');
 Route::resource('students', 'StudentController');
+//Route::resource('contents', StudentController::class);
 Route::resource('updates', 'UpdateController');
 Route::resource('fests', 'FestController');
 Route::resource('hubs', 'HubController');

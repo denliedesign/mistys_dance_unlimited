@@ -3,6 +3,7 @@
 namespace App\Providers;
 
 use App\Fest;
+use App\Student;
 use App\Update;
 use App\User;
 use Illuminate\Support\ServiceProvider;
@@ -26,6 +27,9 @@ class AppServiceProvider extends ServiceProvider
      */
     public function boot()
     {
+//        view()->composer('*',function($view) {
+//            $view->with('students', Student::all());
+//        });
         view()->composer('*',function($view) {
             $view->with('users', User::all());
         });
