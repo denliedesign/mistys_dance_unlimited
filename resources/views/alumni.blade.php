@@ -10,12 +10,12 @@
     </div>
 
     <div class="bg-white">
-        <div class="container">
+        <div class="container my-5">
             <div class="d-flex justify-content-center">
-                <img src="/images/alumni-thumb.png" alt="alumni logo" class="img-fluid">
+                <img src="/images/alumni-thumb.png" alt="alumni logo" class="img-fluid" style="max-height: 400px;">
             </div>
             <h2 class="pt-5 text-center">Alumni</h2>
-            <p class="text-center">
+            <p class="text-center mb-0">
                 Calling all MDU Alumni!
                 <br>Join us in celebration of our 25th Anniversary Season! Check back this summer for news and updates just for YOU!
             </p>
