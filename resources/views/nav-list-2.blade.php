@@ -26,6 +26,9 @@
     <li class="nav-item mx-2">
         <a class="nav-link" href="https://www.thewillowandgrace.com/" target="_blank">Boutique</a>
     </li>
+    <li class="nav-item mx-2">
+        <a class="nav-link" href="/alumni" target="_blank">Alumni</a>
+    </li>
 {{--    <li class="nav-item mx-2">--}}
 {{--        <a class="nav-link" href="https://mistysdance.store" target="_blank">Gift of Dance</a>--}}
 {{--    </li>--}}
