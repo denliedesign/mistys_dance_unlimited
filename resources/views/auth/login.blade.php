@@ -91,6 +91,16 @@
                     </div>
                 </div>
             </div>
+            <div>
+                <p class="text-center">
+                    <strong>Helpful Tips</strong>
+                    <br>&middot; If you have multiple dancers, just create one account.
+                    <br>&middot; If you try to Register a New account and you receive a message in red that says: The email has already been taken, then use the Log-in option.
+                    <br>&middot; If you forgot your password, click “forgot your password”, enter your email address and click send password reset link.
+                    <br>&middot; Level placements are only provided for the style (Ballet, Jazz, Tap) that you took.  If there is a 0 noted, that means your dancer didn’t participate in that style this past season.
+                    <br>&middot; If you don’t see your dancer’s info, please try one of your other email addresses.
+                </p>
+            </div>
         </div>
     </div>
 
