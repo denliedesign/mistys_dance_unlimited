@@ -92,7 +92,7 @@
                 </div>
             </div>
             <div>
-                <p class="text-center">
+                <p class="text-left mt-3">
                     <strong>Helpful Tips</strong>
                     <br>&middot; If you have multiple dancers, just create one account.
                     <br>&middot; If you try to Register a New account and you receive a message in red that says: The email has already been taken, then use the Log-in option.
