@@ -13,6 +13,7 @@
                     <div class="col-sm mt-3">
                         <strong>Returning Student</strong>
                         <br>Login using the main email from your studio account
+                        <br>(If you created an account last year to view level placements)
                     </div>
                     <div class="col-sm mt-3">
                         <strong>New Student</strong>
