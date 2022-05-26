@@ -36,7 +36,7 @@
         </div>
 
         <h1 class="text-center display-4" style="font-family: 'Bree Serif', serif; color: #ed174d;">Placement</h1>
-{{--        <p class="text-center">Check Back May 26th For Your Placement!</p>--}}
+        <p class="text-center">Check Back May 26th For Your Placement!</p>
         @can('update', \App\Student::class)
             <p class="text-center"><a href="students/create">New Student</a></p>
 {{--        @endcan--}}
