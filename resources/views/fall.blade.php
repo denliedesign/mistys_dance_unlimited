@@ -10,40 +10,38 @@
 
     <div class="bg-white">
         <div class="container py-5">
-            <h2 class="text-center">2021-22 Class Schedule</h2>
+            <h2 class="text-center">2022-23 Class Schedule</h2>
             <p class="text-center">
-                Enrollment has closed for the 2021-22 season
+                Online Enrollment Begins Saturday, June 4th at 8:00am.
                 <br>
-                Check out our <a href="/promotions">Mini Sessions</a>
-                <br>
-                Our Summer Schedule will be released soon.
+                Classes Begin August 18th
 {{--                It’s not too late to join the fun – enrollment ends January 31st--}}
 {{--                <br>--}}
 {{--                Sign up <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank">HERE</a>--}}
             </p>
             <div class="text-center d-flex d-inline justify-content-center">
                 <div class="mx-3 px-3">
-                    <a href="/images/mdu-fall-schedule-6-5.pdf" target="_blank"><button class="btn btn-danger btn-lg">VIEW CLASS SCHEDULE PDF</button></a>
+                    <a href="/images/schedule-22-23.pdf" target="_blank"><button class="btn btn-danger btn-lg">VIEW CLASS SCHEDULE PDF</button></a>
                 </div>
-                <div class="mx-3 px-3">
-                    <a href="/images/fall-dress-code-10-9.pdf" target="_blank"><button class="btn btn-danger btn-lg">DRESS CODE</button></a>
-                </div>
+{{--                <div class="mx-3 px-3">--}}
+{{--                    <a href="/images/fall-dress-code-10-9.pdf" target="_blank"><button class="btn btn-danger btn-lg">DRESS CODE</button></a>--}}
+{{--                </div>--}}
             </div>
             <div>
-                <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-2">
-                    <img src="/images/mdu-fall-schedule-6-5-1.jpg" alt="fall schedule" class="img-fluid p-3">
-                    <img src="/images/mdu-fall-schedule-6-5-2.jpg" alt="fall schedule" class="img-fluid p-3">
-                    <img src="/images/mdu-fall-schedule-6-5-3.jpg" alt="fall schedule" class="img-fluid p-3">
-                    <img src="/images/mdu-fall-schedule-6-5-4.jpg" alt="fall schedule" class="img-fluid p-3">
-                    <img src="/images/mdu-fall-schedule-6-5-5.jpg" alt="fall schedule" class="img-fluid p-3">
-                    <img src="/images/mdu-fall-schedule-6-5-6.jpg" alt="fall schedule" class="img-fluid p-3">
-                    <img src="/images/mdu-fall-schedule-6-5-7.jpg" alt="fall schedule" class="img-fluid p-3">
-                    <img src="/images/mdu-fall-schedule-6-5-8.jpg" alt="fall schedule" class="img-fluid p-3">
-                    <img src="/images/mdu-fall-schedule-6-5-9.jpg" alt="fall schedule" class="img-fluid p-3">
-                    <img src="/images/mdu-fall-schedule-6-5-10.jpg" alt="fall schedule" class="img-fluid p-3">
-                    <img src="/images/mdu-fall-schedule-6-5-11.jpg" alt="fall schedule" class="img-fluid p-3">
-                    <img src="/images/mdu-fall-schedule-6-5-12.jpg" alt="fall schedule" class="img-fluid p-3">
-                </div>
+{{--                <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-2">--}}
+{{--                    <img src="/images/mdu-fall-schedule-6-5-1.jpg" alt="fall schedule" class="img-fluid p-3">--}}
+{{--                    <img src="/images/mdu-fall-schedule-6-5-2.jpg" alt="fall schedule" class="img-fluid p-3">--}}
+{{--                    <img src="/images/mdu-fall-schedule-6-5-3.jpg" alt="fall schedule" class="img-fluid p-3">--}}
+{{--                    <img src="/images/mdu-fall-schedule-6-5-4.jpg" alt="fall schedule" class="img-fluid p-3">--}}
+{{--                    <img src="/images/mdu-fall-schedule-6-5-5.jpg" alt="fall schedule" class="img-fluid p-3">--}}
+{{--                    <img src="/images/mdu-fall-schedule-6-5-6.jpg" alt="fall schedule" class="img-fluid p-3">--}}
+{{--                    <img src="/images/mdu-fall-schedule-6-5-7.jpg" alt="fall schedule" class="img-fluid p-3">--}}
+{{--                    <img src="/images/mdu-fall-schedule-6-5-8.jpg" alt="fall schedule" class="img-fluid p-3">--}}
+{{--                    <img src="/images/mdu-fall-schedule-6-5-9.jpg" alt="fall schedule" class="img-fluid p-3">--}}
+{{--                    <img src="/images/mdu-fall-schedule-6-5-10.jpg" alt="fall schedule" class="img-fluid p-3">--}}
+{{--                    <img src="/images/mdu-fall-schedule-6-5-11.jpg" alt="fall schedule" class="img-fluid p-3">--}}
+{{--                    <img src="/images/mdu-fall-schedule-6-5-12.jpg" alt="fall schedule" class="img-fluid p-3">--}}
+{{--                </div>--}}
             </div>
             {{--        <div class="row" id="fall-select">--}}
             {{--            <div class="col">--}}

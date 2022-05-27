@@ -21,7 +21,7 @@
                         @endif
 
                         <p class="text-center">You are logged in!
-{{--                            <br><a class="text-decoration-none" href="/students">View Your Student's Placement</a></p>--}}
+                            <br><a class="text-decoration-none" href="/students">View Your Student's Placement</a></p>
                     </div>
                 </div>
             </div>
