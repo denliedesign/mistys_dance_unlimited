@@ -21,7 +21,7 @@
             </p>
             <div class="text-center d-flex d-inline justify-content-center">
                 <div class="mx-3 px-3">
-                    <a href="/images/schedule-22-23.pdf" target="_blank"><button class="btn btn-danger btn-lg">VIEW CLASS SCHEDULE PDF</button></a>
+                    <a href="/images/schedule-22-23b.pdf" target="_blank"><button class="btn btn-danger btn-lg">VIEW CLASS SCHEDULE PDF</button></a>
                 </div>
 {{--                <div class="mx-3 px-3">--}}
 {{--                    <a href="/images/fall-dress-code-10-9.pdf" target="_blank"><button class="btn btn-danger btn-lg">DRESS CODE</button></a>--}}
@@ -32,12 +32,12 @@
                     <img src="/images/schedule-22-23-1.jpg" alt="fall schedule" class="img-fluid p-3">
                     <img src="/images/schedule-22-23-2.jpg" alt="fall schedule" class="img-fluid p-3">
                     <img src="/images/schedule-22-23-3.jpg" alt="fall schedule" class="img-fluid p-3">
-                    <img src="/images/schedule-22-23-4.jpg" alt="fall schedule" class="img-fluid p-3">
-                    <img src="/images/schedule-22-23-5.jpg" alt="fall schedule" class="img-fluid p-3">
-                    <img src="/images/schedule-22-23-6.jpg" alt="fall schedule" class="img-fluid p-3">
-                    <img src="/images/schedule-22-23-7.jpg" alt="fall schedule" class="img-fluid p-3">
-                    <img src="/images/schedule-22-23-8.jpg" alt="fall schedule" class="img-fluid p-3">
-                    <img src="/images/schedule-22-23-9.jpg" alt="fall schedule" class="img-fluid p-3">
+                    <img src="/images/schedule-22-23-4b.jpg" alt="fall schedule" class="img-fluid p-3">
+                    <img src="/images/schedule-22-23-5b.jpg" alt="fall schedule" class="img-fluid p-3">
+                    <img src="/images/schedule-22-23-6b.jpg" alt="fall schedule" class="img-fluid p-3">
+                    <img src="/images/schedule-22-23-7b.jpg" alt="fall schedule" class="img-fluid p-3">
+                    <img src="/images/schedule-22-23-8b.jpg" alt="fall schedule" class="img-fluid p-3">
+                    <img src="/images/schedule-22-23-9b.jpg" alt="fall schedule" class="img-fluid p-3">
                     <img src="/images/schedule-22-23-10.jpg" alt="fall schedule" class="img-fluid p-3">
                     <img src="/images/schedule-22-23-11.jpg" alt="fall schedule" class="img-fluid p-3">
                     <img src="/images/schedule-22-23-12.jpg" alt="fall schedule" class="img-fluid p-3">
