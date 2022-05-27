@@ -95,7 +95,7 @@
                 <p class="text-left mt-3">
                     <strong>Helpful Tips</strong>
                     <br>&middot; If you have multiple dancers, just create one account.
-                    <br>&middot; If you try to Register a wew account and you receive a message in red that says "the email has already been taken", then use the Login option.
+                    <br>&middot; If you try to Register a new account and you receive a message in red that says "the email has already been taken", then use the Login option.
                     <br>&middot; If you forgot your password, click “forgot your password”, enter your email address, and click send password reset link.
                     <br>&middot; Level placements are only provided for the style (Ballet, Jazz, Tap) that you took.  If there is a 0 noted, that means your dancer did not participate in that style this past season.
                     <br>&middot; If you don’t see your dancer’s info, please try one of your other email addresses.
