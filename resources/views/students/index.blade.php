@@ -35,8 +35,9 @@
             @endguest
         </div>
 
-        <h1 class="text-center display-4" style="font-family: 'Bree Serif', serif; color: #ed174d;">Placement</h1>
-{{--        <p class="text-center">Check Back May 26th For Your Placement!</p>--}}
+        <h1 class="text-center display-4" style="font-family: 'Bree Serif', serif; color: #ed174d;">Graded Technique Placement</h1>
+        <p class="text-center">To compliment your training we also recommend Modern, Lyrical, Hip Hop, Acro, Leaps & Turns, Dance Team, and Musical Theatre.
+            <br>For dancers in Level 3 and up please also consider Pre-Pointe, Int./Adv. Contemporary, and Stretching & Conditioning.</p>
         @can('update', \App\Student::class)
             <p class="text-center"><a href="students/create">New Student</a></p>
         @endcan
