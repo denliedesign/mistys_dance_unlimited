@@ -28,20 +28,20 @@
 {{--                </div>--}}
             </div>
             <div>
-{{--                <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-2">--}}
-{{--                    <img src="/images/mdu-fall-schedule-6-5-1.jpg" alt="fall schedule" class="img-fluid p-3">--}}
-{{--                    <img src="/images/mdu-fall-schedule-6-5-2.jpg" alt="fall schedule" class="img-fluid p-3">--}}
-{{--                    <img src="/images/mdu-fall-schedule-6-5-3.jpg" alt="fall schedule" class="img-fluid p-3">--}}
-{{--                    <img src="/images/mdu-fall-schedule-6-5-4.jpg" alt="fall schedule" class="img-fluid p-3">--}}
-{{--                    <img src="/images/mdu-fall-schedule-6-5-5.jpg" alt="fall schedule" class="img-fluid p-3">--}}
-{{--                    <img src="/images/mdu-fall-schedule-6-5-6.jpg" alt="fall schedule" class="img-fluid p-3">--}}
-{{--                    <img src="/images/mdu-fall-schedule-6-5-7.jpg" alt="fall schedule" class="img-fluid p-3">--}}
-{{--                    <img src="/images/mdu-fall-schedule-6-5-8.jpg" alt="fall schedule" class="img-fluid p-3">--}}
-{{--                    <img src="/images/mdu-fall-schedule-6-5-9.jpg" alt="fall schedule" class="img-fluid p-3">--}}
-{{--                    <img src="/images/mdu-fall-schedule-6-5-10.jpg" alt="fall schedule" class="img-fluid p-3">--}}
-{{--                    <img src="/images/mdu-fall-schedule-6-5-11.jpg" alt="fall schedule" class="img-fluid p-3">--}}
-{{--                    <img src="/images/mdu-fall-schedule-6-5-12.jpg" alt="fall schedule" class="img-fluid p-3">--}}
-{{--                </div>--}}
+                <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-2">
+                    <img src="/images/schedule-22-23-1.jpg" alt="fall schedule" class="img-fluid p-3">
+                    <img src="/images/schedule-22-23-2.jpg" alt="fall schedule" class="img-fluid p-3">
+                    <img src="/images/schedule-22-23-3.jpg" alt="fall schedule" class="img-fluid p-3">
+                    <img src="/images/schedule-22-23-4.jpg" alt="fall schedule" class="img-fluid p-3">
+                    <img src="/images/schedule-22-23-5.jpg" alt="fall schedule" class="img-fluid p-3">
+                    <img src="/images/schedule-22-23-6.jpg" alt="fall schedule" class="img-fluid p-3">
+                    <img src="/images/schedule-22-23-7.jpg" alt="fall schedule" class="img-fluid p-3">
+                    <img src="/images/schedule-22-23-8.jpg" alt="fall schedule" class="img-fluid p-3">
+                    <img src="/images/schedule-22-23-9.jpg" alt="fall schedule" class="img-fluid p-3">
+                    <img src="/images/schedule-22-23-10.jpg" alt="fall schedule" class="img-fluid p-3">
+                    <img src="/images/schedule-22-23-11.jpg" alt="fall schedule" class="img-fluid p-3">
+                    <img src="/images/schedule-22-23-12.jpg" alt="fall schedule" class="img-fluid p-3">
+                </div>
             </div>
             {{--        <div class="row" id="fall-select">--}}
             {{--            <div class="col">--}}
