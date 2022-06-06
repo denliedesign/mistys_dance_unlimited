@@ -90,9 +90,9 @@ Route::get('recreational', function () {
     return view('recreational');
 });
 
-Route::get('pc', function () {
-    return view('pc');
-});
+//Route::get('pc', function () {
+//    return view('pc');
+//});
 
 Route::get('prepro', function () {
     return view('prepro');
@@ -407,7 +407,7 @@ Route::resource('students', 'StudentController');
 //Route::resource('contents', StudentController::class);
 Route::resource('updates', 'UpdateController');
 Route::resource('fests', 'FestController');
-Route::resource('hubs', 'HubController');
+//Route::resource('hubs', 'HubController');
 
 
 Auth::routes();
