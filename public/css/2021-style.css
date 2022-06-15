@@ -92,7 +92,7 @@ body {
 
 #great-txt {
     position: absolute;
-    bottom: 12%;
+    bottom: 10%;
     left: 50%;
     width: 60%;
     transform: translateX(-50%);
