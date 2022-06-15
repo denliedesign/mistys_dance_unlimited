@@ -59,7 +59,7 @@
 
 {{--    <div id="vision" class="text-center text-white">--}}
     <div class="text-center text-white py-5">
-        <div class="container">
+        <div class="container my-5">
 {{--            <h2>We Have Built a Reputation for Excellence in Dance Instruction</h2>--}}
 {{--            <p>--}}
 {{--                From your child’s first class to their graduation performance, MDU has a class for everyone! We specialize in beginners of all ages and offer training through pre-professional levels. But, MDU is More Than Just Great Dancing®! Our dancers go beyond technique to develop important life skills, learning to be respectful, confident and conscientious young people who share their gifts and talents with the community.--}}
