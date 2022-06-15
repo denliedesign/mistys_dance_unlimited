@@ -10,7 +10,7 @@
 <div id="great-bg">
     <div class="color-filter-pink"></div>
     <h2 id="great-txt" class="d-none d-md-block">
-        you belong here
+        You belong here
         <br>
         <span style="font-size: 0.6em; font-weight: normal;">Your child will fall in love with dance with our classes for ages 2-18</span>
     </h2>
@@ -58,7 +58,7 @@
      END PINK ENROLLMENT WITH CTA-->
 
 {{--    <div id="vision" class="text-center text-white">--}}
-    <div class="text-center text-white py-5">
+    <div class="text-center text-white py-5" style="font-size: 3em;">
         <div class="container">
 {{--            <h2>We Have Built a Reputation for Excellence in Dance Instruction</h2>--}}
 {{--            <p>--}}
@@ -188,7 +188,7 @@
             <div class="row">
                 <div class="col-sm">
                     <div class="d-flex justify-content-center">
-                        <img src="/images/safer-studio-logo.png" alt="safer studio logo" class="img-fluid" style="width: 100%; height: 100%; filter: invert(1);">
+                        <img src="/images/safer-studio-logo.png" alt="safer studio logo" class="img-fluid" style="width: auto; height: 275px; filter: invert(1);">
                     </div>
                     <h2 class="text-center">MDU is a Safer Studio™</h2>
                     <p>
@@ -197,7 +197,7 @@
                 </div>
                 <div class="col-sm">
                     <div class="d-flex justify-content-center">
-                        <img src="/images/ypad-badge.png" alt="ypad logo" class="img-fluid" style="max-height: 354.04px;">
+                        <img src="/images/ypad-badge.png" alt="ypad logo" class="img-fluid" style="width: auto; height: 275px;">
                     </div>
                     <h2 class="text-center">MDU is Youth Protection Advocates in Dance®  Certified!</h2>
                     <p>
