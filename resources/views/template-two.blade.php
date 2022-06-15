@@ -179,9 +179,11 @@
                 <div class="row">
                     <div class="col-sm" style="font-size: 1.75em;">
                         <div class="d-flex justify-content-center">
-                            “We don’t teach kids to make great dancers, we teach dance to make great kids.”
-                            <br>
-                            <em>-Misty Lown</em>
+                            <p>
+                                “We don’t teach kids to make great dancers, we teach dance to make great kids.”
+                                <br>
+                                <em>-Misty Lown</em>
+                            </p>
                         </div>
                     </div>
                     <div class="col-sm">
