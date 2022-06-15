@@ -178,8 +178,8 @@
                 <h3 style="font-size: 2.75em;" class="fw-bold text-center text-white py-5">We're About More Than Just Great Dancing™</h3>
                 <div class="row">
                     <div class="col-sm" style="font-size: 1.75em;">
-                        <div class="d-flex justify-content-center">
-                            <p>
+                        <div class="d-flex justify-content-center align-items-center">
+                            <p class="text-center">
                                 “We don’t teach kids to make great dancers, we teach dance to make great kids.”
                                 <br>
                                 <em>-Misty Lown</em>
@@ -187,7 +187,7 @@
                         </div>
                     </div>
                     <div class="col-sm">
-                        <div class="d-flex justify-content-center">
+                        <div class="d-flex justify-content-center align-items-center">
                             <img src="/images/mtjgd-logo.png" alt="more than just great dancing logo" class="img-fluid" style="width: auto; height: 250px;">
                         </div>
                     </div>
