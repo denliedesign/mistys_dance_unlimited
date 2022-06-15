@@ -19,6 +19,9 @@
         <br>
         <span style="font-size: 0.5em; font-weight: normal;">Your child will fall in love with dance with our classes for ages 2-18!</span>
     </h2>
+    <div class="d-flex justify-content-center">
+        <a href="/fall" class="btn-opacity"><div class="shadow btn btn-lg btn-pink btn-family">Find Your Class</div></a>
+    </div>
 </div>
 
 
