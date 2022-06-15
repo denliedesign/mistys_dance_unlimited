@@ -9,8 +9,12 @@
 
 <div id="great-bg">
     <div class="color-filter-pink"></div>
-{{--    <h2 id="great-txt-mobile" class="d-md-none">you belong here</h2>--}}
-    <h2 id="great-txt">
+    <h2 id="great-txt" class="d-none d-md-block">
+        you belong here
+        <br>
+        <span style="font-size: 0.6em; font-weight: normal;">Your child will fall in love with dance with our classes for ages 2-18</span>
+    </h2>
+    <h2 id="great-txt-mobile" class="d-block d-md-none">
         you belong here
         <br>
         <span style="font-size: 0.6em; font-weight: normal;">Your child will fall in love with dance with our classes for ages 2-18</span>
