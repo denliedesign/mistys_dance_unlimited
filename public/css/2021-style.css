@@ -92,7 +92,7 @@ body {
 
 #great-txt {
     position: absolute;
-    bottom: 10%;
+    bottom: 12%;
     left: 50%;
     width: 60%;
     transform: translateX(-50%);
@@ -100,7 +100,7 @@ body {
     text-align: center;
     color: white;
     text-transform: lowercase;
-    line-height: 0.75;
+    line-height: 0.7;
     font-weight: bold;
 }
 
