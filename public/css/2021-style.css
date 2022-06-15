@@ -100,7 +100,8 @@ body {
     text-align: center;
     color: white;
     text-transform: lowercase;
-    line-height: 0.9;
+    line-height: 0.75;
+    font-weight: bold;
 }
 
 /*#great-txt-mobile {*/
