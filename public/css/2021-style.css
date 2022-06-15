@@ -309,7 +309,7 @@ body {
 .partner-div img {
     opacity: 0.4;
     filter: grayscale(100%);
-    transform: scale(0.75);
+    transform: scale(0.9);
     transition: all 0.8s ease;
 }
 

@@ -113,7 +113,7 @@
 
     <div id="checklist-bg">
         <div class="color-filter-green"></div>
-        <h2 class="secondary-txt d-none d-md-block">Parents <ion-icon name="heart"></ion-icon> Misty's...</h2>
+        <h2 class="secondary-txt d-none d-md-block"><span style="font-size: 2.75em;" class="fw-bold">Parents <ion-icon name="heart"></ion-icon> Misty's...</span></h2>
         <div class="row secondary-txt-pos text-white text-center">
             <div class="col-sm">
                 <p>
@@ -223,40 +223,40 @@
                     <h3 class="text-center pb-5">Proudly Partnering With These Outstanding Organizations</h3>
                     <div class="row row-cols-2 row-cols-sm-3 row-cols-md-4 row-cols-lg-4">
                         <div class="partner-div p-2">
-                            <img src="images/partner1.jpeg" class="card-img-top" alt="...">
+                            <img src="images/partner1.jpeg" class="card-img-top img-fluid" alt="...">
                         </div>
                         <div class="partner-div p-2">
-                            <img src="images/partner4.png" class="card-img-top" alt="...">
+                            <img src="images/partner4.png" class="card-img-top img-fluid" alt="...">
                         </div>
                         <div class="partner-div p-2">
-                            <img src="images/partner12.jpg" class="card-img-top" alt="...">
+                            <img src="images/partner12.jpg" class="card-img-top img-fluid" alt="...">
                         </div>
                         <div class="partner-div p-2">
-                            <img src="images/partner10.png" class="card-img-top" alt="...">
+                            <img src="images/partner10.png" class="card-img-top img-fluid" alt="...">
                         </div>
                         <div class="partner-div p-2">
-                            <img src="images/partner2.png" class="card-img-top" alt="...">
+                            <img src="images/partner2.png" class="card-img-top img-fluid" alt="...">
                         </div>
                         <div class="partner-div p-2">
-                            <img src="images/partner3.png" class="card-img-top" alt="...">
+                            <img src="images/partner3.png" class="card-img-top img-fluid" alt="...">
                         </div>
                         <div class="partner-div p-2">
-                            <img src="images/partner5.png" class="card-img-top" alt="...">
+                            <img src="images/partner5.png" class="card-img-top img-fluid" alt="...">
                         </div>
                         <div class="partner-div p-2">
-                            <img src="images/partner6.png" class="card-img-top" alt="...">
+                            <img src="images/partner6.png" class="card-img-top img-fluid" alt="...">
                         </div>
                         <div class="partner-div p-2">
-                            <img src="images/partner7.png" class="card-img-top" alt="...">
+                            <img src="images/partner7.png" class="card-img-top img-fluid" alt="...">
                         </div>
                         <div class="partner-div p-2">
-                            <img src="images/partner8.png" class="card-img-top" alt="...">
+                            <img src="images/partner8.png" class="card-img-top img-fluid" alt="...">
                         </div>
                         <div class="partner-div p-2">
-                            <img src="images/partner9.png" class="card-img-top" alt="...">
+                            <img src="images/partner9.png" class="card-img-top img-fluid" alt="...">
                         </div>
                         <div class="partner-div p-2">
-                            <img src="images/partner11.png" class="card-img-top" alt="...">
+                            <img src="images/partner11.png" class="card-img-top img-fluid" alt="...">
                         </div>
                     </div>
                 </div>
