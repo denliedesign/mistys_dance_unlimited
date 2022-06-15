@@ -8,7 +8,7 @@
 {{--    </div>--}}
 
 <div id="great-bg">
-    <div class="color-filter-pink"></div>
+{{--    <div class="color-filter-pink"></div>--}}
     <h2 id="great-txt" class="d-none d-md-block">
         You belong here <ion-icon name="heart"></ion-icon>
         <br>
