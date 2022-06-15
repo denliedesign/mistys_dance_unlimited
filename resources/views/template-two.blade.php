@@ -241,12 +241,12 @@
                         <div class="partner-div p-2">
                             <img src="images/partner4.png" class="card-img-top img-fluid" alt="...">
                         </div>
-                        <div class="partner-div p-2">
-                            <img src="images/partner12.jpg" class="card-img-top img-fluid" alt="...">
-                        </div>
-                        <div class="partner-div p-2">
-                            <img src="images/partner10.png" class="card-img-top img-fluid" alt="...">
-                        </div>
+{{--                        <div class="partner-div p-2">--}}
+{{--                            <img src="images/partner12.jpg" class="card-img-top img-fluid" alt="...">--}}
+{{--                        </div>--}}
+{{--                        <div class="partner-div p-2">--}}
+{{--                            <img src="images/partner10.png" class="card-img-top img-fluid" alt="...">--}}
+{{--                        </div>--}}
                         <div class="partner-div p-2">
                             <img src="images/partner2.png" class="card-img-top img-fluid" alt="...">
                         </div>
@@ -259,9 +259,9 @@
                         <div class="partner-div p-2">
                             <img src="images/partner6.png" class="card-img-top img-fluid" alt="...">
                         </div>
-                        <div class="partner-div p-2">
-                            <img src="images/partner7.png" class="card-img-top img-fluid" alt="...">
-                        </div>
+{{--                        <div class="partner-div p-2">--}}
+{{--                            <img src="images/partner7.png" class="card-img-top img-fluid" alt="...">--}}
+{{--                        </div>--}}
                         <div class="partner-div p-2">
                             <img src="images/partner8.png" class="card-img-top img-fluid" alt="...">
                         </div>
@@ -269,7 +269,7 @@
                             <img src="images/partner9.png" class="card-img-top img-fluid" alt="...">
                         </div>
                         <div class="partner-div p-2">
-                            <img src="images/partner11.png" class="card-img-top img-fluid" alt="...">
+                            <img src="images/logo-willow-and-grace.png" class="card-img-top img-fluid" alt="...">
                         </div>
                     </div>
                 </div>
