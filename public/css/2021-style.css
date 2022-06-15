@@ -25,6 +25,16 @@ body {
     position: relative;
 }
 
+#great-bg {
+    height: 80vh;
+    width: 100%;
+    background: url("/images/dance-makes-great-kids.jpg");
+    background-size: cover;
+    background-position: center;
+    background-attachment: scroll;
+    position: relative;
+}
+
 .color-filter-pink {
     position: absolute;
     background: #d94da6;
@@ -68,6 +78,30 @@ body {
 }
 
 #primary-txt-mobile {
+    position: absolute;
+    top: 35%;
+    left: 50%;
+    width: 100%;
+    transform: translate(-50%, -50%);
+    font-size: 3.5em;
+    text-align: center;
+    color: white;
+    text-transform: lowercase;
+}
+
+#great-txt {
+    position: absolute;
+    top: 10%;
+    left: 5%;
+    width: 40%;
+    /*transform: translate(-50%, -50%);*/
+    font-size: 4.25em;
+    text-align: center;
+    color: white;
+    text-transform: lowercase;
+}
+
+#great-txt-mobile {
     position: absolute;
     top: 35%;
     left: 50%;
