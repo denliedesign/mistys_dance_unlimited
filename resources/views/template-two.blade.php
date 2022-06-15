@@ -13,7 +13,7 @@
     <h2 id="great-txt">
         you belong here
         <br>
-        <span style="font-size: 0.65em; font-weight: normal;">Your child will fall in love with dance with our classes for ages 2-18</span>
+        <span style="font-size: 0.6em; font-weight: normal;">Your child will fall in love with dance with our classes for ages 2-18</span>
     </h2>
 </div>
 

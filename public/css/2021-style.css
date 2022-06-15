@@ -39,7 +39,7 @@ body {
 .color-filter-pink {
     position: absolute;
     background: #d94da6;
-    opacity: 45%;
+    opacity: 50%;
     height: 100%;
     width: 100%;
     top: 0;
@@ -92,11 +92,11 @@ body {
 
 #great-txt {
     position: absolute;
-    bottom: 12%;
+    bottom: 15%;
     left: 50%;
     width: 60%;
     transform: translateX(-50%);
-    font-size: 4.25em;
+    font-size: 4.5em;
     text-align: center;
     color: white;
     text-transform: lowercase;
