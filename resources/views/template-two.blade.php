@@ -236,40 +236,40 @@
                     <h3 class="text-center pb-5">Proudly Partnering With These Outstanding Organizations</h3>
                     <div class="row row-cols-3 row-cols-sm-3 row-cols-md-3 row-cols-lg-3 px-3">
                         <div class="partner-div p-3 d-flex justify-content-center">
-                            <img src="images/partner1.jpeg" class="img-fluid" style="width: auto; height: 75%;" alt="...">
+                            <img src="images/partner1.jpeg" class="img-fluid" style="width: auto; max-height: 75%;" alt="...">
                         </div>
                         <div class="partner-div p-3 d-flex justify-content-center">
-                            <img src="images/partner4.png" class="img-fluid" style="width: auto; height: 75%;" alt="...">
-                        </div>
-{{--                        <div class="partner-div p-3">-- d-flex justify-content-center}}
-{{--                            <img src="images/partner12.jpg" class="img-fluid" style="width: auto; height: 75%;" alt="...">--}}
-{{--                        </div>--}}
-{{--                        <div class="partner-div p-3">-- d-flex justify-content-center}}
-{{--                            <img src="images/partner10.png" class="img-fluid" style="width: auto; height: 75%;" alt="...">--}}
-{{--                        </div>--}}
-                        <div class="partner-div p-3 d-flex justify-content-center">
-                            <img src="images/partner2.png" class="img-fluid" style="width: auto; height: 75%;" alt="...">
-                        </div>
-                        <div class="partner-div p-3 d-flex justify-content-center">
-                            <img src="images/partner3.png" class="img-fluid" style="width: auto; height: 75%;" alt="...">
-                        </div>
-                        <div class="partner-div p-3 d-flex justify-content-center">
-                            <img src="images/partner5.png" class="img-fluid" style="width: auto; height: 75%;" alt="...">
-                        </div>
-                        <div class="partner-div p-3 d-flex justify-content-center">
-                            <img src="images/partner6.png" class="img-fluid" style="width: auto; height: 75%;" alt="...">
+                            <img src="images/partner4.png" class="img-fluid" style="width: auto; max-height: 75%;" alt="...">
                         </div>
 {{--                        <div class="partner-div p-3">-- d-flex justify-content-center}}
-{{--                            <img src="images/partner7.png" class="img-fluid" style="width: auto; height: 75%;" alt="...">--}}
+{{--                            <img src="images/partner12.jpg" class="img-fluid" style="width: auto; max-height: 75%;" alt="...">--}}
+{{--                        </div>--}}
+{{--                        <div class="partner-div p-3">-- d-flex justify-content-center}}
+{{--                            <img src="images/partner10.png" class="img-fluid" style="width: auto; max-height: 75%;" alt="...">--}}
 {{--                        </div>--}}
                         <div class="partner-div p-3 d-flex justify-content-center">
-                            <img src="images/partner8.png" class="img-fluid" style="width: auto; height: 75%;" alt="...">
+                            <img src="images/partner2.png" class="img-fluid" style="width: auto; max-height: 75%;" alt="...">
                         </div>
                         <div class="partner-div p-3 d-flex justify-content-center">
-                            <img src="images/partner9.png" class="img-fluid" style="width: auto; height: 75%;" alt="...">
+                            <img src="images/partner3.png" class="img-fluid" style="width: auto; max-height: 75%;" alt="...">
                         </div>
                         <div class="partner-div p-3 d-flex justify-content-center">
-                            <img src="images/logo-willow-and-grace.png" class="img-fluid" style="width: auto; height: 75%;" alt="...">
+                            <img src="images/partner5.png" class="img-fluid" style="width: auto; max-height: 75%;" alt="...">
+                        </div>
+                        <div class="partner-div p-3 d-flex justify-content-center">
+                            <img src="images/partner6.png" class="img-fluid" style="width: auto; max-height: 75%;" alt="...">
+                        </div>
+{{--                        <div class="partner-div p-3">-- d-flex justify-content-center}}
+{{--                            <img src="images/partner7.png" class="img-fluid" style="width: auto; max-height: 75%;" alt="...">--}}
+{{--                        </div>--}}
+                        <div class="partner-div p-3 d-flex justify-content-center">
+                            <img src="images/partner8.png" class="img-fluid" style="width: auto; max-height: 75%;" alt="...">
+                        </div>
+                        <div class="partner-div p-3 d-flex justify-content-center">
+                            <img src="images/partner9.png" class="img-fluid" style="width: auto; max-height: 75%;" alt="...">
+                        </div>
+                        <div class="partner-div p-3 d-flex justify-content-center">
+                            <img src="images/logo-willow-and-grace.png" class="img-fluid" style="width: auto; max-height: 75%;" alt="...">
                         </div>
                     </div>
                 </div>
