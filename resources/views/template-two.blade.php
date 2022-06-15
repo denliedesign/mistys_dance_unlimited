@@ -113,7 +113,7 @@
 
     <div id="checklist-bg">
         <div class="color-filter-green"></div>
-        <h2 class="secondary-txt d-none d-md-block"><span style="font-size: 2em;" class="fw-bold">Parents <ion-icon name="heart"></ion-icon> Misty's...</span></h2>
+        <h2 class="secondary-txt d-none d-md-block"><span style="font-size: 1.75em;" class="fw-bold">Parents <ion-icon name="heart"></ion-icon> Misty's...</span></h2>
         <div class="row secondary-txt-pos text-white text-center">
             <div class="col-sm">
                 <p>
