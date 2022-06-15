@@ -279,7 +279,7 @@
 
     <div id="call-to-action" class="bg-white pt-5 pb-1">
         <div class="text-center pt-2">
-            <h2 class="txt-green">Be A Part Of Our MDU Family!</h2>
+            <h2 class="txt-green">See what dance can do for your child!</h2>
 {{--            <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-green btn-family">&#10097; Dance With Us Today!</div></a>--}}
         </div>
     </div>
