@@ -172,16 +172,17 @@
 
     <div id="mtjgd-bg" class="text-white">
         <div class="color-filter-blue"></div>
-        <h2 class="secondary-txt">We're About More Than Just Great Dancing™</h2>
+{{--        <h2 class="secondary-txt">We're About More Than Just Great Dancing™</h2>--}}
+        <h3 style="font-size: 2.75em; position: relative; z-index: 4;" class="fw-bold text-center text-white py-5">We're About More Than Just Great Dancing™</h3>
         <div>
             <div class="row tertiary-txt-pos">
-                <div class="col-sm my-4">
+                <div class="col-sm my-4" style="font-size: 1.75em;">
                     “We don’t teach kids to make great dancers, we teach dance to make great kids.”
                     <br>
                     <em>-Misty Lown</em>
                 </div>
                 <div class="col-sm">
-                    <img src="/images/mtjgd-logo.png" alt="more than just great dancing logo" class="img-fluid">
+                    <img src="/images/mtjgd-logo.png" alt="more than just great dancing logo" class="img-fluid" style="width: auto; height: 250px;">
                 </div>
             </div>
         </div>
