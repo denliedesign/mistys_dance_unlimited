@@ -32,7 +32,7 @@ body {
     background: url("/images/dance-makes-great-kids.jpg");
     background-size: cover;
     background-position: center;
-    background-attachment: fixed;
+    background-attachment: scroll;
     position: relative;
 }
 
