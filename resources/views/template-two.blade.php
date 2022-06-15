@@ -58,14 +58,14 @@
      END PINK ENROLLMENT WITH CTA-->
 
 {{--    <div id="vision" class="text-center text-white">--}}
-    <div class="text-center text-white py-5" style="font-size: 3em;">
+    <div class="text-center text-white py-5">
         <div class="container">
 {{--            <h2>We Have Built a Reputation for Excellence in Dance Instruction</h2>--}}
 {{--            <p>--}}
 {{--                From your child’s first class to their graduation performance, MDU has a class for everyone! We specialize in beginners of all ages and offer training through pre-professional levels. But, MDU is More Than Just Great Dancing®! Our dancers go beyond technique to develop important life skills, learning to be respectful, confident and conscientious young people who share their gifts and talents with the community.--}}
 {{--            </p>--}}
-            <h2>Dance makes GREAT kids!</h2>
-            <p>
+            <h2 style="font-size: 2.5em;">Dance makes GREAT kids!</h2>
+            <p style="font-size: 2em;">
                 From your child’s first class to their graduation performance, your child with thrive! At MDU dance classes are More Than Just Great Dancing®! Our dancers go beyond technique to develop important life skills, learning to be respectful, confident and conscientious young people who share their gifts and talents with the community.
             </p>
         </div>
@@ -188,7 +188,7 @@
             <div class="row">
                 <div class="col-sm">
                     <div class="d-flex justify-content-center">
-                        <img src="/images/safer-studio-logo.png" alt="safer studio logo" class="img-fluid" style="width: auto; height: 275px; filter: invert(1);">
+                        <img src="/images/safer-studio-logo.png" alt="safer studio logo" class="img-fluid" style="width: auto; height: 250px; filter: invert(1);">
                     </div>
                     <h2 class="text-center">MDU is a Safer Studio™</h2>
                     <p>
@@ -197,7 +197,7 @@
                 </div>
                 <div class="col-sm">
                     <div class="d-flex justify-content-center">
-                        <img src="/images/ypad-badge.png" alt="ypad logo" class="img-fluid" style="width: auto; height: 275px;">
+                        <img src="/images/ypad-badge.png" alt="ypad logo" class="img-fluid" style="width: auto; height: 250px;">
                     </div>
                     <h2 class="text-center">MDU is Youth Protection Advocates in Dance®  Certified!</h2>
                     <p>
