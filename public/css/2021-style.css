@@ -92,14 +92,14 @@ body {
 
 #great-txt {
     position: absolute;
-    bottom: 20%;
+    bottom: 12%;
     left: 50%;
     width: 60%;
     transform: translateX(-50%);
     font-size: 4.25em;
     text-align: center;
-    color: #008CC0;
-    text-transform: lowercase;
+    color: white;
+    text-transform: capitalize;
 }
 
 #great-txt-mobile {

@@ -8,6 +8,7 @@
 {{--    </div>--}}
 
 <div id="great-bg">
+    <div class="color-filter-pink"></div>
     <h2 id="great-txt-mobile" class="d-md-none">you belong here</h2>
     <h2 id="great-txt" class="d-none d-md-block">Your child will fall in love with dance with our classes for ages 2-18</h2>
 </div>
