@@ -175,7 +175,7 @@
 {{--        <h2 class="secondary-txt">We're About More Than Just Great Dancing™</h2>--}}
         <div class="container">
             <div style="position: relative; z-index: 4;" class="pt-5">
-                <h3 style="font-size: 2.75em;" class="fw-bold text-center text-white py-5">We're About More Than Just Great Dancing™</h3>
+                <h3 style="font-size: 2.75em;" class="fw-bold text-center text-white py-5 d-none d-md-block">We're About More Than Just Great Dancing™</h3>
                 <div class="row">
                     <div class="col-sm" style="font-size: 1.75em;">
                         <div class="d-flex justify-content-center align-items-center" style="height: 100%;">
