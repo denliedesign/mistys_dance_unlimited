@@ -247,7 +247,7 @@
 {{--                        <div class="partner-div p-3">-- d-flex justify-content-center}}
 {{--                            <img src="images/partner10.png" class="img-fluid" style="width: auto; max-height: 75%;" alt="...">--}}
 {{--                        </div>--}}
-                        <div class="partner-div p-3">
+                        <div class="partner-div p-3 d-flex align-items-center">
                             <img src="images/partner2.png" class="img-fluid" alt="...">
                         </div>
                         <div class="partner-div p-3 d-flex justify-content-center">
