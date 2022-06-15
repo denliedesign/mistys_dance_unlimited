@@ -10,14 +10,14 @@
 <div id="great-bg">
     <div class="color-filter-pink"></div>
     <h2 id="great-txt" class="d-none d-md-block">
-        You belong here
+        You belong here <ion-icon name="heart"></ion-icon>
         <br>
-        <span style="font-size: 0.6em; font-weight: normal;">Your child will fall in love with dance with our classes for ages 2-18</span>
+        <span style="font-size: 0.5em; font-weight: normal;">Your child will fall in love with dance with our classes for ages 2-18!</span>
     </h2>
     <h2 id="great-txt-mobile" class="d-block d-md-none">
-        you belong here
+        you belong here <ion-icon name="heart"></ion-icon>
         <br>
-        <span style="font-size: 0.6em; font-weight: normal;">Your child will fall in love with dance with our classes for ages 2-18</span>
+        <span style="font-size: 0.5em; font-weight: normal;">Your child will fall in love with dance with our classes for ages 2-18!</span>
     </h2>
 </div>
 
@@ -64,7 +64,7 @@
 {{--            <p>--}}
 {{--                From your child’s first class to their graduation performance, MDU has a class for everyone! We specialize in beginners of all ages and offer training through pre-professional levels. But, MDU is More Than Just Great Dancing®! Our dancers go beyond technique to develop important life skills, learning to be respectful, confident and conscientious young people who share their gifts and talents with the community.--}}
 {{--            </p>--}}
-            <h2 style="font-size: 2.75em;">Dance makes GREAT kids!</h2>
+            <h2 style="font-size: 2.75em;" class="font-weight-bold">Dance makes GREAT kids!</h2>
             <p style="font-size: 1.75em;">
                 From your child’s first class to their graduation performance, your child with thrive! At MDU dance classes are More Than Just Great Dancing®! Our dancers go beyond technique to develop important life skills, learning to be respectful, confident and conscientious young people who share their gifts and talents with the community.
             </p>
