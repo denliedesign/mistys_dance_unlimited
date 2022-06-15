@@ -64,8 +64,8 @@
 {{--            <p>--}}
 {{--                From your child’s first class to their graduation performance, MDU has a class for everyone! We specialize in beginners of all ages and offer training through pre-professional levels. But, MDU is More Than Just Great Dancing®! Our dancers go beyond technique to develop important life skills, learning to be respectful, confident and conscientious young people who share their gifts and talents with the community.--}}
 {{--            </p>--}}
-            <h2 style="font-size: 2.5em;">Dance makes GREAT kids!</h2>
-            <p style="font-size: 2em;">
+            <h2 style="font-size: 2.75em;">Dance makes GREAT kids!</h2>
+            <p style="font-size: 1.75em;">
                 From your child’s first class to their graduation performance, your child with thrive! At MDU dance classes are More Than Just Great Dancing®! Our dancers go beyond technique to develop important life skills, learning to be respectful, confident and conscientious young people who share their gifts and talents with the community.
             </p>
         </div>
