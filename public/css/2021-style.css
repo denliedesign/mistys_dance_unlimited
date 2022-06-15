@@ -94,9 +94,9 @@ body {
     position: absolute;
     bottom: 15%;
     left: 50%;
-    width: 65%;
+    width: 62%;
     transform: translateX(-50%);
-    font-size: 5.33em;
+    font-size: 5.5em;
     text-align: center;
     color: white;
     /*text-transform: lowercase;*/
