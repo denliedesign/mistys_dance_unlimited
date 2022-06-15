@@ -235,40 +235,40 @@
                 <div>
                     <h3 class="text-center pb-5">Proudly Partnering With These Outstanding Organizations</h3>
                     <div class="row row-cols-3 row-cols-sm-3 row-cols-md-3 row-cols-lg-3">
-                        <div class="partner-div p-3">
+                        <div class="partner-div p-5">
                             <img src="images/partner1.jpeg" class="card-img-top img-fluid" alt="...">
                         </div>
-                        <div class="partner-div p-3">
+                        <div class="partner-div p-5">
                             <img src="images/partner4.png" class="card-img-top img-fluid" alt="...">
                         </div>
-{{--                        <div class="partner-div p-3">--}}
+{{--                        <div class="partner-div p-5">--}}
 {{--                            <img src="images/partner12.jpg" class="card-img-top img-fluid" alt="...">--}}
 {{--                        </div>--}}
-{{--                        <div class="partner-div p-3">--}}
+{{--                        <div class="partner-div p-5">--}}
 {{--                            <img src="images/partner10.png" class="card-img-top img-fluid" alt="...">--}}
 {{--                        </div>--}}
-                        <div class="partner-div p-3">
+                        <div class="partner-div p-5">
                             <img src="images/partner2.png" class="card-img-top img-fluid" alt="...">
                         </div>
-                        <div class="partner-div p-3">
+                        <div class="partner-div p-5">
                             <img src="images/partner3.png" class="card-img-top img-fluid" alt="...">
                         </div>
-                        <div class="partner-div p-3">
+                        <div class="partner-div p-5">
                             <img src="images/partner5.png" class="card-img-top img-fluid" alt="...">
                         </div>
-                        <div class="partner-div p-3">
+                        <div class="partner-div p-5">
                             <img src="images/partner6.png" class="card-img-top img-fluid" alt="...">
                         </div>
-{{--                        <div class="partner-div p-3">--}}
+{{--                        <div class="partner-div p-5">--}}
 {{--                            <img src="images/partner7.png" class="card-img-top img-fluid" alt="...">--}}
 {{--                        </div>--}}
-                        <div class="partner-div p-3">
+                        <div class="partner-div p-5">
                             <img src="images/partner8.png" class="card-img-top img-fluid" alt="...">
                         </div>
-                        <div class="partner-div p-3">
+                        <div class="partner-div p-5">
                             <img src="images/partner9.png" class="card-img-top img-fluid" alt="...">
                         </div>
-                        <div class="partner-div p-3">
+                        <div class="partner-div p-5">
                             <img src="images/logo-willow-and-grace.png" class="card-img-top img-fluid" alt="...">
                         </div>
                     </div>
