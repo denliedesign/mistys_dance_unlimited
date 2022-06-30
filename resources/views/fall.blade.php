@@ -12,9 +12,7 @@
         <div class="container py-5">
             <h2 class="text-center">2022-23 Class Schedule</h2>
             <p class="text-center">
-                Online Enrollment Begins Saturday, June 4th at 8:00am.
-                <br>
-                Classes Begin August 18th
+                Online Enrollment has begun! Join the fun – YOU belong HERE!
 {{--                It’s not too late to join the fun – enrollment ends January 31st--}}
 {{--                <br>--}}
 {{--                Sign up <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank">HERE</a>--}}
@@ -24,7 +22,7 @@
                     <a href="/images/schedule-22-23c.pdf" target="_blank"><button class="btn btn-danger btn-lg">VIEW CLASS SCHEDULE PDF</button></a>
                 </div>
                 <div class="mx-3 px-3">
-                    <a href="/images/dress-code-22-23.pdf" target="_blank"><button class="btn btn-turq btn-lg">VIEW DRESS CODE</button></a>
+                    <a href="/images/dress-code-22-23.pdf" target="_blank"><button class="text-white btn btn-turq btn-lg">VIEW DRESS CODE</button></a>
                 </div>
 {{--                <div class="mx-3 px-3">--}}
 {{--                    <a href="/images/fall-dress-code-10-9.pdf" target="_blank"><button class="btn btn-danger btn-lg">DRESS CODE</button></a>--}}
