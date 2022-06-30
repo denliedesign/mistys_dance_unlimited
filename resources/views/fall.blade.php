@@ -23,6 +23,9 @@
                 <div class="mx-3 px-3">
                     <a href="/images/schedule-22-23c.pdf" target="_blank"><button class="btn btn-danger btn-lg">VIEW CLASS SCHEDULE PDF</button></a>
                 </div>
+                <div class="mx-3 px-3">
+                    <a href="/images/dress-code-22-23.pdf" target="_blank"><button class="btn btn-turq btn-lg">VIEW DRESS CODE</button></a>
+                </div>
 {{--                <div class="mx-3 px-3">--}}
 {{--                    <a href="/images/fall-dress-code-10-9.pdf" target="_blank"><button class="btn btn-danger btn-lg">DRESS CODE</button></a>--}}
 {{--                </div>--}}
