@@ -17,7 +17,7 @@
 {{--                <br>--}}
 {{--                Sign up <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank">HERE</a>--}}
             </p>
-            <div class="text-center d-flex d-block d-md-inline justify-content-center">
+            <div class="text-center d-md-flex d-md-inline justify-content-center">
                 <div class="m-2 px-2">
                     <a href="/images/schedule-22-23c.pdf" target="_blank"><button class="btn btn-danger btn-lg">VIEW CLASS SCHEDULE PDF</button></a>
                 </div>
