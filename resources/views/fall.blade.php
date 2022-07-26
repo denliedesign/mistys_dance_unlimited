@@ -25,7 +25,7 @@
                     <a href="/images/dress-code-22-23.pdf" target="_blank"><button class="text-white btn btn-turq btn-lg">VIEW DRESS CODE</button></a>
                 </div>
                 <div class="mx-2 px-2">
-                    <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><button class="text-white btn btn-turq btn-lg">REGISTER HERE</button></a>
+                    <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><button class="text-white btn btn-green btn-lg">REGISTER HERE</button></a>
                 </div>
 {{--                <div class="mx-3 px-3">--}}
 {{--                    <a href="/images/fall-dress-code-10-9.pdf" target="_blank"><button class="btn btn-danger btn-lg">DRESS CODE</button></a>--}}
