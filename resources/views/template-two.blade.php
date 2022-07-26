@@ -69,7 +69,7 @@
 {{--            </p>--}}
             <h2 style="font-size: 2.75em;" class="fw-bold">Dance makes GREAT kids!</h2>
             <p style="font-size: 1.75em;">
-                From your child’s first class to their graduation performance, your child with thrive! At MDU dance classes are More Than Just Great Dancing®! Our dancers go beyond technique to develop important life skills, learning to be respectful, confident and conscientious young people who share their gifts and talents with the community.
+                From your child’s first class to their graduation performance, your child will thrive! At MDU dance classes are More Than Just Great Dancing®! Our dancers go beyond technique to develop important life skills, learning to be respectful, confident and conscientious young people who share their gifts and talents with the community.
             </p>
         </div>
     </div>
