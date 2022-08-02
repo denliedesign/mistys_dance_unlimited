@@ -19,11 +19,13 @@
         </div>
 
         @if($article->id == 42)
-            <div class="row">
-              <div class="col-sm"><img src="/images/a1.png" alt="" class="img-fluid"></div>
-              <div class="col-sm"><img src="/images/a2.jpg" alt="" class="img-fluid"></div>
-              <div class="col-sm"><img src="/images/a3.png" alt="" class="img-fluid"></div>
-            </div>
+           <div class="container">
+               <div class="row">
+                   <div class="col-sm py-2"><img src="/images/a1.png" alt="" class="img-fluid"></div>
+                   <div class="col-sm py-2"><img src="/images/a2.jpg" alt="" class="img-fluid"></div>
+                   <div class="col-sm py-2"><img src="/images/a3.png" alt="" class="img-fluid"></div>
+               </div>
+           </div>
         @endif
     </div>
 
