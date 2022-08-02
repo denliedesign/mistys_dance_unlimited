@@ -17,6 +17,14 @@
         <div class="container pb-5">
             <p>{!! $article->articleContent !!}</p>
         </div>
+
+        @if($article->id == 42)
+            <div class="row">
+              <div class="col-sm"><img src="/images/a1.png" alt="" class="img-fluid"></div>
+              <div class="col-sm"><img src="/images/a2.jpg" alt="" class="img-fluid"></div>
+              <div class="col-sm"><img src="/images/a3.png" alt="" class="img-fluid"></div>
+            </div>
+        @endif
     </div>
 
     <div class="banner-wrap d-none d-md-block">
