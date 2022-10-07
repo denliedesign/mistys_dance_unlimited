@@ -1,4 +1,4 @@
-@extends('layouts.vanilla')
+@extends('layouts.app-lava')
 
 @section('title', 'Calendar of Events | Misty\'s Dance Unlimited')
 @section('description', 'Join In On The Fun & Festivities At Misty\'s Dance Unlimited.')
@@ -69,9 +69,9 @@
         </div>
     </div>
 
-    <div class="banner-wrap d-none d-md-block">
-        <div class="banner"></div>
-    </div>
+{{--    <div class="banner-wrap d-none d-md-block">--}}
+{{--        <div class="banner"></div>--}}
+{{--    </div>--}}
 
 @endsection
 

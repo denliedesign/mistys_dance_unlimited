@@ -1,4 +1,4 @@
-@extends('layouts.vanilla')
+@extends('layouts.app-lava')
 
 @section('content')
 
@@ -50,9 +50,9 @@
     </div>
 
 
-    <div class="banner-wrap d-none d-md-block">
-        <div class="banner"></div>
-    </div>
+{{--    <div class="banner-wrap d-none d-md-block">--}}
+{{--        <div class="banner"></div>--}}
+{{--    </div>--}}
 
 @endsection
 

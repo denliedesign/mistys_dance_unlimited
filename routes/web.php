@@ -15,11 +15,11 @@ use App\Http\Controllers\StudentController;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
-    return view('welcome');
+    return view('welcome-lava');
 });
 
 Route::get('aboutus', function () {
-    return view('aboutus');
+    return view('aboutus-lava');
 });
 
 Route::get('calendar', function () {
@@ -35,7 +35,7 @@ Route::get('contact', function () {
 //});
 
 Route::get('pl', function () {
-    return view('pl');
+    return view('/pl-lava');
 });
 
 Route::get('bravo', function () {
@@ -43,11 +43,11 @@ Route::get('bravo', function () {
 });
 
 Route::get('studio', function () {
-    return view('studio');
+    return view('/studio-lava');
 });
 
 Route::get('employment', function () {
-    return view('employment');
+    return view('/employment-lava');
 });
 
 Route::get('littles', function () {
@@ -127,7 +127,7 @@ Route::get('pre-pro', function () {
 //});
 
 Route::get('fall', function () {
-    return view('fall');
+    return view('fall-lava');
 });
 
 Route::get('fall-studio', function () {
@@ -380,7 +380,7 @@ Route::get('/classes', function () {
 });
 
 Route::get('/alumni', function () {
-    return view('/alumni');
+    return view('/alumni-lava');
 });
 
 Route::get('frozen-friends', 'FrozenFriendsController@index')->name('frozen-friends');

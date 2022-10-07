@@ -1,0 +1,579 @@
+/**, html, body {*/
+/*    font-family: 'Nunito', sans-serif !important;*/
+/*}*/
+
+.bg-seashell {
+    background: linear-gradient(to left, #fff, #FFF5EE) !important;
+}
+.bg-seashell-flip {
+    background: linear-gradient(to right, #fff, #FFF5EE) !important;
+}
+
+.txt-green { color: #10c45c; }
+.txt-blue { color: #307ad5; }
+.txt-pink { color: #d94da6; }
+.btn-blue { background: rgba(48, 122, 213, 1) !important; color: white !important; }
+.btn-green { background: rgba(16, 196, 92, 1) !important; color: white !important; }
+.btn-pink { background: rgba(217, 77, 166, 1) !important; color: white !important; }
+.btn-blue:hover { background: rgba(48, 122, 213, 0.7) !important; color: white !important; }
+.btn-green:hover { background: rgba(16, 196, 92, 0.7) !important; color: white !important; }
+.btn-pink:hover { background: rgba(217, 77, 166, 0.7) !important; color: white !important; }
+.btn-family {
+    color: white;
+    border-radius: 30px;
+    transition: background 0.4s ease;
+    padding: 10px 20px;
+}
+
+
+.bg-red {
+    background: linear-gradient(to right, #ED174D, #FD1C27);
+}
+.bg-red-solid {
+    background: #ED174D;
+}
+.text-red {
+    color: #ED174D;
+}
+.btn-danger, .btn-flip-danger:hover {
+    background: #ED174D !important;
+}
+.btn-danger:hover, .btn-flip-danger {
+    background: #D90036 !important;
+}
+
+.btn-outline-danger {
+    border: 1px solid #ED174D !important;
+    color: #ED174D !important;
+}
+
+.btn-outline-danger:hover {
+    background: #ED174D !important;
+    color: white !important;
+}
+
+.txt-featured {
+    border: 1px solid #ED174D;
+    color: #008CC0;
+    padding: 0 14px;
+    border-radius: 5px;
+}
+
+.txt-yellow {
+    color: #EBE82E;
+}
+
+.bg-blue {
+    background: linear-gradient(to left, #EBE82E, #FFCB05);
+    color: black;
+}
+
+#happy-healthy-safe-image {
+    position: absolute;
+    bottom: -10px;
+    left: 15%;
+    height: 1095px;
+    z-index: 3 !important;
+}
+
+#happy-healthy-safe-mobile {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    /*height: 1095px;*/
+    z-index: 3 !important;
+}
+
+#badge-image {
+    position: absolute;
+    bottom: 0;
+    left: 15%;
+    height: 1020px;
+    z-index: 3 !important;
+}
+
+#parents-image {
+    position: absolute;
+    right: 14%;
+    top: 50%;
+    transform: translateY(-50%);
+    height: 879px;
+}
+
+#cta-image {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    height: 562px;
+    z-index: 0;
+}
+
+#joy-image {
+    position: absolute;
+    right: 10%;
+    /*right: 16%;*/
+    bottom: 0;
+    /*transform: translateY(-50%);*/
+    height: 455px;
+    z-index: 0;
+}
+
+#joy-mobile {
+    position: absolute;
+    right: -10%;
+    bottom: 0;
+    /*transform: translateX(-50%);*/
+    height: 345px;
+    z-index: 0;
+}
+
+#great-txt {
+    position: absolute;
+    top: 55%;
+    left: 50%;
+    width: 62%;
+    transform: translate(-50%, -50%);
+    font-size: 5.5em;
+    text-align: center;
+    color: white;
+    line-height: 0.75;
+    font-weight: bold;
+    text-shadow: 1px 2px 4px black;
+}
+#great-txt-mobile {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 100%;
+    transform: translate(-50%, -50%);
+    font-size: 3.5em;
+    text-align: center;
+    color: white;
+    line-height: 0.75;
+    font-weight: bold;
+}
+
+#inputEmail {
+    border-radius: 7px 0 0 7px;
+    width: 100%;
+}
+#buttonSubmit {
+    border-radius: 0px 7px 7px 0px;
+    color: white;
+}
+
+.review-img {
+    border: 3px solid #EBE82E;
+    border-radius: 50%;
+    background: #EBE82E;
+    transform: scale(1.25);
+}
+
+.next-step {
+    text-align: center;
+    border-radius: 15px;
+    font-weight: bold;
+    font-size: 1.25em;
+    background: white;
+}
+
+#main-review-stars ion-icon {
+    font-size: 1.5em;
+    background: #EBE82E;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 2px;
+    color: #ED174D;
+}
+
+#review-stars ion-icon {
+    font-size: 0.75em;
+    background: #EBE82E;
+    border-radius: 5px;
+    padding: 5px;
+    margin: 2px;
+    color: #ED174D;
+}
+
+#review-stars {
+    font-size: 1.125em;
+}
+
+.partner-div img {
+    opacity: 0.6;
+    filter: grayscale(100%);
+    transition: all 0.8s ease;
+}
+.partner-div img:hover {
+    opacity: 1;
+    filter: grayscale(0%);
+}
+
+#footer ion-icon {
+    font-size: 1.5em;
+}
+#footer-list li,
+#footer-list a {
+    color: white !important;
+    background: #212529 !important;
+}
+
+#brand img {
+    max-height: 160px;
+    height: auto;
+    width: 100%;
+    filter: grayscale(100%);
+    opacity: 70%;
+    transform: scale(0.75);
+}
+#brand img:hover {
+    opacity: 100%;
+}
+
+/************************* ****** ***************************/
+/************************* SUMMIT ***************************/
+/************************* ****** ***************************/
+
+body {
+    overflow-x: hidden;
+}
+
+.btn-summit {
+    max-width: 300px;
+    max-height: 64px;
+    text-align: center;
+    border-radius: 30px;
+    border: 3px solid black;
+    padding: 4px 0 0 0;
+}
+
+.btn-teal { background: #D6F2F0; }
+.btn-teal:hover { background: #5ECCC5; }
+.btn-purple { background: #772E93; color: #fff }
+.btn-purple:hover { background: #5E196B; color: #fff }
+.btn-white { background: #fff; }
+.btn-white:hover { background: #d5d5d5; }
+
+.txt-light-teal { color: #D6F2F0; }
+/*.txt-teal { color: #5ECCC5; }*/
+.txt-teal { color: #008CC0; }
+.txt-dark-teal { color: #00B1A5; }
+
+.txt-purple { color: #5E196B; }
+
+.bg-purple { background: #5D1968; }
+.bg-teal { background: #5ECCC5; }
+/*.bg-light-teal { background: #D6F2F0; }*/
+
+.kit-links:hover { color: #00B1A5; }
+
+.font-staat { font-family: 'Staatliches', cursive; }
+.font-syne { font-family: 'Inter', sans-serif; }
+.font-dm { font-family: 'DM Serif Display', serif; }
+
+#section-badge {
+    background: url("/images-lava/happy-dancer.png");
+    background-position: 95% 50%;
+    background-attachment: scroll;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+#section-badge:hover {
+    background: url("/images-lava/happy-dancer-2.png");
+    background-position: 95% 50%;
+    background-attachment: scroll;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+
+#triangle-bottomleft {
+    width: 0;
+    height: 0;
+    border-bottom: 200px solid #D90036;
+    border-right: 200px solid transparent;
+    position: absolute;
+    bottom: 0;
+    left: 12px;
+    transition: all 0.8s ease;
+}
+
+#triangle-bottomleft-staff {
+    width: 0;
+    height: 0;
+    border-bottom: 200px solid #D90036;
+    border-right: 200px solid transparent;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    transition: all 0.8s ease;
+}
+
+#triangle-bottomleft:hover {
+    border-bottom: 200px solid #ED174D;
+}
+
+.triangle-and-text {
+    color: white;
+    transition: all 0.8s ease;
+}
+
+.triangle-and-text:hover {
+    color: white;
+}
+
+.triangle-text {
+    pointer-events: none;
+    cursor: default;
+}
+
+.scene-first {
+    height: 900px;
+    width: 100%;
+}
+
+.viewer-first {
+    height: 900px;
+    /*max-width: 600px;*/
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    /*transform: translateY(-50px);*/
+    margin: 0 auto;
+}
+
+.scene-studio {
+    height: 600px;
+    width: 100%;
+}
+
+.viewer-studio {
+    height: 600px;
+    /*max-width: 600px;*/
+    background-repeat: no-repeat;
+    background-position: 0 0;
+    /*transform: translateY(-50px);*/
+    margin: 0 auto;
+}
+
+.viewer-first { background-image: url('/images-lava/attitude-turn.jpg'); width: 1420.05px; }
+.viewer-studio {background-image: url('/images-lava/animate-studio-600.jpg'); width: 898.75px; }
+/*.viewer-studio {background-image: url('/images-lava/animate-studio-900.jpg'); width: 1348.25px; }*/
+
+#footer-map {
+    min-height: 100vh;
+    max-height: 100% !important;
+    z-index: 3 !important;
+    position: relative;
+}
+
+.footer-links {
+    text-decoration: none;
+    color: white;
+}
+
+.footer-links:hover {
+    color: #747474 !important;
+}
+
+.point-at-me {
+    cursor: pointer;
+}
+
+/* mountain shape dividers */
+
+.custom-shape-divider-bottom-1648525246 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-bottom-1648525246 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 123px;
+}
+
+.custom-shape-divider-bottom-1648525246 .shape-fill {
+    fill: #FFFFFF;
+}
+
+/* mt. classes */
+
+.custom-shape-divider-bottom-1648524823 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-bottom-1648524823 svg {
+    position: relative;
+    display: block;
+    width: calc(107% + 1.3px);
+    height: 395px;
+    transform: rotateY(180deg);
+}
+
+.custom-shape-divider-bottom-1648524823 .shape-fill {
+    fill: #FFFFFF;
+}
+
+/* mt footer */
+
+.custom-shape-divider-bottom-1648590329 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-bottom-1648590329 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 399px;
+}
+
+.custom-shape-divider-bottom-1648590329 .shape-fill {
+    fill: #FFFFFF;
+}
+
+/* mt. center */
+.custom-shape-divider-bottom-1663852805 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-bottom-1663852805 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 101px;
+}
+
+.custom-shape-divider-bottom-1663852805 .shape-fill {
+    fill: #FFFFFF;
+}
+
+/* center large */
+
+.custom-shape-divider-bottom-1663856371 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-bottom-1663856371 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 165px;
+}
+
+.custom-shape-divider-bottom-1663856371 .shape-fill {
+    fill: #FFFFFF;
+}
+
+/* small left point */
+
+.custom-shape-divider-bottom-1663853988 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-bottom-1663853988 svg {
+    position: relative;
+    display: block;
+    width: calc(130% + 1.3px);
+    height: 67px;
+    transform: rotateY(180deg);
+}
+
+.custom-shape-divider-bottom-1663853988 .shape-fill {
+    fill: #FFFFFF;
+}
+
+/* small right point */
+
+.custom-shape-divider-bottom-1663854216 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-bottom-1663854216 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 67px;
+}
+
+.custom-shape-divider-bottom-1663854216 .shape-fill {
+    fill: #FFFFFF;
+}
+
+/* mt slight right */
+.custom-shape-divider-bottom-1663856745 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+}
+
+.custom-shape-divider-bottom-1663856745 svg {
+    position: relative;
+    display: block;
+    width: calc(118% + 1.3px);
+    height: 118px;
+}
+
+.custom-shape-divider-bottom-1663856745 .shape-fill {
+    fill: #FFFFFF;
+}
+
+/* end mountain shape dividers */
+
+
+/**************************** ********************************/
+/**************************** SIDE PAGES ********************************/
+/**************************** ********************************/
+
+.banner-wrap {
+    height: 415px;
+    /*height: 315px;*/
+}
+
+.banner {
+    height: 100%;
+    background-image: url(/images-lava/banner-smile.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

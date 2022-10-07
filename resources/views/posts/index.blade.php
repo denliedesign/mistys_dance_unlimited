@@ -1,4 +1,4 @@
-@extends('layouts.vanilla')
+@extends('layouts.app-lava')
 
 @section('title', 'Blog | Misty\'s Dance Unlimited')
 @section('description', 'Latest Trends, Tips, Tricks, and Guides for Dancers')
@@ -53,8 +53,8 @@
         </div>
     </div>
 
-    <div class="banner-wrap d-none d-md-block">
-        <div class="banner"></div>
-    </div>
+{{--    <div class="banner-wrap d-none d-md-block">--}}
+{{--        <div class="banner"></div>--}}
+{{--    </div>--}}
 
 @endsection
