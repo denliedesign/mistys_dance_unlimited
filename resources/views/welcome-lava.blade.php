@@ -283,7 +283,19 @@
                             Misty's...</h2>
                     </div>
                     <div class="d-flex justify-content-center">
-                        <p class="txt-crimson" style="font-size: 1.75em;">
+                        <p class="txt-crimson d-none d-lg-block" style="font-size: 1.75em;">
+                            <span class="text-red"><ion-icon name="heart"></ion-icon></span> Background Checked Staff
+                            <br><span class="text-red"><ion-icon name="heart"></ion-icon></span> CPR Certified
+                            <br><span class="text-red"><ion-icon name="heart"></ion-icon></span> Written Curriculum
+                            <br><span class="text-red"><ion-icon name="heart"></ion-icon></span> Secured Facility
+                            <br><span class="text-red"><ion-icon name="heart"></ion-icon></span> Full-Time Administrative Team
+                            <br><span class="text-red"><ion-icon name="heart"></ion-icon></span> Study Areas for Students
+                            <br><span class="text-red"><ion-icon name="heart"></ion-icon></span> Sprung Floors for Safety
+                            <br><span class="text-red"><ion-icon name="heart"></ion-icon></span> Community Service Opportunities
+                            <br><span class="text-red"><ion-icon name="heart"></ion-icon></span> Youth Protection Advocates
+                            <br><span style="color: transparent;"><ion-icon name="heart"></ion-icon></span> In Dance Certified
+                        </p>
+                        <p class="txt-crimson d-block d-lg-none" style="font-size: 1.5em;">
                             <span class="text-red"><ion-icon name="heart"></ion-icon></span> Background Checked Staff
                             <br><span class="text-red"><ion-icon name="heart"></ion-icon></span> CPR Certified
                             <br><span class="text-red"><ion-icon name="heart"></ion-icon></span> Written Curriculum
@@ -407,49 +419,49 @@
                 <div class="col-sm my-3" style="position: relative;">
                     <img src="/images-lava/classes-1-2.jpg" alt="dancer posing" class="img-fluid">
                     <a class="triangle-and-text" href="/fall#age-2-4">
-                        <div id="triangle-bottomleft"></div>
+                        <div id="triangle-bottomleft-mobile"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Age 1-2</div>
                     </a>
                 </div>
                 <div class="col-sm my-3" style="position: relative;">
                     <img src="/images-lava/classes-3-4.jpg" alt="dancer posing" class="img-fluid">
                     <a class="triangle-and-text" href="/fall#age-2-4">
-                        <div id="triangle-bottomleft"></div>
+                        <div id="triangle-bottomleft-mobile"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Age 3-4</div>
                     </a>
                 </div>
                 <div class="col-sm my-3" style="position: relative;">
                     <img src="/images-lava/classes-5-6-resize.jpg" alt="dancer posing" class="img-fluid">
                     <a class="triangle-and-text" href="/fall#age-k-1st">
-                        <div id="triangle-bottomleft"></div>
+                        <div id="triangle-bottomleft-mobile"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Ages 5-6</div>
                     </a>
                 </div>
                 <div class="col-sm my-3" style="position: relative; z-index: 3;">
                     <img src="/images-lava/classes-7-8.jpg" alt="dancer posing" class="img-fluid">
                     <a class="triangle-and-text" href="/fall#age-2nd-3rd">
-                        <div id="triangle-bottomleft"></div>
+                        <div id="triangle-bottomleft-mobile"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Ages 7-8</div>
                     </a>
                 </div>
                 <div class="col-sm my-3" style="position: relative; z-index: 3;">
                     <img src="/images-lava/classes-9-12.jpg" alt="dancer posing" class="img-fluid">
                     <a class="triangle-and-text" href="/fall#age-graded">
-                        <div id="triangle-bottomleft"></div>
+                        <div id="triangle-bottomleft-mobile"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Ages 9-12</div>
                     </a>
                 </div>
                 <div class="col-sm my-3" style="position: relative; z-index: 3;">
                     <img src="/images-lava/classes-teens.jpg" alt="dancer posing" class="img-fluid">
                     <a class="triangle-and-text" href="/fall#age-teen">
-                        <div id="triangle-bottomleft"></div>
+                        <div id="triangle-bottomleft-mobile"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Teens</div>
                     </a>
                 </div>
                 <div class="col-sm my-3" style="position: relative; z-index: 3;">
                     <img src="/images-lava/classes-guys.jpg" alt="dancer posing" class="img-fluid">
                     <a class="triangle-and-text" href="/fall#age-guys">
-                        <div id="triangle-bottomleft"></div>
+                        <div id="triangle-bottomleft-mobile"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Guys Only</div>
                     </a>
                 </div>
