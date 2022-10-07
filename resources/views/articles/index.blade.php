@@ -1,4 +1,4 @@
-@extends('layouts.vanilla')
+@extends('layouts.app-lava')
 
 @section('title', 'News | Misty\'s Dance Unlimited')
 @section('description', 'Keep Up To Date With The Latest News From MDU!')
@@ -47,10 +47,6 @@
                 @endforeach
             </div>
         </div>
-    </div>
-
-    <div class="banner-wrap d-none d-md-block">
-        <div class="banner"></div>
     </div>
 
 @endsection

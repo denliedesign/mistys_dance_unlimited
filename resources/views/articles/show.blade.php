@@ -1,4 +1,4 @@
-@extends('layouts.vanilla')
+@extends('layouts.app-lava')
 
 @section('title', 'News Article | Misty\'s Dance Unlimited')
 
@@ -27,10 +27,6 @@
                </div>
            </div>
         @endif
-    </div>
-
-    <div class="banner-wrap d-none d-md-block">
-        <div class="banner"></div>
     </div>
 
 @endsection
