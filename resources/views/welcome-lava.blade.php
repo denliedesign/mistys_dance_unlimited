@@ -834,15 +834,15 @@
     <div class="container my-5 py-5" id="brand">
         <h2 class="text-center fw-bold" style="font-size: 2.75em;">Proudly partnering with these outstanding organizations</h2>
         <div class="row row-cols-3 row-cols-sm-3 row-cols-md-3 row-cols-lg-3">
-            <div class="col p-0 d-flex align-items-center justify-content-center"><div><img src="/images-lava/partner1.jpeg" alt="logo"></div></div>
-            <div class="col p-0 d-flex align-items-center justify-content-center"><div><img src="/images-lava/partner4.png" alt="logo"></div></div>
-            <div class="col p-0 d-flex align-items-center justify-content-center"><div><img src="/images-lava/partner2.png" alt="logo"></div></div>
-            <div class="col p-0 d-flex align-items-center justify-content-center"><div><img src="/images-lava/partner3.png" alt="logo"></div></div>
-            <div class="col p-0 d-flex align-items-center justify-content-center"><div><img src="/images-lava/logo-a-chance-to-dance.png" alt="logo"></div></div>
-            <div class="col p-0 d-flex align-items-center justify-content-center"><div><img src="/images-lava/logo-coulee-parenting.jpg" alt="logo"></div></div>
-            <div class="col p-0 d-flex align-items-center justify-content-center"><div><img src="/images-lava/logo-weber-center.png" alt="logo" style="filter: invert(100%);"></div></div>
-            <div class="col p-0 d-flex align-items-center justify-content-center"><div><img src="/images-lava/logo-blc-2.jpg" alt="logo"></div></div>
-            <div class="col p-0 d-flex align-items-center justify-content-center"><div><img src="/images-lava/logo-willow-and-grace.png" alt="logo"></div></div>
+            <div class="col p-0 d-flex align-items-center justify-content-center"><div><a href="https://www.reedmusicstudios.com" target="_blank"><img src="/images-lava/partner1.jpeg" alt="logo"></a></div></div>
+            <div class="col p-0 d-flex align-items-center justify-content-center"><div><a href="https://www.viterbo.edu" target="_blank"><img src="/images-lava/partner4.png" alt="logo"></a></div></div>
+            <div class="col p-0 d-flex align-items-center justify-content-center"><div><a href="https://morethanjustgreatdancing.com" target="_blank"><img src="/images-lava/partner2.png" alt="logo"></a></div></div>
+            <div class="col p-0 d-flex align-items-center justify-content-center"><div><a href="https://www.lacrossesymphony.org" target="_blank"><img src="/images-lava/partner3.png" alt="logo"></a></div></div>
+            <div class="col p-0 d-flex align-items-center justify-content-center"><div><a href="https://www.chancetodancefoundation.org" target="_blank"><img src="/images-lava/logo-a-chance-to-dance.png" alt="logo"></a></div></div>
+            <div class="col p-0 d-flex align-items-center justify-content-center"><div><a href="https://www.couleeparenting.com" target="_blank"><img src="/images-lava/logo-coulee-parenting.jpg" alt="logo"></a></div></div>
+            <div class="col p-0 d-flex align-items-center justify-content-center"><div><a href="https://www.webercenterarts.org" target="_blank"><img src="/images-lava/logo-weber-center.png" alt="logo" style="filter: invert(100%);"></a></div></div>
+            <div class="col p-0 d-flex align-items-center justify-content-center"><div><a href="https://www.balletlacrosse.com" target="_blank"><img src="/images-lava/logo-blc-2.jpg" alt="logo"></a></div></div>
+            <div class="col p-0 d-flex align-items-center justify-content-center"><div><a href="https://www.thewillowandgrace.com" target="_blank"><img src="/images-lava/logo-willow-and-grace.png" alt="logo"></a></div></div>
         </div>
     </div>
 
