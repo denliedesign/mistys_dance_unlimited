@@ -42,8 +42,8 @@ class AppServiceProvider extends ServiceProvider
         view()->composer('*',function($view) {
             $view->with('fests', Fest::all());
         });
-        view()->composer('*',function($view) {
-            $view->with('videos', Video::all());
-        });
+//        view()->composer('*',function($view) {
+//            $view->with('videos', Video::all());
+//        });
     }
 }
