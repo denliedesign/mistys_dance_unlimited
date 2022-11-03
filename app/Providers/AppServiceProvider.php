@@ -6,6 +6,7 @@ use App\Fest;
 use App\Student;
 use App\Update;
 use App\User;
+use App\Video;
 use Illuminate\Support\ServiceProvider;
 
 class AppServiceProvider extends ServiceProvider
@@ -40,6 +41,9 @@ class AppServiceProvider extends ServiceProvider
 
         view()->composer('*',function($view) {
             $view->with('fests', Fest::all());
+        });
+        view()->composer('*',function($view) {
+            $view->with('videos', Video::all());
         });
     }
 }

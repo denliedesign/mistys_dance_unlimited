@@ -392,6 +392,7 @@ Route::post('trial', 'FreeTrialController@store')->name('trial.store');
 Route::resource('events', 'EventController');
 Route::resource('promotions', 'PromotionController');
 Route::resource('articles', 'ArticleController');
+Route::resource('videos', 'VideoController');
 Route::resource('posts', 'PostController');
 Route::resource('recitals/generals', 'GeneralController');
 Route::resource('recitals/ads', 'AdController');

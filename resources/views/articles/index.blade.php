@@ -5,9 +5,32 @@
 
 @section('content')
 
-    <div class="banner-wrap d-none d-md-block">
-        <div class="banner"></div>
+    <div class="container">
+        <div class="d-flex justify-content-center py-5 bg-red rounded shadow mx-5">
+            <div>
+                @can('update', \App\Video::class)
+                    <p class="text-center"><a class="text-white" href="/videos/create">Add New Video</a></p>
+                @endcan
+                @foreach($videos as $video)
+                    {!! $video->embed !!}
+                    @can('update', \App\Video::class)
+                        <div class="d-flex justify-content-center">
+                            <form action="/videos/{{ $video->id }}" method="POST">
+                                @method('DELETE')
+                                @csrf
+
+                                <button class="btn btn-danger ml-4" type="submit" style="border: 1px solid white;">Delete</button>
+                            </form>
+                        </div>
+                    @endcan
+                @endforeach
+            </div>
+        </div>
     </div>
+
+{{--    <div class="banner-wrap d-none d-md-block">--}}
+{{--        <div class="banner"></div>--}}
+{{--    </div>--}}
 
     <div class="bg-white pb-5">
         <h3 class="text-center py-5">News</h3>
