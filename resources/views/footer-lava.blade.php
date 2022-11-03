@@ -77,22 +77,22 @@
                                 <li class="list-group-item px-0 border-0">
                                     <a class="text-decoration-none txt-blue" href="https://mistysdance.store">Gift of Dance</a>
                                 </li>
-                                {{--                                    @guest--}}
-                                {{--                                        <li class="list-group-item px-0 border-0">--}}
-                                {{--                                            <a class="text-decoration-none txt-blue" href="{{ route('login') }}">{{ __('Login') }}</a>--}}
-                                {{--                                        </li>--}}
-                                {{--                                    @else--}}
-                                {{--                                        <li class="list-group-item px-0 border-0 dropdown">--}}
-                                {{--                                            <a class="text-decoration-none txt-blue" href="{{ route('logout') }}"--}}
-                                {{--                                               onclick="event.preventDefault();--}}
-                                {{--                                                     document.getElementById('logout-form').submit();">--}}
-                                {{--                                                {{ __('Logout') }}--}}
-                                {{--                                            </a>--}}
-                                {{--                                            <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">--}}
-                                {{--                                                @csrf--}}
-                                {{--                                            </form>--}}
-                                {{--                                        </li>--}}
-                                {{--                                    @endguest--}}
+                                                                    @guest
+                                                                        <li class="list-group-item px-0 border-0">
+                                                                            <a class="text-decoration-none txt-blue" href="{{ route('login') }}">{{ __('Login') }}</a>
+                                                                        </li>
+                                                                    @else
+                                                                        <li class="list-group-item px-0 border-0 dropdown">
+                                                                            <a class="text-decoration-none txt-blue" href="{{ route('logout') }}"
+                                                                               onclick="event.preventDefault();
+                                                                                     document.getElementById('logout-form').submit();">
+                                                                                {{ __('Logout') }}
+                                                                            </a>
+                                                                            <form id="logout-form" action="{{ route('logout') }}" method="POST" style="display: none;">
+                                                                                @csrf
+                                                                            </form>
+                                                                        </li>
+                                                                    @endguest
                             </ul>
                         </div>
                     </div>
