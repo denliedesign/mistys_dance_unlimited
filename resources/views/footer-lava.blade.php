@@ -40,7 +40,7 @@
                         <div class="col-sm">
                             <ul class="list-group" id="footer-list">
                                 <li class="list-group-item px-0 border-0">
-                                    <a class="text-decoration-none txt-blue" href="https://docs.google.com/forms/d/e/1FAIpQLSdWfWLOlYApj7IwSztFfUXLcR0qFVOJYg8YAFOu5gqbUAkQqg/viewform" target="_blank">Absence Reporting</a>
+                                    <a class="text-decoration-none txt-blue" href="https://forms.gle/vjt7miuj7iZAbqtW9" target="_blank">Absence Reporting</a>
                                 </li>
                                 <li class="list-group-item px-0 border-0">
                                     <a class="text-decoration-none txt-blue" href="/events">Calendar of Events</a>
