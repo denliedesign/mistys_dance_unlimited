@@ -6,7 +6,7 @@
 @section('content')
 
     <div class="container">
-        <div class="d-flex justify-content-center py-5 bg-red rounded shadow mx-5">
+        <div class="d-flex justify-content-center py-5 mx-5">
             <div>
                 @can('update', \App\Video::class)
                     <p class="text-center"><a class="text-white" href="/videos/create">Add New Video</a></p>
