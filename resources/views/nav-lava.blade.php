@@ -49,6 +49,9 @@
                     <a class="nav-link" href="https://www.thewillowandgrace.com/" target="_blank">BOUTIQUE</a>
                 </li>
                 <li class="nav-item mx-2">
+                    <a class="nav-link" href="https://mistysdance.store/collections/2023-apparel" target="_blank">2023 APPAREL</a>
+                </li>
+                <li class="nav-item mx-2">
                     <a class="nav-link" href="/alumni">ALUMNI</a>
                 </li>
                 <li class="nav-item mx-2">
