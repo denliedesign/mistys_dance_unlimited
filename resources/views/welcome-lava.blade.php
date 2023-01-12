@@ -578,20 +578,20 @@
                 <div class="col-sm d-flex justify-content-center align-items-center">
                     <div class="text-center">
                         <div class="fw-bold" style="font-size: 2em;">FIND JOY IN MOVING</div>
-                        <div class="txt-crimson" style="font-size: 1.5em;">Try your <u>FREE</u> trial class today.</div>
+{{--                        <div class="txt-crimson" style="font-size: 1.5em;">Try your <u>FREE</u> trial class today.</div>--}}
                     </div>
                 </div>
                 <div class="col-sm d-flex justify-content-center align-items-center">
-                    <form action="">
-                        <div class="row g-0 align-items-center">
-                            <div class="col-auto mx-0">
-                                <input type="email" id="inputEmail" class="form-control mx-0" placeholder="Email">
-                            </div>
-                            <div class="col-auto mx-0">
-                                <button type="button" id="buttonSubmit" class="btn btn-flip-danger fw-bold shadow mx-0" data-bs-toggle="modal" data-bs-target="#exampleModal">SUBMIT</button>
-                            </div>
-                        </div>
-                    </form>
+{{--                    <form action="">--}}
+{{--                        <div class="row g-0 align-items-center">--}}
+{{--                            <div class="col-auto mx-0">--}}
+{{--                                <input type="email" id="inputEmail" class="form-control mx-0" placeholder="Email">--}}
+{{--                            </div>--}}
+{{--                            <div class="col-auto mx-0">--}}
+{{--                                <button type="button" id="buttonSubmit" class="btn btn-flip-danger fw-bold shadow mx-0" data-bs-toggle="modal" data-bs-target="#exampleModal">SUBMIT</button>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </form>--}}
                 </div>
             </div>
         </div>
@@ -711,14 +711,14 @@
                         </div>
                     </div>
                     <div class="col-sm">
-                        <div class="next-step mx-1 shadow py-5">
-                            <p class="txt-blue">Want To Give It A Try?</p>
-                            <div>
-                                <button type="button" class="shadow btn btn-lg btn-blue btn-family"
-                                        data-bs-toggle="modal" data-bs-target="#exampleModal">&#10097; Schedule A Trial!
-                                </button>
-                            </div>
-                        </div>
+{{--                        <div class="next-step mx-1 shadow py-5">--}}
+{{--                            <p class="txt-blue">Want To Give It A Try?</p>--}}
+{{--                            <div>--}}
+{{--                                <button type="button" class="shadow btn btn-lg btn-blue btn-family"--}}
+{{--                                        data-bs-toggle="modal" data-bs-target="#exampleModal">&#10097; Schedule A Trial!--}}
+{{--                                </button>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
                     </div>
                     <div class="col-sm">
                         <div class="next-step mx-1 shadow py-5">
@@ -754,14 +754,14 @@
                         </div>
                     </div>
                     <div class="col-sm my-3">
-                        <div class="next-step mx-1 shadow py-5">
-                            <p class="txt-blue">Want To Give It A Try?</p>
-                            <div>
-                                <button type="button" class="shadow btn btn-lg btn-blue btn-family"
-                                        data-bs-toggle="modal" data-bs-target="#exampleModal">&#10097; Schedule A Trial!
-                                </button>
-                            </div>
-                        </div>
+{{--                        <div class="next-step mx-1 shadow py-5">--}}
+{{--                            <p class="txt-blue">Want To Give It A Try?</p>--}}
+{{--                            <div>--}}
+{{--                                <button type="button" class="shadow btn btn-lg btn-blue btn-family"--}}
+{{--                                        data-bs-toggle="modal" data-bs-target="#exampleModal">&#10097; Schedule A Trial!--}}
+{{--                                </button>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
                     </div>
                     <div class="col-sm my-3">
                         <div class="next-step mx-1 shadow py-5">
