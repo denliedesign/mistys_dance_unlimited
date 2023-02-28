@@ -151,9 +151,13 @@ Route::get('thirdoption-faq', function () {
     return view('thirdoption-faq');
 });
 
-Route::get('community', function () {
-    return view('community.index');
+Route::get('community-first', function () {
+    return view('community-first');
 });
+
+//Route::get('community', function () {
+//    return view('community.index');
+//});
 
 Route::get('/community/fun-and-free-childrens-activities', function () {
     return view('community.fun-and-free-childrens-activities');

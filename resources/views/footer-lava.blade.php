@@ -48,6 +48,9 @@
                                 <li class="list-group-item px-0 border-0">
                                     <a class="text-decoration-none txt-blue" href="/pl">Private Lessons</a>
                                 </li>
+                                <li class="list-group-item px-0 border-0">
+                                    <a class="text-decoration-none txt-blue" href="/community-first">Community</a>
+                                </li>
                             </ul>
                         </div>
                         <div class="col-sm">

@@ -1,0 +1,52 @@
+@extends('layouts.app-lava')
+@section('content')
+
+    <div class="banner-wrap d-none d-md-block" style="position: relative;">
+        <div class="banner"></div>
+        <div class="custom-shape-divider-bottom-1663856745">
+            <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
+                <path d="M598.97 114.72L0 0 0 120 1200 120 1200 0 598.97 114.72z" class="shape-fill"></path>
+            </svg>
+        </div>
+    </div>
+
+    <div class="bg-white">
+        <div class="container py-3">
+            <h3 class="font-staat" style="font-size: 100px; line-height: 0.9em;">Community</h3>
+            <p>
+                Welcome to our community page, where we highlight the organizations and causes we've had the honor to support over the past two years. Giving back to our community is a fundamental part of our mission, and we are committed to doing our part to create positive change.
+                <br><br>
+                Here are some of the organizations we've donated to:
+            </p>
+        </div>
+    </div>
+
+    <div style="background: #212529;">
+        <div class="container py-3">
+            <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-3">
+                <div class="col-sm d-flex align-items-center justify-content-center p-4 rounded" style="border: 1px solid white;"><div class="text-center"><a href="https://act.alz.org/site/SPageServer/?pagename=walk_homepage" target="_blank"><img src="/images/com-1.png" alt="logo from community" class="img-fluid"></a><p class="text-white">Walk to End Alzheimer's® is the world's largest fundraiser for Alzheimer's care, support and research. This inspiring event calls on participants of all ages and abilities to join the fight against the disease.</p></div></div>
+                <div class="col-sm d-flex align-items-center justify-content-center p-4 rounded" style="border: 1px solid white;"><div class="text-center"><a href="https://www.varcinc.com" target="_blank"><img src="/images/com-2.png" alt="logo from community" class="img-fluid"></a><p class="text-white mt-3">The organization purpose and mission of VARC is to develop and provide meaningful employment, skill-building, and community inclusion services for individuals with varying abilities and other life barriers.</p></div></div>
+                <div class="col-sm d-flex align-items-center justify-content-center p-4 rounded" style="border: 1px solid white;"><div class="text-center"><a href="https://www.lacrosseschools.org/" target="_blank"><img src="/images/com-3.png" alt="logo from community" class="img-fluid"></a><p class="text-white">The School District of La Crosse is a recognized leader in providing unique, engaging experiences for our students. Believing that 'one size does not fit all' when it comes to education, the district provides both traditional, neighborhood school options as well as several choice programs and charter schools.</p></div></div>
+                <div class="col-sm d-flex align-items-center justify-content-center p-4 rounded" style="border: 1px solid white;"><div class="text-center"><a href="https://hoperestoreswi.org" target="_blank"><img src="/images/com-4.png" alt="logo from community" class="img-fluid"></a><p class="text-white mt-3">Our purpose is to support, advocate, listen, and bridge the gap between African Americans in our community. All of our services aim to help people of color receive resources that support their needs. Our services meet the specific needs of the African American community in Western Wisconsin.</p></div></div>
+                <div class="col-sm d-flex align-items-center justify-content-center p-4 rounded" style="border: 1px solid white;"><div class="text-center"><a href="https://www.lacrossechamber.com" target="_blank"><img src="/images/com-7.png" alt="logo from community" class="img-fluid"></a><p class="text-white mt-3">VISION The La Crosse Area will thrive because our residents are employed by prosperous companies. MISSION To elevate and strengthen the business community in order to enhance the La Crosse Area's quality of life.</p></div></div>
+                <div class="col-sm d-flex align-items-center justify-content-center p-4 rounded" style="border: 1px solid white;"><div class="text-center"><a href="https://atcww.org" target="_blank"><img src="/images/com-6.png" alt="logo from community" class="img-fluid"></a><p class="text-white mt-3">Adult & Teen Challenge provides Christian faith-based, residential care to young people and adults who struggle with life-controlling problems. The programs are typically 12-18 months and consist of Individual and group biblical studies, work projects, education (for adolescents), recreation and more.</p></div></div>
+                <div class="col-sm d-flex align-items-center justify-content-center p-4 rounded" style="border: 1px solid white;"><div class="text-center"><a href="https://www.childrensbusinessfair.org" target="_blank"><img src="/images/com-5.png" alt="logo from community" class="img-fluid"></a><p class="text-white mt-3">The Acton Children's Business Fair supports kid entrepreneurs all over the world with one-day fairs in local communities. Kids develop a brand, create a product or service, build a marketing strategy, and then open for customers at our one-day marketplace.</p></div></div>
+                <div class="col-sm d-flex align-items-center justify-content-center p-4 rounded" style="border: 1px solid white;"><div class="text-center"><a href="https://www.fierce-foundation.org" target="_blank"><img src="/images/com-8.png" alt="logo from community" class="img-fluid"></a><p class="text-white mt-3">Our mission is to provide support to patients and families facing a rare cancer diagnosis. Whether on a local level through aid, education, and services aimed at improving the quality of life for patients and easing the strain on caregivers, or on a global scale working to raise awareness and funding for cancers like glioblastoma, we are committed to continuing Karen's legacy of service and gratitude. </p></div></div>
+                <div class="col-sm d-flex align-items-center justify-content-center p-4 rounded" style="border: 1px solid white;"><div class="text-center"><a href="https://www.couleehumane.com" target="_blank"><img src="/images/com-14.gif" alt="logo from community" class="img-fluid"></a><p class="text-white mt-3">La Crosse County's sole humane society and stray-holding facility. Our goal is and always has been to provide the best care possible for all pets staying at the shelter. We work hard to be their voice, their advocate and their caregiver.</p></div></div>
+            </div>
+        </div>
+    </div>
+
+    <div class="bg-white">
+        <div class="container py-3">
+            <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-3">
+                <div class="col-sm d-flex align-items-center justify-content-center p-4 rounded" style="border: 1px solid black;"><div class="text-center"><a href="https://www.facebook.com/OnalaskaArtKeepers/" target="_blank"><img src="/images/com-9.jpg" alt="logo from community" class="img-fluid"></a><p class="mt-3">Onalaska Art Keepers is a group of Onalaska neighbors & friends who have a love for the ARTS! The goal is to bring more love and appreciation for the arts to Onalaska and more fun in the community through participation and creation. They came together to promote the development and appreciation of local art and culture.</p></div></div>
+                <div class="col-sm d-flex align-items-center justify-content-center p-4 rounded" style="border: 1px solid black;"><div class="text-center"><a href="http://www.nhagainstabuse.org" target="_blank"><img src="/images/com-10.jpg" alt="logo from community" class="img-fluid"></a><p class="">ANew Horizons Shelter and Outreach Centers provide safety and services to adults and families who have experienced domestic and sexual abuse so that they can make decisions about their lives in a supportive, nonjudgmental and empowering atmosphere. We promote the concepts of non-violence and equality through intervention, prevention and education.</p></div></div>
+                <div class="col-sm d-flex align-items-center justify-content-center p-4 rounded" style="border: 1px solid black;"><div class="text-center"><img src="/images/com-11.jpg" alt="logo from community" class="img-fluid"><p class="mt-3">Everyone needs a hug sometimes. Help end childhood cancer and share this heartwarming huggable main character and the picture book Cuddle Bear with someone you love. Usborne Books & More is proud to partner with the Scott Carter Foundation to help eliminate pediatric cancer. A portion of the proceeds from Cuddle Bear is donated to the Scott Carter Foundation.</p></div></div>
+                <div class="col-sm d-flex align-items-center justify-content-center p-4 rounded" style="border: 1px solid black;"><div class="text-center"><a href="https://www.aquinascatholicschools.org" target="_blank"><img src="/images/com-12.jpg" alt="logo from community" class="img-fluid"></a><p class="mt-3">Aquinas Catholic Schools is a Christ-Centered family devoted to nurturing students of all faiths through educational excellence in its vibrant Catholic tradition.</p></div></div>
+                <div class="col-sm d-flex align-items-center justify-content-center p-4 rounded" style="border: 1px solid black;"><div class="text-center"><a href="https://www.oktoberfestusa.com/royal-family/miss-la-crosseoktoberfest/" target="_blank"><img src="/images/com-13.jpg" alt="logo from community" class="img-fluid"></a><p class="mt-3">The Miss La Crosse Oktoberfest Scholarship Program awards thousands of dollars in cash and in-kind scholarships plus many gifts and benefits every year. Miss La Crosse Oktoberfest also travels to many festivals and appearances each year with the Oktoberfest Royal Family.</p></div></div>
+            </div>
+        </div>
+    </div>
+
+@endsection
