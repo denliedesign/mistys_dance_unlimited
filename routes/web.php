@@ -412,7 +412,7 @@ Route::resource('students', 'StudentController');
 //Route::resource('contents', StudentController::class);
 Route::resource('updates', 'UpdateController');
 Route::resource('fests', 'FestController');
-//Route::resource('hubs', 'HubController');
+Route::resource('hubs', 'HubController');
 
 
 Auth::routes();
