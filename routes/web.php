@@ -11,6 +11,7 @@
 |
 */
 
+use App\Http\Controllers\HubController;
 use App\Http\Controllers\StudentController;
 use Illuminate\Support\Facades\Route;
 
@@ -385,6 +386,11 @@ Route::get('/classes', function () {
 
 Route::get('/alumni', function () {
     return view('/alumni-lava');
+});
+
+Route::get('recital', function () {
+    $hubs = (new App\Http\Controllers\HubController)->getHubs(); // assuming getHubs() is a static method in your HubController
+    return view('hubs.index', ['hubs' => $hubs]);
 });
 
 Route::get('frozen-friends', 'FrozenFriendsController@index')->name('frozen-friends');

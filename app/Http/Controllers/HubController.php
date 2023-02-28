@@ -15,6 +15,12 @@ class HubController extends Controller
      */
     protected $hubs;
 
+    public function getHubs()
+    {
+        $hubs = Hub::all(); // retrieves all hubs from the database
+        return $hubs;
+    }
+
     public function __construct()
     {
         $this->hubs = Hub::all()->sortByDesc('created_at');
