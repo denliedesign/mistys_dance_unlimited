@@ -46,6 +46,9 @@
                     <a class="nav-link" href="/recital">RECITAL</a>
                 </li>
                 <li class="nav-item mx-2">
+                    <a class="nav-link" href="/pc">AUDITION</a>
+                </li>
+                <li class="nav-item mx-2">
                     <a class="nav-link" href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank">REGISTER</a>
                 </li>
                 <li class="nav-item mx-2">

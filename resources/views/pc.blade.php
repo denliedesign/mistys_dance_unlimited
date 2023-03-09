@@ -1,10 +1,15 @@
-@extends('layouts.vanilla')
+@extends('layouts.app-lava')
 @section('title', 'Audition Info | Misty\'s Dance Unlimited')
 @section('content')
 
-<div class="banner-wrap d-none d-md-block">
-    <div class="banner"></div>
-</div>
+    <div class="banner-wrap d-none d-md-block" style="position: relative;">
+        <div class="banner"></div>
+        <div class="custom-shape-divider-bottom-1663856745">
+            <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
+                <path d="M598.97 114.72L0 0 0 120 1200 120 1200 0 598.97 114.72z" class="shape-fill"></path>
+            </svg>
+        </div>
+    </div>
 
 <div class="bg-white pb-5">
     <div class="container" id="adult">
@@ -25,22 +30,18 @@
 {{--        </div>--}}
 
         <h1 class="text-center py-5">
-            MDU 2022-23 Performing Groups, Ballet La Crosse and Pre-Professional Ballet Auditions
+            MDU 2023-24 Performing Groups, Ballet La Crosse and Pre-Professional Ballet Auditions
         </h1>
         <div class="d-flex justify-content-center">
-            <a href="https://docs.google.com/forms/d/e/1FAIpQLSc6E6cnhJquc9RKiKxPGA2cGYdtih2suUCPav6mecneQu7s7w/viewform?usp=sf_link" target="_blank">
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSda2Kf5gJ5Xz5whMNA918d3V5DFKUOa7qKL7o3x6yK4kGln4w/viewform?usp=sf_link" target="_blank">
                 <button class="btn btn-danger btn-lg">Dates, Details, & Sign Up Form</button>
             </a>
         </div>
-        <div class="d-flex justify-content-center my-5">
-            <img src="/images/pre-audition-meeting.png" alt="pre-audition meeting dancers" style="max-width: 400px; height: auto;">
-        </div>
+{{--        <div class="d-flex justify-content-center my-5">--}}
+{{--            <img src="/images/pre-audition-meeting.png" alt="pre-audition meeting dancers" style="max-width: 400px; height: auto;">--}}
+{{--        </div>--}}
 
     </div>
-</div>
-
-<div class="banner-wrap d-none d-md-block">
-    <div class="banner"></div>
 </div>
 
 @endsection
