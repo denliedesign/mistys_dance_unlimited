@@ -123,13 +123,13 @@ Route::get('pre-pro', function () {
     return view('pre-pro');
 });
 
-//Route::get('summer', function () {
-//    return view('summer');
-//});
-
-Route::get('fall', function () {
-    return view('fall-lava');
+Route::get('summer', function () {
+    return view('summer');
 });
+
+//Route::get('fall', function () {
+//    return view('fall-lava');
+//});
 
 Route::get('fall-studio', function () {
     return view('fall-studio');
