@@ -21,9 +21,13 @@
                 <div class="col-sm">
                     <h3 class="font-staat" style="font-size: 100px; line-height: 0.9em;">Alumni</h3>
                     <p class="font-syne" style="font-size: 22px;">
-                        Calling all MDU Alumni!
-                        <br>
-                        We are celebrating 25 years at MDU and we want YOU to be a part of it! We are looking for all dancers who have danced at MDU in years past whether you graduated with us or just joined us for a short time.  Please fill out this form to join our mailing list and be in the know about our upcoming celebrations.
+{{--                        Calling all MDU Alumni!--}}
+{{--                        <br>--}}
+{{--                        We are celebrating 25 years at MDU and we want YOU to be a part of it! We are looking for all dancers who have danced at MDU in years past whether you graduated with us or just joined us for a short time.  Please fill out this form to join our mailing list and be in the know about our upcoming celebrations.--}}
+                        Calling all MDU Alumni! We are looking for all dancers who have danced at MDU in years past whether you graduated with us or just joined us for a short time.
+                        <br><br>
+                        For current details on our 25th Anniversary Recital Alumni Dance please head over to the "<a
+                            href="/recital">Recital</a>" tab and click on Alumni Dance! Can't join us this year? Please fill out the form on this page to join our mailing list and be in the know about all future things MDU Alumni!
                     </p>
                 </div>
             </div>
