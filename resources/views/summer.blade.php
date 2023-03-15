@@ -1,6 +1,6 @@
 @extends('layouts.app-lava')
 
-@section('title', 'Summer 2021 | Misty\'s Dance Unlimited')
+@section('title', 'Summer | Misty\'s Dance Unlimited')
 
 @section('content')
 
