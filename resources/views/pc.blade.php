@@ -37,12 +37,18 @@
                 <button class="btn btn-danger btn-lg">Dates, Details, & Sign Up Form</button>
             </a>
         </div>
-        <div class="d-flex justify-content-center">
-            <img src="/images/pg-benefits.jpg" alt="benefits of pg" class="img-fluid">
+        <div class="row">
+            <div class="col-sm-7">
+                <div class="d-flex justify-content-center">
+                    <img src="/images/pg-benefits.jpg" alt="benefits of pg" class="img-fluid">
+                </div>
+            </div>
+            <div class="col-sm-5">
+                <div class="d-flex justify-content-center my-5">
+                    <img src="/images/23-audition-2.png" alt="pre-audition meeting dancers" style="max-width: 400px; height: auto;">
+                </div>
+            </div>
         </div>
-{{--        <div class="d-flex justify-content-center my-5">--}}
-{{--            <img src="/images/pre-audition-meeting.png" alt="pre-audition meeting dancers" style="max-width: 400px; height: auto;">--}}
-{{--        </div>--}}
 
     </div>
 </div>
