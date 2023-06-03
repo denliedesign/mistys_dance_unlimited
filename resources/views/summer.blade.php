@@ -28,7 +28,7 @@
             <h3 class="font-staat text-center" style="font-size: 100px; line-height: 0.9em;">Summer Calendar 2023</h3>
             <div class="text-center d-flex d-inline justify-content-center">
                 <div class="mx-2 px-2"><a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><button class="btn btn-danger btn-lg">Enroll Now!</button></a></div>
-{{--                <div class="mx-2 px-2"><a href="/images/mdu-summer-dress-code-2022.pdf" target="_blank"><button class="btn btn-danger btn-lg">Summer Dress Code</button></a></div>--}}
+                <div class="mx-2 px-2"><a href="/images/mdu-summer-dress-code-2023.pdf" target="_blank"><button class="btn btn-danger btn-lg">Summer Dress Code</button></a></div>
             </div>
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2">
                 <a href="/images/2023-summer-b.pdf"><img src="images/2023-summer-b_page-0002.jpg" alt="" class="img-thumbnail my-3"></a>
