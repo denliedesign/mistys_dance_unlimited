@@ -85,7 +85,7 @@
         </div>
 {{--        @endcan--}}
         <div class="d-flex justify-content-center mt-5">
-            <div>
+            <div class="mb-3">
                 <div>
                     <a href="/">
                         <img src="/images/mdu-logo.png" alt="" style="width: 275px;">
