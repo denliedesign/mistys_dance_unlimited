@@ -1,9 +1,16 @@
-@extends('layouts.vanilla')
+@extends('layouts.app-lava')
+
+@section('title', 'Login | Misty\'s Dance Unlimited')
 
 @section('content')
 
-    <div class="banner-wrap d-none d-md-block">
+    <div class="banner-wrap d-none d-md-block" style="position: relative;">
         <div class="banner"></div>
+        <div class="custom-shape-divider-bottom-1663856745">
+            <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
+                <path d="M598.97 114.72L0 0 0 120 1200 120 1200 0 598.97 114.72z" class="shape-fill"></path>
+            </svg>
+        </div>
     </div>
 
     <div class="bg-white py-5">
@@ -24,6 +31,24 @@
                     </div>
                 </div>
             </div>
+            <hr class="my-3">
+            <div class="row">
+                <div class="col-sm-2"></div>
+                <div class="col-sm">
+                    <div>
+                        <p class="text-center mt-3 mb-0 pb-0"><strong>Helpful Tips</strong></p>
+                        <ul class="mb-3 mt-0 pt-0">
+                            <li>If you have multiple dancers, just create one account.</li>
+                            <li>If you try to Register a new account and you receive a message in red that says "the email has already been taken", then use the Login option.</li>
+                            <li>If you forgot your password, click “forgot your password”, enter your email address, and click send password reset link.</li>
+                            <li>Level placements are only provided for the style (Ballet, Jazz, Tap) that you took.  If there is a 0 noted, that means your dancer did not participate in that style this past season.</li>
+                            <li>If you don’t see your dancer’s info, please try one of your other email addresses.</li>
+                        </ul>
+                    </div>
+                </div>
+                <div class="col-sm-2"></div>
+            </div>
+            <div class="my-3"></div>
             <div class="row justify-content-center">
                 <div class="col-md-8">
                     <div class="card">
@@ -91,21 +116,7 @@
                     </div>
                 </div>
             </div>
-            <div>
-                <p class="text-left mt-3">
-                    <strong>Helpful Tips</strong>
-                    <br>&middot; If you have multiple dancers, just create one account.
-                    <br>&middot; If you try to Register a new account and you receive a message in red that says "the email has already been taken", then use the Login option.
-                    <br>&middot; If you forgot your password, click “forgot your password”, enter your email address, and click send password reset link.
-                    <br>&middot; Level placements are only provided for the style (Ballet, Jazz, Tap) that you took.  If there is a 0 noted, that means your dancer did not participate in that style this past season.
-                    <br>&middot; If you don’t see your dancer’s info, please try one of your other email addresses.
-                </p>
-            </div>
         </div>
-    </div>
-
-    <div class="banner-wrap d-none d-md-block">
-        <div class="banner"></div>
     </div>
 
 @endsection
