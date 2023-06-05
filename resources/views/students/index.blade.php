@@ -92,7 +92,11 @@
                     </a>
                 </div>
                 <div class="d-flex justify-content-center">
-                    <a href="/" class="text-center">Home</a>
+                    <a href="/" class="text-center mx-3">Home</a>
+                    <div>&middot;</div>
+                    <a href="/summer" class="text-center mx-3">Summer</a>
+                    <div>&middot;</div>
+                    <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank" class="text-center mx-3">Register</a>
                 </div>
             </div>
         </div>
