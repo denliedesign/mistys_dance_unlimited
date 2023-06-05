@@ -115,9 +115,9 @@ Route::get('costume3', function () {
     return view('costume3');
 });
 
-Route::get('/recitals', function () {
-    return view('recitals.index');
-});
+//Route::get('/recitals', function () {
+//    return view('recitals.index');
+//});
 
 Route::get('pre-pro', function () {
     return view('pre-pro');
@@ -127,9 +127,9 @@ Route::get('summer', function () {
     return view('summer');
 });
 
-//Route::get('fall', function () {
-//    return view('fall-lava');
-//});
+Route::get('fall', function () {
+    return view('fall-lava');
+});
 
 Route::get('fall-studio', function () {
     return view('fall-studio');
@@ -388,10 +388,10 @@ Route::get('/alumni', function () {
     return view('/alumni-lava');
 });
 
-Route::get('recital', function () {
-    $hubs = (new App\Http\Controllers\HubController)->getHubs(); // assuming getHubs() is a static method in your HubController
-    return view('hubs.index', ['hubs' => $hubs]);
-});
+//Route::get('recital', function () {
+//    $hubs = (new App\Http\Controllers\HubController)->getHubs(); // assuming getHubs() is a static method in your HubController
+//    return view('hubs.index', ['hubs' => $hubs]);
+//});
 
 Route::get('frozen-friends', 'FrozenFriendsController@index')->name('frozen-friends');
 Route::post('frozen-friends', 'FrozenFriendsController@store')->name('frozen-friends.store');
@@ -404,16 +404,16 @@ Route::resource('promotions', 'PromotionController');
 Route::resource('articles', 'ArticleController');
 Route::resource('videos', 'VideoController');
 Route::resource('posts', 'PostController');
-Route::resource('recitals/generals', 'GeneralController');
-Route::resource('recitals/ads', 'AdController');
-Route::resource('recitals/handbooks', 'HandbookController');
-Route::resource('recitals/memories', 'MemoryController');
-Route::resource('recitals/performances', 'PerformanceController');
-Route::resource('recitals/rehearsals', 'RehearsalController');
-Route::resource('recitals/seniors', 'SeniorController');
-Route::resource('recitals/tickets', 'TicketController');
-Route::resource('recitals/photos', 'PhotoController');
-Route::resource('recitals/volunteers', 'VolunteerController');
+//Route::resource('recitals/generals', 'GeneralController');
+//Route::resource('recitals/ads', 'AdController');
+//Route::resource('recitals/handbooks', 'HandbookController');
+//Route::resource('recitals/memories', 'MemoryController');
+//Route::resource('recitals/performances', 'PerformanceController');
+//Route::resource('recitals/rehearsals', 'RehearsalController');
+//Route::resource('recitals/seniors', 'SeniorController');
+//Route::resource('recitals/tickets', 'TicketController');
+//Route::resource('recitals/photos', 'PhotoController');
+//Route::resource('recitals/volunteers', 'VolunteerController');
 Route::resource('students', 'StudentController');
 //Route::resource('contents', StudentController::class);
 Route::resource('updates', 'UpdateController');
