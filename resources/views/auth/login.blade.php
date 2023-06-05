@@ -23,7 +23,7 @@
                         <br>(If you created an account last year to view level placements)
                     </div>
                     <div class="col-sm mt-3">
-                        <strong>New Student</strong>
+                        <strong>New Students (1st time receiving level placement results)</strong>
                         <br>Register a new account with the main email from your studio account
                         <div class="d-flex justify-content-center">
                             <a href="/register" class="text-center text-decoration-none">Click here to <span class="text-danger fw-bold">Register</span></a>

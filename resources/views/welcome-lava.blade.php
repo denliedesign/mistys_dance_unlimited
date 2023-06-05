@@ -359,21 +359,21 @@
                 <div class="col-sm d-flex align-items-center font-staat text-white" style="font-size: 100px; transform: rotate(-90deg);">classes</div>
                 <div class="col-sm" style="position: relative;">
                     <img src="/images-lava/classes-1-2.jpg" alt="dancer posing" class="img-fluid">
-                    <a class="triangle-and-text" href="/summer#age-2-4">
+                    <a class="triangle-and-text" href="/fall#age-2-4">
                         <div id="triangle-bottomleft"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Age 1-2</div>
                     </a>
                 </div>
                 <div class="col-sm" style="position: relative;">
                     <img src="/images-lava/classes-3-4.jpg" alt="dancer posing" class="img-fluid">
-                    <a class="triangle-and-text" href="/summer#age-2-4">
+                    <a class="triangle-and-text" href="/fall#age-2-4">
                         <div id="triangle-bottomleft"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Age 3-4</div>
                     </a>
                 </div>
                 <div class="col-sm" style="position: relative;">
                     <img src="/images-lava/classes-5-6-resize.jpg" alt="dancer posing" class="img-fluid">
-                    <a class="triangle-and-text" href="/summer#age-k-1st">
+                    <a class="triangle-and-text" href="/fall#age-k-1st">
                         <div id="triangle-bottomleft"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Ages 5-6</div>
                     </a>
@@ -382,28 +382,28 @@
             <div class="mt-4 row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-4">
                 <div class="col-sm" style="position: relative; z-index: 3;">
                     <img src="/images-lava/classes-7-8.jpg" alt="dancer posing" class="img-fluid">
-                    <a class="triangle-and-text" href="/summer#age-2nd-3rd">
+                    <a class="triangle-and-text" href="/fall#age-2nd-3rd">
                         <div id="triangle-bottomleft"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Ages 7-8</div>
                     </a>
                 </div>
                 <div class="col-sm" style="position: relative; z-index: 3;">
                     <img src="/images-lava/classes-9-12.jpg" alt="dancer posing" class="img-fluid">
-                    <a class="triangle-and-text" href="/summer#age-graded">
+                    <a class="triangle-and-text" href="/fall#age-graded">
                         <div id="triangle-bottomleft"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Ages 9-12</div>
                     </a>
                 </div>
                 <div class="col-sm" style="position: relative; z-index: 3;">
                     <img src="/images-lava/classes-teens.jpg" alt="dancer posing" class="img-fluid">
-                    <a class="triangle-and-text" href="/summer#age-teen">
+                    <a class="triangle-and-text" href="/fall#age-teen">
                         <div id="triangle-bottomleft"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Teens</div>
                     </a>
                 </div>
                 <div class="col-sm" style="position: relative; z-index: 3;">
                     <img src="/images-lava/classes-guys.jpg" alt="dancer posing" class="img-fluid">
-                    <a class="triangle-and-text" href="/summer#age-guys">
+                    <a class="triangle-and-text" href="/fall#age-2nd-3rd">
                         <div id="triangle-bottomleft"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Guys Only</div>
                     </a>
@@ -423,49 +423,49 @@
             <div class="row row-cols-2 row-cols-sm-2 row-cols-md-2 row-cols-lg-4">
                 <div class="col-sm my-3" style="position: relative;">
                     <img src="/images-lava/classes-1-2.jpg" alt="dancer posing" class="img-fluid">
-                    <a class="triangle-and-text" href="/summer#age-2-4">
+                    <a class="triangle-and-text" href="/fall#age-2-4">
                         <div id="triangle-bottomleft-mobile"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Age 1-2</div>
                     </a>
                 </div>
                 <div class="col-sm my-3" style="position: relative;">
                     <img src="/images-lava/classes-3-4.jpg" alt="dancer posing" class="img-fluid">
-                    <a class="triangle-and-text" href="/summer#age-2-4">
+                    <a class="triangle-and-text" href="/fall#age-2-4">
                         <div id="triangle-bottomleft-mobile"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Age 3-4</div>
                     </a>
                 </div>
                 <div class="col-sm my-3" style="position: relative;">
                     <img src="/images-lava/classes-5-6-resize.jpg" alt="dancer posing" class="img-fluid">
-                    <a class="triangle-and-text" href="/summer#age-k-1st">
+                    <a class="triangle-and-text" href="/fall#age-k-1st">
                         <div id="triangle-bottomleft-mobile"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Ages 5-6</div>
                     </a>
                 </div>
                 <div class="col-sm my-3" style="position: relative; z-index: 3;">
                     <img src="/images-lava/classes-7-8.jpg" alt="dancer posing" class="img-fluid">
-                    <a class="triangle-and-text" href="/summer#age-2nd-3rd">
+                    <a class="triangle-and-text" href="/fall#age-2nd-3rd">
                         <div id="triangle-bottomleft-mobile"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Ages 7-8</div>
                     </a>
                 </div>
                 <div class="col-sm my-3" style="position: relative; z-index: 3;">
                     <img src="/images-lava/classes-9-12.jpg" alt="dancer posing" class="img-fluid">
-                    <a class="triangle-and-text" href="/summer#age-graded">
+                    <a class="triangle-and-text" href="/fall#age-graded">
                         <div id="triangle-bottomleft-mobile"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Ages 9-12</div>
                     </a>
                 </div>
                 <div class="col-sm my-3" style="position: relative; z-index: 3;">
                     <img src="/images-lava/classes-teens.jpg" alt="dancer posing" class="img-fluid">
-                    <a class="triangle-and-text" href="/summer#age-teen">
+                    <a class="triangle-and-text" href="/fall#age-teen">
                         <div id="triangle-bottomleft-mobile"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Teens</div>
                     </a>
                 </div>
                 <div class="col-sm my-3" style="position: relative; z-index: 3;">
                     <img src="/images-lava/classes-guys.jpg" alt="dancer posing" class="img-fluid">
-                    <a class="triangle-and-text" href="/summer#age-guys">
+                    <a class="triangle-and-text" href="/fall#age-2nd-3rd">
                         <div id="triangle-bottomleft-mobile"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Guys Only</div>
                     </a>

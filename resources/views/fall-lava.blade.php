@@ -21,7 +21,7 @@
 {{--                        <a href="/images-lava/dress-code-22-23.pdf" target="_blank"><button class="text-white btn btn-blue btn-lg btn-family">VIEW DRESS CODE</button></a>--}}
 {{--                    </div>--}}
                     <div class="m-2 px-2">
-                        <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><button class="text-white btn btn-pink btn-lg btn-family">REGISTER HERE</button></a>
+                        <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><button class="text-white btn btn-pink btn-lg btn-family">REGISTER HERE ON SAT JUNE 10</button></a>
                     </div>
                 </div>
                 <div class="col-sm">
