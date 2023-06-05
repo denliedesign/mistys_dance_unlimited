@@ -31,8 +31,8 @@
                 <div class="mx-2 px-2"><a href="/images/mdu-summer-dress-code-2023.pdf" target="_blank"><button class="btn btn-danger btn-lg">Summer Dress Code</button></a></div>
             </div>
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2">
-                <a href="/images/2023-summer-b.pdf"><img src="images/2023-summer-b_page-0002.jpg" alt="" class="img-thumbnail my-3"></a>
-                <a href="/images/2023-summer-b.pdf"><img src="images/2023-summer-b_page-0003.jpg" alt="" class="img-thumbnail my-3"></a>
+{{--                <a href="/images/2023-summer-b.pdf"><img src="images/2023-summer-b_page-0002.jpg" alt="" class="img-thumbnail my-3"></a>--}}
+{{--                <a href="/images/2023-summer-b.pdf"><img src="images/2023-summer-b_page-0003.jpg" alt="" class="img-thumbnail my-3"></a>--}}
                 <a href="/images/2023-summer-b.pdf"><img src="images/2023-summer-b_page-0004.jpg" alt="" class="img-thumbnail my-3"></a>
                 <a href="/images/2023-summer-b.pdf"><img src="images/2023-summer-b_page-0005.jpg" alt="" class="img-thumbnail my-3"></a>
                 <a href="/images/2023-summer-b.pdf"><img src="images/2023-summer-b_page-0006.jpg" alt="" class="img-thumbnail my-3"></a>
