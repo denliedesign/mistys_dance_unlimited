@@ -33,17 +33,17 @@
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-2">
 {{--                <a href="/images/2023-summer-b.pdf"><img src="images/2023-summer-b_page-0002.jpg" alt="" class="img-thumbnail my-3"></a>--}}
 {{--                <a href="/images/2023-summer-b.pdf"><img src="images/2023-summer-b_page-0003.jpg" alt="" class="img-thumbnail my-3"></a>--}}
-                <a href="/images/2023-summer-b.pdf"><img src="images/2023-summer-b_page-0004.jpg" alt="" class="img-thumbnail my-3"></a>
-                <a href="/images/2023-summer-b.pdf"><img src="images/2023-summer-b_page-0005.jpg" alt="" class="img-thumbnail my-3"></a>
-                <a href="/images/2023-summer-b.pdf"><img src="images/2023-summer-b_page-0006.jpg" alt="" class="img-thumbnail my-3"></a>
-                <a href="/images/2023-summer-b.pdf"><img src="images/2023-summer-b_page-0007.jpg" alt="" class="img-thumbnail my-3"></a>
-                <a href="/images/2023-summer-b.pdf"><img src="images/2023-summer-b_page-0008.jpg" alt="" class="img-thumbnail my-3"></a>
-                <a href="/images/2023-summer-b.pdf"><img src="images/2023-summer-b_page-0009.jpg" alt="" class="img-thumbnail my-3"></a>
-                <a href="/images/2023-summer-b.pdf"><img src="images/2023-summer-b_page-0010.jpg" alt="" class="img-thumbnail my-3"></a>
-                <a href="/images/2023-summer-b.pdf"><img src="images/2023-summer-b_page-0011.jpg" alt="" class="img-thumbnail my-3"></a>
-                <a href="/images/2023-summer-b.pdf"><img src="images/2023-summer-b_page-0012.jpg" alt="" class="img-thumbnail my-3"></a>
-                <a href="/images/2023-summer-b.pdf"><img src="images/2023-summer-b_page-0013.jpg" alt="" class="img-thumbnail my-3"></a>
-                <a href="/images/2023-summer-b.pdf"><img src="images/2023-summer-b_page-0014.jpg" alt="" class="img-thumbnail my-3"></a>
+                <a href="/images/2023-summer-b.pdf" target="_blank"><img src="images/2023-summer-b_page-0004.jpg" alt="" class="img-thumbnail my-3"></a>
+                <a href="/images/2023-summer-b.pdf" target="_blank"><img src="images/2023-summer-b_page-0005.jpg" alt="" class="img-thumbnail my-3"></a>
+                <a href="/images/2023-summer-b.pdf" target="_blank"><img src="images/2023-summer-b_page-0006.jpg" alt="" class="img-thumbnail my-3"></a>
+                <a href="/images/2023-summer-b.pdf" target="_blank"><img src="images/2023-summer-b_page-0007.jpg" alt="" class="img-thumbnail my-3"></a>
+                <a href="/images/2023-summer-b.pdf" target="_blank"><img src="images/2023-summer-b_page-0008.jpg" alt="" class="img-thumbnail my-3"></a>
+                <a href="/images/2023-summer-b.pdf" target="_blank"><img src="images/2023-summer-b_page-0009.jpg" alt="" class="img-thumbnail my-3"></a>
+                <a href="/images/2023-summer-b.pdf" target="_blank"><img src="images/2023-summer-b_page-0010.jpg" alt="" class="img-thumbnail my-3"></a>
+                <a href="/images/2023-summer-b.pdf" target="_blank"><img src="images/2023-summer-b_page-0011.jpg" alt="" class="img-thumbnail my-3"></a>
+                <a href="/images/2023-summer-b.pdf" target="_blank"><img src="images/2023-summer-b_page-0012.jpg" alt="" class="img-thumbnail my-3"></a>
+                <a href="/images/2023-summer-b.pdf" target="_blank"><img src="images/2023-summer-b_page-0013.jpg" alt="" class="img-thumbnail my-3"></a>
+                <a href="/images/2023-summer-b.pdf" target="_blank"><img src="images/2023-summer-b_page-0014.jpg" alt="" class="img-thumbnail my-3"></a>
             </div>
             <div class="text-center">
                 <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><button class="btn btn-danger btn-lg">Enroll Now!</button></a>
