@@ -27,7 +27,8 @@
                 <div class="col-sm">
                     <h3 class="font-staat" style="font-size: 100px; line-height: 0.9em;">2023-24 Class Schedule</h3>
                     <p class="font-syne" style="font-size: 22px;">
-                        Online Enrollment has begun! Join the fun – YOU belong HERE!
+{{--                        Online Enrollment has begun! Join the fun – YOU belong HERE!--}}
+                        Online enrollment begins Saturday, June 10th. Join the fun - YOU belong HERE!
                     </p>
                 </div>
             </div>
