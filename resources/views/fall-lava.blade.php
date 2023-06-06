@@ -15,7 +15,7 @@
             <div class="row d-flex align-items-center">
                 <div class="col-sm text-center">
                     <div class="m-2 px-2">
-                        <a href="/images/mdu-fall-schedule-23.pdf" target="_blank"><button class="btn btn-green btn-lg btn-family">VIEW CLASS SCHEDULE PDF</button></a>
+                        <a href="/images/mdu-fall-schedule-23-b.pdf" target="_blank"><button class="btn btn-green btn-lg btn-family">VIEW CLASS SCHEDULE PDF</button></a>
                     </div>
 {{--                    <div class="m-2 px-2">--}}
 {{--                        <a href="/images-lava/dress-code-22-23.pdf" target="_blank"><button class="text-white btn btn-blue btn-lg btn-family">VIEW DRESS CODE</button></a>--}}
@@ -33,18 +33,18 @@
                 </div>
             </div>
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-2">
-                <img src="/images/mdu-fall-schedule-23_page-0001.jpg" alt="fall schedule" class="img-fluid p-1">
-                <img src="/images/mdu-fall-schedule-23_page-0002.jpg" alt="fall schedule" class="img-fluid p-1">
-                <img src="/images/mdu-fall-schedule-23_page-0003.jpg" alt="fall schedule" class="img-fluid p-1" id="age-2-4">
-                <img src="/images/mdu-fall-schedule-23_page-0004.jpg" alt="fall schedule" class="img-fluid p-1" id="age-k-1st">
-                <img src="/images/mdu-fall-schedule-23_page-0005.jpg" alt="fall schedule" class="img-fluid p-1" id="age-2nd-3rd">
-                <img src="/images/mdu-fall-schedule-23_page-0006.jpg" alt="fall schedule" class="img-fluid p-1" id="age-graded">
-                <img src="/images/mdu-fall-schedule-23_page-0007.jpg" alt="fall schedule" class="img-fluid p-1" id="age-teen">
-                <img src="/images/mdu-fall-schedule-23_page-0008.jpg" alt="fall schedule" class="img-fluid p-1">
-                <img src="/images/mdu-fall-schedule-23_page-0009.jpg" alt="fall schedule" class="img-fluid p-1" id="age-guys">
-                <img src="/images/mdu-fall-schedule-23_page-0010.jpg" alt="fall schedule" class="img-fluid p-1">
-                <img src="/images/mdu-fall-schedule-23_page-0011.jpg" alt="fall schedule" class="img-fluid p-1">
-                <img src="/images/mdu-fall-schedule-23_page-0012.jpg" alt="fall schedule" class="img-fluid p-1">
+                <img src="/images/mdu-fall-schedule-23-b_page-0001.jpg" alt="fall schedule" class="img-fluid p-1">
+                <img src="/images/mdu-fall-schedule-23-b_page-0002.jpg" alt="fall schedule" class="img-fluid p-1">
+                <img src="/images/mdu-fall-schedule-23-b_page-0003.jpg" alt="fall schedule" class="img-fluid p-1" id="age-2-4">
+                <img src="/images/mdu-fall-schedule-23-b_page-0004.jpg" alt="fall schedule" class="img-fluid p-1" id="age-k-1st">
+                <img src="/images/mdu-fall-schedule-23-b_page-0005.jpg" alt="fall schedule" class="img-fluid p-1" id="age-2nd-3rd">
+                <img src="/images/mdu-fall-schedule-23-b_page-0006.jpg" alt="fall schedule" class="img-fluid p-1" id="age-graded">
+                <img src="/images/mdu-fall-schedule-23-b_page-0007.jpg" alt="fall schedule" class="img-fluid p-1" id="age-teen">
+                <img src="/images/mdu-fall-schedule-23-b_page-0008.jpg" alt="fall schedule" class="img-fluid p-1">
+                <img src="/images/mdu-fall-schedule-23-b_page-0009.jpg" alt="fall schedule" class="img-fluid p-1" id="age-guys">
+                <img src="/images/mdu-fall-schedule-23-b_page-0010.jpg" alt="fall schedule" class="img-fluid p-1">
+                <img src="/images/mdu-fall-schedule-23-b_page-0011.jpg" alt="fall schedule" class="img-fluid p-1">
+                <img src="/images/mdu-fall-schedule-23-b_page-0012.jpg" alt="fall schedule" class="img-fluid p-1">
             </div>
         </div>
     </div>
