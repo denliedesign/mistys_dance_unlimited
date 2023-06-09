@@ -82,7 +82,7 @@
                                 </li>
                                                                     @guest
                                                                         <li class="list-group-item px-0 border-0">
-                                                                            <a class="text-decoration-none txt-blue" href="{{ route('login') }}">{{ __('Login') }}</a>
+                                                                            <a class="text-decoration-none txt-blue" href="{{ route('login') }}">{{ __('Login for Level Placements') }}</a>
                                                                         </li>
                                                                     @else
                                                                         <li class="list-group-item px-0 border-0 dropdown">
