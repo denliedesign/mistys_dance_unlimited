@@ -106,16 +106,18 @@
 {{--                    <span style="color: transparent;">keepi</span>--}}
                     keeping your dancer<br>
                     <a data-bs-toggle="offcanvas" href="#offcanvasHappy" role="button" style="color: inherit;">happy</a>,
-                    <a data-bs-toggle="offcanvas" href="#offcanvasHealthy" role="button" style="color: inherit;">healthy</a>, and
-                    <a data-bs-toggle="offcanvas" href="#offcanvasSafe" role="button" style="color: inherit;">safe</a>
+                    <a data-bs-toggle="offcanvas" href="#offcanvasHealthy" role="button" style="color: inherit;">healthy</a>,
+                    <a data-bs-toggle="offcanvas" href="#offcanvasSafe" role="button" style="color: inherit;">safe</a>, &
+                    <a data-bs-toggle="offcanvas" href="#offcanvasLoved" role="button" style="color: inherit;">loved</a>
                 </h3>
                 <div>
                     <img src="/images-lava/happy-healthy-safe.png" alt="female contemporary dancer" class="img-fluid" id="happy-healthy-safe-image">
                 </div>
                 <h3 class="apple-effect font-staat text-lowercase text-center" style="font-size: 100px; position: absolute; top: 36%; left: 50%; transform: translate(-50%, -50%); width: 100%; color: #D90036; z-index: 1 !important; line-height: 0.9;">keeping your dancer<br>
                     <a data-bs-toggle="offcanvas" href="#offcanvasHappy" role="button" style="color: inherit;">happy</a>,
-                    <a data-bs-toggle="offcanvas" href="#offcanvasHealthy" role="button" style="color: inherit;">healthy</a>, and
-                    <a data-bs-toggle="offcanvas" href="#offcanvasSafe" role="button" style="color: inherit;">safe</a>
+                    <a data-bs-toggle="offcanvas" href="#offcanvasHealthy" role="button" style="color: inherit;">healthy</a>,
+                    <a data-bs-toggle="offcanvas" href="#offcanvasSafe" role="button" style="color: inherit;">safe</a>, &
+                    <a data-bs-toggle="offcanvas" href="#offcanvasLoved" role="button" style="color: inherit;">loved</a>
                 </h3>
             </div>
         </div>
@@ -129,16 +131,18 @@
                     keeping your dancer<br>
                     <a data-bs-toggle="offcanvas" href="#offcanvasHappy" role="button" style="color: inherit;">happy</a>,
                     {{--                        <span style="color: transparent;">happy</span></a>--}}
-                    <a data-bs-toggle="offcanvas" href="#offcanvasHealthy" role="button" style="color: inherit;">healthy</a>, and
-                    <a data-bs-toggle="offcanvas" href="#offcanvasSafe" role="button" style="color: inherit;">safe</a>
+                    <a data-bs-toggle="offcanvas" href="#offcanvasHealthy" role="button" style="color: inherit;">healthy</a>,
+                    <a data-bs-toggle="offcanvas" href="#offcanvasSafe" role="button" style="color: inherit;">safe</a>, and
+                    <a data-bs-toggle="offcanvas" href="#offcanvasLoved" role="button" style="color: inherit;">loved</a>
                 </h3>
                 <div>
                     <img src="/images-lava/happy-healthy-safe.png" alt="female contemporary dancer" class="img-fluid" id="happy-healthy-safe-mobile">
                 </div>
                 <h3 class="apple-effect font-staat text-lowercase text-center" style="font-size: 100px; position: absolute; top: 36%; left: 50%; transform: translate(-50%, -50%); width: 100%; color: #D90036; z-index: 1 !important; line-height: 0.9;">keeping your dancer<br>
                     <a data-bs-toggle="offcanvas" href="#offcanvasHappy" role="button" style="color: inherit;">happy</a>,
-                    <a data-bs-toggle="offcanvas" href="#offcanvasHealthy" role="button" style="color: inherit;">healthy</a>, and
-                    <a data-bs-toggle="offcanvas" href="#offcanvasSafe" role="button" style="color: inherit;">safe</a>
+                    <a data-bs-toggle="offcanvas" href="#offcanvasHealthy" role="button" style="color: inherit;">healthy</a>,
+                    <a data-bs-toggle="offcanvas" href="#offcanvasSafe" role="button" style="color: inherit;">safe</a>, and
+                    <a data-bs-toggle="offcanvas" href="#offcanvasLoved" role="button" style="color: inherit;">loved</a>
                 </h3>
             </div>
         </div>
@@ -176,7 +180,7 @@
             </div>
             <p class="text-center font-syne mx-4">
                 <strong>What does that mean?</strong>
-                <br>MTJGD is a licensed affiliation of dance studios that subscribe to a high standard of dance instruction and management practices. We are united in the belief that dance has the power to change lives.
+                <br>MTJGD is an affiliation of dance studios that subscribe to a high standard of dance instruction and management practices. We are united in the belief that dance has the power to change lives.
             </p>
         </div>
     </div>
@@ -190,7 +194,15 @@
             </div>
             <p class="text-center font-syne mx-4">
                 <strong>What does that mean?</strong>
-                <br>To earn the designation, studios must complete training in CPR, First Aid, dance education and safety injury prevention, emergency preparedness, abuse awareness and prevention, dancer wellness and development, social media safety, nutrition and disordered eating, bullying and conflict resolution.
+                <br>Hiring Best Practices
+                <br>Onboarding & Training
+                <br>Studio Safety
+                <br>Abuse Protection
+                <br>Healthy Bodies
+                <br>Healthy Minds
+                <br>Social Media & Communications
+                <br>Artistic Integrity
+{{--                <br>To earn the designation, studios must complete training in CPR, First Aid, dance education and safety injury prevention, emergency preparedness, abuse awareness and prevention, dancer wellness and development, social media safety, nutrition and disordered eating, bullying and conflict resolution.--}}
             </p>
         </div>
     </div>
@@ -204,13 +216,34 @@
             </div>
             <p class="text-center font-syne mx-4">
                 <strong>What does that mean?</strong>
-                <br>Wellness Checks For Staff
+                <br>Health & Symptom Awareness
                 <br>Enhanced Cleaning Procedures
-                <br>Social Distancing Practices
-                <br>Touch-less Payment Options
-                <br>Gradual Re-Opening
+                <br>Classroom Management Practices
+                <br>Touchless Payment Options
                 <br>Continuous Communication
+{{--                <br>Wellness Checks For Staff--}}
+{{--                <br>Enhanced Cleaning Procedures--}}
+{{--                <br>Social Distancing Practices--}}
+{{--                <br>Touch-less Payment Options--}}
+{{--                <br>Gradual Re-Opening--}}
+{{--                <br>Continuous Communication--}}
             </p>
+        </div>
+    </div>
+        <div class="offcanvas offcanvas-start" tabindex="-1" id="offcanvasLoved">
+            <div class="offcanvas-header d-flex justify-content-end">
+                <button type="button" class="btn-close text-reset" data-bs-dismiss="offcanvas" aria-label="Close"></button>
+            </div>
+            <div class="offcanvas-body" style="font-size: 22px;">
+                <div class="d-flex justify-content-center">
+                    <img src="/images/logo-luv.png" alt="luv michael logo" style="height: 180px; width: auto;">
+                </div>
+                <p class="text-center font-syne mx-4">
+                    <strong>What does that mean?</strong>
+                    <br>
+                    Luv Michael is a Non Profit 501c3 dedicated to training, educating, and employing autistic adults and improving the lives of the autistic community beyond the lives of their parents.
+                </p>
+            </div>
         </div>
     </div>
 
