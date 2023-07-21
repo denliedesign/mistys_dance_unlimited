@@ -346,6 +346,10 @@
 
 
             </div>
+            <p class="font-syne text-white mt-5 text-center">
+                <span class="txt-yellow" style="font-size: 1.4em;">Meet our new instructors for 2023-2024. Head shots and biographies coming soon!</span><br>
+                Ashlin Bowyer, Bailey Hoffman, Kyra Moore, Lizzie Mead, Tabitha Meyer.
+            </p>
         </div>
         <div style="height: 300px;"></div>
         <div class="custom-shape-divider-bottom-1648524823" style="transform: translateY(1px);">
