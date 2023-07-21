@@ -615,7 +615,11 @@
             <div class="row" style="width: 100%; height: 100%; z-index: 1; position: relative;">
                 <div class="col-sm d-flex justify-content-center align-items-center">
                     <div class="text-center">
-                        <div class="fw-bold" style="font-size: 2em;">FIND JOY IN MOVING</div>
+                        <div class="fw-bold" style="font-size: 4em;">
+                            <span style="font-family: 'Pacifico', cursive;">
+                            Find joy in moving
+                            </span>
+                        </div>
 {{--                        <div class="txt-crimson" style="font-size: 1.5em;">Try your <u>FREE</u> trial class today.</div>--}}
                     </div>
                 </div>
