@@ -21,14 +21,14 @@
 {{--                        <a href="/images-lava/dress-code-22-23.pdf" target="_blank"><button class="text-white btn btn-blue btn-lg btn-family">VIEW DRESS CODE</button></a>--}}
 {{--                    </div>--}}
                     <div class="m-2 px-2">
-                        <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><button class="text-white btn btn-pink btn-lg btn-family">REGISTER HERE ON SAT JUNE 10</button></a>
+                        <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><button class="text-white btn btn-pink btn-lg btn-family">REGISTER NOW</button></a>
                     </div>
                 </div>
                 <div class="col-sm">
                     <h3 class="font-staat" style="font-size: 100px; line-height: 0.9em;">2023-24 Class Schedule</h3>
                     <p class="font-syne" style="font-size: 22px;">
 {{--                        Online Enrollment has begun! Join the fun – YOU belong HERE!--}}
-                        Online enrollment begins Saturday, June 10th. Join the fun - YOU belong HERE!
+{{--                        Online enrollment begins Saturday, June 10th. Join the fun - YOU belong HERE!--}}
                     </p>
                 </div>
             </div>

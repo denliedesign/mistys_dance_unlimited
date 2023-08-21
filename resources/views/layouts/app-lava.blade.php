@@ -11,7 +11,7 @@
     <meta name="description" content="@yield('description', 'From your child’s first class to their graduation performance. MDU has a class for everyone!')">
     <script src="https://cdn.tiny.cloud/1/no-api-key/tinymce/5/tinymce.min.js" referrerpolicy="origin"></script>
 
-    <title>@yield('title', 'Misty\'s Dance Unlimited | Onalaska, WI')</title>
+    <title>@yield('title', 'Misty\'s Dance Unlimited | Onalaska, Holmen, & La Crosse, WI')</title>
 
     <!-- Fonts -->
     <style>

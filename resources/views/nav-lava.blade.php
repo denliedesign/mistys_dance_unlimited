@@ -33,9 +33,9 @@
                 <li class="nav-item mx-2">
                     <a class="nav-link" href="/aboutus">ABOUT US</a>
                 </li>
-                                <li class="nav-item mx-2">
-                                    <a class="nav-link" href="/summer">SUMMER</a>
-                                </li>
+{{--                                <li class="nav-item mx-2">--}}
+{{--                                    <a class="nav-link" href="/summer">SUMMER</a>--}}
+{{--                                </li>--}}
                 <li class="nav-item mx-2">
                     <a class="nav-link" href="/fall">FALL</a>
                 </li>
@@ -64,7 +64,7 @@
                     <a class="nav-link" href="/alumni">ALUMNI</a>
                 </li>
                 <li class="nav-item mx-2">
-                    <a href="/summer" class="nav-link">
+                    <a href="/fall" class="nav-link">
                         <div class="btn btn-danger shadow">Find Your Class</div>
                     </a>
                 </li>

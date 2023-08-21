@@ -123,9 +123,9 @@ Route::get('pre-pro', function () {
     return view('pre-pro');
 });
 
-Route::get('summer', function () {
-    return view('summer');
-});
+//Route::get('summer', function () {
+//    return view('summer');
+//});
 
 Route::get('fall', function () {
     return view('fall-lava');
@@ -386,6 +386,10 @@ Route::get('/classes', function () {
 
 Route::get('/alumni', function () {
     return view('/alumni-lava');
+});
+
+Route::get('/dance-studios-in-la-crosse-wi', function () {
+    return view('/dance-studios-in-la-crosse-wi');
 });
 
 //Route::get('recital', function () {

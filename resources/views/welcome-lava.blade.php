@@ -9,7 +9,7 @@
                 <br>
                 <span style="font-size: 0.5em; font-weight: normal; text-shadow: 1px 2px 4px black;" class="txt-crimson">Your child will fall in love with dance with our classes for ages 2-18!</span>
                 <br>
-                <a href="/summer"><div class="shadow btn btn-lg btn-danger">Find Your Class</div></a>
+                <a href="/fall"><div class="shadow btn btn-lg btn-danger">Find Your Class</div></a>
             </h2>
         </div>
         <img src="/images-lava/dance-makes-great-kids.jpg" alt="" class="img-fluid" style="z-index: 0; width: 100%;">
@@ -23,7 +23,7 @@
                 <small class="txt-crimson font-syne">Your child will fall in love with dance with our classes for ages 2-18!</small>
                 <br>
             <div class="d-flex justify-content-center">
-                <a href="/summer"><div class="shadow btn btn-lg btn-danger">Find Your Class</div></a>
+                <a href="/fall"><div class="shadow btn btn-lg btn-danger">Find Your Class</div></a>
             </div>
             </p>
         </div>
@@ -361,6 +361,7 @@
     <div class="bg-red text-white py-5" style="position: relative;">
         <div class="container">
             <h2 class="fw-bold text-center" style="font-size: 2.75em;">25 Years of Serving the Coulee Region</h2>
+            <p class="text-center">We provide dance classes for La Crosse, Onalaska, & Holmen families</p>
             <div class="row" style="font-size: 1.5em;">
                 <div class="col-sm text-center d-flex align-items-center justify-content-center" style="border-right: 1px solid white;"><p class="py-5"><span class="fw-bold" style="font-size: 1.75em;"><ion-icon name="home"></ion-icon><br>2</span><br> convenient locations in Holmen & Onalaska</p></div>
                 <div class="d-md-none"><hr></div>
@@ -896,7 +897,7 @@
             <h2 class="fw-bold text-center text-white" style="font-size: 2.75em;">Our Guarantee</h2>
             <p class="text-center txt-crimson" style="font-size: 1.75em;">You'll love your experience or we'll work with you to make it right!</p>
             <div class="d-flex justify-content-center">
-                <a href="/summer"><div class="btn btn-lg btn-flip-danger shadow mx-4 text-white">Find Your Class</div></a>
+                <a href="/fall"><div class="btn btn-lg btn-flip-danger shadow mx-4 text-white">Find Your Class</div></a>
                 <a href="mailto:mistysdance@gmail.com?subject=Schedule A Call"><div class="btn btn-lg btn-flip-danger shadow mx-4 text-white">Schedule A Call</div></a>
             </div>
         </div>
