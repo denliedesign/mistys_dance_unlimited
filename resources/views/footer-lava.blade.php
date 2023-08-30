@@ -109,7 +109,7 @@
 </div>
 <p id="credit" class="bg-dark text-center pb-3 m-0 font-syne">
     <a class="text-decoration-none" href="https://denliedesign.com/" target="_blank"><small class="text-muted">Dance Website Design by Denlie Design</small></a>
-    &nbsp; &middot; &nbsp;
-    <a class="text-decoration-none" href="/dance-studios-in-la-crosse-wi"><small class="text-muted">Dance Studios in La Crosse WI</small></a>
+    &nbsp; &middot; &nbsp; <a class="text-decoration-none" href="/dance-studios-in-la-crosse-wi"><small class="text-muted">Dance Studios in La Crosse WI</small></a>
+    &nbsp; &middot; &nbsp; <a class="text-decoration-none" href="/dance-studios-in-west-salem-wi"><small class="text-muted">Dance Studios in West Salem WI</small></a>
 </p>
 <div id="bottom"></div>
