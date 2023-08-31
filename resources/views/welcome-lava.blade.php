@@ -621,7 +621,7 @@
                             Find joy in moving
                             </span>
                         </div>
-{{--                        <div class="txt-crimson" style="font-size: 1.5em;">Try your <u>FREE</u> trial class today.</div>--}}
+                        <div class="txt-crimson" style="font-size: 1.5em;">Try your <a href="https://forms.gle/Nh8nC84wRLeA3ha2A" target="_blank"><div class="btn btn-lg btn-flip-danger fw-bold shadow text-white"><u>FREE</u> trial class</div></a> today.</div>
                     </div>
                 </div>
                 <div class="col-sm d-flex justify-content-center align-items-center">
