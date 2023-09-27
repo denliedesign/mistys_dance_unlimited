@@ -396,6 +396,10 @@ Route::get('dance-studios-in-west-salem-wi', function () {
     return view('dance-studios-in-west-salem-wi');
 });
 
+Route::get('west-salem-dance', function () {
+    return view('west-salem-dance');
+});
+
 //Route::get('recital', function () {
 //    $hubs = (new App\Http\Controllers\HubController)->getHubs(); // assuming getHubs() is a static method in your HubController
 //    return view('hubs.index', ['hubs' => $hubs]);
