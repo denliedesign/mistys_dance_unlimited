@@ -400,6 +400,25 @@ Route::get('west-salem-dance', function () {
     return view('west-salem-dance');
 });
 
+Route::get('la-crosse-dance-team', function () {
+    return view('la-crosse-dance-team');
+});
+Route::get('onalaska-dance-team', function () {
+    return view('onalaska-dance-team');
+});
+Route::get('holmen-dance-team', function () {
+    return view('holmen-dance-team');
+});
+Route::get('west-salem-dance-team', function () {
+    return view('west-salem-dance-team');
+});
+Route::get('tomah-dance-team', function () {
+    return view('tomah-dance-team');
+});
+Route::get('get-dance-team', function () {
+    return view('get-dance-team');
+});
+
 //Route::get('recital', function () {
 //    $hubs = (new App\Http\Controllers\HubController)->getHubs(); // assuming getHubs() is a static method in your HubController
 //    return view('hubs.index', ['hubs' => $hubs]);

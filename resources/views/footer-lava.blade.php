@@ -107,10 +107,16 @@
 <div id="bottom" class="bg-dark text-white-50 text-center pt-3 font-syne">
     © 2023 Misty's Dance Unlimited
 </div>
-<p id="credit" class="bg-dark text-center pb-3 m-0 font-syne text-muted">
-    <a class="text-decoration-none" href="https://denliedesign.com/" target="_blank"><small class="text-muted">Dance Website Design by Denlie Design</small></a>
-    &nbsp; &middot; &nbsp; <a class="text-decoration-none" href="/dance-studios-in-la-crosse-wi"><small class="text-muted">Dance Studios in La Crosse WI</small></a>
+<p id="credit" class="bg-dark text-center pb-3 m-0 font-syne text-muted px-4">
+    <a class="text-decoration-none" href="https://denliedesign.com/" target="_blank"><small class="text-muted">Dance Website Design by Denlie Design</small></a><br>
+    <a class="text-decoration-none" href="/dance-studios-in-la-crosse-wi"><small class="text-muted">Dance Studios in La Crosse WI</small></a>
     &nbsp; &middot; &nbsp; <a class="text-decoration-none" href="/west-salem-dance"><small class="text-muted">West Salem Dance</small></a>
     &nbsp; &middot; &nbsp; <a class="text-decoration-none" href="/dance-studios-in-west-salem-wi"><small class="text-muted">Dance Studios in West Salem WI</small></a>
+    &nbsp; &middot; &nbsp; <a class="text-decoration-none" href="/la-crosse-dance-team"><small class="text-muted">La Crosse Dance Team</small></a>
+    &nbsp; &middot; &nbsp; <a class="text-decoration-none" href="/onalaska-dance-team"><small class="text-muted">Onalaska Dance Team</small></a>
+    &nbsp; &middot; &nbsp; <a class="text-decoration-none" href="/holmen-dance-team"><small class="text-muted">Holmen Dance Team</small></a>
+    &nbsp; &middot; &nbsp; <a class="text-decoration-none" href="/west-salem-dance-team"><small class="text-muted">West Salem Dance Team</small></a>
+    &nbsp; &middot; &nbsp; <a class="text-decoration-none" href="/tomah-dance-team"><small class="text-muted">Tomah Dance Team</small></a>
+    &nbsp; &middot; &nbsp; <a class="text-decoration-none" href="/get-dance-team"><small class="text-muted">G-E-T Dance Team</small></a>
 </p>
 <div id="bottom"></div>
