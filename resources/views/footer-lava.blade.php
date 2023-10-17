@@ -112,11 +112,6 @@
     <a class="text-decoration-none" href="/dance-studios-in-la-crosse-wi"><small class="text-muted">Dance Studios in La Crosse WI</small></a>
     &nbsp; &middot; &nbsp; <a class="text-decoration-none" href="/west-salem-dance"><small class="text-muted">West Salem Dance</small></a>
     &nbsp; &middot; &nbsp; <a class="text-decoration-none" href="/dance-studios-in-west-salem-wi"><small class="text-muted">Dance Studios in West Salem WI</small></a>
-    &nbsp; &middot; &nbsp; <a class="text-decoration-none" href="/la-crosse-dance-team"><small class="text-muted">La Crosse Dance Team</small></a>
-    &nbsp; &middot; &nbsp; <a class="text-decoration-none" href="/onalaska-dance-team"><small class="text-muted">Onalaska Dance Team</small></a>
-    &nbsp; &middot; &nbsp; <a class="text-decoration-none" href="/holmen-dance-team"><small class="text-muted">Holmen Dance Team</small></a>
-    &nbsp; &middot; &nbsp; <a class="text-decoration-none" href="/west-salem-dance-team"><small class="text-muted">West Salem Dance Team</small></a>
-    &nbsp; &middot; &nbsp; <a class="text-decoration-none" href="/tomah-dance-team"><small class="text-muted">Tomah Dance Team</small></a>
-    &nbsp; &middot; &nbsp; <a class="text-decoration-none" href="/get-dance-team"><small class="text-muted">G-E-T Dance Team</small></a>
+    &nbsp; &middot; &nbsp; <a class="text-decoration-none" href="/dance-team"><small class="text-muted">Dance Team</small></a>
 </p>
 <div id="bottom"></div>

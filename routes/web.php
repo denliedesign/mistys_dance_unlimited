@@ -418,6 +418,9 @@ Route::get('tomah-dance-team', function () {
 Route::get('get-dance-team', function () {
     return view('get-dance-team');
 });
+Route::get('dance-team', function () {
+    return view('dance-team');
+});
 
 //Route::get('recital', function () {
 //    $hubs = (new App\Http\Controllers\HubController)->getHubs(); // assuming getHubs() is a static method in your HubController
