@@ -110,6 +110,7 @@
 <p id="credit" class="bg-dark text-center pb-3 m-0 font-syne text-muted px-4">
     <a class="text-decoration-none" href="https://denliedesign.com/" target="_blank"><small class="text-muted">Dance Website Design by Denlie Design</small></a><br>
     <a class="text-decoration-none" href="/dance-studios-in-la-crosse-wi"><small class="text-muted">Dance Studios in La Crosse WI</small></a>
+    &nbsp; &middot; &nbsp; <a class="text-decoration-none" href="/dance-classes-in-la-crosse-wi"><small class="text-muted">Dance Classes in La Crosse WI</small></a>
     &nbsp; &middot; &nbsp; <a class="text-decoration-none" href="/west-salem-dance"><small class="text-muted">West Salem Dance</small></a>
     &nbsp; &middot; &nbsp; <a class="text-decoration-none" href="/dance-studios-in-west-salem-wi"><small class="text-muted">Dance Studios in West Salem WI</small></a>
     &nbsp; &middot; &nbsp; <a class="text-decoration-none" href="/dance-team"><small class="text-muted">Dance Team</small></a>

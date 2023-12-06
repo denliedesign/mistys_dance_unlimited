@@ -391,6 +391,9 @@ Route::get('/alumni', function () {
 Route::get('/dance-studios-in-la-crosse-wi', function () {
     return view('/dance-studios-in-la-crosse-wi');
 });
+Route::get('/dance-classes-in-la-crosse-wi', function () {
+    return view('/dance-classes-in-la-crosse-wi');
+});
 
 Route::get('dance-studios-in-west-salem-wi', function () {
     return view('dance-studios-in-west-salem-wi');

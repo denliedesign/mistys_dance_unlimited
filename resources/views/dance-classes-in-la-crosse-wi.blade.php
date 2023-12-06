@@ -1,4 +1,4 @@
-@extends('layouts.app')
+@extends('layouts.app-lava')
 
 @section('title', 'Dance Classes La Crosse WI | Misty\'s Dance Unlimited')
 
@@ -33,7 +33,7 @@
             </div>
             <div class="text-center">
                 <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><button class="btn btn-danger btn-lg mt-4">REGISTER NOW!</button></a>
-                <a href="/"><button class="btn btn-info btn-lg mt-4 ml-4">LEARN MORE</button></a>
+                <a href="/"><button class="btn btn-info btn-lg mt-4 ml-4 text-white">LEARN MORE</button></a>
             </div>
         </div>
     </div>
@@ -59,11 +59,9 @@
         </div>
         <div class="text-center">
             <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><button class="btn btn-danger btn-lg mt-4">REGISTER NOW!</button></a>
-            <a href="/"><button class="btn btn-info btn-lg mt-4 ml-4">LEARN MORE</button></a>
+            <a href="/"><button class="btn btn-info btn-lg mt-4 ml-4 text-white">LEARN MORE</button></a>
         </div>
     </div>
-
-    @include('footer')
 
 @endsection
 

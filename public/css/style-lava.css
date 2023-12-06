@@ -581,7 +581,7 @@ body {
 }
 
 .banner {
-    height: 100%;
+    height: calc(100% - 1px);
     background-image: url(/images-lava/banner-smile.jpg);
     background-attachment: fixed;
     background-position: center;
