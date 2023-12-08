@@ -47,7 +47,7 @@
                 Private lessons begin at $20/half hour for MDU JFAC.<br><br>
                 <div class="register-button pl-button"><a href="http://www.supersaas.com/schedule/MDUPrivateLessons/Junior_Faculty_Private_Lessons" target="_blank">Schedule Now!</a></div><br><br> -->
                 <p>
-                    Contact Kaydra.mistysdance@gmail.com if you have questions regarding private lessons.<br><br>
+                    Contact office.mistysdance@gmail.com if you have questions regarding private lessons.<br><br>
                     Cancellations that are received more than 24 hours prior to the lesson time will receive a full refund. Lessons canceled less than 24 hours prior will be subject to a 50% cancellation fee. No shows will be charged the full lesson.
                 </p>
             </div>
