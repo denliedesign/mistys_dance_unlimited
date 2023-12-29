@@ -12,7 +12,7 @@
                 <a href="/fall"><div class="shadow btn btn-lg btn-danger">Find Your Class</div></a>
             </h2>
         </div>
-        <img src="/images-lava/dance-makes-great-kids.jpg" alt="" class="img-fluid" style="z-index: 0; width: 100%;">
+        <img src="/images-lava/la-crosse-dance-makes-great-kids.jpg" alt="" class="img-fluid" style="z-index: 0; width: 100%;">
     </div>
 
     <div class="d-block d-lg-none">
@@ -27,7 +27,7 @@
             </div>
             </p>
         </div>
-        <img src="/images-lava/dance-makes-great-kids.jpg" alt="" class="img-fluid" style="z-index: 0;">
+        <img src="/images-lava/la-crosse-dance-makes-great-kids.jpg" alt="" class="img-fluid" style="z-index: 0;">
     </div>
 
     {{--<div class="bg-red py-5">--}}
@@ -62,6 +62,11 @@
             <p class="text-white font-syne" style="font-size: 22px;">
                 From your child’s first class to their graduation performance, your child will thrive at MDU! At MDU, dance classes are More Than Just Great Dancing!®. Our dancers go beyond technique to develop important life skills, learning to be respectful, confident, and conscientious young people who share their gifts and talents with the community.
             </p>
+            <div class="row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-3">
+                <div class="col"><p class="text-white-50 text-center font-staat" style="font-size: 1.5em;"><small>dance classes Onalaska</small></p></div>
+                <div class="col"><p class="text-white-50 text-center font-staat" style="font-size: 1.5em;"><small>dance classes La Crosse</small></p></div>
+                <div class="col"><p class="text-white-50 text-center font-staat" style="font-size: 1.5em;"><small>dance classes Holmen</small></p></div>
+            </div>
             {{--        <div class="mt-5">--}}
             {{--            <div class="">--}}
             {{--                <div class="text-white">--}}
@@ -111,7 +116,7 @@
                     <a data-bs-toggle="offcanvas" href="#offcanvasLoved" role="button" style="color: inherit;">loved</a>
                 </h3>
                 <div>
-                    <img src="/images-lava/happy-healthy-safe.png" alt="female contemporary dancer" class="img-fluid" id="happy-healthy-safe-image">
+                    <img src="/images-lava/happy-healthy-safe-dance-la-crosse.png" alt="female contemporary dancer" class="img-fluid" id="happy-healthy-safe-image">
                 </div>
                 <h3 class="apple-effect font-staat text-lowercase text-center" style="font-size: 100px; position: absolute; top: 36%; left: 50%; transform: translate(-50%, -50%); width: 100%; color: #D90036; z-index: 1 !important; line-height: 0.9;">keeping your dancer<br>
                     <a data-bs-toggle="offcanvas" href="#offcanvasHappy" role="button" style="color: inherit;">happy</a>,
@@ -136,7 +141,7 @@
                     <a data-bs-toggle="offcanvas" href="#offcanvasLoved" role="button" style="color: inherit;">loved</a>
                 </h3>
                 <div>
-                    <img src="/images-lava/happy-healthy-safe.png" alt="female contemporary dancer" class="img-fluid" id="happy-healthy-safe-mobile">
+                    <img src="/images-lava/happy-healthy-safe-dance-la-crosse.png" alt="female contemporary dancer" class="img-fluid" id="happy-healthy-safe-mobile">
                 </div>
                 <h3 class="apple-effect font-staat text-lowercase text-center" style="font-size: 100px; position: absolute; top: 36%; left: 50%; transform: translate(-50%, -50%); width: 100%; color: #D90036; z-index: 1 !important; line-height: 0.9;">keeping your dancer<br>
                     <a data-bs-toggle="offcanvas" href="#offcanvasHappy" role="button" style="color: inherit;">happy</a>,
@@ -212,7 +217,7 @@
         </div>
         <div class="offcanvas-body" style="font-size: 22px;">
             <div class="d-flex justify-content-center">
-                <img src="/images-lava/logo-safer-studio.png" alt="safer studio logo" style="filter: invert(100); height: 180px; width: auto;">
+                <img src="/images-lava/logo-safer-dance-studios-lacrosse.png" alt="safer studio logo" style="filter: invert(100); height: 180px; width: auto;">
             </div>
             <p class="text-center font-syne mx-4">
                 <strong>What does that mean?</strong>
@@ -354,7 +359,7 @@
             </div>
         </div>
         <div>
-            <img src="/images-lava/parents-love-mistys-bg.png" alt="" class="img-fluid d-none d-lg-block" id="parents-image">
+            <img src="/images-lava/parents-love-mistys-dance-la-crosse.png" alt="" class="img-fluid d-none d-lg-block" id="parents-image">
         </div>
     </div>
 
@@ -392,21 +397,21 @@
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-4">
                 <div class="col-sm d-flex align-items-center font-staat text-white" style="font-size: 100px; transform: rotate(-90deg);">classes</div>
                 <div class="col-sm" style="position: relative;">
-                    <img src="/images-lava/classes-1-2.jpg" alt="dancer posing" class="img-fluid">
+                    <img src="/images-lava/la-crosse-dance-classes-1-2.jpg" alt="dancer posing" class="img-fluid">
                     <a class="triangle-and-text" href="/fall#age-2-4">
                         <div id="triangle-bottomleft"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Age 1-2</div>
                     </a>
                 </div>
                 <div class="col-sm" style="position: relative;">
-                    <img src="/images-lava/classes-3-4.jpg" alt="dancer posing" class="img-fluid">
+                    <img src="/images-lava/la-crosse-dance-classes-3-4.jpg" alt="dancer posing" class="img-fluid">
                     <a class="triangle-and-text" href="/fall#age-2-4">
                         <div id="triangle-bottomleft"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Age 3-4</div>
                     </a>
                 </div>
                 <div class="col-sm" style="position: relative;">
-                    <img src="/images-lava/classes-5-6-resize.jpg" alt="dancer posing" class="img-fluid">
+                    <img src="/images-lava/la-crosse-dance-classes-5-6-resize.jpg" alt="dancer posing" class="img-fluid">
                     <a class="triangle-and-text" href="/fall#age-k-1st">
                         <div id="triangle-bottomleft"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Ages 5-6</div>
@@ -415,28 +420,28 @@
             </div>
             <div class="mt-4 row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-4">
                 <div class="col-sm" style="position: relative; z-index: 3;">
-                    <img src="/images-lava/classes-7-8.jpg" alt="dancer posing" class="img-fluid">
+                    <img src="/images-lava/la-crosse-dance-classes-7-8.jpg" alt="dancer posing" class="img-fluid">
                     <a class="triangle-and-text" href="/fall#age-2nd-3rd">
                         <div id="triangle-bottomleft"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Ages 7-8</div>
                     </a>
                 </div>
                 <div class="col-sm" style="position: relative; z-index: 3;">
-                    <img src="/images-lava/classes-9-12.jpg" alt="dancer posing" class="img-fluid">
+                    <img src="/images-lava/la-crosse-dance-classes-9-12.jpg" alt="dancer posing" class="img-fluid">
                     <a class="triangle-and-text" href="/fall#age-graded">
                         <div id="triangle-bottomleft"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Ages 9-12</div>
                     </a>
                 </div>
                 <div class="col-sm" style="position: relative; z-index: 3;">
-                    <img src="/images-lava/classes-teens.jpg" alt="dancer posing" class="img-fluid">
+                    <img src="/images-lava/la-crosse-dance-classes-teens.jpg" alt="dancer posing" class="img-fluid">
                     <a class="triangle-and-text" href="/fall#age-teen">
                         <div id="triangle-bottomleft"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Teens</div>
                     </a>
                 </div>
                 <div class="col-sm" style="position: relative; z-index: 3;">
-                    <img src="/images-lava/classes-guys.jpg" alt="dancer posing" class="img-fluid">
+                    <img src="/images-lava/la-crosse-dance-classes-guys.jpg" alt="dancer posing" class="img-fluid">
                     <a class="triangle-and-text" href="/fall#age-2nd-3rd">
                         <div id="triangle-bottomleft"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Guys Only</div>
@@ -456,49 +461,49 @@
             <div class="col-sm font-staat text-white text-center" style="font-size: 100px;">classes</div>
             <div class="row row-cols-2 row-cols-sm-2 row-cols-md-2 row-cols-lg-4">
                 <div class="col-sm my-3" style="position: relative;">
-                    <img src="/images-lava/classes-1-2.jpg" alt="dancer posing" class="img-fluid">
+                    <img src="/images-lava/la-crosse-dance-classes-1-2.jpg" alt="dancer posing" class="img-fluid">
                     <a class="triangle-and-text" href="/fall#age-2-4">
                         <div id="triangle-bottomleft-mobile"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Age 1-2</div>
                     </a>
                 </div>
                 <div class="col-sm my-3" style="position: relative;">
-                    <img src="/images-lava/classes-3-4.jpg" alt="dancer posing" class="img-fluid">
+                    <img src="/images-lava/la-crosse-dance-classes-3-4.jpg" alt="dancer posing" class="img-fluid">
                     <a class="triangle-and-text" href="/fall#age-2-4">
                         <div id="triangle-bottomleft-mobile"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Age 3-4</div>
                     </a>
                 </div>
                 <div class="col-sm my-3" style="position: relative;">
-                    <img src="/images-lava/classes-5-6-resize.jpg" alt="dancer posing" class="img-fluid">
+                    <img src="/images-lava/la-crosse-dance-classes-5-6-resize.jpg" alt="dancer posing" class="img-fluid">
                     <a class="triangle-and-text" href="/fall#age-k-1st">
                         <div id="triangle-bottomleft-mobile"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Ages 5-6</div>
                     </a>
                 </div>
                 <div class="col-sm my-3" style="position: relative; z-index: 3;">
-                    <img src="/images-lava/classes-7-8.jpg" alt="dancer posing" class="img-fluid">
+                    <img src="/images-lava/la-crosse-dance-classes-7-8.jpg" alt="dancer posing" class="img-fluid">
                     <a class="triangle-and-text" href="/fall#age-2nd-3rd">
                         <div id="triangle-bottomleft-mobile"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Ages 7-8</div>
                     </a>
                 </div>
                 <div class="col-sm my-3" style="position: relative; z-index: 3;">
-                    <img src="/images-lava/classes-9-12.jpg" alt="dancer posing" class="img-fluid">
+                    <img src="/images-lava/la-crosse-dance-classes-9-12.jpg" alt="dancer posing" class="img-fluid">
                     <a class="triangle-and-text" href="/fall#age-graded">
                         <div id="triangle-bottomleft-mobile"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Ages 9-12</div>
                     </a>
                 </div>
                 <div class="col-sm my-3" style="position: relative; z-index: 3;">
-                    <img src="/images-lava/classes-teens.jpg" alt="dancer posing" class="img-fluid">
+                    <img src="/images-lava/la-crosse-dance-classes-teens.jpg" alt="dancer posing" class="img-fluid">
                     <a class="triangle-and-text" href="/fall#age-teen">
                         <div id="triangle-bottomleft-mobile"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Teens</div>
                     </a>
                 </div>
                 <div class="col-sm my-3" style="position: relative; z-index: 3;">
-                    <img src="/images-lava/classes-guys.jpg" alt="dancer posing" class="img-fluid">
+                    <img src="/images-lava/la-crosse-dance-classes-guys.jpg" alt="dancer posing" class="img-fluid">
                     <a class="triangle-and-text" href="/fall#age-2nd-3rd">
                         <div id="triangle-bottomleft-mobile"></div>
                         <div class="triangle-text font-staat m-2" style="font-size: 30px; line-height: 0.9em; position: absolute; bottom: 0; left: 12px;">Guys Only</div>
@@ -585,7 +590,7 @@
                 </div>
                 <div class="col-sm d-flex align-items-center justify-content-center">
                     <div class="">
-                        <img src="/images-lava/darbys-dancers.jpg" alt="darbys dancer on stage" class="img-fluid rounded shadow">
+                        <img src="/images-lava/darbys-dance-la-crosse.jpg" alt="darbys dancer on stage" class="img-fluid rounded shadow">
                     </div>
                 </div>
             </div>
@@ -622,6 +627,7 @@
                             </span>
                         </div>
                         <div class="txt-crimson" style="font-size: 1.5em;">Try your <a href="https://forms.gle/Nh8nC84wRLeA3ha2A" target="_blank"><div class="btn btn-lg btn-flip-danger fw-bold shadow text-white"><u>FREE</u> trial class</div></a> today.</div>
+                        <div><small>dance lessons Onalaska &middot; dance lessons La Crosse &middot; dance lessons Holmen</small></div>
                     </div>
                 </div>
                 <div class="col-sm d-flex justify-content-center align-items-center">
@@ -639,8 +645,8 @@
             </div>
         </div>
         <div>
-            <img src="/images-lava/find-joy-in-moving.png" alt="" class="img-fluid d-none d-lg-block" id="joy-image">
-            <img src="/images-lava/find-joy-in-moving.png" alt="" class="img-fluid d-block d-lg-none" id="joy-mobile">
+            <img src="/images-lava/find-joy-in-dance-la-crosse.png" alt="" class="img-fluid d-none d-lg-block" id="joy-image">
+            <img src="/images-lava/find-joy-in-dance-la-crosse.png" alt="" class="img-fluid d-block d-lg-none" id="joy-mobile">
         </div>
     </div>
 
@@ -713,6 +719,7 @@
                     </span>
                 </p>
             </div>
+            <div class="text-center font-staat mb-3" style="font-size: 1.5em;"><small>Whether you live in Onalaska, Holmen, or La Crosse dance with us today!</small></div>
             <div>
                 <p class="text-center txt-crimson" style="font-size: 1.75em;">
                     At Misty's Dance Unlimited, we don't teach kids to make great dancers.<br>We teach dance to make great kids! - <em>Misty Lown</em>
@@ -775,7 +782,7 @@
             </div>
         </div>
         <div>
-            <img src="/images-lava/cta-crop.png" alt="" class="img-fluid d-none d-lg-block" id="cta-image">
+            <img src="/images-lava/cta-dance-classes-la-crosse.png" alt="" class="img-fluid d-none d-lg-block" id="cta-image">
         </div>
     </div>
 
@@ -824,6 +831,7 @@
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-6">
                 <div class="col d-flex align-items-center justify-content-center text-center px-2" id="main-review-stars">
                     <div>
+                        <p class="font-staat pb-0 mb-0" style="color: seashell;"><small>dance studios Onalaska<br>dance studios La Crosse<br>dance studios Holmen</small></p>
                         <p style="font-size: 1.5em;" class="fw-bold mb-0">OUTSTANDING 4.9/5</p>
                         <ion-icon name="star"></ion-icon><ion-icon name="star"></ion-icon><ion-icon name="star"></ion-icon><ion-icon name="star"></ion-icon><ion-icon name="star"></ion-icon>
                         <p style="color: seashell;"><small>based on <strong>54</strong> reviews</small></p>
@@ -891,8 +899,13 @@
 
     <section id="guarantee">
         <div class="bg-red text-white py-5">
+            <div class="row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-3 mb-4">
+                <div class="col"><p class="text-white-50 text-center font-staat" style="font-size: 1.5em;"><small>dance La Crosse</small></p></div>
+                <div class="col"><p class="text-white-50 text-center font-staat" style="font-size: 1.5em;"><small>dance Onalaska</small></p></div>
+                <div class="col"><p class="text-white-50 text-center font-staat" style="font-size: 1.5em;"><small>dance Holmen</small></p></div>
+            </div>
             <div class="d-flex justify-content-center">
-                <img src="/images-lava/gauranteed-logo-crop.png" alt="" class="img-fluid">
+                <img src="/images-lava/gauranteed-best-dance-la-crosse.png" alt="" class="img-fluid">
             </div>
             <h2 class="fw-bold text-center text-white" style="font-size: 2.75em;">Our Guarantee</h2>
             <p class="text-center txt-crimson" style="font-size: 1.75em;">You'll love your experience or we'll work with you to make it right!</p>

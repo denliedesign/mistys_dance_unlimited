@@ -517,7 +517,7 @@ body {
     position: relative;
     display: block;
     width: calc(130% + 1.3px);
-    height: 67px;
+    height: 64px;
     transform: rotateY(180deg);
 }
 
@@ -561,7 +561,7 @@ body {
     position: relative;
     display: block;
     width: calc(118% + 1.3px);
-    height: 118px;
+    height: 120px;
 }
 
 .custom-shape-divider-bottom-1663856745 .shape-fill {
