@@ -14,15 +14,18 @@
         <div class="container pb-5 pt-3">
             <div class="row d-flex align-items-center">
                 <div class="col-sm text-center">
+                    <p class="text-center">
+                        Enrollment has closed for our full dance season which runs mid August through mid May.<br>We invite you to check out our mini sessions.
+                    </p>
                     <div class="m-2 px-2">
                         <a href="/images/mdu-fall-schedule-23-b.pdf" target="_blank"><button class="btn btn-green btn-lg btn-family">VIEW CLASS SCHEDULE PDF</button></a>
                     </div>
 {{--                    <div class="m-2 px-2">--}}
 {{--                        <a href="/images-lava/dress-code-22-23.pdf" target="_blank"><button class="text-white btn btn-blue btn-lg btn-family">VIEW DRESS CODE</button></a>--}}
 {{--                    </div>--}}
-                    <div class="m-2 px-2">
-                        <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><button class="text-white btn btn-pink btn-lg btn-family">REGISTER NOW</button></a>
-                    </div>
+{{--                    <div class="m-2 px-2">--}}
+{{--                        <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><button class="text-white btn btn-pink btn-lg btn-family">REGISTER NOW</button></a>--}}
+{{--                    </div>--}}
                 </div>
                 <div class="col-sm">
                     <h3 class="font-staat" style="font-size: 100px; line-height: 0.9em;">2023-24 Class Schedule</h3>
