@@ -8,8 +8,8 @@
                 <ion-icon name="heart"></ion-icon>
                 <br>
                 <span style="font-size: 0.5em; font-weight: normal; text-shadow: 1px 2px 4px black;" class="txt-crimson">Your child will fall in love with dance with our classes for ages 2-18!</span>
-{{--                <br>--}}
-{{--                <a href="/fall"><div class="shadow btn btn-lg btn-danger">Find Your Class</div></a>--}}
+                <br>
+                <a href="/promotions"><div class="shadow btn btn-lg btn-danger">Find Your Class</div></a>
             </h2>
         </div>
         <img src="/images-lava/la-crosse-dance-makes-great-kids.jpg" alt="" class="img-fluid" style="z-index: 0; width: 100%;">
@@ -627,6 +627,7 @@
                             </span>
                         </div>
 {{--                        <div class="txt-crimson" style="font-size: 1.5em;">Try your <a href="https://forms.gle/Nh8nC84wRLeA3ha2A" target="_blank"><div class="btn btn-lg btn-flip-danger fw-bold shadow text-white"><u>FREE</u> trial class</div></a> today.</div>--}}
+                        <div class="txt-crimson" style="font-size: 1.5em;">Try our <a href="/promotions"><div class="btn btn-lg btn-flip-danger fw-bold shadow text-white">Mini-Sessions</div></a></div>
                         <div class="mt-2"><small>dance lessons Onalaska &middot; dance lessons La Crosse &middot; dance lessons Holmen</small></div>
                     </div>
                 </div>

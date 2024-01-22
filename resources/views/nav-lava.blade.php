@@ -37,7 +37,7 @@
 {{--                                    <a class="nav-link" href="/summer">SUMMER</a>--}}
 {{--                                </li>--}}
                 <li class="nav-item mx-2">
-                    <a class="nav-link" href="/fall">2023-24</a>
+                    <a class="nav-link" href="/promotions">WINTER/SPRING</a>
                 </li>
 {{--                <li class="nav-item mx-2">--}}
 {{--                    <a class="nav-link" href="/fall">SCHEDULE</a>--}}
@@ -63,11 +63,11 @@
                 <li class="nav-item mx-2">
                     <a class="nav-link" href="/alumni">ALUMNI</a>
                 </li>
-{{--                <li class="nav-item mx-2">--}}
-{{--                    <a href="/fall" class="nav-link">--}}
-{{--                        <div class="btn btn-danger shadow">Find Your Class</div>--}}
-{{--                    </a>--}}
-{{--                </li>--}}
+                <li class="nav-item mx-2">
+                    <a href="/promotions" class="nav-link">
+                        <div class="btn btn-danger shadow">Find Your Class</div>
+                    </a>
+                </li>
             </ul>
         </div>
     </div>
