@@ -40,6 +40,9 @@
                     <a class="nav-link" href="/promotions">WINTER/SPRING</a>
                 </li>
 {{--                <li class="nav-item mx-2">--}}
+{{--                    <a class="nav-link" href="/community-programming">PROGRAMS</a>--}}
+{{--                </li>--}}
+{{--                <li class="nav-item mx-2">--}}
 {{--                    <a class="nav-link" href="/fall">SCHEDULE</a>--}}
 {{--                </li>--}}
                 <li class="nav-item mx-2">

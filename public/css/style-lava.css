@@ -220,7 +220,7 @@
     background: #212529 !important;
 }
 
-#brand img {
+#brand img, #day img {
     max-height: 160px;
     height: auto;
     width: 100%;
@@ -228,7 +228,7 @@
     opacity: 70%;
     transform: scale(0.75);
 }
-#brand img:hover {
+#brand img:hover, #day img:hover {
     opacity: 100%;
 }
 

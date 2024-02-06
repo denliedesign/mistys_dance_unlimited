@@ -425,6 +425,10 @@ Route::get('dance-team', function () {
     return view('dance-team');
 });
 
+Route::get('community-programming', function () {
+    return view('community-programming');
+});
+
 //Route::get('recital', function () {
 //    $hubs = (new App\Http\Controllers\HubController)->getHubs(); // assuming getHubs() is a static method in your HubController
 //    return view('hubs.index', ['hubs' => $hubs]);

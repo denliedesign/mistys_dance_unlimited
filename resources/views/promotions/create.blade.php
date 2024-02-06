@@ -1,4 +1,4 @@
-@extends('layouts.app')
+@extends('layouts.app-lava')
 
 @section('title', 'Add New Promotion')
 
@@ -25,8 +25,6 @@
             </div>
         </div>
     </div>
-
-    @include('footer')
 
 @endsection
 
