@@ -1,4 +1,4 @@
-@extends('layouts.app')
+@extends('layouts.app-lava')
 
 @section('title', 'Edit Article')
 
@@ -18,5 +18,4 @@
         </form>
     </div>
 
-    @include('footer')
 @endsection

@@ -1,4 +1,4 @@
-@extends('layouts.vanilla')
+@extends('layouts.app-lava')
 
 @section('title', 'Edit Hub')
 
@@ -18,10 +18,6 @@
                 <button class="btn btn-primary" type="submit">Save</button>
             </form>
         </div>
-    </div>
-
-    <div class="banner-wrap d-none d-md-block">
-        <div class="banner"></div>
     </div>
 
 @endsection

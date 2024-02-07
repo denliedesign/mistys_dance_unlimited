@@ -2,10 +2,12 @@
 
 namespace App\Http\Controllers;
 
+use App\Exports\PostsExport;
 use App\Post;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\App;
 use Illuminate\Support\Facades\DB;
+use Maatwebsite\Excel\Facades\Excel;
 
 class PostController extends Controller
 {
@@ -120,5 +122,10 @@ class PostController extends Controller
                 'image' => request()->image->store('uploads', 'public'),
             ]);
         }
+    }
+
+    public function export()
+    {
+        return Excel::download(new PostsExport, 'posts.xlsx');
     }
 }

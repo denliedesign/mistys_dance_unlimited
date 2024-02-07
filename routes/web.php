@@ -12,6 +12,7 @@
 */
 
 use App\Http\Controllers\HubController;
+use App\Http\Controllers\PostController;
 use App\Http\Controllers\StudentController;
 use Illuminate\Support\Facades\Route;
 
@@ -465,3 +466,5 @@ Route::resource('hubs', 'HubController');
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+
+Route::get('/posts/export/', [PostController::class, 'export']);

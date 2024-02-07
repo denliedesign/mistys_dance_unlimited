@@ -1,4 +1,4 @@
-@extends('layouts.app')
+@extends('layouts.app-lava')
 
 @section('title', 'Edit Post')
 
@@ -18,7 +18,5 @@
             <button class="btn btn-primary" type="submit">Save</button>
         </form>
     </div>
-
-    @include('footer')
 
 @endsection

@@ -1,4 +1,4 @@
-@extends('layouts.app')
+@extends('layouts.app-lava')
 
 @section('title', 'Add New Post')
 
@@ -22,5 +22,4 @@
         </div>
     </div>
 
-    @include('footer')
 @endsection
