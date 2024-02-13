@@ -16,11 +16,11 @@
             <p class="font-syne" style="font-size: 22px;">
                 At Misty's Dance Unlimited, we built our facility to be more than just a dance studio! We regularly host guests and special programs and partner with local non-profits to help make our community a better place. Our goal is to be a blessing and connector in our community. Our current community programs are listed below. Please note that some will take you off this page if the group manages their own registration. Interested in space for your group or community event? You'll find a helpful link at the bottom of the page.
             </p>
-            <div class="row row-cols-3 row-cols-sm-3 row-cols-md-3 row-cols-lg-3">
-                <div class="col p-0 d-flex align-items-center justify-content-center"><div><a href="" target="_blank"><img src="/images/logo-bumble-and-tumble.png" alt="logo"></a></div></div>
-                <div class="col p-0 d-flex align-items-center justify-content-center"><div><a href="" target="_blank"><img src="/images/logo-varc.png" alt="logo" style="filter: contrast(0%);"></a></div></div>
-                <div class="col p-0 d-flex align-items-center justify-content-center"><div><a href="" target="_blank"><img src="/images/logo-sister-circle.png" alt="logo"></a></div></div>
-{{--                <div class="col p-0 d-flex align-items-center justify-content-center"><div><a href="" target="_blank"><img src="/images/" alt="logo"></a></div></div>--}}
+            <div class="row row-cols-3 row-cols-sm-3 row-cols-md-4 row-cols-lg-4">
+                <div class="col p-0 d-flex align-items-center justify-content-center"><div><a href="https://www.honeybeeoccupationaltherapy.com" target="_blank"><img src="/images/logo-bumble-and-tumble.png" alt="logo"></a></div></div>
+                <div class="col p-0 d-flex align-items-center justify-content-center"><div><a href="https://www.varcinc.com" target="_blank"><img src="/images/logo-varc.png" alt="logo" style="filter: contrast(0%);"></a></div></div>
+                <div class="col p-0 d-flex align-items-center justify-content-center"><div><a href="https://sistercircle.co/home/" target="_blank"><img src="/images/logo-sister-circle.png" alt="logo"></a></div></div>
+                <div class="col p-0 d-flex align-items-center justify-content-center"><div><a><img src="/images/logo-homeschool.png" alt="logo"></a></div></div>
 {{--                <div class="col p-0 d-flex align-items-center justify-content-center"><div><a href="" target="_blank"><img src="/images/" alt="logo"></a></div></div>--}}
 {{--                <div class="col p-0 d-flex align-items-center justify-content-center"><div><a href="" target="_blank"><img src="/images/" alt="logo"></a></div></div>--}}
             </div>

@@ -467,4 +467,4 @@ Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
 
-Route::get('/posts/export/', [PostController::class, 'export']);
+Route::get('/posts/export/', [PostController::class, 'export'])->name('posts.export');
