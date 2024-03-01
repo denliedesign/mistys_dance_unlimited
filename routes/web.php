@@ -472,11 +472,11 @@ Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
 
-Route::get('/posts/export/', [PostController::class, 'export'])->name('posts.export');
-
-Route::get('/posts/{post:slug}', function (Post $post) {
-    return view('posts.show', compact('post'));
-});
-Route::post('/posts/{post:slug}', function (Post $post) {
-    return $post;
-});
+//Route::get('/posts/export/', [PostController::class, 'export'])->name('posts.export');
+//
+//Route::get('/posts/{post:slug}', function (Post $post) {
+//    return view('posts.show', compact('post'));
+//});
+//Route::post('/posts/{post:slug}', function (Post $post) {
+//    return $post;
+//});
