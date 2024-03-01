@@ -18,13 +18,14 @@
                 </div>
                 <div class="col-md-2">
                     <ul class="list-group list-group-flush">
-                        @foreach($posts->take(5) as $post)
+                        @foreach($posts as $post)
                             <li class="list-group-item">
-                                <a href="/posts/{{ $post->id }}"><img src="{{ asset('/storage/' . $post->image) }}" alt="" class="img-thumbnail"></a>
+                                <a href="/posts/{{ $post->slug }}">
+                                    <img src="{{ asset('/storage/' . $post->image) }}" alt="" class="img-thumbnail">
+                                </a>
                                 <a href="/posts/{{ $post->id }}">{{ $post->title }}</a>
                             </li>
                         @endforeach
-
                     </ul>
                 </div>
             </div>

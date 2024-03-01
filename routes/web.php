@@ -14,6 +14,7 @@
 use App\Http\Controllers\HubController;
 use App\Http\Controllers\PostController;
 use App\Http\Controllers\StudentController;
+use App\Post;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
@@ -155,6 +156,10 @@ Route::get('thirdoption-faq', function () {
 
 Route::get('community-first', function () {
     return view('community-first');
+});
+
+Route::get('/posts', function () {
+    return view('/under-construction');
 });
 
 //Route::get('community', function () {
@@ -430,10 +435,10 @@ Route::get('community-programming', function () {
     return view('community-programming');
 });
 
-//Route::get('recital', function () {
-//    $hubs = (new App\Http\Controllers\HubController)->getHubs(); // assuming getHubs() is a static method in your HubController
-//    return view('hubs.index', ['hubs' => $hubs]);
-//});
+Route::get('recital', function () {
+    $hubs = (new App\Http\Controllers\HubController)->getHubs(); // assuming getHubs() is a static method in your HubController
+    return view('hubs.index', ['hubs' => $hubs]);
+});
 
 Route::get('frozen-friends', 'FrozenFriendsController@index')->name('frozen-friends');
 Route::post('frozen-friends', 'FrozenFriendsController@store')->name('frozen-friends.store');
@@ -445,7 +450,7 @@ Route::resource('events', 'EventController');
 Route::resource('promotions', 'PromotionController');
 Route::resource('articles', 'ArticleController');
 Route::resource('videos', 'VideoController');
-Route::resource('posts', 'PostController');
+//Route::resource('posts', 'PostController');
 //Route::resource('recitals/generals', 'GeneralController');
 //Route::resource('recitals/ads', 'AdController');
 //Route::resource('recitals/handbooks', 'HandbookController');
@@ -468,3 +473,10 @@ Auth::routes();
 Route::get('/home', 'HomeController@index')->name('home');
 
 Route::get('/posts/export/', [PostController::class, 'export'])->name('posts.export');
+
+Route::get('/posts/{post:slug}', function (Post $post) {
+    return view('posts.show', compact('post'));
+});
+Route::post('/posts/{post:slug}', function (Post $post) {
+    return $post;
+});

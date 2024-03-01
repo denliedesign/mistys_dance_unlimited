@@ -58,11 +58,18 @@ class PostController extends Controller
      * Display the specified resource.
      *
      * @param  \App\Post  $post
-     * @return \Illuminate\Http\Response
+     * @return \Illuminate\Contracts\View\Factory|\Illuminate\Contracts\View\View
      */
     public function show(Post $post)
     {
-        return view('posts.show', compact('post'));
+        // Fetch all posts except the current one to avoid duplicating it in the list
+        $posts = Post::where('id', '!=', $post->id)
+            ->latest()
+            ->take(2)
+            ->get();;
+
+        // Pass both the current post and all other posts to the view
+        return view('posts.show', compact('post', 'posts'));
     }
 
     /**
@@ -111,16 +118,27 @@ class PostController extends Controller
             'content' => 'required',
             'shown' => 'required',
             'image' => 'sometimes|file|image|max:5000',
+            'image_name' => 'nullable|string',
         ]);
     }
 
     private function storeImage($post)
     {
-        if (request()->has('image'))
-        {
-            $post->update([
-                'image' => request()->image->store('uploads', 'public'),
-            ]);
+        if (request()->hasFile('image')) {
+            // Retrieve the uploaded file
+            $image = request()->file('image');
+
+            // Generate a custom filename, if provided, or use a unique ID
+            $imageName = request('image_name') ? request('image_name') : Str::random(40);
+
+            // Ensure the custom name includes the original extension
+            $imageNameWithExtension = $imageName . '.' . $image->getClientOriginalExtension();
+
+            // Store the image with the custom or generated name
+            $path = $image->storeAs('uploads', $imageNameWithExtension, 'public');
+
+            // Update the post record with the path to the stored image
+            $post->update(['image' => $path]);
         }
     }
 

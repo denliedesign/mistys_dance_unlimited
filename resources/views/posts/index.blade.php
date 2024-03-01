@@ -19,7 +19,7 @@
             <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3">
                 @foreach($posts as $post)
                     <div class="card mx-2 mb-4" style="max-width: 350px">
-                        <a href="/posts/{{ $post->id }}">
+                        <a href="/posts/{{ $post->slug }}">
                             <img src="{{ asset('/storage/' . $post->image) }}" class="card-img-top" alt="...">
                         </a>
 {{--                        <div class="card-body">--}}
@@ -48,7 +48,7 @@
                 @endforeach
             </div>
             <div class="d-flex justify-content-center pt-2">
-                {{ $posts->links() }}
+{{--                {{ $posts->links() }}--}}
             </div>
         </div>
     </div>

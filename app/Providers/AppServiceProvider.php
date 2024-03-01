@@ -3,6 +3,7 @@
 namespace App\Providers;
 
 use App\Fest;
+use App\Post;
 use App\Student;
 use App\Update;
 use App\User;
@@ -33,6 +34,10 @@ class AppServiceProvider extends ServiceProvider
 //        });
         view()->composer('*',function($view) {
             $view->with('users', User::all());
+        });
+
+        view()->composer('*',function($view) {
+            $view->with('posts', Post::all());
         });
 
         view()->composer('*',function($view) {
