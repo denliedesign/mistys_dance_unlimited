@@ -1,10 +1,10 @@
-@extends('layouts.vanilla')
+@extends('layouts.app-lava')
 
 @section('title', 'Add New Hub')
 
 @section('content')
 
-    <div class="banner-wrap d-none d-md-block">
+    <div class="banner-wrap">
         <div class="banner"></div>
     </div>
 
@@ -25,10 +25,6 @@
                 </div>
             </div>
         </div>
-    </div>
-
-    <div class="banner-wrap d-none d-md-block">
-        <div class="banner"></div>
     </div>
 
 @endsection
