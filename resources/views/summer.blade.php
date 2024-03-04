@@ -56,6 +56,9 @@
                 <img src="images/graded-summer-dance-classes-la-crosse-1.jpg" alt="summer dance classes" class="my-3">
                 <img src="images/graded-summer-dance-classes-la-crosse-2.jpg" alt="summer dance classes" class="my-3">
                 <img src="images/graded-summer-dance-classes-la-crosse-3.jpg" alt="summer dance classes" class="my-3">
+                <img src="images/graded-summer-dance-classes-la-crosse-4.jpg" alt="summer dance classes" class="my-3">
+                <img src="images/graded-summer-dance-classes-la-crosse-5.jpg" alt="summer dance classes" class="my-3">
+                <img src="images/graded-summer-dance-classes-la-crosse-6.jpg" alt="summer dance classes" class="my-3">
             </div>
             <div class="text-center d-flex d-inline justify-content-center my-3">
                 {{--                <div class="mx-2 px-2"><a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><button class="btn btn-danger btn-lg">Enroll Now!</button></a></div>--}}
