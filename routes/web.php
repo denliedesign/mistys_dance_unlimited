@@ -470,28 +470,5 @@ Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
 
-//Route::get('/posts', function () {
-//    return view('/posts.index');
-//});
-//Route::get('/posts/show', function () {
-//    return view('/posts.show');
-//});
-
-//Route::get('/posts/export/', [PostController::class, 'export'])->name('posts.export');
-//
-//Route::get('/posts/{post:slug}', function (Post $post) {
-//    return view('posts.show', compact('post'));
-//});
-//Route::post('/posts/{post:slug}', function (Post $post) {
-//    return $post;
-//});
-
-//Route::get('/blogs/{blog:slug}', function (Blog $blog) {
-//    return view('blogs.show', compact('blog'));
-//});
-//Route::post('/blogs/{blog:slug}', function (Blog $blog) {
-//    return $blog;
-//});
-
-Route::resource('blogs', BlogController::class)->except(['show']);
-Route::get('/blogs/{blog:slug}', [BlogController::class, 'show'])->name('blogs.show');
+//Route::resource('blogs', BlogController::class)->except(['show']);
+//Route::get('/blogs/{blog:slug}', [BlogController::class, 'show'])->name('blogs.show');

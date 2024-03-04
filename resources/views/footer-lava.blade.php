@@ -74,9 +74,9 @@
                                 <li class="list-group-item px-0 border-0">
                                     <a class="text-decoration-none txt-blue" href="/promotions">Promos</a>
                                 </li>
-                                <li class="list-group-item px-0 border-0">
-                                    <a class="text-decoration-none txt-blue" href="/blogs">Blog</a>
-                                </li>
+{{--                                <li class="list-group-item px-0 border-0">--}}
+{{--                                    <a class="text-decoration-none txt-blue" href="/blogs">Blog</a>--}}
+{{--                                </li>--}}
 {{--                                <li class="list-group-item px-0 border-0">--}}
 {{--                                    <a class="text-decoration-none txt-blue" href="https://mistysdance.store">Gift of Dance</a>--}}
 {{--                                </li>--}}
