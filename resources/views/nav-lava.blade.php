@@ -33,12 +33,13 @@
                 <li class="nav-item mx-2">
                     <a class="nav-link" href="/aboutus">ABOUT US</a>
                 </li>
-{{--                                <li class="nav-item mx-2">--}}
-{{--                                    <a class="nav-link" href="/summer">SUMMER</a>--}}
-{{--                                </li>--}}
                 <li class="nav-item mx-2">
                     <a class="nav-link" href="/promotions">WINTER/SPRING</a>
                 </li>
+                                <li class="nav-item mx-2">
+                                    <a class="nav-link" href="/summer">SUMMER</a>
+                                </li>
+
 {{--                <li class="nav-item mx-2">--}}
 {{--                    <a class="nav-link" href="/community-programming">PROGRAMS</a>--}}
 {{--                </li>--}}

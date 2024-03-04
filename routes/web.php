@@ -96,9 +96,9 @@ Route::get('recreational', function () {
     return view('recreational');
 });
 
-//Route::get('pc', function () {
-//    return view('pc');
-//});
+Route::get('/pc', function () {
+    return view('/pc');
+});
 
 Route::get('prepro', function () {
     return view('prepro');
@@ -128,9 +128,9 @@ Route::get('pre-pro', function () {
     return view('pre-pro');
 });
 
-//Route::get('summer', function () {
-//    return view('summer');
-//});
+Route::get('summer', function () {
+    return view('summer');
+});
 
 Route::get('fall', function () {
     return view('fall-lava');
