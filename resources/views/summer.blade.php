@@ -40,12 +40,28 @@
             </div>
             <div class="text-center d-flex d-inline justify-content-center my-3">
 {{--                <div class="mx-2 px-2"><a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><button class="btn btn-danger btn-lg">Enroll Now!</button></a></div>--}}
-                <div class="mx-2 px-2"><a href="/images/childrens-summer-dance-classes-2024.pdf" target="_blank"><button class="btn btn-danger btn-lg">View PDF</button></a></div>
+{{--                <div class="mx-2 px-2"><a href="/images/childrens-summer-dance-classes-2024.pdf" target="_blank"><button class="btn btn-danger btn-lg">View PDF</button></a></div>--}}
                 {{--                <div class="mx-2 px-2"><a href="/images/mdu-summer-dress-code-2023.pdf" target="_blank"><button class="btn btn-danger btn-lg">Summer Dress Code</button></a></div>--}}
             </div>
             <hr class="my-5">
+            <p class="text-center fw-bold pb-0 mb-0 font-syne text-muted" style="font-size: 2em;">MDU 2024</p>
             <h3 class="font-staat text-center" style="font-size: 100px; line-height: 0.9em;">Graded Summer Dance Classes</h3>
-            <p class="text-center font-syne">Will be up shortly!</p>
+            <p class="text-center font-syne" style="font-size: 22px;">Registration begins Saturday, March 9</p>
+            <div class="text-center d-flex d-inline justify-content-center my-3">
+                {{--                <div class="mx-2 px-2"><a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><button class="btn btn-danger btn-lg">Enroll Now!</button></a></div>--}}
+                <div class="mx-2 px-2"><a href="/images/graded-summer-dance-classes-2024.pdf" target="_blank"><button class="btn btn-danger btn-lg">View PDF</button></a></div>
+                {{--                <div class="mx-2 px-2"><a href="/images/mdu-summer-dress-code-2023.pdf" target="_blank"><button class="btn btn-danger btn-lg">Summer Dress Code</button></a></div>--}}
+            </div>
+            <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-1">
+                <img src="images/graded-summer-dance-classes-la-crosse-1.jpg" alt="summer dance classes" class="my-3">
+                <img src="images/graded-summer-dance-classes-la-crosse-2.jpg" alt="summer dance classes" class="my-3">
+                <img src="images/graded-summer-dance-classes-la-crosse-3.jpg" alt="summer dance classes" class="my-3">
+            </div>
+            <div class="text-center d-flex d-inline justify-content-center my-3">
+                {{--                <div class="mx-2 px-2"><a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><button class="btn btn-danger btn-lg">Enroll Now!</button></a></div>--}}
+{{--                <div class="mx-2 px-2"><a href="/images/graded-summer-dance-classes-2024.pdf" target="_blank"><button class="btn btn-danger btn-lg">View PDF</button></a></div>--}}
+                {{--                <div class="mx-2 px-2"><a href="/images/mdu-summer-dress-code-2023.pdf" target="_blank"><button class="btn btn-danger btn-lg">Summer Dress Code</button></a></div>--}}
+            </div>
         </div>
     </div>
 
