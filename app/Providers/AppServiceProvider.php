@@ -8,6 +8,7 @@ use App\Student;
 use App\Update;
 use App\User;
 use App\Video;
+use Illuminate\Pagination\Paginator;
 use Illuminate\Support\ServiceProvider;
 
 class AppServiceProvider extends ServiceProvider
@@ -32,6 +33,7 @@ class AppServiceProvider extends ServiceProvider
 //        view()->composer('*',function($view) {
 //            $view->with('students', Student::all());
 //        });
+        Paginator::useBootstrap();
         view()->composer('*',function($view) {
             $view->with('users', User::all());
         });
@@ -48,7 +50,7 @@ class AppServiceProvider extends ServiceProvider
             $view->with('fests', Fest::all());
         });
         view()->composer('*',function($view) {
-            $view->with('videos', Video::all());
-        });
+        $view->with('videos', Video::all());
+    });
     }
 }

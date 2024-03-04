@@ -35,6 +35,7 @@
 .text-red {
     color: #ED174D;
 }
+.text-blue { color: #008CC0; }
 .btn-danger, .btn-flip-danger:hover {
     background: #ED174D !important;
 }
@@ -587,4 +588,12 @@ body {
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
+}
+
+.blog-link-img:hover {
+    filter: contrast(115%) brightness(115%);
+}
+
+.blog-link-img {
+    transition: 0.6s;
 }

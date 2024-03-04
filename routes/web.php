@@ -11,10 +11,13 @@
 |
 */
 
+use App\Blog;
+use App\Http\Controllers\BlogController;
 use App\Http\Controllers\HubController;
 use App\Http\Controllers\PostController;
 use App\Http\Controllers\StudentController;
 use App\Post;
+use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
@@ -156,10 +159,6 @@ Route::get('thirdoption-faq', function () {
 
 Route::get('community-first', function () {
     return view('community-first');
-});
-
-Route::get('/posts', function () {
-    return view('/under-construction');
 });
 
 //Route::get('community', function () {
@@ -467,10 +466,16 @@ Route::resource('updates', 'UpdateController');
 Route::resource('fests', 'FestController');
 Route::resource('hubs', 'HubController');
 
-
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+
+//Route::get('/posts', function () {
+//    return view('/posts.index');
+//});
+//Route::get('/posts/show', function () {
+//    return view('/posts.show');
+//});
 
 //Route::get('/posts/export/', [PostController::class, 'export'])->name('posts.export');
 //
@@ -480,3 +485,13 @@ Route::get('/home', 'HomeController@index')->name('home');
 //Route::post('/posts/{post:slug}', function (Post $post) {
 //    return $post;
 //});
+
+//Route::get('/blogs/{blog:slug}', function (Blog $blog) {
+//    return view('blogs.show', compact('blog'));
+//});
+//Route::post('/blogs/{blog:slug}', function (Blog $blog) {
+//    return $blog;
+//});
+
+Route::resource('blogs', BlogController::class)->except(['show']);
+Route::get('/blogs/{blog:slug}', [BlogController::class, 'show'])->name('blogs.show');

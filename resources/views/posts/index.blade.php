@@ -5,56 +5,34 @@
 
 @section('content')
 
-    <div class="banner-wrap d-none d-md-block">
+    <div class="banner-wrap d-none d-md-block" style="position: relative;">
         <div class="banner"></div>
-    </div>
-
-    <div class="bg-white pb-5">
-        <h3 class="text-center py-5">Blog</h3>
-        @can('update', \App\Post::class)
-            <p class="text-center"><a href="/posts/create">Create New Post</a></p>
-        @endcan
-
-        <div class="container pb-5" id="blog">
-            <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3">
-                @foreach($posts as $post)
-                    <div class="card mx-2 mb-4" style="max-width: 350px">
-                        <a href="/posts/{{ $post->slug }}">
-                            <img src="{{ asset('/storage/' . $post->image) }}" class="card-img-top" alt="...">
-                        </a>
-{{--                        <div class="card-body">--}}
-{{--                            <h5 class="card-title text-center text-uppercase font-weight-bold">{{ $post->title }}</h5>--}}
-{{--                            <p class="card-text">{!! strip_tags(substr($post->content, 0, 125)) . '...' !!}</p>--}}
-{{--                        </div>--}}
-                        @can('update', \App\Post::class)
-                        <div class="card-footer">
-{{--                            <p class="card-text"><small>{{ $post->shown->format('M d, Y') }}</small></p>--}}
-
-                                <div class="admin-controls d-flex justify-content-center align-items-center pb-2">
-                                    <div><a href="/posts/{{ $post->id }}/edit">Edit Post</a></div>
-                                    <div>
-                                        <form action="/posts/{{ $post->id }}" method="POST">
-                                            @method('DELETE')
-                                            @csrf
-
-                                            <button class="btn btn-danger ml-4" type="submit">Delete</button>
-                                        </form>
-                                    </div>
-                                </div>
-
-                        </div>
-                        @endcan
-                    </div>
-                @endforeach
-            </div>
-            <div class="d-flex justify-content-center pt-2">
-{{--                {{ $posts->links() }}--}}
-            </div>
+        <div class="custom-shape-divider-bottom-1663856745">
+            <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
+                <path d="M598.97 114.72L0 0 0 120 1200 120 1200 0 598.97 114.72z" class="shape-fill"></path>
+            </svg>
         </div>
     </div>
 
-{{--    <div class="banner-wrap d-none d-md-block">--}}
-{{--        <div class="banner"></div>--}}
-{{--    </div>--}}
-
+    <div class="bg-white">
+        <div class="container pb-5 pt-3">
+            <h1 class="font-staat text-center" style="font-size: 100px; line-height: 0.9em;">Blog</h1>
+        <div class="row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-3">
+            <div class="col">
+                <a href="/posts/show" alt="SEO TITLE WHICH IS SLUG HERE">
+                    <img src="/images-lava/blog-1.png" class="img-fluid blog-link-img shadow rounded" alt="NEED IMG UPLOAD AND SEO IMG NAME">
+                </a>
+            </div>
+            <div class="col">
+                <a href="/posts/show" alt="SEO TITLE WHICH IS SLUG HERE">
+                    <img src="/images-lava/blog-1.png" class="img-fluid blog-link-img shadow rounded" alt="NEED IMG UPLOAD AND SEO IMG NAME">
+                </a>
+            </div>
+            <div class="col">
+                <a href="/posts/show" alt="SEO TITLE WHICH IS SLUG HERE">
+                    <img src="/images-lava/blog-1.png" class="img-fluid blog-link-img shadow rounded" alt="NEED IMG UPLOAD AND SEO IMG NAME">
+                </a>
+            </div>
+        </div>
+    </div>
 @endsection
