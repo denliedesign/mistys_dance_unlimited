@@ -33,7 +33,7 @@ class AppServiceProvider extends ServiceProvider
 //        view()->composer('*',function($view) {
 //            $view->with('students', Student::all());
 //        });
-        Paginator::useBootstrap();
+//        Paginator::useBootstrap();
         view()->composer('*',function($view) {
             $view->with('users', User::all());
         });
