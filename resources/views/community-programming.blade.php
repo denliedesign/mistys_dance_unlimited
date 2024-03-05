@@ -30,12 +30,12 @@
     <section id="day-calendar">
         <div class="bg-red text-white py-5" style="position: relative;">
             <div class="container my-5">
-                <h3 class="font-staat text-center" style="font-size: 50px;">Calendar of Events</h3>
-                <div class="d-flex justify-content-center mb-4">
-                    <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank">
-                        <div class="btn btn-blue shadow">Register Now</div>
-                    </a>
-                </div>
+                <h3 class="font-staat text-center mb-5" style="font-size: 50px;">Calendar of Events</h3>
+{{--                <div class="d-flex justify-content-center mb-4">--}}
+{{--                    <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank">--}}
+{{--                        <div class="btn btn-blue shadow">Register Now</div>--}}
+{{--                    </a>--}}
+{{--                </div>--}}
                 <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-3">
                     <div class="col-sm">
                         <h3 style="font-family: 'Pacifico', cursive; font-size: 50px;">March</h3>

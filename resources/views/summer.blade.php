@@ -30,13 +30,13 @@
             <p class="text-center font-syne" style="font-size: 22px;">Registration begins Saturday, March 9 at 8:00 AM</p>
             <div class="text-center d-flex d-inline justify-content-center my-3">
 {{--                <div class="mx-2 px-2"><a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><button class="btn btn-danger btn-lg">Enroll Now!</button></a></div>--}}
-                <div class="mx-2 px-2"><a href="/images/childrens-summer-dance-classes-2024.pdf" target="_blank"><button class="btn btn-danger btn-lg">View PDF</button></a></div>
+                <div class="mx-2 px-2"><a href="/images/kids-summer-dance-classes-la-crosse-2024-b.pdf" target="_blank"><button class="btn btn-danger btn-lg">View PDF</button></a></div>
 {{--                <div class="mx-2 px-2"><a href="/images/mdu-summer-dress-code-2023.pdf" target="_blank"><button class="btn btn-danger btn-lg">Summer Dress Code</button></a></div>--}}
             </div>
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-1">
-                <img src="images/childrens-summer-dance-classes-la-crosse-1.jpg" alt="summer dance classes" class="my-3">
-                <img src="images/childrens-summer-dance-classes-la-crosse-2.jpg" alt="summer dance classes" class="my-3">
-                <img src="images/childrens-summer-dance-classes-la-crosse-3.jpg" alt="summer dance classes" class="my-3">
+                <img src="images/kids-summer-dance-classes-la-crosse-2024-b-1.jpg" alt="summer dance classes" class="my-3">
+                <img src="images/kids-summer-dance-classes-la-crosse-2024-b-2.jpg" alt="summer dance classes" class="my-3">
+                <img src="images/kids-summer-dance-classes-la-crosse-2024-b-3.jpg" alt="summer dance classes" class="my-3">
             </div>
             <div class="text-center d-flex d-inline justify-content-center my-3">
 {{--                <div class="mx-2 px-2"><a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><button class="btn btn-danger btn-lg">Enroll Now!</button></a></div>--}}
