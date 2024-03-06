@@ -74,6 +74,9 @@
                                 <li class="list-group-item px-0 border-0">
                                     <a class="text-decoration-none txt-blue" href="/pc">Audition</a>
                                 </li>
+                                <li class="list-group-item px-0 border-0">
+                                    <a class="text-decoration-none txt-blue" href="/alumni">Alumni</a>
+                                </li>
 
 {{--                                <li class="list-group-item px-0 border-0">--}}
 {{--                                    <a class="text-decoration-none txt-blue" href="/blogs">Blog</a>--}}

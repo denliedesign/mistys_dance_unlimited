@@ -58,14 +58,14 @@
                 <li class="nav-item mx-2">
                     <a class="nav-link" href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank">REGISTER</a>
                 </li>
-                <li class="nav-item mx-2">
-                    <a class="nav-link" href="https://www.thewillowandgrace.com/" target="_blank">BOUTIQUE</a>
-                </li>
 {{--                <li class="nav-item mx-2">--}}
 {{--                    <a class="nav-link" href="https://mistysdance.store/collections/2023-apparel" target="_blank">2023 APPAREL</a>--}}
 {{--                </li>--}}
                 <li class="nav-item mx-2">
-                    <a class="nav-link" href="/alumni">ALUMNI</a>
+                    <a class="nav-link" href="/community-programming">COMMUNITY</a>
+                </li>
+                <li class="nav-item mx-2">
+                    <a class="nav-link" href="https://www.thewillowandgrace.com/" target="_blank">BOUTIQUE</a>
                 </li>
                 <li class="nav-item mx-2">
                     <a href="/promotions" class="nav-link">
