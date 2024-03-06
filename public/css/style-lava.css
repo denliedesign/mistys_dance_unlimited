@@ -597,3 +597,12 @@ body {
 .blog-link-img {
     transition: 0.6s;
 }
+
+#community-calendar a {
+    color: #EBE82E;
+    text-decoration: none;
+}
+
+#community-calendar a:hover {
+    text-decoration: underline;
+}
