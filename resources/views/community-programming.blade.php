@@ -39,10 +39,10 @@
                 <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-3">
                     <div class="col-sm">
                         <h3 style="font-family: 'Pacifico', cursive; font-size: 50px;">March</h3>
-                        <hr><div class="row"><div class="col-2 d-flex align-items-end" style="font-family: 'Pacifico', cursive; font-size: 50px;">8</div><div class="col-10 d-flex align-items-end">St. Pauls Art Show</div></div>
-                        <hr><div class="row"><div class="col-2 d-flex align-items-end" style="font-family: 'Pacifico', cursive; font-size: 50px;">12</div><div class="col-10 d-flex align-items-end">Homeschool Dance Classes<br>9:00 AM - 9:45 AM (Ages 4-6)<br>10:00 AM - 11:00 AM (Ages 7-10)</div></div>
+                        <hr><div class="row"><div class="col-2 d-flex align-items-end" style="font-family: 'Pacifico', cursive; font-size: 50px;">8</div><div class="col-10 d-flex align-items-end">St. Pauls Art Show<br>4:00 PM - 5:00 PM</div></div>
+{{--                        <hr><div class="row"><div class="col-2 d-flex align-items-end" style="font-family: 'Pacifico', cursive; font-size: 50px;">12</div><div class="col-10 d-flex align-items-end">Homeschool Dance Classes<br>9:00 AM - 9:45 AM (Ages 4-6)<br>10:00 AM - 11:00 AM (Ages 7-10)</div></div>--}}
                         <hr><div class="row"><div class="col-2 d-flex align-items-end" style="font-family: 'Pacifico', cursive; font-size: 50px;">13</div><div class="col-10 d-flex align-items-end">Bumble & Tumble<br>9:00 AM - 11:00 AM</div></div>
-                        <hr><div class="row"><div class="col-2 d-flex align-items-end" style="font-family: 'Pacifico', cursive; font-size: 50px;">19</div><div class="col-10 d-flex align-items-end">Homeschool Dance Classes<br>9:00 AM - 9:45 AM (Ages 4-6)<br>10:00 AM - 11:00 AM (Ages 7-10)</div></div>
+{{--                        <hr><div class="row"><div class="col-2 d-flex align-items-end" style="font-family: 'Pacifico', cursive; font-size: 50px;">19</div><div class="col-10 d-flex align-items-end">Homeschool Dance Classes<br>9:00 AM - 9:45 AM (Ages 4-6)<br>10:00 AM - 11:00 AM (Ages 7-10)</div></div>--}}
                         <hr><div class="row"><div class="col-2 d-flex align-items-end" style="font-family: 'Pacifico', cursive; font-size: 50px;">20</div><div class="col-10 d-flex align-items-end">Bumble & Tumble<br>9:00 AM - 11:00 AM</div></div>
 
                         <hr>
@@ -51,7 +51,7 @@
                         <h3 style="font-family: 'Pacifico', cursive; font-size: 50px;">April</h3>
                         <hr><div class="row"><div class="col-2 d-flex align-items-end" style="font-family: 'Pacifico', cursive; font-size: 50px;">2</div><div class="col-10 d-flex align-items-end">Homeschool Dance Classes<br>9:00 AM - 9:45 AM (Ages 4-6)<br>10:00 AM - 11:00 AM (Ages 7-10)</div></div>
                         <hr><div class="row"><div class="col-2 d-flex align-items-end" style="font-family: 'Pacifico', cursive; font-size: 50px;">4</div><div class="col-10 d-flex align-items-end">Sister Circle<br>10:00 AM - 12:00 PM</div></div>
-                        <hr><div class="row"><div class="col-2 d-flex align-items-end" style="font-family: 'Pacifico', cursive; font-size: 50px;">6</div><div class="col-10 d-flex align-items-end">Rummage Sale<br>8:00 AM</div></div>
+                        <hr><div class="row"><div class="col-2 d-flex align-items-end" style="font-family: 'Pacifico', cursive; font-size: 50px;">6</div><div class="col-10 d-flex align-items-end">Rummage Sale<br>9:00 AM</div></div>
                         <hr><div class="row"><div class="col-2 d-flex align-items-end" style="font-family: 'Pacifico', cursive; font-size: 50px;">9</div><div class="col-10 d-flex align-items-end">Homeschool Dance Classes<br>9:00 AM - 9:45 AM (Ages 4-6)<br>10:00 AM - 11:00 AM (Ages 7-10)</div></div>
                         <hr><div class="row"><div class="col-2 d-flex align-items-end" style="font-family: 'Pacifico', cursive; font-size: 50px;">10</div><div class="col-10 d-flex align-items-end">Bumble & Tumble<br>9:00 AM - 11:00 AM</div></div>
                         <hr><div class="row"><div class="col-2 d-flex align-items-end" style="font-family: 'Pacifico', cursive; font-size: 50px;">16</div><div class="col-10 d-flex align-items-end">Homeschool Dance Classes<br>9:00 AM - 9:45 AM (Ages 4-6)<br>10:00 AM - 11:00 AM (Ages 7-10)</div></div>
