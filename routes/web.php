@@ -132,6 +132,10 @@ Route::get('summer', function () {
     return view('summer');
 });
 
+Route::get('_old-summer', function () {
+    return view('_old-summer');
+});
+
 Route::get('fall', function () {
     return view('fall-lava');
 });

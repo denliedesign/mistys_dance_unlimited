@@ -53,7 +53,8 @@
                         <h3 style="font-family: 'Pacifico', cursive; font-size: 50px;">April</h3>
                         <hr><div class="row"><div class="col-2 d-flex align-items-end" style="font-family: 'Pacifico', cursive; font-size: 50px;">2</div><div class="col-10 d-flex align-items-end"><p>Homeschool Dance Classes<br>9:00 AM - 9:45 AM (Ages 4-6)<br>10:00 AM - 11:00 AM (Ages 7-10)<br><a
                                         href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login">Register Now</a></p></div></div>
-                        <hr><div class="row"><div class="col-2 d-flex align-items-end" style="font-family: 'Pacifico', cursive; font-size: 50px;">4</div><div class="col-10 d-flex align-items-end"><p>Sister Circle<br>10:00 AM - 12:00 PM</p></div></div>
+                        <hr><div class="row"><div class="col-2 d-flex align-items-end" style="font-family: 'Pacifico', cursive; font-size: 50px;">4</div><div class="col-10 d-flex align-items-end"><p>Sister Circle<br>10:00 AM - 12:00 PM<br><a
+                                        href="https://sistercircle.co/home/" target="_blank">Learn More</a></p></div></div>
                         <hr><div class="row"><div class="col-2 d-flex align-items-end" style="font-family: 'Pacifico', cursive; font-size: 50px;">6</div><div class="col-10 d-flex align-items-end"><p>Rummage Sale<br>9:00 AM<br><a
                                         href="https://forms.gle/shZpmwv9cCih8cbA9">Sign Up</a></p></div></div>
                         <hr><div class="row"><div class="col-2 d-flex align-items-end" style="font-family: 'Pacifico', cursive; font-size: 50px;">9</div><div class="col-10 d-flex align-items-end"><p>Homeschool Dance Classes<br>9:00 AM - 9:45 AM (Ages 4-6)<br>10:00 AM - 11:00 AM (Ages 7-10)<br><a
@@ -73,7 +74,8 @@
                     </div>
                     <div class="col-sm">
                         <h3 style="font-family: 'Pacifico', cursive; font-size: 50px;">May</h3>
-                        <hr><div class="row"><div class="col-2 d-flex align-items-end" style="font-family: 'Pacifico', cursive; font-size: 50px;">2</div><div class="col-10 d-flex align-items-end"><p>Sister Circle<br>10:00 AM - 12:00 PM</p></div></div>
+                        <hr><div class="row"><div class="col-2 d-flex align-items-end" style="font-family: 'Pacifico', cursive; font-size: 50px;">2</div><div class="col-10 d-flex align-items-end"><p>Sister Circle<br>10:00 AM - 12:00 PM<br><a
+                                        href="https://sistercircle.co/home/" target="_blank">Learn More</a></p></div></div>
                         <hr><div class="row"><div class="col-2 d-flex align-items-end" style="font-family: 'Pacifico', cursive; font-size: 50px;">7</div><div class="col-10 d-flex align-items-end"><p>Homeschool Dance Classes<br>9:00 AM - 9:45 AM (Ages 4-6)<br>10:00 AM - 11:00 AM (Ages 7-10)<br><a
                                         href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login">Register Now</a></p></div></div>
                         <hr><div class="row"><div class="col-2 d-flex align-items-end" style="font-family: 'Pacifico', cursive; font-size: 50px;">8</div><div class="col-10 d-flex align-items-end"><p>Bumble & Tumble<br>9:00 AM - 11:00 AM<br><a
