@@ -474,5 +474,5 @@ Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
 
-//Route::resource('blogs', BlogController::class)->except(['show']);
-//Route::get('/blogs/{blog:slug}', [BlogController::class, 'show'])->name('blogs.show');
+Route::resource('blogs', BlogController::class)->except(['show']);
+Route::get('/blogs/{blog:slug}', [BlogController::class, 'show'])->name('blogs.show');

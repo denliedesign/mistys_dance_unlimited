@@ -15,7 +15,12 @@
     <div class="container" id="adult">
         <p class="text-center fw-bold pb-0 mb-0 font-syne text-muted" style="font-size: 2em;">MDU 2024-25</p>
         <h1 class="font-staat text-center" style="font-size: 100px; line-height: 0.9em;">Performing Groups, Ballet La Crosse & Pre-Professional Ballet Auditions</h1>
-        <p class="font-syne text-center" style="font-size: 22px;">Sign-up coming this week!</p>
+        <p class="font-syne text-center" style="font-size: 22px;">Does your dancer LOVE to perform?</p>
+        <div class="d-flex justify-content-center">
+            <a href="https://docs.google.com/forms/d/e/1FAIpQLSdHrOHpexwXLiz7pSUkw1zNYjEBVtlbwEeyyyTe3M2frzA4Bg/viewform?usp=sf_link" class="" target="_blank">
+                <div class="btn btn-danger btn-lg shadow">Click to learn more!</div>
+            </a>
+        </div>
     </div>
 </div>
 

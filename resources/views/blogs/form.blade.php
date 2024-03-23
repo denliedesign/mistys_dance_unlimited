@@ -18,7 +18,7 @@
 
 <div class="form-group">
     <label for="blog_content">Blog Content</label>
-    <textarea name="blog_content" cols="30" rows="10" class="form-control">{{ old('blog_content') ?? $blog->blog_content }}</textarea>
+    <textarea name="blog_content" cols="30" rows="10" class="form-control" id="mytextarea">{{ old('blog_content') ?? $blog->blog_content }}</textarea>
     <div>{{ $errors->first('blog_content') }}</div>
 </div>
 

@@ -27,7 +27,7 @@
             </div>
             <h1 class="font-staat text-center" style="font-size: 100px; line-height: 0.9em;">{{ $blog->blog_title }}</h1>
             <p class="font-syne" style="font-size: 22px;">
-                {{ $blog->blog_content }}
+                {!! $blog->blog_content !!}
             </p>
             <hr class="my-5">
             <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4">

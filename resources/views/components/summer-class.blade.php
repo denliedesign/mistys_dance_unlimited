@@ -1,8 +1,8 @@
 <!-- card -->
 <div class="col my-3">
     <div class="card" style="border: none;">
-        <div class="d-flex justify-content-center">
-            <img src="/images-lava/{{ $logo }}" class="card-img-top" alt="logo" style="height: 160px; width: auto;">
+        <div class="d-flex justify-content-center align-items-center" style="height: 126px; width: auto;">
+            <img src="/images-lava/{{ $logo }}" alt="logo" style="width: auto; max-height: 100%; max-width: 100%;">
         </div>
         <div class="card-body pb-0">
             <h5 class="card-title font-staat" style="font-size: 1.5em;">{{ $what }}</h5>

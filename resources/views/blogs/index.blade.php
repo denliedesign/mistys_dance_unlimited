@@ -22,7 +22,7 @@
             @endcan
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-3">
                 @foreach($blogs as $blog)
-                    <div class="col d-flex justify-content-center">
+                    <div class="col d-flex justify-content-center my-3">
                         <div>
                             <a href="/blogs/{{ $blog->slug }}">
                                 <img src="{{ asset('/storage/' . $blog->blog_image) }}" class="img-fluid blog-link-img shadow rounded" alt="">
