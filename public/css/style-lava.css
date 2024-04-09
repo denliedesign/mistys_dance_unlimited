@@ -590,6 +590,15 @@ body {
     background-size: cover;
 }
 
+.banner-la-crosse {
+    height: calc(100% - 1px);
+    background-image: url(/images/dance-la-crosse-banner.jpg);
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .blog-link-img:hover {
     filter: contrast(115%) brightness(115%);
 }

@@ -433,6 +433,11 @@ Route::get('get-dance-team', function () {
 Route::get('dance-team', function () {
     return view('dance-team');
 });
+Route::get('dance-onalaska', function () { return view('dance-onalaska'); });
+Route::get('dance-la-crosse', function () { return view('dance-la-crosse'); });
+Route::get('dance-la-crescent', function () { return view('dance-la-crescent'); });
+Route::get('dance-west-salem', function () { return view('dance-west-salem'); });
+Route::get('dance-holmen', function () { return view('dance-holmen'); });
 
 Route::get('community-programming', function () {
     return view('community-programming');

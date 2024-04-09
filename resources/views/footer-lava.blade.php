@@ -113,10 +113,11 @@
 </div>
 <p id="credit" class="bg-dark text-center pb-3 m-0 font-syne text-muted px-4">
     <a class="text-decoration-none" href="https://denliedesign.com/" target="_blank"><small class="text-muted">Dance Website Design by Denlie Design</small></a><br>
-    <a class="text-decoration-none" href="/dance-studios-in-la-crosse-wi"><small class="text-muted">Dance Studios in La Crosse WI</small></a>
-    &nbsp; &middot; &nbsp; <a class="text-decoration-none" href="/dance-classes-in-la-crosse-wi"><small class="text-muted">Dance Classes in La Crosse WI</small></a>
-    &nbsp; &middot; &nbsp; <a class="text-decoration-none" href="/west-salem-dance"><small class="text-muted">West Salem Dance</small></a>
-    &nbsp; &middot; &nbsp; <a class="text-decoration-none" href="/dance-studios-in-west-salem-wi"><small class="text-muted">Dance Studios in West Salem WI</small></a>
+    <a class="text-decoration-none" href="/dance-la-crosse"><small class="text-muted">Dance La Crosse</small></a>
+    &nbsp; &middot; &nbsp; <a class="text-decoration-none" href="/dance-onalaska"><small class="text-muted">Dance Onalaska</small></a>
+    &nbsp; &middot; &nbsp; <a class="text-decoration-none" href="/dance-holmen"><small class="text-muted">Dance Holmen</small></a>
+    &nbsp; &middot; &nbsp; <a class="text-decoration-none" href="/dance-west-salem"><small class="text-muted">Dance West Salem</small></a>
+    &nbsp; &middot; &nbsp; <a class="text-decoration-none" href="/dance-la-crescent"><small class="text-muted">Dance La Crescent</small></a>
     &nbsp; &middot; &nbsp; <a class="text-decoration-none" href="/dance-team"><small class="text-muted">Dance Team</small></a>
 </p>
 <div id="bottom"></div>
