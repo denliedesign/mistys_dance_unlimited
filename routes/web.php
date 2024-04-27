@@ -408,6 +408,10 @@ Route::get('dance-studios-in-west-salem-wi', function () {
     return view('dance-studios-in-west-salem-wi');
 });
 
+Route::get('la-crosse-dance', function () {
+    return view('la-crosse-dance');
+});
+
 Route::get('west-salem-dance', function () {
     return view('west-salem-dance');
 });

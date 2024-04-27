@@ -23,6 +23,7 @@
             <div class="text-center">
                 <a class="text-decoration-none" href="/dance-studios-in-la-crosse-wi"><small class="text-muted">Dance Studios in La Crosse WI</small></a>
                 &nbsp; &middot; &nbsp; <a class="text-decoration-none" href="/dance-classes-in-la-crosse-wi"><small class="text-muted">Dance Classes in La Crosse WI</small></a>
+                &nbsp; &middot; &nbsp; <a class="text-decoration-none" href="/la-crosse-dance"><small class="text-muted">La Crosse Dance</small></a>
             </div>
         </div>
     </div>

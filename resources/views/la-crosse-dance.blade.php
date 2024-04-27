@@ -1,6 +1,6 @@
 @extends('layouts.app-lava')
-@section('title', 'Dance Classes in La Crosse WI | Misty\'s Dance Unlimited')
-@section('description', 'Experience the joy of dance at MDU in La Crosse, WI! Discover a variety of dance classes for all ages, taught by experienced instructors, and join a community that values passion and performance.')
+@section('title', 'La Crosse Dance | Misty\'s Dance Unlimited')
+@section('description', 'Unlock your potential at MDU in La Crosse, WI! Join our diverse community of dancers and experience classes taught by expert instructors dedicated to your growth in dance and beyond.')
 @section('content')
 
     <div class="banner-wrap d-none d-md-block" style="position: relative;">
@@ -17,13 +17,13 @@
             <div class="row">
                 <div class="col-sm">
                     <div class="d-flex justify-content-center align-items-center" style="height: 100%;">
-                        <img src="/images/dance-studios-la-crosse.jpg" alt="dancers" class="img-fluid">
+                        <img src="/images/la-crosse-dance-studios.jpg" alt="dancers" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-sm">
-                    <h3 class="font-staat" style="font-size: 100px; line-height: 0.9em;">Explore Our Diverse Dance Classes in La Crosse</h3>
+                    <h3 class="font-staat" style="font-size: 100px; line-height: 0.9em;">Discover Dance Classes in La Crosse Tailored for You</h3>
                     <p class="font-syne" style="font-size: 22px;">
-                        At Misty's Dance Unlimited, we offer an extensive range of dance classes in La Crosse to suit all ages and skill levels. Whether you're interested in ballet, jazz, hip-hop, or contemporary dance, our studio is equipped to provide you with top-notch training. Our classes are designed to enhance technique, creativity, and confidence, making us a leading choice for dance lessons in La Crosse.
+                        Misty's Dance Unlimited in La Crosse is your destination for high-quality dance education. From ballet and tap to modern and street dance, our studio offers a comprehensive range of styles to meet the needs of any dancer. Our dance lessons in La Crosse focus on developing technique, expression, and the love for the arts in a supportive environment.
                     </p>
                     <div class="d-flex justify-content-center">
                         <a href="/fall">
@@ -35,9 +35,9 @@
             <hr class="my-5">
             <div class="row">
                 <div class="col-sm">
-                    <h3 class="font-staat" style="font-size: 100px; line-height: 0.9em;">Meet Our Expert Dance Instructors in La Crosse</h3>
+                    <h3 class="font-staat" style="font-size: 100px; line-height: 0.9em;">Expert Instructors at Our La Crosse Dance Studio</h3>
                     <p class="font-syne" style="font-size: 22px;">
-                        Our dance teachers at Misty's Dance Unlimited are not just instructors—they are mentors who bring a wealth of experience and passion to our La Crosse dance studios. Each teacher is dedicated to nurturing students' skills and helping them achieve their fullest potential in dance. With a commitment to excellence and a love for teaching, our faculty stands out in the La Crosse dance community.
+                        The backbone of Misty's Dance Unlimited is our team of passionate and skilled instructors. Each member of our La Crosse dance studios has a unique background and is dedicated to fostering an environment where students can thrive and excel in dance. Their expertise and nurturing approach make our dance classes in La Crosse both enjoyable and enriching.
                     </p>
                     <div class="d-flex justify-content-center">
                         <a href="/aboutus">
@@ -47,7 +47,7 @@
                 </div>
                 <div class="col-sm">
                     <div class="d-flex justify-content-center align-items-center" style="height: 100%;">
-                        <img src="/images/dance-classes-la-crosse.jpg" alt="dancers" class="img-fluid">
+                        <img src="/images/la-crosse-dance-lessons.jpg" alt="dancers" class="img-fluid">
                     </div>
                 </div>
             </div>
@@ -55,13 +55,13 @@
             <div class="row">
                 <div class="col-sm">
                     <div class="d-flex justify-content-center align-items-center" style="height: 100%;">
-                        <img src="/images/dance-lessons-la-crosse.jpg" alt="dancers" class="img-fluid">
+                        <img src="/images/la-crosse-dance-classes.jpg" alt="dancers" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-sm">
-                    <h3 class="font-staat" style="font-size: 100px; line-height: 0.9em;">Our Values and Community Engagement in La Crosse</h3>
+                    <h3 class="font-staat" style="font-size: 100px; line-height: 0.9em;">Embracing Values and Community at Our La Crosse Dance Studio</h3>
                     <p class="font-syne" style="font-size: 22px;">
-                        Misty's Dance Unlimited is more than just a dance studio—we are a vibrant community of dancers, families, and staff connected by our shared values of respect, integrity, and dedication to the art of dance. Located in the heart of La Crosse, we pride ourselves on creating an inclusive environment where everyone is welcome to express themselves and grow not only as dancers but as individuals.
+                        At Misty's Dance Unlimited, we believe in the power of dance to build community and character. Our studio in La Crosse is a place where dancers can grow in a culture of respect, teamwork, and continuous improvement. We are committed to contributing positively to our local community and encouraging our students to do the same.
                     </p>
                     <div class="d-flex justify-content-center">
                         <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank">
