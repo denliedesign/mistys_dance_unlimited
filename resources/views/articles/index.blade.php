@@ -5,28 +5,28 @@
 
 @section('content')
 
-{{--    <div class="container">--}}
-{{--        <div class="d-flex justify-content-center py-5 mx-5">--}}
-{{--            <div>--}}
-{{--                @can('update', \App\Video::class)--}}
-{{--                    <p class="text-center"><a class="text-white" href="/videos/create">Add New Video</a></p>--}}
-{{--                @endcan--}}
-{{--                @foreach($videos as $video)--}}
-{{--                    <div>{!! $video->embed !!}</div>--}}
-{{--                    @can('update', \App\Video::class)--}}
-{{--                        <div class="d-flex justify-content-center">--}}
-{{--                            <form action="/videos/{{ $video->id }}" method="POST">--}}
-{{--                                @method('DELETE')--}}
-{{--                                @csrf--}}
+    <div class="container">
+        <div class="d-flex justify-content-center py-5 mx-5">
+            <div>
+                @can('update', \App\Video::class)
+                    <p class="text-center"><a class="text-white" href="/videos/create">Add New Video</a></p>
+                @endcan
+                @foreach($videos as $video)
+                    <div style="overflow: hidden; height: 350px; max-width: 600px; width: 100%;">{!! $video->embed !!}</div>
+                    @can('update', \App\Video::class)
+                        <div class="d-flex justify-content-center">
+                            <form action="/videos/{{ $video->id }}" method="POST">
+                                @method('DELETE')
+                                @csrf
 
-{{--                                <button class="btn btn-danger ml-4" type="submit" style="border: 1px solid white;">Delete</button>--}}
-{{--                            </form>--}}
-{{--                        </div>--}}
-{{--                    @endcan--}}
-{{--                @endforeach--}}
-{{--            </div>--}}
-{{--        </div>--}}
-{{--    </div>--}}
+                                <button class="btn btn-danger ml-4" type="submit" style="border: 1px solid white;">Delete</button>
+                            </form>
+                        </div>
+                    @endcan
+                @endforeach
+            </div>
+        </div>
+    </div>
 
 {{--    <div class="banner-wrap d-none d-md-block">--}}
 {{--        <div class="banner"></div>--}}
