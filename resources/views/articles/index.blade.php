@@ -12,7 +12,7 @@
                     <p class="text-center"><a class="text-white" href="/videos/create">Add New Video</a></p>
                 @endcan
                 @foreach($videos as $video)
-{{--                    <div>{!! $video->embed !!}</div>--}}
+                    <div>{!! $video->embed !!}</div>
                     @can('update', \App\Video::class)
                         <div class="d-flex justify-content-center">
                             <form action="/videos/{{ $video->id }}" method="POST">
