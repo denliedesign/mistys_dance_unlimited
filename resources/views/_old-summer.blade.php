@@ -57,7 +57,7 @@
                     why="Engage, explore, and express in this movement and music class for toddlers and their grownups. "
                 />
                 <x-summer-class
-                    logo=""
+                    logo="Fairytale-Ballet.png"
                     what="Fairytale Ballet"
                     who="3-4"
                     when="Thursdays, June 6-27, 5:00-5:30pm<br>Tuesdays, July 2-23, 5:30-6:00pm"
