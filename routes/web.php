@@ -437,6 +437,12 @@ Route::get('get-dance-team', function () {
 Route::get('dance-team', function () {
     return view('dance-team');
 });
+Route::get('dance-camp-la-crosse', function () {
+    return view('dance-camp-la-crosse');
+});
+Route::get('ballet-camps-la-crosse', function () {
+    return view('ballet-camps-la-crosse');
+});
 Route::get('dance-onalaska', function () { return view('dance-onalaska'); });
 Route::get('dance-la-crosse', function () { return view('dance-la-crosse'); });
 Route::get('dance-la-crescent', function () { return view('dance-la-crescent'); });
