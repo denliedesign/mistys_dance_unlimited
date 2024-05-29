@@ -49,9 +49,9 @@
                 <li class="nav-item mx-2">
                     <a class="nav-link" href="/articles">NEWS</a>
                 </li>
-                <li class="nav-item mx-2">
-                    <a class="nav-link" href="/recital">RECITAL</a>
-                </li>
+{{--                <li class="nav-item mx-2">--}}
+{{--                    <a class="nav-link" href="/recital">RECITAL</a>--}}
+{{--                </li>--}}
 {{--                <li class="nav-item mx-2">--}}
 {{--                    <a class="nav-link" href="/pc">AUDITION</a>--}}
 {{--                </li>--}}

@@ -12,8 +12,13 @@
 */
 
 use App\Blog;
+use App\Http\Controllers\Auth\ForgotPasswordController;
+use App\Http\Controllers\Auth\LoginController;
+use App\Http\Controllers\Auth\RegisterController;
+use App\Http\Controllers\Auth\ResetPasswordController;
 use App\Http\Controllers\BlogController;
 use App\Http\Controllers\HubController;
+use App\Http\Controllers\PlacementController;
 use App\Http\Controllers\PostController;
 use App\Http\Controllers\StudentController;
 use App\Post;
@@ -22,6 +27,10 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
     return view('welcome-lava');
+});
+
+Route::get('/errors/no_placement', function () {
+    return view('/errors/no_placement');
 });
 
 Route::get('aboutus', function () {
@@ -482,15 +491,36 @@ Route::resource('videos', 'VideoController');
 //Route::resource('recitals/tickets', 'TicketController');
 //Route::resource('recitals/photos', 'PhotoController');
 //Route::resource('recitals/volunteers', 'VolunteerController');
-Route::resource('students', 'StudentController');
+//Route::resource('students', 'StudentController');
 //Route::resource('contents', StudentController::class);
 Route::resource('updates', 'UpdateController');
 Route::resource('fests', 'FestController');
 Route::resource('hubs', 'HubController');
 
-Auth::routes();
+//Auth::routes();
 
-Route::get('/home', 'HomeController@index')->name('home');
+//Route::get('/home', 'HomeController@index')->name('home');
 
 Route::resource('blogs', BlogController::class)->except(['show']);
 Route::get('/blogs/{blog:slug}', [BlogController::class, 'show'])->name('blogs.show');
+
+Route::middleware(['auth', 'redirect.user'])->group(function () {
+    Route::get('/dashboard', function () {
+    });
+    Route::resource('placements', PlacementController::class);
+});
+
+// Login Routes
+Route::get('login', [LoginController::class, 'showLoginForm'])->name('login');
+Route::post('login', [LoginController::class, 'login']);
+Route::post('logout', [LoginController::class, 'logout'])->name('logout');
+
+// Registration Routes
+Route::get('register', [RegisterController::class, 'showRegistrationForm'])->name('register');
+Route::post('register', [RegisterController::class, 'register']);
+
+// Password Reset Routes
+Route::get('password/reset', [ForgotPasswordController::class, 'showLinkRequestForm'])->name('password.request');
+Route::post('password/email', [ForgotPasswordController::class, 'sendResetLinkEmail'])->name('password.email');
+Route::get('password/reset/{token}', [ResetPasswordController::class, 'showResetForm'])->name('password.reset');
+Route::post('password/reset', [ResetPasswordController::class, 'reset']);

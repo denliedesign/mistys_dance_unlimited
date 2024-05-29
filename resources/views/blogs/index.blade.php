@@ -16,7 +16,7 @@
 
     <div class="bg-white">
         <div class="container pb-5 pt-3">
-            <h1 class="font-staat text-center" style="font-size: 100px; line-height: 0.9em;">Blog</h1>
+            <h1 class="font-staat text-center" style="font-size: 100px; line-height: 0.9em;">Dance Blog</h1>
             @can('update', \App\Blog::class)
                 <p class="text-center"><a href="{{ route('blogs.create') }}">Create New Blog Post</a></p>
             @endcan
