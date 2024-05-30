@@ -18,7 +18,6 @@ use App\Http\Controllers\Auth\RegisterController;
 use App\Http\Controllers\Auth\ResetPasswordController;
 use App\Http\Controllers\BlogController;
 use App\Http\Controllers\HubController;
-use App\Http\Controllers\PlacementController;
 use App\Http\Controllers\PostController;
 use App\Http\Controllers\StudentController;
 use App\Post;
@@ -501,13 +500,13 @@ Route::resource('hubs', 'HubController');
 
 //Route::get('/home', 'HomeController@index')->name('home');
 
-Route::resource('blogs', BlogController::class)->except(['show']);
-Route::get('/blogs/{blog:slug}', [BlogController::class, 'show'])->name('blogs.show');
+Route::resource('blogs', 'BlogController')->except(['show']);
+Route::get('/blogs/{blog:slug}', ['BlogController', 'show'])->name('blogs.show');
 
 Route::middleware(['auth', 'redirect.user'])->group(function () {
     Route::get('/dashboard', function () {
     });
-    Route::resource('placements', PlacementController::class);
+    Route::resource('placements', 'PlacementController');
 });
 
 // Login Routes
