@@ -2,7 +2,7 @@
 
 namespace App;
 
-use Illuminate\Database\Eloquent\Factories\HasFactory;
+//use Illuminate\Database\Eloquent\Factories\HasFactory;
 use Illuminate\Database\Eloquent\Model;
 use Cviebrock\EloquentSluggable\Sluggable;
 
@@ -14,7 +14,7 @@ use Cviebrock\EloquentSluggable\Sluggable;
 class Blog extends Model
 {
     use Sluggable;
-    use HasFactory;
+//    use HasFactory;
     protected $guarded = [];
     protected $dates = ['blog_date'];
 
