@@ -5,6 +5,7 @@ namespace App\Http\Middleware;
 use App\Placement;
 use Closure;
 use Illuminate\Http\Request;
+use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Facades\Log;
 use Symfony\Component\HttpFoundation\Response;
 
@@ -18,8 +19,14 @@ class RedirectUser
                 return $next($request);
         }
 
+        // Normalize user email
+        $normalizedEmail = strtolower(trim($user->email));
+
         // Check if there is a placement associated with this email
-        $placement = Placement::where('email', $user->email)->first();
+        $placement = Placement::where(DB::raw('LOWER(TRIM(email))'), $normalizedEmail)->first();
+
+        // Check if there is a placement associated with this email
+//        $placement = Placement::where('email', $user->email)->first();
         if (!$placement) {
             // No placement associated; redirect to a friendly error page
             return response()->view('errors.no_placement');
