@@ -23,10 +23,14 @@ class PlacementController extends Controller
     // Store a newly created placement in the database
     public function store(Request $request)
     {
-        $validatedData = $request->validate([
+        $parentEmail = $request->input('email');
+        list($localPart, $domain) = explode('@', $parentEmail);
+        $childIndex = Placement::where('email', 'LIKE', "$localPart+child%@".$domain)->count() + 1;
+        $childEmail = $localPart . '+child' . $childIndex . '@' . $domain;
+        $request->validate([
             'firstName' => 'nullable|string|max:255',
             'lastName' => 'nullable|string|max:255',
-            'email' => 'required|email|unique:placements,email',
+            'email' => 'required|email',
             'ballet' => 'nullable|string|max:255',
             'tap' => 'nullable|string|max:255',
             'jazz' => 'nullable|string|max:255',
@@ -36,13 +40,46 @@ class PlacementController extends Controller
             'comment' => 'nullable|string',
         ]);
 
-        Placement::create($validatedData);
+        Placement::create([
+            'firstName' => $request->input('firstName'),
+            'lastName' => $request->input('lastName'),
+            'email' => $childEmail,
+            'ballet' => $request->input('ballet'),
+            'tap' => $request->input('tap'),
+            'jazz' => $request->input('jazz'),
+            'pointe' => $request->input('pointe'),
+            'acro' => $request->input('acro'),
+            'recommendation' => $request->input('recommendation'),
+            'comment' => $request->input('comment'),
+        ]);
+
+//        Placement::create($validatedData);
         return redirect()->route('placements.index')->with('success', 'Dancer added successfully.');
     }
 
-    // Display the specified placement
-    public function show(Placement $placement)
-    {
+    public function showAll(Request $request) {
+        $user = auth()->user();
+        $parentEmail = $user->email; // Assume the parent's email is stored in the authenticated user
+        list($localPart, $domain) = explode('@', $parentEmail);
+        $parentEmailPattern = $localPart . '%@' . $domain;
+
+        // Retrieve all placements associated with the parent's email pattern
+        $placements = Placement::where('email', 'LIKE', $parentEmailPattern)->get();
+
+        if ($placements->isEmpty()) {
+            return view('errors.no_placement'); // Show a message if no placements found
+        }
+
+        return view('placements.show', compact('placements'));
+    }
+
+    private function stripEmailSuffix($email) {
+        return preg_replace('/\+child\d+@/', '@', $email);
+    }
+
+    // Method to show an individual placement
+    public function show($id) {
+        $placement = Placement::findOrFail($id);
         return view('placements.show', compact('placement'));
     }
 

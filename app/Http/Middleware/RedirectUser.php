@@ -16,27 +16,28 @@ class RedirectUser
         $user = auth()->user();
         if ($user->email === 'customdenlie@gmail.com') {
             // Admin user; let them proceed to the route as usual
-                return $next($request);
+            return $next($request);
         }
 
         // Normalize user email
         $normalizedEmail = strtolower(trim($user->email));
+        list($localPart, $domain) = explode('@', $normalizedEmail);
+        $parentEmailPattern = $localPart . '%@' . $domain;
 
-        // Check if there is a placement associated with this email
-        $placement = Placement::where(DB::raw('LOWER(TRIM(email))'), $normalizedEmail)->first();
+        // Check if there are placements associated with this email pattern
+        $placements = Placement::where('email', 'LIKE', $parentEmailPattern)->get();
 
-        // Check if there is a placement associated with this email
-//        $placement = Placement::where('email', $user->email)->first();
-        if (!$placement) {
+        if ($placements->isEmpty()) {
             // No placement associated; redirect to a friendly error page
             return response()->view('errors.no_placement');
         }
 
-        if ($request->is('placements/' . $placement->id)) {
-            return $next($request);
+        // Ensure we're not already on the placements.showAll route
+        if ($request->route()->getName() !== 'placements.showAll') {
+            // Redirect to the general placements show page
+            return redirect()->route('placements.showAll');
         }
 
-        // Redirect to their specific placement show page
-        return redirect()->route('placements.show', $placement->id);
+        return $next($request);
     }
 }

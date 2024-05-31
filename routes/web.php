@@ -505,7 +505,10 @@ Route::get('/blogs/{blog:slug}', ['BlogController', 'show'])->name('blogs.show')
 
 Route::middleware(['auth', 'redirect.user'])->group(function () {
     Route::get('/dashboard', function () {
+        // Your dashboard logic here
     });
+
+    Route::get('/placements/showAll', 'PlacementController@showAll')->name('placements.showAll');
     Route::resource('placements', 'PlacementController');
 });
 
