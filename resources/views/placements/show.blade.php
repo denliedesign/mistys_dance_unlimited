@@ -1,7 +1,7 @@
 @extends('layouts.app-place')
 @section('content')
 
-    @can('viewAny', \App\Placement::class)
+{{--    @can('viewAny', \App\Placement::class)--}}
 @if(isset($placements))
     @foreach($placements as $placement)
         <div style="position: relative; background: linear-gradient(to bottom left, #008CC0, #ED174D); min-height: 100vh; height: 100%;" class="p-5 d-flex align-items-center">
@@ -97,9 +97,9 @@
         </div>
     </div>
     @endif
-        @else
-        <div class="container d-flex align-items-center justify-content-center" style="min-height: 100vh; height: 100%;"><h2 class="fw-bold">You do not have permission to view this page.</h2></div>
-    @endcan
+{{--        @else--}}
+{{--        <div class="container d-flex align-items-center justify-content-center" style="min-height: 100vh; height: 100%;"><h2 class="fw-bold">You do not have permission to view this page.</h2></div>--}}
+{{--    @endcan--}}
 
 <script>
     document.addEventListener('DOMContentLoaded', function () {
