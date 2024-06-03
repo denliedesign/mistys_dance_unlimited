@@ -97,7 +97,7 @@
         </div>
     </div>
     @endif
-{{--        @else--}}
+        @else
         <div class="container d-flex align-items-center justify-content-center" style="min-height: 100vh; height: 100%;"><h2 class="fw-bold">You do not have permission to view this page.</h2></div>
     @endcan
 
