@@ -39,12 +39,12 @@
                                 <li class="nav-item mx-2">
                                     <a class="nav-link" href="/summer">SUMMER</a>
                                 </li>
+                <li class="nav-item mx-2">
+                    <a class="nav-link" href="/fall">FALL</a>
+                </li>
 
 {{--                <li class="nav-item mx-2">--}}
 {{--                    <a class="nav-link" href="/community-programming">PROGRAMS</a>--}}
-{{--                </li>--}}
-{{--                <li class="nav-item mx-2">--}}
-{{--                    <a class="nav-link" href="/fall">SCHEDULE</a>--}}
 {{--                </li>--}}
                 <li class="nav-item mx-2">
                     <a class="nav-link" href="/articles">NEWS</a>
