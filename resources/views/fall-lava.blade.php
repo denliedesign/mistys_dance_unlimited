@@ -18,7 +18,7 @@
 {{--                        Enrollment has closed for our full dance season which runs mid August through mid May.<br>We invite you to check out our mini sessions.--}}
 {{--                    </p>--}}
                     <div class="m-2 px-2">
-                        <a href="/images/24-25-fall-schedule.pdf" target="_blank"><button class="btn btn-green btn-lg btn-family">VIEW CLASS SCHEDULE PDF</button></a>
+                        <a href="/images/24-25-fall-b.pdf" target="_blank"><button class="btn btn-green btn-lg btn-family">VIEW CLASS SCHEDULE PDF</button></a>
                     </div>
 {{--                    <div class="m-2 px-2">--}}
 {{--                        <a href="/images-lava/dress-code-22-23.pdf" target="_blank"><button class="text-white btn btn-blue btn-lg btn-family">VIEW DRESS CODE</button></a>--}}
