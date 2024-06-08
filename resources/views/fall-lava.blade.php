@@ -36,15 +36,15 @@
                 </div>
             </div>
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-2">
-                <img src="/images/24-25-fall-schedule_page-0001.jpg" alt="fall schedule" class="img-fluid p-1">
-                <img src="/images/24-25-fall-schedule_page-0002.jpg" alt="fall schedule" class="img-fluid p-1">
-                <img src="/images/24-25-fall-schedule_page-0003.jpg" alt="fall schedule" class="img-fluid p-1" id="age-2-4">
-                <img src="/images/24-25-fall-schedule_page-0004.jpg" alt="fall schedule" class="img-fluid p-1" id="age-k-1st">
-                <img src="/images/24-25-fall-schedule_page-0005.jpg" alt="fall schedule" class="img-fluid p-1" id="age-2nd-3rd">
-                <img src="/images/24-25-fall-schedule_page-0006.jpg" alt="fall schedule" class="img-fluid p-1" id="age-graded">
-                <img src="/images/24-25-fall-schedule_page-0007.jpg" alt="fall schedule" class="img-fluid p-1" id="age-teen">
-                <img src="/images/24-25-fall-schedule_page-0008.jpg" alt="fall schedule" class="img-fluid p-1">
-                <img src="/images/24-25-fall-schedule_page-0009.jpg" alt="fall schedule" class="img-fluid p-1" id="age-guys">
+                <img src="/images/24-25-fall-b1.jpg" alt="fall schedule" class="img-fluid p-1">
+                <img src="/images/24-25-fall-b2.jpg" alt="fall schedule" class="img-fluid p-1">
+                <img src="/images/24-25-fall-b3.jpg" alt="fall schedule" class="img-fluid p-1" id="age-2-4">
+                <img src="/images/24-25-fall-b4.jpg" alt="fall schedule" class="img-fluid p-1" id="age-k-1st">
+                <img src="/images/24-25-fall-b5.jpg" alt="fall schedule" class="img-fluid p-1" id="age-2nd-3rd">
+                <img src="/images/24-25-fall-b6.jpg" alt="fall schedule" class="img-fluid p-1" id="age-graded">
+                <img src="/images/24-25-fall-b7.jpg" alt="fall schedule" class="img-fluid p-1" id="age-teen">
+                <img src="/images/24-25-fall-b8.jpg" alt="fall schedule" class="img-fluid p-1">
+                <img src="/images/24-25-fall-b9.jpg" alt="fall schedule" class="img-fluid p-1" id="age-guys">
 {{--                <img src="/images/24-25-fall-schedule_page-0010.jpg" alt="fall schedule" class="img-fluid p-1">--}}
 {{--                <img src="/images/24-25-fall-schedule_page-0011.jpg" alt="fall schedule" class="img-fluid p-1">--}}
 {{--                <img src="/images/24-25-fall-schedule_page-0012.jpg" alt="fall schedule" class="img-fluid p-1">--}}
