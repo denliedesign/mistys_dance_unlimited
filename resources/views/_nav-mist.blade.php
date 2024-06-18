@@ -1,5 +1,5 @@
 @include('/desktop/home/_navigation')
-<div class="d-block d-md-none">
+<div class="d-block d-lg-none">
     <div class="d-flex justify-content-between my-3">
         <div class="mx-4">
             <a href="/"><img src="/images-mist/logo-mdu.png" alt="mdu logo" class="img-fluid" style="height: 50px; width: auto;"></a>
