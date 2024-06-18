@@ -3,7 +3,7 @@
 
     <div class="bg-white">
         <div class="container pb-5 pt-3">
-            <p class="fw-bold pb-0 mb-0 poppins text-muted" style="font-size: 30px;">MDU 2024-2025</p>
+            <p class="pb-0 mb-0 poppins text-muted" style="font-size: 30px;">MDU 2024-2025</p>
             <h1 class="born-7 poppins fw-bold p-0 m-0" style="font-size: 45px;">Class Schedule</h1>
             <div style="background: #008CC0; color: white; font-size: 20px;" class="btn poppins fw-bold btn-interact"><a class="text-white text-decoration-none" href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank">Enroll Now!</a></div>
             <div style="background: #008CC0; color: white; font-size: 20px;" class="btn poppins fw-bold btn-interact ms-3"><a class="text-white text-decoration-none" href="/images/24-25-fall-b.pdf" target="_blank">View Class Schedule PDF</a></div>

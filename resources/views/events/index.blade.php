@@ -10,7 +10,7 @@
             <h1 class="born-7 poppins fw-bold p-0 m-0" style="font-size: 45px;">Calendar of Events</h1>
 
             <div class="row poppins">
-                <div class="col-sm-8">
+                <div class="col-sm-8 d-flex align-items-center">
                     <div>
 
                         @foreach($events as $event)

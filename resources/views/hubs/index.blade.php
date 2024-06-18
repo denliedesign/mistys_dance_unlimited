@@ -6,7 +6,7 @@
 @section('content')
 
     <div class="bg-white pb-5 poppins mx-4">
-        <h1 class="born-7 poppins fw-bold p-0 m-0" style="font-size: 45px;">Spring Recital Hub</h1>
+        <h1 class="born-7 text-center poppins fw-bold p-0 m-0" style="font-size: 45px;">Spring Recital Hub</h1>
     @can('update', \App\Hub::class)
             <p class="text-center"><a href="/hubs/create">Create New Hub</a></p>
         @endcan

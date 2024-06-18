@@ -33,7 +33,7 @@
 {{--    </div>--}}
 
     <div class="bg-white pb-5 poppins">
-        <h1 class="born-7 poppins fw-bold p-0 m-0" style="font-size: 45px;">News</h1>
+        <h1 class="born-7 text-center poppins fw-bold p-0 m-0" style="font-size: 45px;">News</h1>
     @can('update', \App\Article::class)
             <p class="text-center"><a href="/articles/create">Create New Article</a></p>
         @endcan

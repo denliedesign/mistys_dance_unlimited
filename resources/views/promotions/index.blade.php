@@ -3,7 +3,7 @@
 @section('content')
 
     <div class="bg-white pb-5 poppins">
-        <h1 class="born-7 poppins fw-bold p-0 my-0 mx-4" style="font-size: 45px;">Promotions</h1>
+        <h1 class="born-7 text-center poppins fw-bold p-0 my-0 mx-4" style="font-size: 45px;">Promotions</h1>
     @can('update', \App\Promotion::class)
             <p class="text-center"><a href="promotions/create">New Promotion</a></p>
         @endcan
