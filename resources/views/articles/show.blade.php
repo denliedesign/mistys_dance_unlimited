@@ -5,8 +5,8 @@
 @section('content')
 
     <div class="bg-white py-5 poppins mx-4">
-        <img src="{{ asset('/storage/' . $article->newsImage) }}" alt="" class="img-fluid" style="max-width: 400px; height: auto;">
-        <h1 class="born-7 poppins fw-bold pt-5 px-0 m-0" style="font-size: 45px;">{{ $article->newsTitle }}</h1>
+        <img src="{{ asset('/storage/' . $article->newsImage) }}" alt="" class="img-fluid" style="max-width: 400px; width: 100%; height: auto;">
+        <h1 class="born-7 poppins text-muted pt-5 px-0 m-0" style="font-size: 45px;">{{ $article->newsTitle }}</h1>
         <h1 class="born-7 poppins fw-bold pb-5 px-0 m-0" style="font-size: 45px;">{{ $article->articleTitle }}</h1>
         <div class="pb-5 poppins">
             <p>{!! $article->articleContent !!}</p>

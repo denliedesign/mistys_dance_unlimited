@@ -124,8 +124,8 @@
                 </div>
             </div>
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-2 row-cols-lg-4">
-                <div class="col-sm poppins d-none d-lg-block" style="font-size: 80px; transform: rotate(-90deg) translate(-50%, -50%); height: 100%;">teachers</div>
-                <div class="col-sm mt-3 d-flex align-items-center poppins d-block d-lg-none" style="font-size: 80px;">teachers</div>
+                <div class="col-sm poppins d-none d-lg-block" style="font-size: 60px; transform: rotate(-90deg) translate(-50%, -50%); height: 100%;">teachers</div>
+                <div class="col-sm mt-3 d-flex align-items-center poppins d-block d-lg-none" style="font-size: 60px;">teachers</div>
                 <div class="col-sm mt-3" style="height: 100%;">
                     <div style="position: relative;">
                         <img src="/images-lava/staff-addi.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px;">
