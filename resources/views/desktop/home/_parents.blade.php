@@ -1,5 +1,10 @@
-<section class="d-none d-md-block mx-5" style="position: relative;">
-    <div class="rounded list-overlay" style="height: 100%; width: 100%; background: linear-gradient(transparent, white); position: absolute; pointer-events: none; z-index: 0;"></div>
+<section class="d-none d-lg-block mx-5" style="position: relative;">
+    <div class="rounded list-overlay" style="height: 100%; width: 100%; background: -webkit-linear-gradient(transparent, white); /* For Safari and older Chrome */
+background: -moz-linear-gradient(transparent, white); /* For Firefox */
+background: -o-linear-gradient(transparent, white); /* For older Opera */
+background: -ms-linear-gradient(transparent, white); /* For older IE */
+background: linear-gradient(transparent, white); /* Standard syntax */
+ position: absolute; pointer-events: none; z-index: 0;"></div>
     <div class="fw-bold poppins p-0" style="font-size: 40px; line-height: 0.9;">Parents <ion-icon name="heart"></ion-icon><br><span style="color: #ED174D;">Misty's Dance Unlimited...</span></div>
     <div class="fw-bold poppins hover-red p-0 my-4" style="font-size: 60px;">Background checked staff</div>
     <div class="fw-bold poppins hover-blue p-0 my-4" style="font-size: 60px;">CPR Certified</div>

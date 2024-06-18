@@ -1,4 +1,4 @@
-<div class="mx-4 d-none d-md-block">
+<div class="mx-4 d-none d-lg-block">
     <div class="d-flex justify-content-center"><img src="/images-mist/cta-bottom.png" alt="" class="img-fluid" style="height: 600px; width: auto;"></div>
     <h1 class="born-7 poppins fw-bold p-0 m-0 text-center" style="font-size: 60px; transform: translateY(45px); opacity: 0;">See what dance can do for your child!</h1>
     <div class="born-8 text-center" style="transform: translateY(45px); opacity: 0;">

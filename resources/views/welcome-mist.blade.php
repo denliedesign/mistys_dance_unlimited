@@ -6,7 +6,7 @@
 
     <div class="" style="height: 125px;"></div>
 
-    <div class="d-block d-md-none mx-4">
+    <div class="d-block d-lg-none mx-4">
         <h1 class="born-1 poppins fw-bold p-0 m-0" style="font-size: 45px; transform: translateY(45px); opacity: 0;">You belong here <span style="color: #ED174D;"><ion-icon name="heart"></ion-icon></span></h1>
         <div class="born-2" style="transform: translateY(45px); opacity: 0;">
             <h2 class="poppins p-0 m-0 text-muted my-3" style="font-size: 20px;">Your child will fall in love with dance with our classes for ages 2-18!</h2>
@@ -21,7 +21,7 @@
 
     <div class="" style="height: 125px;"></div>
 
-    <div class="d-block d-md-none mx-4">
+    <div class="d-block d-lg-none mx-4">
         <h1 class="born-3 poppins fw-bold p-0 m-0" style="font-size: 45px; transform: translateY(45px); opacity: 0;">Dance makes great <ion-icon name="happy-outline"></ion-icon> kids!</h1>
         <h2 class="born-4 poppins p-0 m-0 text-muted my-3" style="font-size: 20px; transform: translateY(45px); opacity: 0;">From your child’s first class to their graduation performance, your child will thrive at MDU! At MDU, dance classes are More Than Just Great Dancing!®. Our dancers go beyond technique to develop important life skills, learning to be respectful, confident, and conscientious young people who share their gifts and talents with the community.</h2>
     </div>
@@ -29,7 +29,7 @@
 
     <div class="" style="height: 125px;"></div>
 
-    <div class="mx-4 d-block d-md-none">
+    <div class="mx-4 d-block d-lg-none">
         <h1 class="born-5 poppins fw-bold p-0 m-0" style="font-size: 45px; transform: translateY(45px); opacity: 0;">Did you know... <ion-icon name="bulb-outline"></ion-icon></h1>
         <h2 class="born-6 poppins p-0 m-0 text-muted" style="font-size: 20px; transform: translateY(45px); opacity: 0;">Students who regularly participate in dance:</h2>
         <div class="mx-4">
@@ -72,8 +72,13 @@
 
     <div class="" style="height: 125px;"></div>
 
-    <section class="mx-4 d-block d-md-none" style="position: relative;">
-        <div class="rounded list-overlay" style="height: 100%; width: 100%; background: linear-gradient(transparent, white); position: absolute; pointer-events: none; z-index: 0;"></div>
+    <section class="mx-4 d-block d-lg-none" style="position: relative;">
+        <div class="rounded list-overlay" style="height: 100%; width: 100%; background: -webkit-linear-gradient(transparent, white); /* For Safari and older Chrome */
+background: -moz-linear-gradient(transparent, white); /* For Firefox */
+background: -o-linear-gradient(transparent, white); /* For older Opera */
+background: -ms-linear-gradient(transparent, white); /* For older IE */
+background: linear-gradient(transparent, white); /* Standard syntax */
+ position: absolute; pointer-events: none; z-index: 0;"></div>
         {{--    <div class="fw-bold poppins p-0" style="font-size: 20px; line-height: 0.9;">Parents <ion-icon name="heart"></ion-icon><br><span style="color: #ED174D;">Misty's Dance Unlimited...</span></div>--}}
         <div class="fw-bold poppins p-0 m-4" style="font-size: 30px;">
             Additionally, dance boosts
@@ -90,7 +95,7 @@
 
     <div class="" style="height: 125px;"></div>
 
-    <div class="d-block d-md-none">
+    <div class="d-block d-lg-none">
         <h1 class="poppins fw-bold p-0 mx-4 my-0" style="font-size: 45px;">Check Out Our Convenient Classes & Camps</h1>
         <div class="ages-wrapper">
             <div class="ages-container">
@@ -130,7 +135,7 @@
     <div class="" style="height: 125px;"></div>
 
 
-    <section class="d-block d-md-none mx-4">
+    <section class="d-block d-lg-none mx-4">
         <h1 class="poppins fw-bold p-0 my-0" style="font-size: 45px;">Misty's Dance Unlimited has MORE to love!</h1>
         <div class="row row-cols-2 my-5 py-2">
             <div class="col-3" style="position: relative;">
@@ -173,8 +178,13 @@
 
     <div class="" style="height: 125px;"></div>
 
-    <section class="d-block d-md-none mx-4" style="position: relative;">
-        <div class="rounded list-overlay" style="height: 100%; width: 100%; background: linear-gradient(transparent, white); position: absolute; pointer-events: none; z-index: 0;"></div>
+    <section class="d-block d-lg-none mx-4" style="position: relative;">
+        <div class="rounded list-overlay" style="height: 100%; width: 100%; background: -webkit-linear-gradient(transparent, white); /* For Safari and older Chrome */
+background: -moz-linear-gradient(transparent, white); /* For Firefox */
+background: -o-linear-gradient(transparent, white); /* For older Opera */
+background: -ms-linear-gradient(transparent, white); /* For older IE */
+background: linear-gradient(transparent, white); /* Standard syntax */
+ position: absolute; pointer-events: none; z-index: 0;"></div>
         <div class="fw-bold poppins p-0" style="font-size: 20px; line-height: 0.9;">Parents <ion-icon name="heart"></ion-icon><br><span style="color: #ED174D;">Misty's Dance Unlimited...</span></div>
         <div class="fw-bold poppins hover-red p-0 my-4" style="font-size: 30px;">Background checked staff</div>
         <div class="fw-bold poppins hover-blue p-0 my-4" style="font-size: 30px;">CPR Certified</div>
@@ -190,7 +200,7 @@
 
     <div class="" style="height: 125px;"></div>
 
-    <section class="d-block d-md-none mx-4">
+    <section class="d-block d-lg-none mx-4">
         <div class="bloom-1 my-4" style="position: relative; transform: scale(0.95) translateY(10px);">
             <div class="rounded p-3" style="background: #FFE9ED;">
                 <div class="d-flex align-items-center">
@@ -225,7 +235,12 @@
             </div>
         </div>
         <div class="bloom-4 my-4" style="position: relative; transform: scale(0.95) translateY(10px);">
-            <div class="rounded" style="height: 100%; width: 100%; background: linear-gradient(transparent, white); position: absolute;"></div>
+            <div class="rounded" style="height: 100%; width: 100%; background: -webkit-linear-gradient(transparent, white); /* For Safari and older Chrome */
+background: -moz-linear-gradient(transparent, white); /* For Firefox */
+background: -o-linear-gradient(transparent, white); /* For older Opera */
+background: -ms-linear-gradient(transparent, white); /* For older IE */
+background: linear-gradient(transparent, white); /* Standard syntax */
+ position: absolute;"></div>
             <div class="rounded p-3" style="background: linear-gradient(#FFE9ED, white);">
                 <div class="d-flex align-items-center">
                     <img src="/images-mist/review-latesha.png" alt="headshot" class="img-fluid">
@@ -241,7 +256,7 @@
 
     <div class="" style="height: 125px;"></div>
 
-    <section class="d-block d-md-none">
+    <section class="d-block d-lg-none">
         <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-indicators">
                 <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
@@ -340,7 +355,7 @@
 
     <div class="" style="height: 125px;"></div>
 
-    <div class="mx-4 d-block d-md-none">
+    <div class="mx-4 d-block d-lg-none">
         <h1 class="born-7 poppins fw-bold p-0 m-0" style="font-size: 45px; transform: translateY(45px); opacity: 0;">See what dance can do for your child!</h1>
         <div class="born-8" style="transform: translateY(45px); opacity: 0;">
             <h2 class="poppins p-0 m-0 text-muted my-3" style="font-size: 20px;">"At Misty's Dance Unlimited, we don't teach kids to make great dancers. We teach dance to make great kids!" <small><em>-Misty Lown</em></small></h2>
@@ -352,7 +367,7 @@
 
     <div class="" style="height: 125px;"></div>
 
-    <div class="mx-4 d-block d-md-none" id="brand">
+    <div class="mx-4 d-block d-lg-none" id="brand">
         <p class="text-muted mb-0 poppins" style="font-size: 20px;">Proudly partnering with these outstanding organizations</p>
         {{--    <div class="fw-bold poppins p-0" style="font-size: 20px; line-height: 0.9;">Proudly partnering with these outstanding organizations</div>--}}
         <div class="row row-cols-3 row-cols-sm-3 row-cols-md-3 row-cols-lg-3">

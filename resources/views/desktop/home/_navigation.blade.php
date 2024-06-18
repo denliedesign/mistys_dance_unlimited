@@ -1,4 +1,4 @@
-<div class="d-none d-md-block">
+<div class="d-none d-lg-block">
     <div class="my-3">
         <div class="poppins d-flex justify-content-center">
             <ul class="nav d-flex align-items-center mb-2 mb-lg-0" style="font-size: 15px;">

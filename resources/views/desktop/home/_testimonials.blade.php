@@ -1,4 +1,4 @@
-<section class="d-none d-md-block mx-5">
+<section class="d-none d-lg-block mx-5">
     <div class="row row-cols-2">
         <div class="bloom-1 my-4" style="position: relative; transform: scale(0.95) translateY(10px);">
             <div class="rounded p-3" style="height: 260px; background: #FFE9ED;">

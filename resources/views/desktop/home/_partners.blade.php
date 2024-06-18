@@ -1,4 +1,4 @@
-<div class="mx-5 d-none d-md-block" id="brand">
+<div class="mx-5 d-none d-lg-block" id="brand">
 
     {{--    <div class="fw-bold text-center poppins p-0" style="font-size: 20px; line-height: 0.9;">Proudly partnering with these outstanding organizations</div>--}}
     <div class="row row-cols-3 row-cols-sm-3 row-cols-md-5 row-cols-lg-5">

@@ -1,4 +1,4 @@
-<div class="mx-5 d-none d-md-block" style="position: relative;">
+<div class="mx-5 d-none d-lg-block" style="position: relative;">
     <img src="/images-mist/know.png" alt="girl dancer in costume" class="img-fluid" style="position: absolute; right: 0; top: 50%; height: 600px; width: auto; transform: translate(0, -50%); z-index: -1;">
     <h1 class="born-5 poppins fw-bold p-0 m-0 " style="font-size: 60px; transform: translateY(45px); opacity: 0;">Did you know... <ion-icon name="bulb-outline"></ion-icon></h1>
     <h2 class="born-6 poppins p-0 m-0 text-muted " style="font-size: 30px; transform: translateY(45px); opacity: 0;">Students who regularly participate in dance:</h2>

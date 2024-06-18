@@ -1,4 +1,4 @@
-<section class="d-none d-md-block">
+<section class="d-none d-lg-block">
     <div id="carouselExampleIndicatorsDesktop" class="carousel slide" data-bs-ride="carousel">
         <div class="carousel-indicators">
             <button type="button" data-bs-target="#carouselExampleIndicatorsDesktop" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
