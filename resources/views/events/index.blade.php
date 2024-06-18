@@ -1,19 +1,15 @@
-@extends('layouts.app-lava')
+@extends('layouts.app-side-mist')
 
 @section('title', 'Calendar of Events | Misty\'s Dance Unlimited')
 @section('description', 'Join In On The Fun & Festivities At Misty\'s Dance Unlimited.')
 
 @section('content')
 
-    <div class="banner-wrap d-none d-md-block">
-        <div class="banner"></div>
-    </div>
-
     <div class="bg-white pb-5">
         <div class="container" id="calendar">
-            <h3 class="py-5 text-center">Calendar of Events</h3>
+            <h1 class="born-7 poppins fw-bold p-0 m-0" style="font-size: 45px;">Calendar of Events</h1>
 
-            <div class="row">
+            <div class="row poppins">
                 <div class="col-sm-8">
                     <div>
 

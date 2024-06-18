@@ -1,15 +1,10 @@
-@extends('layouts.app-lava')
+@extends('layouts.app-side-mist')
 
 @section('content')
 
-    <div class="banner-wrap d-none d-md-block">
-        <div class="banner"></div>
-    </div>
-
-    <div class="bg-white pb-5">
-
-        <h3 class="text-center py-5">Promotions</h3>
-        @can('update', \App\Promotion::class)
+    <div class="bg-white pb-5 poppins">
+        <h1 class="born-7 poppins fw-bold p-0 my-0 mx-4" style="font-size: 45px;">Promotions</h1>
+    @can('update', \App\Promotion::class)
             <p class="text-center"><a href="promotions/create">New Promotion</a></p>
         @endcan
 

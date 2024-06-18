@@ -25,7 +25,7 @@ use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Route;
 
 Route::get('/', function () {
-    return view('welcome-lava');
+    return view('welcome-mist');
 });
 
 Route::get('/errors/no_placement', function () {
@@ -33,7 +33,7 @@ Route::get('/errors/no_placement', function () {
 });
 
 Route::get('aboutus', function () {
-    return view('aboutus-lava');
+    return view('aboutus-mist');
 });
 
 Route::get('calendar', function () {
@@ -49,7 +49,7 @@ Route::get('contact', function () {
 //});
 
 Route::get('pl', function () {
-    return view('/pl-lava');
+    return view('/pl-mist');
 });
 
 Route::get('bravo', function () {
@@ -57,11 +57,11 @@ Route::get('bravo', function () {
 });
 
 Route::get('studio', function () {
-    return view('/studio-lava');
+    return view('/studio-mist');
 });
 
 Route::get('employment', function () {
-    return view('/employment-lava');
+    return view('/employment-mist');
 });
 
 Route::get('littles', function () {
@@ -105,7 +105,7 @@ Route::get('recreational', function () {
 });
 
 Route::get('/pc', function () {
-    return view('/pc');
+    return view('/pc-mist');
 });
 
 Route::get('prepro', function () {
@@ -137,7 +137,7 @@ Route::get('pre-pro', function () {
 });
 
 Route::get('summer', function () {
-    return view('summer');
+    return view('summer-mist');
 });
 
 Route::get('_old-summer', function () {
@@ -145,7 +145,7 @@ Route::get('_old-summer', function () {
 });
 
 Route::get('fall', function () {
-    return view('fall-lava');
+    return view('fall-mist');
 });
 
 Route::get('fall-studio', function () {
@@ -170,7 +170,7 @@ Route::get('thirdoption-faq', function () {
 });
 
 Route::get('community-first', function () {
-    return view('community-first');
+    return view('community-first-mist');
 });
 
 //Route::get('community', function () {
@@ -402,7 +402,7 @@ Route::get('/classes', function () {
 });
 
 Route::get('/alumni', function () {
-    return view('/alumni-lava');
+    return view('/alumni-mist');
 });
 
 Route::get('/dance-studios-in-la-crosse-wi', function () {
@@ -461,7 +461,7 @@ Route::get('dance-west-salem', function () { return view('dance-west-salem'); })
 Route::get('dance-holmen', function () { return view('dance-holmen'); });
 
 Route::get('community-programming', function () {
-    return view('community-programming');
+    return view('community-programming-mist');
 });
 
 Route::get('recital', function () {

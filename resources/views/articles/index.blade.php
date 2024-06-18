@@ -1,4 +1,4 @@
-@extends('layouts.app-lava')
+@extends('layouts.app-side-mist')
 
 @section('title', 'News | Misty\'s Dance Unlimited')
 @section('description', 'Keep Up To Date With The Latest News From MDU!')
@@ -32,9 +32,9 @@
 {{--        <div class="banner"></div>--}}
 {{--    </div>--}}
 
-    <div class="bg-white pb-5">
-        <h3 class="text-center py-5">News</h3>
-        @can('update', \App\Article::class)
+    <div class="bg-white pb-5 poppins">
+        <h1 class="born-7 poppins fw-bold p-0 m-0" style="font-size: 45px;">News</h1>
+    @can('update', \App\Article::class)
             <p class="text-center"><a href="/articles/create">Create New Article</a></p>
         @endcan
 

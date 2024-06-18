@@ -1,22 +1,13 @@
-@extends('layouts.app-lava')
+@extends('layouts.app-side-mist')
 
 @section('title', 'Login | Misty\'s Dance Unlimited')
 
 @section('content')
 
-    <div class="banner-wrap d-none d-md-block" style="position: relative;">
-        <div class="banner"></div>
-        <div class="custom-shape-divider-bottom-1663856745">
-            <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
-                <path d="M598.97 114.72L0 0 0 120 1200 120 1200 0 598.97 114.72z" class="shape-fill"></path>
-            </svg>
-        </div>
-    </div>
-
     <div class="bg-white py-5">
         <div class="container">
             <div class="text-center pb-4">
-                <div class="row">
+                <div class="row poppins">
                     <div class="col-sm mt-3">
                         <strong>Returning Student</strong>
                         <br>Login using the main email from your studio account
@@ -32,7 +23,7 @@
                 </div>
             </div>
             <hr class="my-3">
-            <div class="row">
+            <div class="row poppins">
                 <div class="col-sm-2"></div>
                 <div class="col-sm">
                     <div>
@@ -49,7 +40,7 @@
                 <div class="col-sm-2"></div>
             </div>
             <div class="my-3"></div>
-            <div class="row justify-content-center">
+            <div class="row justify-content-center poppins">
                 <div class="col-md-8">
                     <div class="card">
                         <div class="card-header">{{ __('Login') }}</div>
@@ -72,7 +63,7 @@
                                     </div>
                                 </div>
 
-                                <div class="form-group mb-3 row">
+                                <div class="form-group mb-3 row poppins">
                                     <label for="password" class="col-md-4 col-form-label text-md-right">{{ __('Password') }}</label>
 
                                     <div class="col-md-6">
@@ -86,7 +77,7 @@
                                     </div>
                                 </div>
 
-                                <div class="form-group mb-3 row">
+                                <div class="form-group mb-3 row poppins">
                                     <div class="col-md-6 offset-md-4">
                                         <div class="form-check">
                                             <input class="form-check-input" type="checkbox" name="remember" id="remember" {{ old('remember') ? 'checked' : '' }}>
@@ -98,7 +89,7 @@
                                     </div>
                                 </div>
 
-                                <div class="form-group mb-3 row">
+                                <div class="form-group mb-3 row poppins">
                                     <div class="col-md-8 offset-md-4">
                                         <button type="submit" class="btn btn-primary">
                                             {{ __('Login') }}
