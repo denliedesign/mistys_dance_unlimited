@@ -1,5 +1,5 @@
 
-<div class="d-none d-lg-block">
+<div class="d-none d-md-block">
     <h1 class="poppins text-center fw-bold p-0 mx-4 my-0" style="font-size: 45px;">Check Out Our Convenient Classes & Camps</h1>
     <div class="ages-desktop-wrapper mx-5">
         <div class="ages-desktop-container row row-cols-4">

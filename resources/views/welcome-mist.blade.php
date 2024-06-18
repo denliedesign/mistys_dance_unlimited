@@ -90,7 +90,7 @@
 
     <div class="" style="height: 125px;"></div>
 
-    <div class="d-block d-lg-none">
+    <div class="d-block d-md-none">
         <h1 class="poppins fw-bold p-0 mx-4 my-0" style="font-size: 45px;">Check Out Our Convenient Classes & Camps</h1>
         <div class="ages-wrapper">
             <div class="ages-container">
