@@ -288,6 +288,15 @@
     border-radius: 28% !important;
 }
 
+.gradient-background {
+    background: #fff; /* Fallback for older browsers */
+    background: -webkit-linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 1)); /* For Safari and older Chrome */
+    background: -moz-linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 1)); /* For Firefox */
+    background: -o-linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 1)); /* For older Opera */
+    background: -ms-linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 1)); /* For older IE */
+    background: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 1)); /* Standard syntax */
+}
+
 /** lava style **/
 
 #community-calendar a {
