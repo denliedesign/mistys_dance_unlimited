@@ -7,7 +7,7 @@
     <div class="bg-white py-5">
         <div class="mx-4 pb-5 poppins">
 
-                <img src="{{ asset('/storage/' . $hub->hubImage) }}" alt="" class="img-fluid" style="max-width: 400px; height: auto;">
+                <img src="{{ asset('/storage/' . $hub->hubImage) }}" alt="" class="img-fluid" style="max-width: 400px; width: 100%; height: auto;">
 
 
             <h1 class="born-7 poppins fw-bold p-0 m-0" style="font-size: 45px;">{{ $hub->hubTitle }}</h1>
