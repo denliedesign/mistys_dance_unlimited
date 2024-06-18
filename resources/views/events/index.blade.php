@@ -7,12 +7,10 @@
 
     <div class="bg-white pb-5">
         <div class="container" id="calendar">
-            <h1 class="born-7 poppins fw-bold p-0 m-0" style="font-size: 45px;">Calendar of Events</h1>
-
             <div class="row poppins">
                 <div class="col-sm-8 d-flex align-items-center">
                     <div>
-
+                        <h1 class="born-7 poppins fw-bold p-0 m-0" style="font-size: 45px;">Calendar of Events</h1>
                         @foreach($events as $event)
                             <p style="width: 100%;">
                             <div style="width: 25% !important; display: inline-block;">{{ $event->day->format('M d') }}@if(!empty($event->endday))<span class="text-muted"> - </span>{{ $event->endday->format('M d, Y') }}@endif</div>
