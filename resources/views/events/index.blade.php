@@ -8,7 +8,7 @@
     <div class="bg-white pb-5">
         <div class="container" id="calendar">
             <div class="row poppins">
-                <div class="col-sm-8 mt-5>
+                <div class="col-sm-8 mt-5">
                     <div>
                         <h1 class="born-7 poppins fw-bold p-0 m-0" style="font-size: 45px;">Calendar of Events</h1>
                         @foreach($events as $event)
