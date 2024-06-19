@@ -3,7 +3,7 @@
 
 
     <div class="bg-white" id="day">
-        <div class="mx-4 pb-5 pt-3">
+        <div class="mx-4 pb-1 pt-3">
             <h1 class="born-7 poppins fw-bold p-0 m-0" style="font-size: 45px;">Community Programming</h1>
 
             <p class="poppins" style="font-size: 20px;">
@@ -21,7 +21,7 @@
     </div>
 
     <section id="day-calendar">
-        <div class="py-5" style="position: relative;">
+        <div class="pb-5" style="position: relative;">
             <div class="mx-4 my-5">
 {{--                <h1 class="born-7 poppins fw-bold p-0 m-0" style="font-size: 45px;">Calendar of Events</h1>--}}
 
