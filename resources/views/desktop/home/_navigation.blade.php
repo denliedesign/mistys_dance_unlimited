@@ -20,6 +20,9 @@
                     <a class="nav-link text-dark" href="/fall">Fall</a>
                 </li>
                 <li class="nav-item hover-link mx-2">
+                    <a class="nav-link text-dark" href="/community-programming">Community Programs</a>
+                </li>
+                <li class="nav-item hover-link mx-2">
                     <a class="nav-link text-dark" href="/articles">News</a>
                 </li>
 {{--                <li class="nav-item hover-link mx-2">--}}
@@ -28,9 +31,7 @@
 {{--                <li class="nav-item hover-link mx-2">--}}
 {{--                    <a class="nav-link text-dark" href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank">Register</a>--}}
 {{--                </li>--}}
-                <li class="nav-item hover-link mx-2">
-                    <a class="nav-link text-dark" href="/community-programming">Community Programs</a>
-                </li>
+
                 <li class="nav-item hover-link mx-2">
                     <a class="nav-link text-dark" href="https://www.thewillowandgrace.com/" target="_blank">Boutique</a>
                 </li>

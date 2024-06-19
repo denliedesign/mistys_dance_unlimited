@@ -22,7 +22,7 @@
     <div class="" style="height: 125px;"></div>
 
     <div class="d-block d-lg-none mx-4">
-        <h1 class="born-3 poppins fw-bold p-0 m-0" style="font-size: 45px; transform: translateY(45px); opacity: 0;">Dance makes great <ion-icon name="happy-outline"></ion-icon> kids!</h1>
+        <h1 class="born-3 poppins fw-bold p-0 m-0" style="font-size: 45px; transform: translateY(45px); opacity: 0;">Dance makes great kids! <ion-icon name="happy-outline"></ion-icon></h1>
         <h2 class="born-4 poppins p-0 m-0 text-muted my-3" style="font-size: 20px; transform: translateY(45px); opacity: 0;">From your child’s first class to their graduation performance, your child will thrive at MDU! At MDU, dance classes are More Than Just Great Dancing!®. Our dancers go beyond technique to develop important life skills, learning to be respectful, confident, and conscientious young people who share their gifts and talents with the community.</h2>
     </div>
     @include('/desktop/home/_vision')
@@ -66,14 +66,14 @@
                 <div class="poppins text-muted ms-3 ps-3" style="font-size: 20px;">Enroll in 4-year colleges and earn mostly As</div>
             </div>
         </div>
-        <small class="text-muted p-0 mx-1 poppins">source: National Endowment for the Arts</small>
+        <small class="text-muted p-0 mx-1 poppins">Source: National Endowment for the Arts</small>
     </div>
     @include('/desktop/home/_know')
 
     <div class="" style="height: 125px;"></div>
 
     <section class="mx-4 d-block d-lg-none" style="position: relative;">
-        <div class="rounded list-overlay gradient-background" style="height: 100%; width: 100%; position: absolute; pointer-events: none; z-index: 0;"></div>
+{{--        <div class="rounded list-overlay gradient-background" style="height: 100%; width: 100%; position: absolute; pointer-events: none; z-index: 0;"></div>--}}
         {{--    <div class="fw-bold poppins p-0" style="font-size: 20px; line-height: 0.9;">Parents <ion-icon name="heart"></ion-icon><br><span style="color: #ED174D;">Misty's Dance Unlimited...</span></div>--}}
         <div class="fw-bold poppins p-0 m-4" style="font-size: 30px;">
             Additionally, dance boosts
