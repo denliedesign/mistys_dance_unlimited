@@ -109,7 +109,7 @@
                     </div>
                     <p class="poppins">
                         <span class="txt-yellow" style="font-size: 1.4em;">Admin Assistant</span><br>
-                        Miss Chloe Jane began dancing at MDU at the age of 3, she performed in Ballet La Crosse for 10 years and was a member of our Pre-professional ballet program. She is thrilled to be able to share her love of dance by being a rehearsal assistant with Ballet La Crosse, as well as instructing all ages in ballet, tap, and Steps of Praise.
+                        Miss Chloe Jane began dancing at MDU at the age of 3, she performed in Ballet La Crosse for 10 years and was a member of our Pre-professional ballet program. She is thrilled to be able to share her love of dance by being a rehearsal assistant with Ballet La Crosse, as well as instructing all ages in ballet, tap, and Steps of Praise. Miss Chloe Jane also serves as our Admin Assistant.
                     </p>
                 </div>
 {{--                <div class="col-sm mt-3" style="height: 100%;">--}}
