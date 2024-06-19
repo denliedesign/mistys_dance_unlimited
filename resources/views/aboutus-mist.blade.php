@@ -131,73 +131,6 @@
                 <div class="col-sm mt-3 d-flex align-items-center poppins d-block d-lg-none" style="font-size: 60px;">teachers</div>
                 <div class="col-sm mt-3" style="height: 100%;">
                     <div style="position: relative;">
-                        <img src="/images-lava/staff-beth.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
-                        <div id="triangle-bottomleft-staff"></div>
-                        <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br>Elisabeth Michelson</div>
-                    </div>
-                    <p class="poppins">
-                        <span class="txt-yellow" style="font-size: 1.4em;">Teacher</span><br>
-                        Miss Elisabeth has been dancing for over 20 years. Her favorite genres include tap, musical theatre, and contemporary. Elisabeth shared her love for performing for many years as a member of MDU’s Performance Company. She is a 2013 graduate of the University of Minnesota with a degree in Elementary Education and Spanish. She has danced with Ingredients Dance Company in Texas and has taught at MDU since 2014.
-                    </p>
-                </div>
-{{--                <div class="col-sm mt-3" style="height: 100%;">--}}
-{{--                    <div style="position: relative;">--}}
-{{--                        <img src="/images-lava/staff-addi.jpg" alt="staff member" class="img-fluid" style=max-height: 382.50px; filter: grayscale(100%);>--}}
-{{--                        <div id="triangle-bottomleft-staff"></div>--}}
-{{--                        <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br>Addi Berry</div>--}}
-{{--                    </div>--}}
-{{--                    <p class="poppins">--}}
-{{--                        <span class="txt-yellow" style="font-size: 1.4em;">Dance Instructor</span><br>--}}
-{{--                        I am a senior at Tomah High School and have been dancing for about 13 years. This is only my third year at Misty’s and my first year teaching. My favorite styles of dance are hip hop, jazz, and contemporary. I hope to continue my dance journey after high school and plan to major in dance in college.--}}
-{{--                    </p>--}}
-{{--                </div>--}}
-                <div class="col-sm mt-3" style="height: 100%;">
-                    <div style="position: relative;">
-                        <img src="/images-lava/staff-alex.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
-                        <div id="triangle-bottomleft-staff"></div>
-                        <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br>Alex Meier</div>
-                    </div>
-                    <p class="poppins">
-                        <span class="txt-yellow" style="font-size: 1.4em;">Dance Instructor</span><br>
-                        Miss Alex has been teaching at MDU since 2012. She is a ballet and tap specialist with a love for children. She is a graduate of Winona State University and fuels her love of science during the day as a surgical technician for Gundersen Health. She currently serves as the administrative coordinator for Ballet La Crosse.
-                    </p>
-                </div>
-                <div class="col-sm mt-3" style="height: 100%;">
-                    <div style="position: relative;">
-                        <img src="/images-lava/staff-amanda.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
-                        <div id="triangle-bottomleft-staff"></div>
-                        <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br>Amanda Schams</div>
-                    </div>
-                    <p class="poppins">
-                        <span class="txt-yellow" style="font-size: 1.4em;">Dance Instructor</span><br>
-                        Miss Amanda has taught ballet and Pilates across the Midwest for two decades and for 17 years at MDU. She trained in Madison, with the Milwaukee Ballet and the Nutmeg Conservatory. She graduated from the University of Iowa with a dance minor. She has performed professionally with the Madison Ballet and as a guest artist throughout the Midwest.
-                    </p>
-                </div>
-{{--                <div class="col-sm mt-3" style="height: 100%;">--}}
-{{--                    <div style="position: relative;">--}}
-{{--                        <img src="/images-lava/staff-amy.jpg" alt="staff member" class="img-fluid" style=max-height: 382.50px; filter: grayscale(100%);>--}}
-{{--                        <div id="triangle-bottomleft-staff"></div>--}}
-{{--                        <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br>Amy Fortner</div>--}}
-{{--                    </div>--}}
-{{--                    <p class="poppins">--}}
-{{--                        <span class="txt-yellow" style="font-size: 1.4em;">Dance Instructor</span><br>--}}
-{{--                        After doing gymnastics through her sophomore year of college, Amy still has a passion for the sport and loves to teach kids acro and tumbling. Amy has been teaching for many years, and is certified in acro by Acrobatic Arts. She's been teaching at Misty's since 2016.--}}
-{{--                    </p>--}}
-{{--                </div>--}}
-                <div class="col-sm mt-3" style="height: 100%;">
-                    <div style="position: relative;">
-                        <img src="/images-lava/staff-carmina.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
-                        <div id="triangle-bottomleft-staff"></div>
-                        <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br>Carmina Stauffer</div>
-                    </div>
-                    <p class="poppins">
-                        <span class="txt-yellow" style="font-size: 1.4em;">Dance Instructor</span><br>
-                        Miss Carmina is currently a student at the UW-L. She studied Ballet, Tap and Jazz extensively as a student participating in both Performance Company and Ballet La Crosse. She loves working with kids and teaching in the children's program.
-                    </p>
-                </div>
-
-                <div class="col-sm mt-3" style="height: 100%;">
-                    <div style="position: relative;">
                         <img src="/images-lava/staff-cindy.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
                         <div id="triangle-bottomleft-staff"></div>
                         <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br>Cindy Anneke</div>
@@ -205,28 +138,6 @@
                     <p class="poppins">
                         <span class="txt-yellow" style="font-size: 1.4em;">Dance Instructor</span><br>
                         Miss Cindy Anneke is a Preschool dance class specialist, a member of our Adult Tap program. Miss Cindy is also a proud dance mom and the energetic leader of our Wiggle Wednesday program.
-                    </p>
-                </div>
-                <div class="col-sm mt-3" style="height: 100%;">
-                    <div style="position: relative;">
-                        <img src="/images-lava/staff-denise.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
-                        <div id="triangle-bottomleft-staff"></div>
-                        <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br>Denise Meyer</div>
-                    </div>
-                    <p class="poppins">
-                        <span class="txt-yellow" style="font-size: 1.4em;">Dance Instructor</span><br>
-                        Miss Denise and Miss Misty grew up dancing together at Marilyn School of Dance in La Crosse. Miss Denise is currently a training director at LHI in La Crosse and has loved being back in the dance classroom since 2009. Miss Denise teaches in our Children's program and leads our Darby's Dancer's program for dancers with special needs.
-                    </p>
-                </div>
-                <div class="col-sm mt-3" style="height: 100%;">
-                    <div style="position: relative;">
-                        <img src="/images-lava/staff-dennis.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
-                        <div id="triangle-bottomleft-staff"></div>
-                        <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Mr<br>Dennis Williams</div>
-                    </div>
-                    <p class="poppins">
-                        <span class="txt-yellow" style="font-size: 1.4em;">Dance Instructor</span><br>
-                        Mr. Dennis grew up studying ballet at Maple Conservatory of Dance in California. He graduated from Belhaven University with a BFA in dance and has danced professionally with Ballet Mississippi and Filter Dance Company. Additionally, he has four years of experience in Martial Arts. Mr. Dennis has taught at MDU since 2015.
                     </p>
                 </div>
                 <div class="col-sm mt-3" style="height: 100%;">
@@ -242,13 +153,13 @@
                 </div>
                 <div class="col-sm mt-3" style="height: 100%;">
                     <div style="position: relative;">
-                        <img src="/images-lava/staff-greta.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
+                        <img src="/images-lava/staff-lexi.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
                         <div id="triangle-bottomleft-staff"></div>
-                        <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br>Greta Vollendorf</div>
+                        <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br>Lexi Fishbein</div>
                     </div>
                     <p class="poppins">
                         <span class="txt-yellow" style="font-size: 1.4em;">Dance Instructor</span><br>
-                        Miss Greta Vollendorf is a former competitive dancer from Forthcoming Danspace in Stevens Point, Wisconsin. She is currently studying elementary education and dance at UW-L. She is also a 2nd year member of the UWL Dance Team.
+                        Lexi grew up dancing at Summit Dance Shoppe in Plymouth, Minnesota where she danced and competed for 15 years. She attends Winona State University where she studies psychology and continues her love for dance by teaching! She helps out with the Performance Company as well as teaching jazz, lyrical and contemporary classes!
                     </p>
                 </div>
                 <div class="col-sm mt-3" style="height: 100%;">
@@ -262,26 +173,48 @@
                         Miss Hannah grew up dancing at MDU and performed with Ballet La Crosse for 6 years. She graduated with a degree in Computer Science and works as a Software Engineer. Hannah started teaching at MDU in 2022 and currently serves as an instructor and rehearsal assistant with Ballet La Crosse.
                     </p>
                 </div>
-{{--                <div class="col-sm mt-3" style="height: 100%;">--}}
-{{--                    <div style="position: relative;">--}}
-{{--                        <img src="/images-lava/staff-katelyn.jpg" alt="staff member" class="img-fluid" style=max-height: 382.50px; filter: grayscale(100%);>--}}
-{{--                        <div id="triangle-bottomleft-staff"></div>--}}
-{{--                        <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br>Katelyn Phelps</div>--}}
-{{--                    </div>--}}
-{{--                    <p class="poppins">--}}
-{{--                        <span class="txt-yellow" style="font-size: 1.4em;">Dance Instructor</span><br>--}}
-{{--                        Miss Katelyn Phelps is a former competitive dancer from Lakeshore Dance in the Milwaukee area. She is moving to La Crosse to attend school at UW-L.--}}
-{{--                    </p>--}}
-{{--                </div>--}}
                 <div class="col-sm mt-3" style="height: 100%;">
                     <div style="position: relative;">
-                        <img src="/images-lava/staff-kristina.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
+                        <img src="/images-lava/staff-olivia.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
                         <div id="triangle-bottomleft-staff"></div>
-                        <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br>Kristina Schoh</div>
+                        <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br>Olivia Key</div>
                     </div>
                     <p class="poppins">
                         <span class="txt-yellow" style="font-size: 1.4em;">Dance Instructor</span><br>
-                        Miss Kristina is proud to be one of Misty’s original students and one of the first seven students to be on the first ever Performance Company. She taught from 2001-2009 and attests skills acquired at MDU to ultimately help her achieve winning Miss Wisconsin 2009, allowing her to share her passion of dance on the Miss America stage. Miss Kristina is elated to be back at MDU!
+                        Miss Olivia grew up dancing at MDU and has been teaching since 2017. Her favorite styles include ballet, lyrical and modern but she is able to teach all styles. Miss Olivia graduated from UW-Stevens Point with a degree in elementary education and dance. She is also a part of our Pre-Professional ballet program and Ballet La Crosse.
+                    </p>
+                </div>
+                <div class="col-sm mt-3" style="height: 100%;">
+                    <div style="position: relative;">
+                        <img src="/images-lava/staff-alex.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
+                        <div id="triangle-bottomleft-staff"></div>
+                        <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br>Alex Meier</div>
+                    </div>
+                    <p class="poppins">
+                        <span class="txt-yellow" style="font-size: 1.4em;">Dance Instructor</span><br>
+                        Miss Alex has been teaching at MDU since 2012. She is a ballet and tap specialist with a love for children. She is a graduate of Winona State University and fuels her love of science during the day as a surgical technician for Gundersen Health. She currently serves as the administrative coordinator for Ballet La Crosse.
+                    </p>
+                </div>
+                <div class="col-sm mt-3" style="height: 100%;">
+                    <div style="position: relative;">
+                        <img src="/images-lava/staff-denise.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
+                        <div id="triangle-bottomleft-staff"></div>
+                        <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br>Denise Meyer</div>
+                    </div>
+                    <p class="poppins">
+                        <span class="txt-yellow" style="font-size: 1.4em;">Dance Instructor</span><br>
+                        Miss Denise and Miss Misty grew up dancing together at Marilyn School of Dance in La Crosse. Miss Denise is currently a training director at LHI in La Crosse and has loved being back in the dance classroom since 2009. Miss Denise teaches in our Children's program and leads our Darby's Dancer's program for dancers with special needs.
+                    </p>
+                </div>
+                <div class="col-sm mt-3" style="height: 100%;">
+                    <div style="position: relative;">
+                        <img src="/images-lava/staff-beth.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
+                        <div id="triangle-bottomleft-staff"></div>
+                        <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br>Elisabeth Michelson</div>
+                    </div>
+                    <p class="poppins">
+                        <span class="txt-yellow" style="font-size: 1.4em;">Teacher</span><br>
+                        Miss Elisabeth has been dancing for over 20 years. Her favorite genres include tap, musical theatre, and contemporary. Elisabeth shared her love for performing for many years as a member of MDU’s Performance Company. She is a 2013 graduate of the University of Minnesota with a degree in Elementary Education and Spanish. She has danced with Ingredients Dance Company in Texas and has taught at MDU since 2014.
                     </p>
                 </div>
                 <div class="col-sm mt-3" style="height: 100%;">
@@ -297,35 +230,35 @@
                 </div>
                 <div class="col-sm mt-3" style="height: 100%;">
                     <div style="position: relative;">
-                        <img src="/images-lava/staff-lexi.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
+                        <img src="/images-lava/staff-amanda.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
                         <div id="triangle-bottomleft-staff"></div>
-                        <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br>Lexi Fishbein</div>
+                        <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br>Amanda Schams</div>
                     </div>
                     <p class="poppins">
                         <span class="txt-yellow" style="font-size: 1.4em;">Dance Instructor</span><br>
-                        Lexi grew up dancing at Summit Dance Shoppe in Plymouth, Minnesota where she danced and competed for 15 years. She attends Winona State University where she studies psychology and continues her love for dance by teaching! She helps out with the Performance Company as well as teaching jazz, lyrical and contemporary classes!
+                        Miss Amanda has taught ballet and Pilates across the Midwest for two decades and for 17 years at MDU. She trained in Madison, with the Milwaukee Ballet and the Nutmeg Conservatory. She graduated from the University of Iowa with a dance minor. She has performed professionally with the Madison Ballet and as a guest artist throughout the Midwest.
                     </p>
                 </div>
-{{--                <div class="col-sm mt-3" style="height: 100%;">--}}
-{{--                    <div style="position: relative;">--}}
-{{--                        <img src="/images-lava/staff-michelle.jpg" alt="staff member" class="img-fluid" style=max-height: 382.50px; filter: grayscale(100%);>--}}
-{{--                        <div id="triangle-bottomleft-staff"></div>--}}
-{{--                        <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br>Michelle Malone</div>--}}
-{{--                    </div>--}}
-{{--                    <p class="poppins">--}}
-{{--                        <span class="txt-yellow" style="font-size: 1.4em;">Dance Instructor</span><br>--}}
-{{--                        Miss Michelle Malone is an MDU alumna who has performed professionally with Ingredients Dance Company out of Dallas and with a ministry in Brazil. She currently teaches Hip Hop and leads her own company, I & E Dance Company, which is housed at MDU.--}}
-{{--                    </p>--}}
-{{--                </div>--}}
                 <div class="col-sm mt-3" style="height: 100%;">
                     <div style="position: relative;">
-                        <img src="/images-lava/staff-olivia.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
+                        <img src="/images-lava/staff-kristina.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
                         <div id="triangle-bottomleft-staff"></div>
-                        <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br>Olivia Key</div>
+                        <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br>Kristina Schoh</div>
                     </div>
                     <p class="poppins">
                         <span class="txt-yellow" style="font-size: 1.4em;">Dance Instructor</span><br>
-                        Miss Olivia grew up dancing at MDU and has been teaching since 2017. Her favorite styles include ballet, lyrical and modern but she is able to teach all styles. Miss Olivia graduated from UW-Stevens Point with a degree in elementary education and dance. She is also a part of our Pre-Professional ballet program and Ballet La Crosse.
+                        Miss Kristina is proud to be one of Misty’s original students and one of the first seven students to be on the first ever Performance Company. She taught from 2001-2009 and attests skills acquired at MDU to ultimately help her achieve winning Miss Wisconsin 2009, allowing her to share her passion of dance on the Miss America stage. Miss Kristina is elated to be back at MDU!
+                    </p>
+                </div>
+                <div class="col-sm mt-3" style="height: 100%;">
+                    <div style="position: relative;">
+                        <img src="/images-lava/staff-carmina.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
+                        <div id="triangle-bottomleft-staff"></div>
+                        <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br>Carmina Stauffer</div>
+                    </div>
+                    <p class="poppins">
+                        <span class="txt-yellow" style="font-size: 1.4em;">Dance Instructor</span><br>
+                        Miss Carmina is currently a student at the UW-L. She studied Ballet, Tap and Jazz extensively as a student participating in both Performance Company and Ballet La Crosse. She loves working with kids and teaching in the children's program.
                     </p>
                 </div>
                 <div class="col-sm mt-3" style="height: 100%;">
@@ -339,6 +272,86 @@
                         Miss Suzanne Swanson Wagner was Miss Misty's main teacher growing up and is the former owner of the Marilyn School of Dance in Tomah and Black River Falls. She will be driving in a couple of times per week to share her experience with our students–super exciting!
                     </p>
                 </div>
+                <div class="col-sm mt-3" style="height: 100%;">
+                    <div style="position: relative;">
+                        <img src="/images-lava/staff-greta.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
+                        <div id="triangle-bottomleft-staff"></div>
+                        <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br>Greta Vollendorf</div>
+                    </div>
+                    <p class="poppins">
+                        <span class="txt-yellow" style="font-size: 1.4em;">Dance Instructor</span><br>
+                        Miss Greta Vollendorf is a former competitive dancer from Forthcoming Danspace in Stevens Point, Wisconsin. She is currently studying elementary education and dance at UW-L. She is also a 2nd year member of the UWL Dance Team.
+                    </p>
+                </div>
+{{--                <div class="col-sm mt-3" style="height: 100%;">--}}
+{{--                    <div style="position: relative;">--}}
+{{--                        <img src="/images-lava/staff-addi.jpg" alt="staff member" class="img-fluid" style=max-height: 382.50px; filter: grayscale(100%);>--}}
+{{--                        <div id="triangle-bottomleft-staff"></div>--}}
+{{--                        <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br>Addi Berry</div>--}}
+{{--                    </div>--}}
+{{--                    <p class="poppins">--}}
+{{--                        <span class="txt-yellow" style="font-size: 1.4em;">Dance Instructor</span><br>--}}
+{{--                        I am a senior at Tomah High School and have been dancing for about 13 years. This is only my third year at Misty’s and my first year teaching. My favorite styles of dance are hip hop, jazz, and contemporary. I hope to continue my dance journey after high school and plan to major in dance in college.--}}
+{{--                    </p>--}}
+{{--                </div>--}}
+
+
+{{--                <div class="col-sm mt-3" style="height: 100%;">--}}
+{{--                    <div style="position: relative;">--}}
+{{--                        <img src="/images-lava/staff-amy.jpg" alt="staff member" class="img-fluid" style=max-height: 382.50px; filter: grayscale(100%);>--}}
+{{--                        <div id="triangle-bottomleft-staff"></div>--}}
+{{--                        <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br>Amy Fortner</div>--}}
+{{--                    </div>--}}
+{{--                    <p class="poppins">--}}
+{{--                        <span class="txt-yellow" style="font-size: 1.4em;">Dance Instructor</span><br>--}}
+{{--                        After doing gymnastics through her sophomore year of college, Amy still has a passion for the sport and loves to teach kids acro and tumbling. Amy has been teaching for many years, and is certified in acro by Acrobatic Arts. She's been teaching at Misty's since 2016.--}}
+{{--                    </p>--}}
+{{--                </div>--}}
+
+
+
+
+                <div class="col-sm mt-3" style="height: 100%;">
+                    <div style="position: relative;">
+                        <img src="/images-lava/staff-dennis.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
+                        <div id="triangle-bottomleft-staff"></div>
+                        <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Mr<br>Dennis Williams</div>
+                    </div>
+                    <p class="poppins">
+                        <span class="txt-yellow" style="font-size: 1.4em;">Dance Instructor</span><br>
+                        Mr. Dennis grew up studying ballet at Maple Conservatory of Dance in California. He graduated from Belhaven University with a BFA in dance and has danced professionally with Ballet Mississippi and Filter Dance Company. Additionally, he has four years of experience in Martial Arts. Mr. Dennis has taught at MDU since 2015.
+                    </p>
+                </div>
+
+
+
+{{--                <div class="col-sm mt-3" style="height: 100%;">--}}
+{{--                    <div style="position: relative;">--}}
+{{--                        <img src="/images-lava/staff-katelyn.jpg" alt="staff member" class="img-fluid" style=max-height: 382.50px; filter: grayscale(100%);>--}}
+{{--                        <div id="triangle-bottomleft-staff"></div>--}}
+{{--                        <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br>Katelyn Phelps</div>--}}
+{{--                    </div>--}}
+{{--                    <p class="poppins">--}}
+{{--                        <span class="txt-yellow" style="font-size: 1.4em;">Dance Instructor</span><br>--}}
+{{--                        Miss Katelyn Phelps is a former competitive dancer from Lakeshore Dance in the Milwaukee area. She is moving to La Crosse to attend school at UW-L.--}}
+{{--                    </p>--}}
+{{--                </div>--}}
+
+
+
+{{--                <div class="col-sm mt-3" style="height: 100%;">--}}
+{{--                    <div style="position: relative;">--}}
+{{--                        <img src="/images-lava/staff-michelle.jpg" alt="staff member" class="img-fluid" style=max-height: 382.50px; filter: grayscale(100%);>--}}
+{{--                        <div id="triangle-bottomleft-staff"></div>--}}
+{{--                        <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br>Michelle Malone</div>--}}
+{{--                    </div>--}}
+{{--                    <p class="poppins">--}}
+{{--                        <span class="txt-yellow" style="font-size: 1.4em;">Dance Instructor</span><br>--}}
+{{--                        Miss Michelle Malone is an MDU alumna who has performed professionally with Ingredients Dance Company out of Dallas and with a ministry in Brazil. She currently teaches Hip Hop and leads her own company, I & E Dance Company, which is housed at MDU.--}}
+{{--                    </p>--}}
+{{--                </div>--}}
+
+
 
 
             </div>
