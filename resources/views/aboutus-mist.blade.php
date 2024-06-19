@@ -97,8 +97,8 @@
                         <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br>Tiffany Fischer</div>
                     </div>
                     <p class="poppins">
-                        <span class="txt-yellow" style="font-size: 1.4em;">Costumes</span><br>
-                        Miss Tiffany grew up dancing at MDU and has been teaching since 2008. She is an award-winning choreographer. Miss Tiffany is proficient in all styles of dance and has a passion for seeing students develop their God-given talents in a nurturing environment. Miss Tiffany teaches in our Children's program, Graded Technique program and Performing Groups program. She also is our Senior class advisor.
+                        <span class="txt-yellow" style="font-size: 1.4em;">Costume Coordinator</span><br>
+                        Miss Tiffany grew up dancing at MDU and has been teaching since 2008. She is an award-winning choreographer. Miss Tiffany is proficient in all styles of dance and has a passion for seeing students develop their God-given talents in a nurturing environment. Miss Tiffany teaches a variety of our classes, performing groups, and is our senior class advisor. She is also our Costume Coordinator.
                     </p>
                 </div>
                 <div class="col-sm mt-3" style="height: 100%;">
@@ -108,7 +108,7 @@
                         <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br>Chloe Jane Bulman</div>
                     </div>
                     <p class="poppins">
-                        <span class="txt-yellow" style="font-size: 1.4em;">Dance Instructor</span><br>
+                        <span class="txt-yellow" style="font-size: 1.4em;">Admin Assistant</span><br>
                         Miss Chloe Jane began dancing at MDU at the age of 3, she performed in Ballet La Crosse for 10 years and was a member of our Pre-professional ballet program. She is thrilled to be able to share her love of dance by being a rehearsal assistant with Ballet La Crosse, as well as instructing all ages in ballet, tap, and Steps of Praise.
                     </p>
                 </div>
