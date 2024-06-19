@@ -98,7 +98,7 @@
                     </div>
                     <p class="poppins">
                         <span class="txt-yellow" style="font-size: 1.4em;">Costume Coordinator</span><br>
-                        Miss Tiffany grew up dancing at MDU and has been teaching since 2008. She is an award-winning choreographer. Miss Tiffany is proficient in all styles of dance and has a passion for seeing students develop their God-given talents in a nurturing environment. Miss Tiffany teaches a variety of our classes, performing groups, and is our senior class advisor. She is also our Costume Coordinator.
+                        Miss Tiffany grew up dancing at MDU and has been teaching since 2008. She is an award-winning choreographer. Miss Tiffany is proficient in all styles of dance and has a passion for seeing students develop their God-given talents in a nurturing environment. Miss Tiffany teaches a variety of our classes, Performing Groups, and is our senior class advisor. She is also our Costume Coordinator.
                     </p>
                 </div>
                 <div class="col-sm mt-3" style="height: 100%;">
