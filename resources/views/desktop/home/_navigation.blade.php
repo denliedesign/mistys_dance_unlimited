@@ -25,9 +25,9 @@
 {{--                <li class="nav-item hover-link mx-2">--}}
 {{--                    <a class="nav-link text-dark" href="/recital">Recital</a>--}}
 {{--                </li>--}}
-                <li class="nav-item hover-link mx-2">
-                    <a class="nav-link text-dark" href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank">Register</a>
-                </li>
+{{--                <li class="nav-item hover-link mx-2">--}}
+{{--                    <a class="nav-link text-dark" href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank">Register</a>--}}
+{{--                </li>--}}
                 <li class="nav-item hover-link mx-2">
                     <a class="nav-link text-dark" href="/community-programming">Community Programs</a>
                 </li>
@@ -35,8 +35,8 @@
                     <a class="nav-link text-dark" href="https://www.thewillowandgrace.com/" target="_blank">Boutique</a>
                 </li>
                 <li class="nav-item hover-link mx-2">
-                    <a href="/promotions" class="nav-link text-dark">
-                        <div class="btn btn-danger shadow">Find Your Class</div>
+                    <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" class="nav-link text-dark">
+                        <div class="btn btn-danger shadow">Enroll Now!</div>
                     </a>
                 </li>
             </ul>
