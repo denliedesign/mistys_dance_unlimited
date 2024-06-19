@@ -175,7 +175,7 @@
 
     <section class="d-block d-lg-none mx-4" style="position: relative;">
 {{--        <div class="rounded list-overlay gradient-background" style="height: 100%; width: 100%; position: absolute; pointer-events: none; z-index: 0;"></div>--}}
-        <div class="fw-bold poppins p-0" style="font-size: 20px; line-height: 0.9;">Parents <ion-icon name="heart"></ion-icon><br><span style="color: #ED174D;">Misty's Dance Unlimited...</span></div>
+        <div class="fw-bold poppins p-0" style="font-size: 45px; line-height: 0.9;">Parents <ion-icon name="heart"></ion-icon><br><span style="color: #ED174D;">Misty's Dance Unlimited...</span></div>
         <div class="fw-bold poppins hover-red p-0 my-2" style="font-size: 20px;"><ion-icon name="heart"></ion-icon>Background checked staff</div>
         <div class="fw-bold poppins hover-blue p-0 my-2" style="font-size: 20px;"><ion-icon name="heart"></ion-icon>CPR and First Aid Certified</div>
         <div class="fw-bold poppins hover-yellow p-0 my-2" style="font-size: 20px;"><ion-icon name="heart"></ion-icon>Written Curriculum</div>
