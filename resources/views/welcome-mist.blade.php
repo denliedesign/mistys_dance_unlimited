@@ -191,6 +191,7 @@
     <div class="" style="height: 125px;"></div>
 
     <section class="d-block d-lg-none mx-4">
+        <h1 class="poppins fw-bold p-0 m-0 text-center" style="font-size: 45px;">Thank you parents for making MDU<br> "Best of La Crosse" in 2024</h1>
         <div class="bloom-1 my-4" style="position: relative; transform: scale(0.95) translateY(10px);">
             <div class="rounded p-3" style="background: #FFE9ED;">
                 <div class="d-flex align-items-center">
