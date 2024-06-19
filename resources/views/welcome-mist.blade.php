@@ -176,22 +176,22 @@
     <section class="d-block d-lg-none mx-4" style="position: relative;">
 {{--        <div class="rounded list-overlay gradient-background" style="height: 100%; width: 100%; position: absolute; pointer-events: none; z-index: 0;"></div>--}}
         <div class="fw-bold poppins p-0" style="font-size: 20px; line-height: 0.9;">Parents <ion-icon name="heart"></ion-icon><br><span style="color: #ED174D;">Misty's Dance Unlimited...</span></div>
-        <div class="fw-bold poppins hover-red p-0 my-4" style="font-size: 20px;">Background checked staff</div>
-        <div class="fw-bold poppins hover-blue p-0 my-4" style="font-size: 20px;">CPR Certified</div>
-        <div class="fw-bold poppins hover-yellow p-0 my-4" style="font-size: 20px;">Written Curriculum</div>
-        <div class="fw-bold poppins hover-red p-0 my-4" style="font-size: 20px;">Secured Facility</div>
-        <div class="fw-bold poppins hover-blue p-0 my-4" style="font-size: 20px;">Full-time admin team</div>
-        <div class="fw-bold poppins hover-yellow p-0 my-4" style="font-size: 20px;">Study areas for students</div>
-        <div class="fw-bold poppins hover-red p-0 my-4" style="font-size: 20px;">Sprung floors for safety</div>
-        <div class="fw-bold poppins hover-blue p-0 my-4" style="font-size: 20px;">Community service opportunities</div>
-        <div class="fw-bold poppins hover-yellow p-0 my-4" style="font-size: 20px;">Youth Protection Association for Dance™ trained educators</div>
+        <div class="fw-bold poppins hover-red p-0 my-2" style="font-size: 20px;"><ion-icon name="heart"></ion-icon>Background checked staff</div>
+        <div class="fw-bold poppins hover-blue p-0 my-2" style="font-size: 20px;"><ion-icon name="heart"></ion-icon>CPR and First Aid Certified</div>
+        <div class="fw-bold poppins hover-yellow p-0 my-2" style="font-size: 20px;"><ion-icon name="heart"></ion-icon>Written Curriculum</div>
+        <div class="fw-bold poppins hover-red p-0 my-2" style="font-size: 20px;"><ion-icon name="heart"></ion-icon>Secured Facility</div>
+        <div class="fw-bold poppins hover-blue p-0 my-2" style="font-size: 20px;"><ion-icon name="heart"></ion-icon>Full-time admin team</div>
+        <div class="fw-bold poppins hover-yellow p-0 my-2" style="font-size: 20px;"><ion-icon name="heart"></ion-icon>Study areas for students</div>
+        <div class="fw-bold poppins hover-red p-0 my-2" style="font-size: 20px;"><ion-icon name="heart"></ion-icon>Sprung floors for safety</div>
+        <div class="fw-bold poppins hover-blue p-0 my-2" style="font-size: 20px;"><ion-icon name="heart"></ion-icon>Community service opportunities</div>
+{{--        <div class="fw-bold poppins hover-yellow p-0 my-4" style="font-size: 20px;">Youth Protection Association for Dance™ trained educators</div>--}}
     </section>
     @include('/desktop/home/_parents')
 
     <div class="" style="height: 125px;"></div>
 
     <section class="d-block d-lg-none mx-4">
-        <h1 class="poppins fw-bold p-0 m-0 text-center" style="font-size: 45px;">Thank you parents for making MDU<br> "Best of La Crosse" in 2024</h1>
+        <h1 class="poppins fw-bold p-0 m-0 text-center" style="font-size: 45px;">Thank you parents for making MDU<br> "Best of La Crosse" in 2024!</h1>
         <div class="bloom-1 my-4" style="position: relative; transform: scale(0.95) translateY(10px);">
             <div class="rounded p-3" style="background: #FFE9ED;">
                 <div class="d-flex align-items-center">

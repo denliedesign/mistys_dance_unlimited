@@ -1,5 +1,5 @@
 <section class="d-none d-lg-block mx-5">
-    <h1 class="poppins fw-bold p-0 m-0 text-center" style="font-size: 45px;">Thank you parents for making MDU<br> "Best of La Crosse" in 2024</h1>
+    <h1 class="poppins fw-bold p-0 m-0 text-center" style="font-size: 45px;">Thank you parents for making MDU<br> "Best of La Crosse" in 2024!</h1>
     <div class="row row-cols-2">
         <div class="bloom-1 my-4" style="position: relative; transform: scale(0.95) translateY(10px);">
             <div class="rounded p-3" style="height: 260px; background: #FFE9ED;">
