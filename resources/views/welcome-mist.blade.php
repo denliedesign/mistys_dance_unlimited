@@ -242,6 +242,18 @@
 
     <div class="" style="height: 125px;"></div>
 
+    <div class="mx-4 d-block d-lg-none">
+        <h1 class="born-7 poppins fw-bold p-0 m-0" style="font-size: 45px; transform: translateY(45px); opacity: 0;">See what dance can do for your child!</h1>
+        <div class="born-8" style="transform: translateY(45px); opacity: 0;">
+            <h2 class="poppins p-0 m-0 text-muted my-3" style="font-size: 20px;">"At Misty's Dance Unlimited, we don't teach kids to make great dancers. We teach dance to make great kids!" <small><em>-Misty Lown</em></small></h2>
+            <div style="background: #008CC0; color: white; font-size: 20px;" class="btn poppins fw-bold btn-interact"><a class="text-white text-decoration-none" href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank">Enroll today</a></div>
+{{--            <div style="background: #ED174D; color: white; font-size: 20px;" class="btn poppins fw-bold btn-interact mx-3"><a class="text-white text-decoration-none" href="#footer-mist">Contact us</a></div>--}}
+        </div>
+    </div>
+    @include('/desktop/home/_cta-bottom')
+
+    <div class="" style="height: 125px;"></div>
+
     <section class="d-block d-md-none">
         <div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
             <div class="carousel-indicators">
@@ -341,17 +353,6 @@
 
     <div class="" style="height: 125px;"></div>
 
-    <div class="mx-4 d-block d-lg-none">
-        <h1 class="born-7 poppins fw-bold p-0 m-0" style="font-size: 45px; transform: translateY(45px); opacity: 0;">See what dance can do for your child!</h1>
-        <div class="born-8" style="transform: translateY(45px); opacity: 0;">
-            <h2 class="poppins p-0 m-0 text-muted my-3" style="font-size: 20px;">"At Misty's Dance Unlimited, we don't teach kids to make great dancers. We teach dance to make great kids!" <small><em>-Misty Lown</em></small></h2>
-            <div style="background: #008CC0; color: white; font-size: 20px;" class="btn poppins fw-bold btn-interact"><a class="text-white text-decoration-none" href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank">Enroll today</a></div>
-            <div style="background: #ED174D; color: white; font-size: 20px;" class="btn poppins fw-bold btn-interact mx-3"><a class="text-white text-decoration-none" href="#footer-mist">Contact us</a></div>
-        </div>
-    </div>
-    @include('/desktop/home/_cta-bottom')
-
-    <div class="" style="height: 125px;"></div>
 
     <div class="mx-4 d-block d-lg-none" id="brand">
         <p class="text-muted mb-0 poppins" style="font-size: 20px;">Proudly partnering with these outstanding organizations</p>
