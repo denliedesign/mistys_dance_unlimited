@@ -30,5 +30,5 @@
             </div>
         </div>
     </div>
-    <div class=""><small class="text-muted p-0 mx-2 poppins">source: National Endowment for the Arts</small></div>
+    <div class=""><small class="text-muted p-0 mx-2 poppins">Source: National Endowment for the Arts</small></div>
 </div>

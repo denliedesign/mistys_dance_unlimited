@@ -174,17 +174,17 @@
     <div class="" style="height: 125px;"></div>
 
     <section class="d-block d-lg-none mx-4" style="position: relative;">
-        <div class="rounded list-overlay gradient-background" style="height: 100%; width: 100%; position: absolute; pointer-events: none; z-index: 0;"></div>
+{{--        <div class="rounded list-overlay gradient-background" style="height: 100%; width: 100%; position: absolute; pointer-events: none; z-index: 0;"></div>--}}
         <div class="fw-bold poppins p-0" style="font-size: 20px; line-height: 0.9;">Parents <ion-icon name="heart"></ion-icon><br><span style="color: #ED174D;">Misty's Dance Unlimited...</span></div>
-        <div class="fw-bold poppins hover-red p-0 my-4" style="font-size: 30px;">Background checked staff</div>
-        <div class="fw-bold poppins hover-blue p-0 my-4" style="font-size: 30px;">CPR Certified</div>
-        <div class="fw-bold poppins hover-yellow p-0 my-4" style="font-size: 30px;">Written Curriculum</div>
-        <div class="fw-bold poppins hover-red p-0 my-4" style="font-size: 30px;">Secured Facility</div>
-        <div class="fw-bold poppins hover-blue p-0 my-4" style="font-size: 30px;">Full-time admin team</div>
-        <div class="fw-bold poppins hover-yellow p-0 my-4" style="font-size: 30px;">Study areas for students</div>
-        <div class="fw-bold poppins hover-red p-0 my-4" style="font-size: 30px;">Sprung floors for safety</div>
-        <div class="fw-bold poppins hover-blue p-0 my-4" style="font-size: 30px;">Community service opportunities</div>
-        <div class="fw-bold poppins hover-yellow p-0 my-4" style="font-size: 30px;">Youth Protection Association for Dance™ trained educators</div>
+        <div class="fw-bold poppins hover-red p-0 my-4" style="font-size: 20px;">Background checked staff</div>
+        <div class="fw-bold poppins hover-blue p-0 my-4" style="font-size: 20px;">CPR Certified</div>
+        <div class="fw-bold poppins hover-yellow p-0 my-4" style="font-size: 20px;">Written Curriculum</div>
+        <div class="fw-bold poppins hover-red p-0 my-4" style="font-size: 20px;">Secured Facility</div>
+        <div class="fw-bold poppins hover-blue p-0 my-4" style="font-size: 20px;">Full-time admin team</div>
+        <div class="fw-bold poppins hover-yellow p-0 my-4" style="font-size: 20px;">Study areas for students</div>
+        <div class="fw-bold poppins hover-red p-0 my-4" style="font-size: 20px;">Sprung floors for safety</div>
+        <div class="fw-bold poppins hover-blue p-0 my-4" style="font-size: 20px;">Community service opportunities</div>
+        <div class="fw-bold poppins hover-yellow p-0 my-4" style="font-size: 20px;">Youth Protection Association for Dance™ trained educators</div>
     </section>
     @include('/desktop/home/_parents')
 
