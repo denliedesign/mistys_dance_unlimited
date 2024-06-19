@@ -95,31 +95,31 @@
         <div class="ages-wrapper">
             <div class="ages-container">
                 <div class="age">
-                    <img src="/images-mist/age-1.jpg" alt="child dancer" class="img-fluid">
+                    <img src="/images-mist/age-1.jpg" alt="child dancer" class="img-fluid" style="border: 3px solid #008CC0;">
                     <div class="age-title"><a class="d-flex align-items-center text-decoration-none text-dark" style="width: max-content;" href="/fall#ab">Age 1-2 <ion-icon class="ms-1" style="color: #008CC0;" name="arrow-forward-outline"></ion-icon></a></div>
                 </div>
                 <div class="age">
-                    <img src="/images-mist/age-2.jpg" alt="child dancer" class="img-fluid">
+                    <img src="/images-mist/age-2.jpg" alt="child dancer" class="img-fluid" style="border: 3px solid #008CC0;">
                     <div class="age-title"><a class="d-flex align-items-center text-decoration-none text-dark" style="width: max-content;" href="/fall#ab">Age 3-4 <ion-icon class="ms-1" style="color: #008CC0;" name="arrow-forward-outline"></ion-icon></a></div>
                 </div>
                 <div class="age">
-                    <img src="/images-mist/age-3.jpg" alt="child dancer" class="img-fluid">
+                    <img src="/images-mist/age-3.jpg" alt="child dancer" class="img-fluid" style="border: 3px solid #008CC0;">
                     <div class="age-title"><a class="d-flex align-items-center text-decoration-none text-dark" style="width: max-content;" href="/fall#c">Age 5-6 <ion-icon class="ms-1" style="color: #008CC0;" name="arrow-forward-outline"></ion-icon></a></div>
                 </div>
                 <div class="age">
-                    <img src="/images-mist/age-4.jpg" alt="child dancer" class="img-fluid">
+                    <img src="/images-mist/age-4.jpg" alt="child dancer" class="img-fluid" style="border: 3px solid #008CC0;">
                     <div class="age-title"><a class="d-flex align-items-center text-decoration-none text-dark" style="width: max-content;" href="/fall#d">Age 7-8 <ion-icon class="ms-1" style="color: #008CC0;" name="arrow-forward-outline"></ion-icon></a></div>
                 </div>
                 <div class="age">
-                    <img src="/images-mist/age-5.jpg" alt="child dancer" class="img-fluid">
+                    <img src="/images-mist/age-5.jpg" alt="child dancer" class="img-fluid" style="border: 3px solid #008CC0;">
                     <div class="age-title"><a class="d-flex align-items-center text-decoration-none text-dark" style="width: max-content;" href="/fall#e">Age 9-12 <ion-icon class="ms-1" style="color: #008CC0;" name="arrow-forward-outline"></ion-icon></a></div>
                 </div>
                 <div class="age">
-                    <img src="/images-mist/age-6.jpg" alt="child dancer" class="img-fluid">
+                    <img src="/images-mist/age-6.jpg" alt="child dancer" class="img-fluid" style="border: 3px solid #008CC0;">
                     <div class="age-title"><a class="d-flex align-items-center text-decoration-none text-dark" style="width: max-content;" href="/fall#e">Teens <ion-icon class="ms-1" style="color: #008CC0;" name="arrow-forward-outline"></ion-icon></a></div>
                 </div>
                 <div class="age">
-                    <img src="/images-mist/age-7.jpg" alt="child dancer" class="img-fluid">
+                    <img src="/images-mist/age-7.jpg" alt="child dancer" class="img-fluid" style="border: 3px solid #008CC0;">
                     <div class="age-title"><a class="d-flex align-items-center text-decoration-none text-dark" style="width: max-content;" href="/fall#age-guys">Guys Only <ion-icon class="ms-1" style="color: #008CC0;" name="arrow-forward-outline"></ion-icon></a></div>
                 </div>
             </div>
@@ -177,14 +177,14 @@
     <section class="d-block d-lg-none mx-4" style="position: relative;">
 {{--        <div class="rounded list-overlay gradient-background" style="height: 100%; width: 100%; position: absolute; pointer-events: none; z-index: 0;"></div>--}}
         <div class="fw-bold poppins p-0" style="font-size: 45px; line-height: 0.9;">Parents <ion-icon name="heart"></ion-icon><br><span style="color: #ED174D;">Misty's Dance Unlimited...</span></div>
-        <div class="fw-bold poppins hover-red p-0 my-2" style="font-size: 20px;"><ion-icon name="heart"></ion-icon>Background checked staff</div>
-        <div class="fw-bold poppins hover-blue p-0 my-2" style="font-size: 20px;"><ion-icon name="heart"></ion-icon>CPR and First Aid Certified</div>
-        <div class="fw-bold poppins hover-yellow p-0 my-2" style="font-size: 20px;"><ion-icon name="heart"></ion-icon>Written Curriculum</div>
-        <div class="fw-bold poppins hover-red p-0 my-2" style="font-size: 20px;"><ion-icon name="heart"></ion-icon>Secured Facility</div>
-        <div class="fw-bold poppins hover-blue p-0 my-2" style="font-size: 20px;"><ion-icon name="heart"></ion-icon>Full-time admin team</div>
-        <div class="fw-bold poppins hover-yellow p-0 my-2" style="font-size: 20px;"><ion-icon name="heart"></ion-icon>Study areas for students</div>
-        <div class="fw-bold poppins hover-red p-0 my-2" style="font-size: 20px;"><ion-icon name="heart"></ion-icon>Sprung floors for safety</div>
-        <div class="fw-bold poppins hover-blue p-0 my-2" style="font-size: 20px;"><ion-icon name="heart"></ion-icon>Community service opportunities</div>
+        <div class="fw-bold poppins hover-red p-0 my-2" style="font-size: 20px;"><ion-icon name="heart"></ion-icon> Background checked staff</div>
+        <div class="fw-bold poppins hover-blue p-0 my-2" style="font-size: 20px;"><ion-icon name="heart"></ion-icon> CPR and First Aid Certified</div>
+        <div class="fw-bold poppins hover-yellow p-0 my-2" style="font-size: 20px;"><ion-icon name="heart"></ion-icon> Written Curriculum</div>
+        <div class="fw-bold poppins hover-red p-0 my-2" style="font-size: 20px;"><ion-icon name="heart"></ion-icon> Secured Facility</div>
+        <div class="fw-bold poppins hover-blue p-0 my-2" style="font-size: 20px;"><ion-icon name="heart"></ion-icon> Full-time admin team</div>
+        <div class="fw-bold poppins hover-yellow p-0 my-2" style="font-size: 20px;"><ion-icon name="heart"></ion-icon> Study areas for students</div>
+        <div class="fw-bold poppins hover-red p-0 my-2" style="font-size: 20px;"><ion-icon name="heart"></ion-icon> Sprung floors for safety</div>
+        <div class="fw-bold poppins hover-blue p-0 my-2" style="font-size: 20px;"><ion-icon name="heart"></ion-icon> Community service opportunities</div>
 {{--        <div class="fw-bold poppins hover-yellow p-0 my-4" style="font-size: 20px;">Youth Protection Association for Dance™ trained educators</div>--}}
     </section>
     @include('/desktop/home/_parents')
@@ -227,8 +227,8 @@
             </div>
         </div>
         <div class="bloom-4 my-4" style="position: relative; transform: scale(0.95) translateY(10px);">
-            <div class="rounded gradient-background" style="height: 100%; width: 100%; position: absolute;"></div>
-            <div class="rounded p-3" style="background: linear-gradient(#FFE9ED, white);">
+{{--            <div class="rounded gradient-background" style="height: 100%; width: 100%; position: absolute;"></div>--}}
+            <div class="rounded p-3" style="background: #ffe9ed;">
                 <div class="d-flex align-items-center">
                     <img src="/images-mist/review-latesha.png" alt="headshot" class="img-fluid">
                     <div class="fw-bold poppins ms-3">Latesha Berrong</div>
