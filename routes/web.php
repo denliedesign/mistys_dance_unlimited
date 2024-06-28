@@ -411,6 +411,10 @@ Route::get('/dance-studios-in-la-crosse-wi', function () {
 Route::get('/dance-classes-in-la-crosse-wi', function () {
     return view('/dance-classes-in-la-crosse-wi');
 });
+Route::get('/dance-classes-la-crosse', function () {
+    return view('/dance-classes-la-crosse');
+});
+
 
 Route::get('dance-studios-in-west-salem-wi', function () {
     return view('dance-studios-in-west-salem-wi');
