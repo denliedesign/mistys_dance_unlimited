@@ -440,9 +440,9 @@ Route::get('holmen-dance-team', function () {
 Route::get('west-salem-dance-team', function () {
     return view('west-salem-dance-team');
 });
-Route::get('tomah-dance-team', function () {
-    return view('tomah-dance-team');
-});
+//Route::get('tomah-dance-team', function () {
+//    return view('tomah-dance-team');
+//});
 Route::get('get-dance-team', function () {
     return view('get-dance-team');
 });
