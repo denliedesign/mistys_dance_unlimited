@@ -436,7 +436,7 @@
             </div>
             <p class="poppins mt-5 text-center">
                 <span class="txt-yellow" style="font-size: 1.4em;">Please also welcome our new instructors for 2024-2025. Head shots and biographies coming soon!</span><br>
-                Julia Chirillo and Macy Meyer
+                Julia Chirillo, Madalyn Erickson, and Macy Meyer
             </p>
         </div>
 
