@@ -137,7 +137,20 @@
                     </div>
                     <p class="poppins">
                         <span class="txt-yellow" style="font-size: 1.4em;">Dance Instructor</span><br>
-                        Miss Cindy Anneke is a Preschool dance class specialist, a member of our Adult Tap program. Miss Cindy is also a proud dance mom and the energetic leader of our Wiggle Wednesday program.
+                        Miss Cindy discovered our MDU family through a Mommy & Me class. In 2020, she transitioned from a dance mom to a staff member and now teaches the same class that introduced her to us. Miss Cindy is our preschool dance class specialist, working closely with our youngest dancers. She also leads our Wiggle Wednesday program, an early childhood class that promotes connection, creative movement, and art.
+{{--                        Miss Cindy Anneke is a Preschool dance class specialist, a member of our Adult Tap program. Miss Cindy is also a proud dance mom and the energetic leader of our Wiggle Wednesday program.--}}
+                    </p>
+                </div>
+                <div class="col-sm mt-3" style="height: 100%;">
+                    <div style="position: relative;">
+                        <img src="/images/miss-ashlin-bowyer.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
+                        <div id="triangle-bottomleft-staff"></div>
+                        <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br>Ashlin Bowyer</div>
+                    </div>
+                    <p class="poppins">
+                        <span class="txt-yellow" style="font-size: 1.4em;">Dance Instructor</span><br>
+                        Miss Ashlin trained with the Royal Winnipeg Ballet’s Professional Division year-round program and was an Advanced Touring Student with the Minnesota Ballet. Ashlin is in her second year at MDU and enjoys teaching Ballet and Pointe. She grew up in Duluth and has her M.F.A from Washington State University with a focus in Fiber Art and Printmaking.
+{{--                        Miss Ashlin trained with the Royal Winnipeg Ballet’s Professional Division year-round program and was an Advanced Touring Student with the Minnesota Ballet. Ashlin is in her second year at MDU and enjoys teaching Ballet and Pointe. She grew up in Duluth and has her M.F.A from Washington State University in Fiber Art and Printmaking.--}}
                     </p>
                 </div>
                 <div class="col-sm mt-3" style="height: 100%;">
@@ -160,6 +173,39 @@
                     <p class="poppins">
                         <span class="txt-yellow" style="font-size: 1.4em;">Dance Instructor</span><br>
                         Lexi grew up dancing at Summit Dance Shoppe in Plymouth, Minnesota where she danced and competed for 15 years. She attends Winona State University where she studies psychology and continues her love for dance by teaching! She helps out with the Performance Company as well as teaching jazz, lyrical and contemporary classes!
+                    </p>
+                </div>
+                <div class="col-sm mt-3" style="height: 100%;">
+                    <div style="position: relative;">
+                        <img src="/images/miss-elsa-fortner.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
+                        <div id="triangle-bottomleft-staff"></div>
+                        <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br> Elsa Fortner</div>
+                    </div>
+                    <p class="poppins">
+                        <span class="txt-yellow" style="font-size: 1.4em;">Dance Instructor</span><br>
+                        Miss Elsa has been dancing with Misty’s for as long as she can remember. She is currently a member of Performance Company, Traveling Team, and CREW, and participates in Ballet La Crosse. She is a student at Aquinas High School and is a senior captain of the Aquinas High School Dance Team. She loves teaching a variety of genres and ages and sharing the love of dance.
+                    </p>
+                </div>
+                <div class="col-sm mt-3" style="height: 100%;">
+                    <div style="position: relative;">
+                        <img src="/images/miss-bailey-hoffman.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
+                        <div id="triangle-bottomleft-staff"></div>
+                        <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br>Bailey Hoffman</div>
+                    </div>
+                    <p class="poppins">
+                        <span class="txt-yellow" style="font-size: 1.4em;">Dance Instructor</span><br>
+                        Bailey grew up dancing at Misty’s and participated in Ballet La Crosse and Pre Pro for several years. Bailey became a classroom helper at age 9 which made her realize her love for kids and inspired her to become a teacher. She loves watching her students grow in confidence and skill as they learn to express themselves through dance.
+                    </p>
+                </div>
+                <div class="col-sm mt-3" style="height: 100%;">
+                    <div style="position: relative;">
+                        <img src="/images/miss-hailey-hotvedt.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
+                        <div id="triangle-bottomleft-staff"></div>
+                        <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br>Hailey Hotvedt</div>
+                    </div>
+                    <p class="poppins">
+                        <span class="txt-yellow" style="font-size: 1.4em;">Dance Instructor</span><br>
+                        Miss Hailey grew up competitively dancing at Broadway Academy of Art and Dance in Lake Geneva, Wisconsin. She also competed on the Burlington High School Varsity Dance Team for all four years. She currently attends Viterbo University where she studies social work and criminal justice. She is also on the competitive dance team at Viterbo. She teaches hip hop classes, Crew, Crew Jr., and Guys Hip Hop Team!
                     </p>
                 </div>
                 <div class="col-sm mt-3" style="height: 100%;">
@@ -208,13 +254,35 @@
                 </div>
                 <div class="col-sm mt-3" style="height: 100%;">
                     <div style="position: relative;">
+                        <img src="/images/miss-tabitha-meyer.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
+                        <div id="triangle-bottomleft-staff"></div>
+                        <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br>Tabitha Meyer</div>
+                    </div>
+                    <p class="poppins">
+                        <span class="txt-yellow" style="font-size: 1.4em;">Dance Instructor</span><br>
+                        Miss Tabitha has been dancing at Misty’s for 14 years and is a part of Performance Company, Ballet La Crosse, Crew, and Traveling Team. Her favorite styles are contemporary and Hip Hop. This is her second year teaching and she’s excited for it!
+                    </p>
+                </div>
+                <div class="col-sm mt-3" style="height: 100%;">
+                    <div style="position: relative;">
                         <img src="/images-lava/staff-beth.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
                         <div id="triangle-bottomleft-staff"></div>
                         <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br>Elisabeth Michelson</div>
                     </div>
                     <p class="poppins">
-                        <span class="txt-yellow" style="font-size: 1.4em;">Teacher</span><br>
+                        <span class="txt-yellow" style="font-size: 1.4em;">Dance Instructor</span><br>
                         Miss Elisabeth has been dancing for over 20 years. Her favorite genres include tap, musical theatre, and contemporary. Elisabeth shared her love for performing for many years as a member of MDU’s Performance Company. She is a 2013 graduate of the University of Minnesota with a degree in Elementary Education and Spanish. She has danced with Ingredients Dance Company in Texas and has taught at MDU since 2014.
+                    </p>
+                </div>
+                <div class="col-sm mt-3" style="height: 100%;">
+                    <div style="position: relative;">
+                        <img src="/images/miss-kyra-moore.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
+                        <div id="triangle-bottomleft-staff"></div>
+                        <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br> Kyra Moore</div>
+                    </div>
+                    <p class="poppins">
+                        <span class="txt-yellow" style="font-size: 1.4em;">Dance Instructor</span><br>
+                        Miss Kyra grew up in the area and started dancing at Misty's when she was 3. She was involved in the Performance Company for 5 years and was on the Holmen Dance Team for all 4 years of high school. Last summer, she was trained through the AcrobaticArts curriculum and has expanded her teaching to Acro classes along with Tap, Jazz, and Lyrical! She is excited to share her passion for dance with all of her students!
                     </p>
                 </div>
                 <div class="col-sm mt-3" style="height: 100%;">
@@ -226,6 +294,17 @@
                     <p class="poppins">
                         <span class="txt-yellow" style="font-size: 1.4em;">Dance Instructor</span><br>
                         Miss Larissa is a former professional ballerina with the Estonian National Ballet in Europe. She has been teaching for MDU's Pre-Professional Program and our classical performing company, Ballet La Crosse since 2011. Ballet La Crosse was founded by Miss Larissa's late husband and beloved ballet master, Mr. Kennet Oberly.
+                    </p>
+                </div>
+                <div class="col-sm mt-3" style="height: 100%;">
+                    <div style="position: relative;">
+                        <img src="/images/miss-kaleyah-rivera.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
+                        <div id="triangle-bottomleft-staff"></div>
+                        <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br>Kaleyah Rivera</div>
+                    </div>
+                    <p class="poppins">
+                        <span class="txt-yellow" style="font-size: 1.4em;">Dance Instructor</span><br>
+                        Miss Kaleyah has danced at Misty’s Dance Unlimited for 6 years and has participated in the Performance Company, Crew, Traveling Teams, and Ballet La Crosse. Miss Kaleyah was a part of the Junior Faculty last year and is excited to continue teaching this year!
                     </p>
                 </div>
                 <div class="col-sm mt-3" style="height: 100%;">
@@ -357,7 +436,7 @@
             </div>
             <p class="poppins mt-5 text-center">
                 <span class="txt-yellow" style="font-size: 1.4em;">Please also welcome our new instructors for 2024-2025. Head shots and biographies coming soon!</span><br>
-                Ashlin Bowyer, Bailey Hoffman, Kyra Moore, Lizzie Mead, Tabitha Meyer.
+                Julia Chirillo and Macy Meyer
             </p>
         </div>
 
