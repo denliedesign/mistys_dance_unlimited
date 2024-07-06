@@ -89,6 +89,18 @@
                         <h3 style="font-family: 'Pacifico', cursive; font-size: 50px;">July</h3>
                         <hr><div class="row"><div class="col-2 d-flex align-items-end" style="font-family: 'Pacifico', cursive; font-size: 50px;">15</div><div class="col-10 d-flex align-items-end"><p>Community art show with The Art Room<br>3:00 PM - 5:00 PM
                                     <br><a href="https://www.theartroombangor.com" target="_blank">Learn More</a></p></div></div>
+                        <hr><div class="row"><div class="col-2 d-flex align-items-end" style="font-family: 'Pacifico', cursive; font-size: 50px;">17</div><div class="col-10 d-flex align-items-end"><p>Children's Museum movement classes<br>2:00 PM - 2:30 PM
+                                    <br><a href="https://www.funmuseum.org/events/mistys-dance-class" target="_blank">Learn More</a></p></div></div>
+                        <hr><div class="row"><div class="col-2 d-flex align-items-end" style="font-family: 'Pacifico', cursive; font-size: 50px;">31</div><div class="col-10 d-flex align-items-end"><p>Children's Museum movement classes<br>10:30 AM - 11:00 AM
+                                    <br><a href="https://www.funmuseum.org/events/mistys-dance-class2" target="_blank">Learn More</a></p></div></div>
+                        <hr>
+                    </div>
+                    <div class="col-sm">
+                        <h3 style="font-family: 'Pacifico', cursive; font-size: 50px;">August</h3>
+                        <hr><div class="row"><div class="col-2 d-flex align-items-end" style="font-family: 'Pacifico', cursive; font-size: 50px;">13</div><div class="col-10 d-flex align-items-end"><p>Children's Museum movement classes<br>10:30 AM - 11:00 AM
+                                    <br><a href="https://www.funmuseum.org" target="_blank">Learn More</a></p></div></div>
+                        <hr><div class="row"><div class="col-2 d-flex align-items-end" style="font-family: 'Pacifico', cursive; font-size: 50px;">28</div><div class="col-10 d-flex align-items-end"><p>Children's Museum movement classes<br>10:30 AM - 11:00 AM
+                                    <br><a href="https://www.funmuseum.org" target="_blank">Learn More</a></p></div></div>
                         <hr>
                     </div>
                 </div>
