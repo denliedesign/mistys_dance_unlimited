@@ -232,7 +232,7 @@
                 </div>
                 <div class="col-sm mt-3" style="height: 100%;">
                     <div style="position: relative;">
-                        <img src="/images-lava/staff-alex.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
+                        <img src="/images-mist/staff-alex.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
                         <div id="triangle-bottomleft-staff"></div>
                         <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br>Alex Meier</div>
                     </div>
