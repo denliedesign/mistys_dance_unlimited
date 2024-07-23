@@ -4,7 +4,7 @@
     {{--background: RGBA(235, 232, 46, 0.1); yellow--}}
     {{--background: RGBA(0, 140, 192, 0.1); blue--}}
 
-    <div class="" style="height: 125px;"></div>
+{{--    <div class="" style="height: 125px;"></div>--}}
 
     <div class="d-block d-lg-none mx-4">
         <h1 class="born-1 poppins fw-bold p-0 m-0" style="font-size: 45px; transform: translateY(45px); opacity: 0;">You belong here <span style="color: #ED174D;"><ion-icon name="heart"></ion-icon></span></h1>
@@ -15,7 +15,7 @@
     </div>
     @include('/desktop/home/_cta')
 
-    <div class="" style="height: 125px;"></div>
+{{--    <div class="" style="height: 125px;"></div>--}}
 
     <img src="/images-mist/header.jpg" alt="all ages of dancers in a row" class="img-fluid">
 
