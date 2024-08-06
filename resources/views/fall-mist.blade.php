@@ -22,7 +22,7 @@
                 <img src="/images-mist/11.png" alt="fall schedule" class="img-fluid p-1">
                 <img src="/images-mist/12.png" alt="fall schedule" class="img-fluid p-1">
 {{--                <img src="/images-mist/13.png" alt="fall schedule" class="img-fluid p-1">--}}
-                <img src="/images-mist/14.png" alt="fall schedule" class="img-fluid p-1">
+{{--                <img src="/images-mist/14.png" alt="fall schedule" class="img-fluid p-1">--}}
                 {{--                <img src="/images/24-25-fall-schedule_page-0010.jpg" alt="fall schedule" class="img-fluid p-1">--}}
                 {{--                <img src="/images/24-25-fall-schedule_page-0011.jpg" alt="fall schedule" class="img-fluid p-1">--}}
                 {{--                <img src="/images/24-25-fall-schedule_page-0012.jpg" alt="fall schedule" class="img-fluid p-1">--}}
