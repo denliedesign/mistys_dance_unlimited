@@ -136,9 +136,9 @@ Route::get('pre-pro', function () {
     return view('pre-pro');
 });
 
-Route::get('summer', function () {
-    return view('summer-mist');
-});
+//Route::get('summer', function () {
+//    return view('summer-mist');
+//});
 
 Route::get('_old-summer', function () {
     return view('_old-summer');
