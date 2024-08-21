@@ -10,9 +10,10 @@
                 <li class="nav-item hover-link mx-2">
                     <a class="nav-link text-dark" href="/aboutus">About Us</a>
                 </li>
-{{--                <li class="nav-item hover-link mx-2">--}}
+                <li class="nav-item hover-link mx-2">
 {{--                    <a class="nav-link text-dark" href="/promotions">Winter/Spring</a>--}}
-{{--                </li>--}}
+                    <a class="nav-link text-dark" href="/promotions">Promotions</a>
+                </li>
 {{--                <li class="nav-item hover-link mx-2">--}}
 {{--                    <a class="nav-link text-dark" href="/summer">Summer</a>--}}
 {{--                </li>--}}

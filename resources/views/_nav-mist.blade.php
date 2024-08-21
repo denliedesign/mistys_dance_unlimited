@@ -19,9 +19,10 @@
             <li class="nav-item mx-2">
                 <a class="nav-link" href="/aboutus">About Us</a>
             </li>
-{{--            <li class="nav-item mx-2">--}}
+            <li class="nav-item mx-2">
 {{--                <a class="nav-link" href="/promotions">Winter/Spring</a>--}}
-{{--            </li>--}}
+                <a class="nav-link" href="/promotions">Promotions</a>
+            </li>
 {{--            <li class="nav-item mx-2">--}}
 {{--                <a class="nav-link" href="/summer">Summer</a>--}}
 {{--            </li>--}}
