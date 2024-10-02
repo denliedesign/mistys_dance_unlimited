@@ -9,7 +9,7 @@
         <div class="d-flex justify-content-center py-5 mx-5">
             <div>
                 @can('update', \App\Video::class)
-                    <p class="text-center"><a class="text-white" href="/videos/create">Add New Video</a></p>
+                    <p class="text-center"><a class="text-dark" href="/videos/create">Add New Video</a></p>
                 @endcan
                 @foreach($videos as $video)
                     <div>{!! $video->embed !!}</div>
