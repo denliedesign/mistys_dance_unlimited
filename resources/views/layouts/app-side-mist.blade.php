@@ -68,6 +68,7 @@
 <script src="https://cdn.jsdelivr.net/npm/gsap@3.12.5/dist/Draggable.min.js"></script>
 <!-- The following plugin is only available for Club GSAP members.-->
 <script src="/js/InertiaPlugin.min.js"></script>
+<script src="//code.tidio.co/m9pttpymc43qy4pzxkvap1bfkrsjkzbw.js" async></script>
 
 <script>
     tinymce.init({
