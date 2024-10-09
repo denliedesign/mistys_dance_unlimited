@@ -11,7 +11,7 @@
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-2 mt-4">
                 <img src="/images/fall-schedule-24-sep-20-1.jpg" alt="fall schedule" class="img-fluid p-1">
                 <img src="/images/fall-schedule-24-sep-20-2.jpg" alt="fall schedule" class="img-fluid p-1" id="ab">
-                <img src="/images/fall-schedule-24-sep-20-3.jpg" alt="fall schedule" class="img-fluid p-1" id="c">
+                <img src="/images/fall-24-page-3-oct.png" alt="fall schedule" class="img-fluid p-1" id="c">
                 <img src="/images/fall-schedule-24-sep-20-4.jpg" alt="fall schedule" class="img-fluid p-1" id="d">
                 <img src="/images/fall-schedule-24-sep-20-5.jpg" alt="fall schedule" class="img-fluid p-1" id="e">
                 <img src="/images/fall-schedule-24-sep-20-6.jpg" alt="fall schedule" class="img-fluid p-1">
