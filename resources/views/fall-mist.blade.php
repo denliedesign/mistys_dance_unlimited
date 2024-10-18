@@ -9,18 +9,18 @@
 {{--            <div style="background: #008CC0; color: white; font-size: 20px;" class="btn poppins fw-bold btn-interact me-3 mt-3"><a class="text-white text-decoration-none" href="/images/24-25-fall-b.pdf" target="_blank">View Class Schedule PDF</a></div>--}}
             <div style="background: #008CC0; color: white; font-size: 20px;" class="btn poppins fw-bold btn-interact me-3 mt-3"><a class="text-white text-decoration-none" href="/images-mist/dress-code-24-25.png" target="_blank">Dress Code</a></div>
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-2 mt-4">
-                <img src="/images/fall-schedule-24-sep-20-1.jpg" alt="fall schedule" class="img-fluid p-1">
-                <img src="/images/fall-schedule-24-sep-20-2.jpg" alt="fall schedule" class="img-fluid p-1" id="ab">
-                <img src="/images/fall-24-page-3-oct.png" alt="fall schedule" class="img-fluid p-1" id="c">
-                <img src="/images/fall-schedule-24-sep-20-4.jpg" alt="fall schedule" class="img-fluid p-1" id="d">
-                <img src="/images/fall-schedule-24-sep-20-5.jpg" alt="fall schedule" class="img-fluid p-1" id="e">
-                <img src="/images/fall-schedule-24-sep-20-6.jpg" alt="fall schedule" class="img-fluid p-1">
-                <img src="/images/fall-schedule-24-sep-20-7.jpg" alt="fall schedule" class="img-fluid p-1">
-                <img src="/images/fall-schedule-24-sep-20-8.jpg" alt="fall schedule" class="img-fluid p-1" id="age-guys">
-                <img src="/images/fall-schedule-24-sep-20-9.jpg" alt="fall schedule" class="img-fluid p-1">
-                <img src="/images/fall-schedule-24-sep-20-10.jpg" alt="fall schedule" class="img-fluid p-1">
-                <img src="/images/fall-schedule-24-sep-20-11.jpg" alt="fall schedule" class="img-fluid p-1">
-                <img src="/images/fall-schedule-24-sep-20-12.jpg" alt="fall schedule" class="img-fluid p-1">
+                <img src="/images/fall-sched-24-oct-18-1.jpg" alt="fall schedule" class="img-fluid p-1">
+                <img src="/images/fall-sched-24-oct-18-2.jpg" alt="fall schedule" class="img-fluid p-1" id="ab">
+                <img src="/images/fall-sched-24-oct-18-3.jpg" alt="fall schedule" class="img-fluid p-1" id="c">
+                <img src="/images/fall-sched-24-oct-18-4.jpg" alt="fall schedule" class="img-fluid p-1" id="d">
+                <img src="/images/fall-sched-24-oct-18-5.jpg" alt="fall schedule" class="img-fluid p-1" id="e">
+                <img src="/images/fall-sched-24-oct-18-6.jpg" alt="fall schedule" class="img-fluid p-1">
+                <img src="/images/fall-sched-24-oct-18-7.jpg" alt="fall schedule" class="img-fluid p-1">
+                <img src="/images/fall-sched-24-oct-18-8.jpg" alt="fall schedule" class="img-fluid p-1" id="age-guys">
+                <img src="/images/fall-sched-24-oct-18-9.jpg" alt="fall schedule" class="img-fluid p-1">
+                <img src="/images/fall-sched-24-oct-18-10.jpg" alt="fall schedule" class="img-fluid p-1">
+                <img src="/images/fall-sched-24-oct-18-11.jpg" alt="fall schedule" class="img-fluid p-1">
+                <img src="/images/fall-sched-24-oct-18-12.jpg" alt="fall schedule" class="img-fluid p-1">
 {{--                <img src="/images-mist/13.png" alt="fall schedule" class="img-fluid p-1">--}}
 {{--                <img src="/images-mist/14.png" alt="fall schedule" class="img-fluid p-1">--}}
                 {{--                <img src="/images/24-25-fall-schedule_page-0010.jpg" alt="fall schedule" class="img-fluid p-1">--}}
