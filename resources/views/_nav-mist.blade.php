@@ -46,7 +46,7 @@
                 <a class="nav-link" href="https://www.thewillowandgrace.com/" target="_blank">Boutique</a>
             </li>
             <li class="nav-item mx-2">
-                <a class="nav-link" href="https://360-dance-festival.myshopify.com" target="_blank">Boo Bundle</a>
+                <a class="nav-link" href="https://360-dance-festival.myshopify.com" target="_blank">Gift of Dance</a>
             </li>
             <li class="nav-item mx-2">
                 <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" class="nav-link">
