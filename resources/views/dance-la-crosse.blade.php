@@ -28,6 +28,7 @@
                 &nbsp; &middot; &nbsp; <a class="text-decoration-none" href="/dance-camp-la-crosse"><small class="text-muted">Dance Camp La Crosse</small></a>
                 &nbsp; &middot; &nbsp; <a class="text-decoration-none" href="/ballet-camps-la-crosse"><small class="text-muted">Ballet Camps La Crosse</small></a>
                 &nbsp; &middot; &nbsp; <a class="text-decoration-none" href="/ballet-la-crosse"><small class="text-muted">Ballet La Crosse</small></a>
+                &nbsp; &middot; &nbsp; <a class="text-decoration-none" href="/tumble-classes-la-crosse"><small class="text-muted">Tumble Classes La Crosse</small></a>
             </div>
         </div>
     </div>

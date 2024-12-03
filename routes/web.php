@@ -458,6 +458,9 @@ Route::get('ballet-camps-la-crosse', function () {
 Route::get('ballet-la-crosse', function () {
     return view('ballet-la-crosse');
 });
+Route::get('tumble-classes-la-crosse', function () {
+    return view('tumble-classes-la-crosse');
+});
 Route::get('dance-onalaska', function () { return view('dance-onalaska'); });
 Route::get('dance-la-crosse', function () { return view('dance-la-crosse'); });
 Route::get('dance-la-crescent', function () { return view('dance-la-crescent'); });
