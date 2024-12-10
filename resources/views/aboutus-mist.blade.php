@@ -3,28 +3,34 @@
 
     <div class="bg-white">
         <div class="mx-4 pb-5 pt-3">
-            <div class="row">
-                <div class="col-sm">
+            <h1 class="born-7 poppins fw-bold p-0 m-0" style="font-size: 45px;">About Us</h1>
+                        <div class="row">
+                <div class="col-md">
                     <img src="/images-lava/about-us-mistys-dance.jpg" alt="" class="img-fluid shadow rounded mb-2">
                 </div>
-                <div class="col-sm">
-                    <h1 class="born-7 poppins fw-bold p-0 m-0" style="font-size: 45px;">About Us</h1>
+                            <div class="col-md"></div>
+{{--                <div class="col-sm">--}}
 
-                    <p class="poppins" style="font-size: 20px;">
-                        <span style="font-family: 'Pacifico', cursive; font-size: 30px;">Hi!</span>
-                        <br><br>
-                        My name is Misty Lown and I am the founder of Misty's Dance Unlimited, LLC, or "MDU" as we call it around here <3. I started the studio on a simple principle that we have stayed TRUE to over the last two and a half decades–we are "More Than Just Great Dancing!®".
-                    </p>
-                </div>
-            </div>
+
+{{--                    <p class="poppins" style="font-size: 20px;">--}}
+{{--                        <span style="font-family: 'Pacifico', cursive; font-size: 30px;">Hi!</span>--}}
+{{--                        <br><br>--}}
+{{--                        My name is Misty Lown and I am the founder of Misty's Dance Unlimited, LLC, or "MDU" as we call it around here <3. I started the studio on a simple principle that we have stayed TRUE to over the last two and a half decades–we are "More Than Just Great Dancing!®".--}}
+{{--                    </p>--}}
+{{--                </div>--}}
+{{--            </div>--}}
             <p class="poppins" style="font-size: 20px;">
-                So what does that mean? It means that at a baseline we provide EXCELLENCE in dance education. I did my graduate work in education and lead the nation's only safety certifying organization for dance teachers. Our teachers are qualified and certified. And, our PROVEN curriculum has inspired CONFIDENCE in thousands of students; placing students on every local dance team, and countless college programs.
-                <br><br>
-                HOWEVER, we are MORE Than Just Great Dancing!® At MDU, dance has lasting value because dance lessons are LIFE LESSONS. Dance meets imperative needs for social-emotional skills, mental well-being, and physical health and provides quality friendships and role models. And, THAT is the greatest investment a parent could make in their child. I don't only share that as a dance teacher but as a mom of five myself.
-                <br><br>
-                At MDU dance becomes a FAMILY and the studio becomes a second HOME for kids during their developmental years. We invite you to meet some of our amazing faculty below, some of whom have been inspiring Coulee Region children for over two decades.
-                <br><br>
-                <span style="font-family: 'Pacifico', cursive; font-size: 30px;">Welcome to MDU!!</span>
+                At Misty's Dance Unlimited (MDU), we believe that dance is about more than just great technique—it’s about nurturing the whole person. Our core values are rooted in creating a safe, loving, and inclusive environment where every dancer feels valued. For over 27 years, families have chosen MDU for our high-quality instruction, strong values, and the unparalleled professionalism of our teachers and staff.
+                <br><br>MDU is more than a dance studio—it’s a community where children grow, friendships blossom, and leadership is fostered. Our classes are designed to challenge without overwhelming, encouraging dancers to raise the bar both in the studio and in life. Whether your child is just starting out or looking to refine their skills, our curriculum focuses on social, emotional, physical, and mental growth.
+                <br><br>We pride ourselves on offering a clean, well-organized facility, complete with everything families need for comfort and convenience. From a welcoming staff who know each child by name to our well-maintained space, MDU provides a second home for your child to learn, grow, and thrive. Welcome to the MDU family, where dancers are built up, encouraged, and given the tools to succeed both on and off the dance floor.
+
+                {{--                So what does that mean? It means that at a baseline we provide EXCELLENCE in dance education. I did my graduate work in education and lead the nation's only safety certifying organization for dance teachers. Our teachers are qualified and certified. And, our PROVEN curriculum has inspired CONFIDENCE in thousands of students; placing students on every local dance team, and countless college programs.--}}
+{{--                <br><br>--}}
+{{--                HOWEVER, we are MORE Than Just Great Dancing!® At MDU, dance has lasting value because dance lessons are LIFE LESSONS. Dance meets imperative needs for social-emotional skills, mental well-being, and physical health and provides quality friendships and role models. And, THAT is the greatest investment a parent could make in their child. I don't only share that as a dance teacher but as a mom of five myself.--}}
+{{--                <br><br>--}}
+{{--                At MDU dance becomes a FAMILY and the studio becomes a second HOME for kids during their developmental years. We invite you to meet some of our amazing faculty below, some of whom have been inspiring Coulee Region children for over two decades.--}}
+{{--                <br><br>--}}
+{{--                <span style="font-family: 'Pacifico', cursive; font-size: 30px;">Welcome to MDU!!</span>--}}
             </p>
             {{--            <h3 class="poppins" style="font-size: 100px; line-height: 0.9em;">Meet The Team</h3>--}}
         </div>

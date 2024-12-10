@@ -28,6 +28,10 @@ Route::get('/', function () {
     return view('welcome-mist');
 });
 
+Route::get('/parent-responses', function () {
+    return view('/parent-responses');
+});
+
 Route::get('/errors/no_placement', function () {
     return view('/errors/no_placement');
 });
