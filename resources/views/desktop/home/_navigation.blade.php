@@ -36,9 +36,9 @@
                 <li class="nav-item hover-link mx-2">
                     <a class="nav-link text-dark" href="https://www.thewillowandgrace.com/" target="_blank">Boutique</a>
                 </li>
-                <li class="nav-item hover-link mx-2">
-                    <a class="nav-link text-dark" href="https://360-dance-festival.myshopify.com" target="_blank">Gift of Dance</a>
-                </li>
+{{--                <li class="nav-item hover-link mx-2">--}}
+{{--                    <a class="nav-link text-dark" href="https://360-dance-festival.myshopify.com" target="_blank">Gift of Dance</a>--}}
+{{--                </li>--}}
                 <li class="nav-item hover-link mx-2">
                     <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" class="nav-link text-dark">
                         <div class="btn btn-danger shadow">Enroll Now!</div>
