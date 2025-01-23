@@ -453,6 +453,50 @@
                         </div>
 
                     </div>
+                    <div class="col-sm mt-4">
+                        <h3 style="font-family: 'Pacifico', cursive; font-size: 50px;">April</h3>
+                        <hr>
+                        <div class="row">
+                            <div class="col-2 d-flex align-items-end" style="font-family: 'Pacifico', cursive; font-size: 50px;">2</div>
+                            <div class="col-10 d-flex align-items-end">
+                                <p>Wiggle Wednesday
+                                    <br>9:30 AM - 10:30 AM
+                                    {{--                                    <br><a href="https://www.theartroombangor.com" target="_blank">Learn More</a>--}}
+                                </p>
+                            </div>
+                        </div>
+                        <hr>
+                        <div class="row">
+                            <div class="col-2 d-flex align-items-end" style="font-family: 'Pacifico', cursive; font-size: 50px;">3</div>
+                            <div class="col-10 d-flex align-items-end">
+                                <p>Misty's Dance Class at The Museum
+                                    <br>11:00 AM - 11:30 AM
+                                    {{--                                    <br><a href="https://www.theartroombangor.com" target="_blank">Learn More</a>--}}
+                                </p>
+                            </div>
+                        </div>
+                        <hr>
+                        <div class="row">
+                            <div class="col-2 d-flex align-items-end" style="font-family: 'Pacifico', cursive; font-size: 50px;">10</div>
+                            <div class="col-10 d-flex align-items-end">
+                                <p>Misty's Dance Class at The Museum
+                                    <br>11:00 AM - 11:30 AM
+                                    {{--                                    <br><a href="https://www.theartroombangor.com" target="_blank">Learn More</a>--}}
+                                </p>
+                            </div>
+                        </div>
+                        <hr>
+                        <div class="row">
+                            <div class="col-2 d-flex align-items-end" style="font-family: 'Pacifico', cursive; font-size: 50px;">12</div>
+                            <div class="col-10 d-flex align-items-end">
+                                <p>Kidz Biz Fair
+                                    <br>9:00 AM - 12:00 PM
+                                    {{--                                    <br><a href="https://www.theartroombangor.com" target="_blank">Learn More</a>--}}
+                                </p>
+                            </div>
+                        </div>
+
+                    </div>
 
         </div>
         </div>
