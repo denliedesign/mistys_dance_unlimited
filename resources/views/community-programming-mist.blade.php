@@ -380,6 +380,16 @@
                         </div>
                         <hr>
                         <div class="row">
+                            <div class="col-2 d-flex align-items-end" style="font-family: 'Pacifico', cursive; font-size: 50px;">21</div>
+                            <div class="col-10 d-flex align-items-end">
+                                <p>Family Art Class with The Art Room
+                                    <br>6:00 PM - 7:00 PM
+                                    {{--                                    <br><a href="https://www.theartroombangor.com" target="_blank">Learn More</a>--}}
+                                </p>
+                            </div>
+                        </div>
+                        <hr>
+                        <div class="row">
                             <div class="col-2 d-flex align-items-end" style="font-family: 'Pacifico', cursive; font-size: 50px;">27</div>
                             <div class="col-10 d-flex align-items-end">
                                 <p>Misty's Dance Class at The Museum
@@ -388,6 +398,60 @@
                                 </p>
                             </div>
                         </div>
+                    </div>
+                    <div class="col-sm mt-4">
+                        <h3 style="font-family: 'Pacifico', cursive; font-size: 50px;">March</h3>
+                        <hr>
+                        <div class="row">
+                            <div class="col-2 d-flex align-items-end" style="font-family: 'Pacifico', cursive; font-size: 50px;">5</div>
+                            <div class="col-10 d-flex align-items-end">
+                                <p>Wiggle Wednesday
+                                    <br>9:30 AM - 10:30 AM
+                                    {{--                                    <br><a href="https://www.theartroombangor.com" target="_blank">Learn More</a>--}}
+                                </p>
+                            </div>
+                        </div>
+                        <hr>
+                        <div class="row">
+                            <div class="col-2 d-flex align-items-end" style="font-family: 'Pacifico', cursive; font-size: 50px;">6</div>
+                            <div class="col-10 d-flex align-items-end">
+                                <p>Misty's Dance Class at The Museum
+                                    <br>11:00 AM - 11:30 AM
+                                    {{--                                    <br><a href="https://www.theartroombangor.com" target="_blank">Learn More</a>--}}
+                                </p>
+                            </div>
+                        </div>
+                        <hr>
+                        <div class="row">
+                            <div class="col-2 d-flex align-items-end" style="font-family: 'Pacifico', cursive; font-size: 50px;">13</div>
+                            <div class="col-10 d-flex align-items-end">
+                                <p>Misty's Dance Class at The Museum
+                                    <br>11:00 AM - 11:30 AM
+                                    {{--                                    <br><a href="https://www.theartroombangor.com" target="_blank">Learn More</a>--}}
+                                </p>
+                            </div>
+                        </div>
+                        <hr>
+                        <div class="row">
+                            <div class="col-2 d-flex align-items-end" style="font-family: 'Pacifico', cursive; font-size: 50px;">20</div>
+                            <div class="col-10 d-flex align-items-end">
+                                <p>Misty's Dance Class at The Museum
+                                    <br>11:00 AM - 11:30 AM
+                                    {{--                                    <br><a href="https://www.theartroombangor.com" target="_blank">Learn More</a>--}}
+                                </p>
+                            </div>
+                        </div>
+                        <hr>
+                        <div class="row">
+                            <div class="col-2 d-flex align-items-end" style="font-family: 'Pacifico', cursive; font-size: 50px;">27</div>
+                            <div class="col-10 d-flex align-items-end">
+                                <p>Misty's Dance Class at The Museum
+                                    <br>11:00 AM - 11:30 AM
+                                    {{--                                    <br><a href="https://www.theartroombangor.com" target="_blank">Learn More</a>--}}
+                                </p>
+                            </div>
+                        </div>
+
                     </div>
 
         </div>
