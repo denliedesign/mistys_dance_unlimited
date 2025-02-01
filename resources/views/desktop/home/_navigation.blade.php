@@ -11,6 +11,9 @@
                     <a class="nav-link text-dark" href="/aboutus">About Us</a>
                 </li>
                 <li class="nav-item hover-link mx-2">
+                    <a class="nav-link text-dark" href="/parent-responses">FAQ</a>
+                </li>
+                <li class="nav-item hover-link mx-2">
 {{--                    <a class="nav-link text-dark" href="/promotions">Winter/Spring</a>--}}
                     <a class="nav-link text-dark" href="/promotions">Promotions</a>
                 </li>
