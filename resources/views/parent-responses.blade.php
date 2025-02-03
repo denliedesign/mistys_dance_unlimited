@@ -8,7 +8,7 @@
 {{--            <p class="poppins" style="font-size: 20px;"></p>--}}
         </div>
         <section class="mx-5">
-            <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-2">
+            <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-1 row-cols-xl-2">
                 <div class="my-4" style="">
                     <div class="rounded p-3" style="position: relative; height: 250px; background: #FFE9ED;">
                         <div class="d-flex align-items-center">
@@ -19,7 +19,7 @@
                         <p class="text-muted poppins mt-3" style="font-size: 20px;">
                             "We chose MDU for the quality of classes and the teachers’ commitment to safety." - Shayna Arndt
                         </p>
-                        <div style="position:absolute; bottom: -40px; right: -40px;"><img src="images/faq-arndt.jpg" alt="profile picture" style="border: 10px solid #ffe9ed; filter: none; opacity: 100%; border-radius: 50%; width: 160px; height: 160px;"></div>
+                        <div id="faq-profile-pic" style="position:absolute; bottom: -40px; right: -40px;"><img src="images/faq-arndt.jpg" alt="profile picture" style="border: 10px solid #ffe9ed; filter: none; opacity: 100%; border-radius: 50%; width: 180px; height: 180px; max-height: 180px;"></div>
                     </div>
                 </div>
                 <div class="my-4" style="">
@@ -32,7 +32,7 @@
                         <p class="text-muted poppins mt-3" style="font-size: 20px;">
                             "MDU has a loving environment that makes us feel safe to bring our child. The friendships and leadership keep us coming back." - Katie Kirchhoff
                         </p>
-                        <div style="position:absolute; bottom: -40px; right: -40px;"><img src="images/faq-kirchhoff.jpg" alt="profile picture" style="border: 10px solid #fefdec; filter: none; opacity: 100%; border-radius: 50%; width: 160px; height: 160px;"></div>
+                        <div id="faq-profile-pic" style="position:absolute; bottom: -40px; right: -40px;"><img src="images/faq-kirchhoff.jpg" alt="profile picture" style="border: 10px solid #fefdec; filter: none; opacity: 100%; border-radius: 50%; width: 180px; height: 180px; max-height: 180px;"></div>
 
                     </div>
                 </div>
@@ -47,7 +47,7 @@
                         <p class="text-muted poppins mt-3" style="font-size: 20px;">
                             “MDU is clean, organized, and so welcoming! The spring recital blew me away with how well everything was run backstage.” - Leah Olson
                         </p>
-                        <div style="position:absolute; bottom: -40px; right: -40px;"><img src="images/faq-olson.jpg" alt="profile picture" style="border: 10px solid #eaf3f9; filter: none; opacity: 100%; border-radius: 50%; width: 160px; height: 160px;"></div>
+                        <div id="faq-profile-pic" style="position:absolute; bottom: -40px; right: -40px;"><img src="images/faq-olson.jpg" alt="profile picture" style="border: 10px solid #eaf3f9; filter: none; opacity: 100%; border-radius: 50%; width: 180px; height: 180px; max-height: 180px;"></div>
 
                     </div>
                 </div>
@@ -61,7 +61,7 @@
                         <p class="text-muted poppins mt-3" style="font-size: 20px;">
                             "MDU offers a great balance of recreational and performance options. My daughter has loved both." - Kylie Pecarina
                         </p>
-                        <div style="position:absolute; bottom: -40px; right: -40px;"><img src="images/faq-pecarina.jpg" alt="profile picture" style="border: 10px solid #ffe9ed; filter: none; opacity: 100%; border-radius: 50%; width: 160px; height: 160px;"></div>
+                        <div id="faq-profile-pic" style="position:absolute; bottom: -40px; right: -40px;"><img src="images/faq-pecarina.jpg" alt="profile picture" style="border: 10px solid #ffe9ed; filter: none; opacity: 100%; border-radius: 50%; width: 180px; height: 180px; max-height: 180px;"></div>
 
                     </div>
                 </div>
@@ -75,7 +75,7 @@
                         <p class="text-muted poppins mt-3" style="font-size: 20px;">
                             "MDU teaches values that will last a lifetime. It's about building the whole person." - Amanda Christianson
                         </p>
-                        <div style="position:absolute; bottom: -40px; right: -40px;"><img src="images/faq-christianson.jpg" alt="profile picture" style="border: 10px solid #fefdec; filter: none; opacity: 100%; border-radius: 50%; width: 160px; height: 160px;"></div>
+                        <div id="faq-profile-pic" style="position:absolute; bottom: -40px; right: -40px;"><img src="images/faq-christianson.jpg" alt="profile picture" style="border: 10px solid #fefdec; filter: none; opacity: 100%; border-radius: 50%; width: 180px; height: 180px; max-height: 180px;"></div>
 
                     </div>
                 </div>
@@ -89,7 +89,7 @@
                         <p class="text-muted poppins mt-3" style="font-size: 20px;">
                             "MDU is rooted in strong morals. It's a safe place for my daughter to explore and express herself." - Elisabeth Michelson
                         </p>
-                        <div style="position:absolute; bottom: -40px; right: -40px;"><img src="images/faq-michelson.jpg" alt="profile picture" style="border: 10px solid #eaf3f9; filter: none; opacity: 100%; border-radius: 50%; width: 160px; height: 160px;"></div>
+                        <div id="faq-profile-pic" style="position:absolute; bottom: -40px; right: -40px;"><img src="images/faq-michelson.jpg" alt="profile picture" style="border: 10px solid #eaf3f9; filter: none; opacity: 100%; border-radius: 50%; width: 180px; height: 180px; max-height: 180px;"></div>
 
                     </div>
                 </div>
@@ -103,7 +103,7 @@
                         <p class="text-muted poppins mt-3" style="font-size: 20px;">
                             "MDU is very organized, from the registration process to recital logistics, and everything is well-communicated." - Erin Dolesy
                         </p>
-                        <div style="position:absolute; bottom: -40px; right: -40px;"><img src="images/faq-dolsey.jpg" alt="profile picture" style="border: 10px solid #ffe9ed; filter: none; opacity: 100%; border-radius: 50%; width: 160px; height: 160px;"></div>
+                        <div id="faq-profile-pic" style="position:absolute; bottom: -40px; right: -40px;"><img src="images/faq-dolsey.jpg" alt="profile picture" style="border: 10px solid #ffe9ed; filter: none; opacity: 100%; border-radius: 50%; width: 180px; height: 180px; max-height: 180px;"></div>
 
                     </div>
                 </div>
