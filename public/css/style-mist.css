@@ -332,3 +332,9 @@
         width: 160px !important;
     }
 }
+
+@media (max-width: 600px) {
+    #faq-profile-pic {
+        display: none;
+    }
+}
