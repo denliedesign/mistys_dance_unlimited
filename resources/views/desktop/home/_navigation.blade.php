@@ -15,14 +15,14 @@
                 </li>
                 <li class="nav-item hover-link mx-2">
 {{--                    <a class="nav-link text-dark" href="/promotions">Winter/Spring</a>--}}
-                    <a class="nav-link text-dark" href="/promotions">Promotions</a>
+                    <a class="nav-link text-dark" href="/promotions">Upcoming Classes</a>
                 </li>
 {{--                <li class="nav-item hover-link mx-2">--}}
 {{--                    <a class="nav-link text-dark" href="/summer">Summer</a>--}}
 {{--                </li>--}}
-                <li class="nav-item hover-link mx-2">
-                    <a class="nav-link text-dark" href="/fall">Fall</a>
-                </li>
+{{--                <li class="nav-item hover-link mx-2">--}}
+{{--                    <a class="nav-link text-dark" href="/fall">Fall</a>--}}
+{{--                </li>--}}
                 <li class="nav-item hover-link mx-2">
                     <a class="nav-link text-dark" href="/community-programming">Community Programs</a>
                 </li>
