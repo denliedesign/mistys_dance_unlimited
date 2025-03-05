@@ -29,9 +29,9 @@
                 <li class="nav-item hover-link mx-2">
                     <a class="nav-link text-dark" href="/articles">News</a>
                 </li>
-{{--                <li class="nav-item hover-link mx-2">--}}
-{{--                    <a class="nav-link text-dark" href="/recital">Recital</a>--}}
-{{--                </li>--}}
+                <li class="nav-item hover-link mx-2">
+                    <a class="nav-link text-dark" href="/recital">Recital</a>
+                </li>
 {{--                <li class="nav-item hover-link mx-2">--}}
 {{--                    <a class="nav-link text-dark" href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank">Register</a>--}}
 {{--                </li>--}}
