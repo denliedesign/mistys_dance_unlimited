@@ -16,7 +16,10 @@
                 <img src="images/2025-summer-b.jpg" alt="summer dance classes" class="my-3">
             </div>
 
-{{--            <hr class="my-5">--}}
+            <div style="background: #008CC0; color: white; font-size: 20px;" class="btn poppins fw-bold btn-interact"><a class="text-white text-decoration-none" href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank">Enroll Now!</a></div>
+            <div style="background: #008CC0; color: white; font-size: 20px;" class="btn poppins fw-bold btn-interact ms-3"><a class="text-white text-decoration-none" href="/images/2025-summer.pdf" target="_blank">View PDF</a></div>
+
+            {{--            <hr class="my-5">--}}
 {{--            <p class="pb-0 mb-0 poppins text-muted" style="font-size: 30px;">MDU 2024</p>--}}
 {{--            <h1 class="born-7 poppins fw-bold p-0 m-0" style="font-size: 45px;">Graded Summer Dance Classes</h1>--}}
 {{--            <div style="background: #008CC0; color: white; font-size: 20px;" class="btn poppins fw-bold btn-interact"><a class="text-white text-decoration-none" href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank">Enroll Now!</a></div>--}}
