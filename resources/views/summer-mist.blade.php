@@ -8,7 +8,7 @@
         <div class="container" id="summer">
             <p class="pb-0 mb-0 poppins text-muted" style="font-size: 30px;">MDU 2025</p>
             <h1 class="born-7 poppins fw-bold p-0 m-0" style="font-size: 45px;">Children's Summer Dance Classes</h1>
-            <div style="color: white; font-size: 20px;" class="btn poppins fw-bold btn-secondary"><a class="text-white text-decoration-none" disabled>Enrollment begins Saturday, March 15th at 8am</a></div>
+            <div style="background: #008CC0; color: white; font-size: 20px;" class="btn poppins fw-bold btn-interact"><a class="text-white text-decoration-none" href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank">Enroll Now!</a></div>
             <div style="background: #008CC0; color: white; font-size: 20px;" class="btn poppins fw-bold btn-interact ms-3"><a class="text-white text-decoration-none" href="/images/2025-summer.pdf" target="_blank">View PDF</a></div>
 
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-1">
@@ -19,7 +19,7 @@
                         <hr class="my-5">
             <p class="pb-0 mb-0 poppins text-muted" style="font-size: 30px;">MDU 2025</p>
             <h1 class="born-7 poppins fw-bold p-0 m-0" style="font-size: 45px;">Graded Summer Dance Classes</h1>
-            <div style="color: white; font-size: 20px;" class="btn poppins fw-bold btn-secondary"><a class="text-white text-decoration-none">Enrollment begins Saturday, March 15th at 8am</a></div>
+            <div style="background: #008CC0; color: white; font-size: 20px;" class="btn poppins fw-bold btn-interact"><a class="text-white text-decoration-none" href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank">Enroll Now!</a></div>
             <div style="background: #008CC0; color: white; font-size: 20px;" class="btn poppins fw-bold btn-interact ms-3"><a class="text-white text-decoration-none" href="/images/2025-summer-graded.pdf" target="_blank">View PDF</a></div>
 
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-1">
