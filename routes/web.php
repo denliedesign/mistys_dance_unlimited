@@ -52,6 +52,10 @@ Route::get('contact', function () {
 //    return view('birthday');
 //});
 
+Route::get('parties', function () {
+    return view('parties');
+});
+
 Route::get('pl', function () {
     return view('/pl-mist');
 });
