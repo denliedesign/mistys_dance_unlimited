@@ -36,6 +36,9 @@
                 <a class="nav-link" href="/community-programming">Community Programs</a>
             </li>
             <li class="nav-item mx-2">
+                <a class="nav-link" href="/parties">Parties</a>
+            </li>
+            <li class="nav-item mx-2">
                 <a class="nav-link" href="/articles">News</a>
             </li>
             <li class="nav-item mx-2">
