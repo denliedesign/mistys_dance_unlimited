@@ -10,6 +10,9 @@
             <div style="background: #008CC0; color: white; font-size: 20px;" class="btn poppins fw-bold btn-interact mb-3"><a class="text-white text-decoration-none" href="
             https://docs.google.com/forms/d/e/1FAIpQLSdX8zV6VRqDDCjd9jm0fq8iMjScw69cdCIZYajf22MXK5Z9vw/viewform?usp=dialog
 " target="_blank">Click to learn more!</a></div>
+            <div style="background: #008CC0; color: white; font-size: 20px;" class="btn poppins fw-bold btn-interact mb-3 ms-3"><a class="text-white text-decoration-none" href="
+            /images/performing-group-descriptions.pdf
+" target="_blank">Descriptions</a></div>
             <div>
                 <img src="/images/cinderella-auditions-25.jpg" alt="pg flyer" class="img-fluid mb-3">
                 <img src="/images/pg-auditions-25.jpg" alt="pg flyer" class="img-fluid">
