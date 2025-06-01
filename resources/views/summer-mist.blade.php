@@ -27,11 +27,14 @@
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-1">
                 <img src="images/summer-5-7-25_page-0001.jpg" alt="summer dance classes" class="my-3">
                 <img src="images/summer-5-7-25_page-0002.jpg" alt="summer dance classes" class="my-3">
-                <img src="images/summer-5-7-25_page-0003.jpg" alt="summer dance classes" class="my-3">
+                <img src="images/summer-june-classes-6-1-25.jpg" alt="summer dance classes" class="my-3">
+{{--                <img src="images/summer-5-7-25_page-0003.jpg" alt="summer dance classes" class="my-3">--}}
                 <img src="images/summer-5-7-25_page-0004.jpg" alt="summer dance classes" class="my-3">
-                <img src="images/summer-5-7-25_page-0005.jpg" alt="summer dance classes" class="my-3">
+                <img src="images/summer-july-classes-6-1-25.jpg" alt="summer dance classes" class="my-3">
+{{--                <img src="images/summer-5-7-25_page-0005.jpg" alt="summer dance classes" class="my-3">--}}
                 <img src="images/summer-5-7-25_page-0006.jpg" alt="summer dance classes" class="my-3">
-                <img src="images/summer-5-7-25_page-0007.jpg" alt="summer dance classes" class="my-3">
+                <img src="images/summer-august-classes-6-1-25.jpg" alt="summer dance classes" class="my-3">
+{{--                <img src="images/summer-5-7-25_page-0007.jpg" alt="summer dance classes" class="my-3">--}}
             </div>
 
             {{--            <div class="text-center d-flex d-inline justify-content-center my-3">--}}
