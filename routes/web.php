@@ -528,10 +528,11 @@ Route::middleware(['auth', 'redirect.user'])->group(function () {
 });
 
 Route::middleware(['auth'])->group(function () {
-    Route::get('/levels/import', [LevelsController::class, 'showForm'])->name('levels.import.form');
-    Route::post('/levels/import', [LevelsController::class, 'import'])->name('levels.import');
     Route::get('/levels', [LevelsController::class, 'index'])->name('levels.index');
 });
+
+Route::get('/levels/import', [LevelsController::class, 'showForm'])->name('levels.import.form');
+Route::post('/levels/import', [LevelsController::class, 'import'])->name('levels.import');
 
 // Login Routes
 Route::get('login', [LoginController::class, 'showLoginForm'])->name('login');
