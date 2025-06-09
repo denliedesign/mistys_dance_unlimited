@@ -41,7 +41,7 @@ class LevelsController extends Controller
     public function import(Request $request)
     {
         $validator = Validator::make($request->all(), [
-            'file' => 'required|mimes:xlsx,xls,csv|max:20480', // up to 20MB
+            'file' => 'required|file|max:20480', // up to 20MB
         ]);
 
         if ($validator->fails()) {
