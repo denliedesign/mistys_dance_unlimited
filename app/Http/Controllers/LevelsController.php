@@ -38,15 +38,20 @@ class LevelsController extends Controller
 
     public function import(Request $request)
     {
-        $request->validate([
-            'file' => 'required|mimes:xlsx,xls,csv',
-        ]);
+        try {
+            $request->validate([
+                'file' => 'required|mimes:xlsx,xls,csv',
+            ]);
 
-        // Delete all existing levels
-        Level::truncate();
+            // Delete all existing levels
+            Level::truncate();
 
-        Excel::import(new LevelImport, $request->file('file'));
+            Excel::import(new LevelImport, $request->file('file'));
 
-        return back()->with('success', 'Levels imported and table replaced!');
+            return back()->with('success', 'Levels imported and table replaced!');
+        } catch (\Exception $e) {
+            \Log::error('Import failed: ' . $e->getMessage());
+            return back()->with('error', 'Import failed. Check logs.');
+        }
     }
 }
