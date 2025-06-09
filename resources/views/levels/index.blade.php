@@ -1,6 +1,7 @@
 @extends('layouts.app-mist')
 @section('content')
     <h1 class="text-center play">Level Placements 2025-2026</h1>
+    <h1 class="text-center fw-bold">NOT YET AVAILABLE</h1>
     <div class="container d-flex justify-content-center my-5 roboto">
         <table>
             <thead>
