@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>No Placement Found</title>
+    <title>No FLIPPIN PLACEMENT Found</title>
 </head>
 <body>
 <h1>No Placement Associated with Your Email</h1>

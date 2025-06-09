@@ -18,6 +18,7 @@ use App\Http\Controllers\Auth\RegisterController;
 use App\Http\Controllers\Auth\ResetPasswordController;
 use App\Http\Controllers\BlogController;
 use App\Http\Controllers\HubController;
+use App\Http\Controllers\LevelsController;
 use App\Http\Controllers\PostController;
 use App\Http\Controllers\StudentController;
 use App\Post;
@@ -32,9 +33,9 @@ Route::get('/parent-responses', function () {
     return view('/parent-responses');
 });
 
-Route::get('/errors/no_placement', function () {
-    return view('/errors/no_placement');
-});
+//Route::get('/errors/no_placement', function () {
+//    return view('/errors/no_placement');
+//});
 
 Route::get('aboutus', function () {
     return view('aboutus-mist');
@@ -519,12 +520,17 @@ Route::resource('blogs', 'BlogController')->except(['show']);
 Route::get('/blogs/{blog:slug}', ['BlogController', 'show'])->name('blogs.show');
 
 Route::middleware(['auth', 'redirect.user'])->group(function () {
-    Route::get('/dashboard', function () {
-        // Your dashboard logic here
+    Route::get('/levels', function () {
     });
+//
+//    Route::get('/placements/showAll', 'PlacementController@showAll')->name('placements.showAll');
+//    Route::resource('placements', 'PlacementController');
+});
 
-    Route::get('/placements/showAll', 'PlacementController@showAll')->name('placements.showAll');
-    Route::resource('placements', 'PlacementController');
+Route::middleware(['auth'])->group(function () {
+    Route::get('/levels/import', [LevelsController::class, 'showForm'])->name('levels.import.form');
+    Route::post('/levels/import', [LevelsController::class, 'import'])->name('levels.import');
+    Route::get('/levels', [LevelsController::class, 'index'])->name('levels.index');
 });
 
 // Login Routes
@@ -541,3 +547,4 @@ Route::get('password/reset', [ForgotPasswordController::class, 'showLinkRequestF
 Route::post('password/email', [ForgotPasswordController::class, 'sendResetLinkEmail'])->name('password.email');
 Route::get('password/reset/{token}', [ResetPasswordController::class, 'showResetForm'])->name('password.reset');
 Route::post('password/reset', [ResetPasswordController::class, 'reset'])->name('password.update');
+

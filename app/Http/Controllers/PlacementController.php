@@ -57,21 +57,21 @@ class PlacementController extends Controller
         return redirect()->route('placements.index')->with('success', 'Dancer added successfully.');
     }
 
-    public function showAll(Request $request) {
-        $user = auth()->user();
-        $parentEmail = $user->email; // Assume the parent's email is stored in the authenticated user
-        list($localPart, $domain) = explode('@', $parentEmail);
-        $parentEmailPattern = $localPart . '%@' . $domain;
-
-        // Retrieve all placements associated with the parent's email pattern
-        $placements = Placement::where('email', 'LIKE', $parentEmailPattern)->get();
-
-        if ($placements->isEmpty()) {
-            return view('errors.no_placement'); // Show a message if no placements found
-        }
-
-        return view('placements.show', compact('placements'));
-    }
+//    public function showAll(Request $request) {
+//        $user = auth()->user();
+//        $parentEmail = $user->email; // Assume the parent's email is stored in the authenticated user
+//        list($localPart, $domain) = explode('@', $parentEmail);
+//        $parentEmailPattern = $localPart . '%@' . $domain;
+//
+//        // Retrieve all placements associated with the parent's email pattern
+//        $placements = Placement::where('email', 'LIKE', $parentEmailPattern)->get();
+//
+//        if ($placements->isEmpty()) {
+//            return view('errors.no_placement'); // Show a message if no placements found
+//        }
+//
+//        return view('placements.show', compact('placements'));
+//    }
 
     private function stripEmailSuffix($email) {
         return preg_replace('/\+child\d+@/', '@', $email);
