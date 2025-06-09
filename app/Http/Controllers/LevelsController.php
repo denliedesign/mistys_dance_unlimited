@@ -6,6 +6,8 @@ use App\Imports\LevelImport;
 use App\Level;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Auth;
+use Illuminate\Support\Facades\Log;
+use Illuminate\Support\Facades\Validator;
 use Maatwebsite\Excel\Facades\Excel;
 
 class LevelsController extends Controller
@@ -38,20 +40,37 @@ class LevelsController extends Controller
 
     public function import(Request $request)
     {
-        try {
-            $request->validate([
-                'file' => 'required|mimes:xlsx,xls,csv',
-            ]);
+        $validator = Validator::make($request->all(), [
+            'file' => 'required|mimes:xlsx,xls,csv|max:20480', // up to 20MB
+        ]);
 
-            // Delete all existing levels
-            Level::truncate();
-
-            Excel::import(new LevelImport, $request->file('file'));
-
-            return back()->with('success', 'Levels imported and table replaced!');
-        } catch (\Exception $e) {
-            \Log::error('Import failed: ' . $e->getMessage());
-            return back()->with('error', 'Import failed. Check logs.');
+        if ($validator->fails()) {
+            Log::error('Validation failed:', $validator->errors()->all());
+            return back()->with('error', 'Validation failed. Check logs.');
         }
+
+        try {
+            Level::truncate();
+            Excel::import(new LevelImport, $request->file('file'));
+            return back()->with('success', 'Levels imported and table replaced!');
+        } catch (\Throwable $e) {
+            Log::error('Import failed: ' . $e->getMessage());
+            return back()->with('error', 'Import failed. Check the log.');
+        }
+//        try {
+//            $request->validate([
+//                'file' => 'required|mimes:xlsx,xls,csv',
+//            ]);
+//
+//            // Delete all existing levels
+//            Level::truncate();
+//
+//            Excel::import(new LevelImport, $request->file('file'));
+//
+//            return back()->with('success', 'Levels imported and table replaced!');
+//        } catch (\Exception $e) {
+//            \Log::error('Import failed: ' . $e->getMessage());
+//            return back()->with('error', 'Import failed. Check logs.');
+//        }
     }
 }
