@@ -50,7 +50,7 @@
                         <div class="col-md">
                             <ul class="list-group" id="footer-list">
                                 <li class="list-group-item px-0 border-0">
-                                    <a class="text-decoration-none" style="color: #008CC0;" href="https://forms.gle/GTNBf68zVVgt4XbJ8" target="_blank">Student Lockers</a>
+                                    <a class="text-decoration-none" style="color: #008CC0;" href="https://forms.gle/F7wGR7uFH15jpRbx5" target="_blank">Student Lockers</a>
                                 </li>
                                 <li class="list-group-item px-0 border-0">
                                     <a class="text-decoration-none" style="color: #008CC0;" href="https://docs.google.com/forms/d/e/1FAIpQLSfzEyUJ7xwdSlv_IMNtLznZo1Lwk5jH0yfAKQZ32jGRpuWdCw/viewform?c=0&w=1" target="_blank">Performance Request</a>
