@@ -10,19 +10,6 @@
         <section class="mx-5">
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-1 row-cols-xl-2">
                 <div class="my-4" style="">
-                    <div class="rounded p-3" style="position: relative; height: 250px; background: #FFE9ED;">
-                        <div class="d-flex align-items-center">
-                            <div class="fw-bold poppins" style="font-size: 20px;">
-                                Why did you choose Misty's Dance Unlimited for your child?
-                            </div>
-                        </div>
-                        <p class="text-muted poppins mt-3" style="font-size: 20px;">
-                            "We chose MDU for the quality of classes and the teachers’ commitment to safety." - Shayna Arndt
-                        </p>
-                        <div id="faq-profile-pic" style="position:absolute; bottom: -40px; right: -40px;"><img src="images/faq-arndt.jpg" alt="profile picture" style="border: 10px solid #ffe9ed; filter: none; opacity: 100%; border-radius: 50%; width: 180px; height: 180px; max-height: 180px;"></div>
-                    </div>
-                </div>
-                <div class="my-4" style="">
                     <div class="rounded p-3" style="position:relative; height: 250px; background: #FEFDEC;">
                         <div class="d-flex align-items-center">
                             <div class="fw-bold poppins" style="font-size: 20px;">
@@ -261,17 +248,6 @@
                             <div class="mx-2 text-center">
                                 <p style="font-size: 16px;" class="my-0 py-0">
                                     🎉 "From the amazing staff to the well-maintained facility, everything at MDU is top-notch," shares <strong>Diana</strong>. 🏠 Ready to find your dance home? Join us at Misty’s Dance Unlimited! <span style="color: #008CC0;">#MDUHome #FamilyInDance</span>
-                                </p>
-                            </div>
-                        </div>
-                    </div>
-                </div>
-                <div id="post" class="my-2">
-                    <div style="height: 200px; width: 100%; background: white; border: 3px solid #008CC0; border-radius: 30px;">
-                        <div class="d-flex justify-content-center align-items-center poppins" style="height: 100%;">
-                            <div class="mx-2 text-center">
-                                <p style="font-size: 16px;" class="my-0 py-0">
-                                    💪 "MDU teachers challenge kids while respecting their intelligence and abilities," says <strong>Shayna Arndt</strong>. 🌟 We’re proud to help dancers reach their full potential. <span style="color: #008CC0;">#LeadershipInDance #MDULifeSkills</span>
                                 </p>
                             </div>
                         </div>
