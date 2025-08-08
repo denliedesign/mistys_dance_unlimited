@@ -26,9 +26,9 @@
 {{--                <a class="nav-link" href="/promotions">Winter/Spring</a>--}}
                 <a class="nav-link" href="/promotions">Upcoming Classes</a>
             </li>
-            <li class="nav-item mx-2">
-                <a class="nav-link" href="/summer">Summer</a>
-            </li>
+{{--            <li class="nav-item mx-2">--}}
+{{--                <a class="nav-link" href="/summer">Summer</a>--}}
+{{--            </li>--}}
             <li class="nav-item mx-2">
                 <a class="nav-link" href="/fall">Fall</a>
             </li>
@@ -41,9 +41,9 @@
             <li class="nav-item mx-2">
                 <a class="nav-link" href="/articles">News</a>
             </li>
-            <li class="nav-item mx-2">
-                <a class="nav-link" href="/recital">Recital</a>
-            </li>
+{{--            <li class="nav-item mx-2">--}}
+{{--                <a class="nav-link" href="/recital">Recital</a>--}}
+{{--            </li>--}}
 {{--            <li class="nav-item mx-2">--}}
 {{--                <a class="nav-link" href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank">Register</a>--}}
 {{--            </li>--}}
