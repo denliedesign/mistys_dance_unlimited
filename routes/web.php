@@ -37,6 +37,10 @@ Route::get('/parent-responses', function () {
 //    return view('/errors/no_placement');
 //});
 
+Route::get('landing-page', function () {
+    return view('landing-page');
+});
+
 Route::get('aboutus', function () {
     return view('aboutus-mist');
 });

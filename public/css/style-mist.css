@@ -297,6 +297,27 @@
     background: linear-gradient(rgba(255, 255, 255, 0), rgba(255, 255, 255, 1)); /* Standard syntax */
 }
 
+.accordion-button {
+    font-size: 25px !important;
+    font-weight: bold;
+}
+
+.accordion-item {
+    border-color: #FF66C3 !important;
+}
+
+.accordion-button:not(.collapsed) {
+    background: none !important;
+}
+
+.accordion-button:focus {
+    box-shadow: none !important;
+}
+
+.accordion-collapse {
+
+}
+
 /** lava style **/
 
 #community-calendar a {
