@@ -7,7 +7,7 @@
             <h1 class="born-7 poppins fw-bold p-0 m-0" style="font-size: 45px;">Class Schedule</h1>
             <div style="color: white; font-size: 20px;" class="btn btn-danger poppins fw-bold btn-interact me-3 mt-3"><a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" class="text-white text-decoration-none" target="_blank">Enroll Now!</a></div>
 {{--            <div style="background: #008CC0; color: white; font-size: 20px;" class="btn poppins fw-bold btn-interact me-3 mt-3"><a class="text-white text-decoration-none" href="/images/24-25-fall-b.pdf" target="_blank">View Class Schedule PDF</a></div>--}}
-            <div style="background: #008CC0; color: white; font-size: 20px;" class="btn poppins fw-bold btn-interact me-3 mt-3"><a class="text-white text-decoration-none" href="/images-mist/dress-code-24-25.png" target="_blank">Dress Code</a></div>
+            <div style="background: #008CC0; color: white; font-size: 20px;" class="btn poppins fw-bold btn-interact me-3 mt-3"><a class="text-white text-decoration-none" href="/images/dress-code-25-26.pdf" target="_blank">Dress Code</a></div>
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-2 mt-4">
                 <img src="/images/fall-6-11-25-1.jpg" alt="fall schedule" class="img-fluid p-1">
                 <img src="/images/fall-6-11-25-2.jpg" alt="fall schedule" class="img-fluid p-1" id="ab">
