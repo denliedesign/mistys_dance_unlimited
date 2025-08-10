@@ -73,7 +73,7 @@
                     </div>
                 </div>
                 <div class="col-md">
-                    <img src="/images-mist/discover-2.png" class="img-fluid" alt="">
+                    <img src="/images-mist/discover-2.png" class="img-fluid d-none d-md-block" style="transform: scaleX(-1);" alt="">
                 </div>
             </div>
         </div>
