@@ -17,7 +17,7 @@
                             Every class includes a special gift!
                         </div>
                         <div class="mt-4">
-                            <div class="btn btn-lg" style="background: #FF66C3; color: white;">Book a Trial Class!</div>
+                            <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-lg" style="background: #FF66C3; color: white;">Book a Trial Class!</div></a>
                         </div>
                     </div>
                 </div>
@@ -33,7 +33,7 @@
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-3">
                 <div>Dedicated Space<br>for Little Movers</div>
                 <hr class="d-block d-md-none my-2" style="width: 80%;">
-                <div>Ages 2-5<br>Beginner Friendly</div>
+                <div>Ages 3-7<br>Beginner Friendly</div>
                 <hr class="d-block d-md-none my-2" style="width: 80%;">
                 <div>CPR & YPAD<br>Certified Instructors</div>
             </div>
@@ -52,24 +52,24 @@
                         <div style="background: white; font-weight: bold;" class="p-4 mt-4 rounded">
                             <div>Thursday, August 7 @ 4PM</div>
                             <div class="d-flex justify-content-end">
-                                <div class="btn btn-lg" style="background: #FF66C3; color: white;">Book</div>
+                                <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-lg" style="background: #FF66C3; color: white;">Book</div></a>
                             </div>
                         </div>
                         <div style="background: white; font-weight: bold;" class="p-4 mt-4 rounded">
                             <div>Thursday, August 7 @ 4PM</div>
                             <div class="d-flex justify-content-end">
-                                <div class="btn btn-lg" style="background: #FF66C3; color: white;">Book</div>
+                                <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-lg" style="background: #FF66C3; color: white;">Book</div></a>
                             </div>
                         </div>
                         <div style="background: white; font-weight: bold;" class="p-4 mt-4 rounded">
                             <div>Thursday, August 7 @ 4PM</div>
                             <div class="d-flex justify-content-end">
-                                <div class="btn btn-lg" style="background: #FF66C3; color: white;">Book</div>
+                                <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-lg" style="background: #FF66C3; color: white;">Book</div></a>
                             </div>
                         </div>
                     </div>
                     <div class="mx-4">
-                        <div class="btn btn-lg mb-4" style="background: #9C70F0; width: 100%; color: white;">View All Available Times</div>
+                        <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-lg mb-4" style="background: #9C70F0; width: 100%; color: white;">View All Available Times</div></a>
                     </div>
                 </div>
                 <div class="col-md">
@@ -260,7 +260,7 @@
                 <div class="col-md-8" style="font-size: 50px; font-weight: bold;">Book Your “My First Dance Class”
                     Experience for Just $15!</div>
                 <div class="col-md-4 d-flex align-items-center justify-content-end">
-                    <div class="btn btn-lg" style="background: #64C6FF; font-weight: bold;">See Available Times</div>
+                    <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-lg" style="background: #64C6FF; font-weight: bold;">See Available Times</div></a>
                 </div>
             </div>
         </div>
@@ -364,7 +364,7 @@
                             Discover the Joy of Dance!
                         </div>
                         <div class="mt-4">
-                            <div class="btn btn-lg" style="background: #FF66C3; color: white; width: 100%;">Book Class!</div>
+                            <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-lg" style="background: #FF66C3; color: white; width: 100%;">Book Class!</div></a>
                         </div>
                     </div>
                 </div>

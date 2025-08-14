@@ -37,8 +37,8 @@ Route::get('/parent-responses', function () {
 //    return view('/errors/no_placement');
 //});
 
-Route::get('landing-page', function () {
-    return view('landing-page');
+Route::get('MyFirstDanceClass', function () {
+    return view('MyFirstDanceClass');
 });
 
 Route::get('aboutus', function () {
