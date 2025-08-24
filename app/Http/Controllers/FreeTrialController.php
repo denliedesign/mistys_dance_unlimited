@@ -22,18 +22,25 @@ class FreeTrialController extends Controller
      */
     public function store(Request $request)
     {
-        $trial = request()->validate([
-            'parentName' => 'required',
-            'email' => 'required|email',
-            'phone' => 'required',
-            'studentName' => 'required',
-            'birthdate' => 'required'
+        $validated = $request->validate([
+            'parentName'   => ['required','string','max:255'],
+            'email'        => ['required','email'],
+            'phone'        => ['required','string','max:50'],
+            'studentName'  => ['required','string','max:255'],
+            'birthdate'    => ['required','date'],
+            'day'          => ['required','array','min:1'],
+            'day.*'        => ['in:M,T,W,TH,F'],
+            'sms_consent'  => ['accepted'],  // must be checked
         ]);
 
-//        Mail::to('customdenlie@gmail.com')->send(new FreeTrialMail($trial));
-        Mail::to('kris.mistysdance@gmail.com')->send(new FreeTrialMail($trial));
+        // Normalize for email readability
+        $validated['day'] = implode(', ', $validated['day']);
+        $validated['sms_consent'] = $request->boolean('sms_consent');
+
+        Mail::to('customdenlie@gmail.com')->send(new FreeTrialMail($validated));
 
         return redirect('/')->with('message', 'Thank you for your interest. We will contact you shortly.');
     }
+
 
 }
