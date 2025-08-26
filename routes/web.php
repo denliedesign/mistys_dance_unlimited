@@ -33,8 +33,8 @@ Route::get('/parent-responses', function () {
     return view('/parent-responses');
 });
 
-Route::get('/GeneralCampaign', function () {
-    return view('/GeneralCampaign');
+Route::get('/TrialClass', function () {
+    return view('/TrialClass');
 });
 
 //Route::get('/errors/no_placement', function () {

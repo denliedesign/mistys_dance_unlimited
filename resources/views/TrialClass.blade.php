@@ -15,7 +15,7 @@
                             compassion and life long friendships.
                         </div>
                         <div class="mt-4">
-                            <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-lg" style="background: #ED174D; color: white;">Book a Trial Class!</div></a>
+                            <a href="/TrialClass#form"><div class="btn btn-lg" style="background: #ED174D; color: white;">Book a Trial Class!</div></a>
                         </div>
                     </div>
                 </div>
@@ -38,7 +38,7 @@
         </div>
     </section>
 
-    <section id="schedule" class="mt-5">
+    <section id="form" class="mt-5">
         <div class="container">
             <div class="row">
                 <div class="col-md rounded" style="background: #F5F5F5; font-size: 35px; ">
@@ -333,7 +333,7 @@ something new.
                 <div class="col-md-8" style="font-size: 50px; font-weight: bold;">See What Dance Can Do
                     For Your Child. Take a Leap!</div>
                 <div class="col-md-4 d-flex align-items-center justify-content-end">
-                    <div><a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-lg" style="background: #EBE834; font-weight: bold;">Book Trial</div></a></div>
+                    <div><a href="/TrialClass#form"><div class="btn btn-lg" style="background: #EBE834; font-weight: bold;">Book Trial</div></a></div>
                     <div class="ms-4"><a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-lg" style="background: #D8D8D8; font-weight: bold;">Enroll Now</div></a></div>
                 </div>
             </div>
@@ -438,7 +438,7 @@ something new.
                             Give the Gift of Dance!
                         </div>
                         <div class="mt-4">
-                            <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-lg" style="background: #ED174D; color: white; width: 100%;">Secure My Class!</div></a>
+                            <a href="/TrialClass#form"><div class="btn btn-lg" style="background: #ED174D; color: white; width: 100%;">Secure My Class!</div></a>
                         </div>
                     </div>
                 </div>
