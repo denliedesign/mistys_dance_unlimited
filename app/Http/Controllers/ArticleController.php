@@ -21,7 +21,7 @@ class ArticleController extends Controller
         \View::share('articles', $this->articles);
     }
 
-    public function index()
+    public function index(Article $articles)
     {
         return view('articles.index', compact('articles'));
     }
