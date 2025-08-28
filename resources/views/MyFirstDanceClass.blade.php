@@ -49,20 +49,42 @@
                             Find the Experience That
                             Fits Your Schedule
                         </div>
-                        <div style="background: white; font-weight: bold;" class="p-4 mt-4 rounded">
-                            <div>Thursday, August 7 @ 4PM</div>
+                        <div style="background: white; font-size: 24px;" class="p-4 mt-4 rounded">
+                            <div><strong><u>Friday, September 5</u></strong>
+                                <br>4:30-5:00pm - Ages 5-7
+                                <br>5:00-5:30pm - Ages 3-4
+                            </div>
                             <div class="d-flex justify-content-end">
                                 <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-lg" style="background: #FF66C3; color: white;">Book</div></a>
                             </div>
                         </div>
-                        <div style="background: white; font-weight: bold;" class="p-4 mt-4 rounded">
-                            <div>Thursday, August 7 @ 4PM</div>
+                        <div style="background: white; font-size: 24px;" class="p-4 mt-4 rounded">
+                            <div>
+<strong><u>Saturday, September 6</u></strong>
+                                <br>9:30-10:00am - Ages 5-7
+                                <br>10:00-10:30am - Ages 3-4
+
+                            </div>
                             <div class="d-flex justify-content-end">
                                 <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-lg" style="background: #FF66C3; color: white;">Book</div></a>
                             </div>
                         </div>
-                        <div style="background: white; font-weight: bold;" class="p-4 mt-4 rounded">
-                            <div>Thursday, August 7 @ 4PM</div>
+                        <div style="background: white; font-size: 24px;" class="p-4 mt-4 rounded">
+                            <div>
+                                <strong><u>Friday, September 12</u></strong>
+                                <br>4:30-5:00pm - Ages 5-7
+                                <br>5:00-5:30pm - Ages 3-4
+                            </div>
+                            <div class="d-flex justify-content-end">
+                                <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-lg" style="background: #FF66C3; color: white;">Book</div></a>
+                            </div>
+                        </div>
+                        <div style="background: white; font-size: 24px;" class="p-4 mt-4 rounded">
+                            <div>
+                                <strong><u>Saturday, September 13</u></strong>
+                                <br>9:30-10:00am - Ages 5-7
+                                <br>10:00-10:30am - Ages 3-4
+                            </div>
                             <div class="d-flex justify-content-end">
                                 <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-lg" style="background: #FF66C3; color: white;">Book</div></a>
                             </div>
@@ -194,13 +216,13 @@
                                 <div class="accordion-item">
                                     <div class="accordion-header" id="flush-headingOne">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
-                                            What do we wear to the trial?
+                                            What should my dancer wear to the trial?
                                         </button>
                                     </div>
                                     <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
-                                        <div class="accordion-body text-muted">Just comfy clothes your kiddo can move in like
-                                            leggings, a t-shirt, and clean sneakers. We’ll take care
-                                            of the rest!</div>
+                                        <div class="accordion-body text-muted">Simple and comfy is perfect! Clothes they can move in and either bare feet or socks. No special outfits or shoes needed.
+
+                                        </div>
                                     </div>
                                 </div>
                                 <div class="accordion-item">
@@ -210,7 +232,9 @@
                                         </button>
                                     </div>
                                     <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
-                                        <div class="accordion-body text-muted">answer</div>
+                                        <div class="accordion-body text-muted">This class is designed just for young dancers! We have two age groups: 3–4 years and 5–7 years.
+
+                                        </div>
                                     </div>
                                 </div>
                                 <div class="accordion-item">
@@ -220,17 +244,21 @@
                                         </button>
                                     </div>
                                     <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
-                                        <div class="accordion-body text-muted">answer</div>
+                                        <div class="accordion-body text-muted">Not quite—My First Dance Class isn’t a trial of our regular classes. It’s a special, one-of-a-kind intro experience where kids get to try different dance styles, learn some basics, and discover what they love. It's the perfect starting point!
+
+                                        </div>
                                     </div>
                                 </div>
                                 <div class="accordion-item">
                                     <div class="accordion-header" id="flush-headingFour">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseFour">
-                                            Can I bring siblings or watch the class?
+                                            Can I bring siblings or watch?
                                         </button>
                                     </div>
                                     <div id="flush-collapseFour" class="accordion-collapse collapse" aria-labelledby="flush-headingFour" data-bs-parent="#accordionFlushExample">
-                                        <div class="accordion-body text-muted">answer</div>
+                                        <div class="accordion-body text-muted">Yes, you’re more than welcome! Parents can watch through our studio viewing windows, and siblings can hang out in our cozy lobby. There’s a play area, free Wi-Fi, places to lounge, eat, and work.
+
+                                        </div>
                                     </div>
                                 </div>
                                 <div class="accordion-item">
@@ -240,7 +268,9 @@
                                         </button>
                                     </div>
                                     <div id="flush-collapseFive" class="accordion-collapse collapse" aria-labelledby="flush-headingFive" data-bs-parent="#accordionFlushExample">
-                                        <div class="accordion-body text-muted">answer</div>
+                                        <div class="accordion-body text-muted">No problem—life happens! Just give us a call at 608-779-4642 or email Miss KP at kp@mistysdance.com and we’ll help you reschedule.
+
+                                        </div>
                                     </div>
                                 </div>
                             </div>

@@ -267,13 +267,12 @@ something new.
                                 <div class="accordion-item">
                                     <div class="accordion-header" id="flush-headingOne">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseOne" aria-expanded="false" aria-controls="flush-collapseOne">
-                                            What do we wear to the trial?
+                                            What should my dancer wear to the trial?
                                         </button>
                                     </div>
                                     <div id="flush-collapseOne" class="accordion-collapse collapse" aria-labelledby="flush-headingOne" data-bs-parent="#accordionFlushExample">
-                                        <div class="accordion-body text-muted">Just comfy clothes your kiddo can move in like
-                                            leggings, a t-shirt, and clean sneakers. We’ll take care
-                                            of the rest!</div>
+                                        <div class="accordion-body text-muted">No need to buy anything special! Just have your dancer wear comfy clothes they can move in. Depending on the class, they can dance barefoot, in socks, or in tennis shoes.
+                                        </div>
                                     </div>
                                 </div>
                                 <div class="accordion-item">
@@ -283,7 +282,9 @@ something new.
                                         </button>
                                     </div>
                                     <div id="flush-collapseTwo" class="accordion-collapse collapse" aria-labelledby="flush-headingTwo" data-bs-parent="#accordionFlushExample">
-                                        <div class="accordion-body text-muted">answer</div>
+                                        <div class="accordion-body text-muted">Totally normal—and we get it! Trying something new can feel big. Dance is a great way to build confidence and learn how to work through challenges. We pride ourselves on a super positive and supportive culture that helps every dancer feel welcome.
+
+                                        </div>
                                     </div>
                                 </div>
                                 <div class="accordion-item">
@@ -293,17 +294,19 @@ something new.
                                         </button>
                                     </div>
                                     <div id="flush-collapseThree" class="accordion-collapse collapse" aria-labelledby="flush-headingThree" data-bs-parent="#accordionFlushExample">
-                                        <div class="accordion-body text-muted">answer</div>
+                                        <div class="accordion-body text-muted">Absolutely! All our studios have viewing windows so you can watch the class. Our lobby is comfy and family-friendly—with a play area for little ones, free Wi-Fi, and plenty of space to relax, eat, socialize, or get some work done. There are outlets for your devices, plus a kitchen with a sink and microwave if you're here during mealtime.</div>
                                     </div>
                                 </div>
                                 <div class="accordion-item">
                                     <div class="accordion-header" id="flush-headingFour">
                                         <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#flush-collapseFour" aria-expanded="false" aria-controls="flush-collapseFour">
-                                            What happens after the trial class?
+                                            What happens after the trial?
                                         </button>
                                     </div>
                                     <div id="flush-collapseFour" class="accordion-collapse collapse" aria-labelledby="flush-headingFour" data-bs-parent="#accordionFlushExample">
-                                        <div class="accordion-body text-muted">answer</div>
+                                        <div class="accordion-body text-muted">We'll follow up to see how the trial went and share all your options for enrolling. No pressure—just info to help you decide what works best for your family!
+
+                                        </div>
                                     </div>
                                 </div>
                                 <div class="accordion-item">
@@ -313,7 +316,8 @@ something new.
                                         </button>
                                     </div>
                                     <div id="flush-collapseFive" class="accordion-collapse collapse" aria-labelledby="flush-headingFive" data-bs-parent="#accordionFlushExample">
-                                        <div class="accordion-body text-muted">answer</div>
+                                        <div class="accordion-body text-muted">So many! We offer dance classes for ages 2 through adult. You'll find summer classes, camps, intensives, regular school-year sessions, and mini sessions. Styles include jazz, tap, hip hop, musical theater, ballet, pointe, lyrical, modern, contemporary, and dance team.
+                                            <br><br> We also offer inclusive classes for dancers with disabilities, a pre-professional ballet program, and more. There's truly something for everyone!</div>
                                     </div>
                                 </div>
                             </div>
