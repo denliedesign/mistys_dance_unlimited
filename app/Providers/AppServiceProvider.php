@@ -57,8 +57,8 @@ class AppServiceProvider extends ServiceProvider
         view()->composer('*',function($view) {
         $view->with('videos', Video::all());
     });
-        view()->composer('*',function($view) {
-            $view->with('communities', Community::all());
-        });
+//        view()->composer('*',function($view) {
+//            $view->with('communities', Community::all());
+//        });
     }
 }
