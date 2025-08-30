@@ -16,12 +16,12 @@ class CommunityController extends Controller
 
     public function __construct()
     {
-        $this->communities = Community::all();
         \View::share('communities', $this->communities);
     }
 
     public function index(Community $communities)
     {
+        $communities = Community::orderBy('day')->get();
         return view('communities.index', compact('communities'));
     }
 
