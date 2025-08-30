@@ -16,6 +16,7 @@ class CommunityController extends Controller
 
     public function __construct()
     {
+        $this->communities = Community::all();
         \View::share('communities', $this->communities);
     }
 
