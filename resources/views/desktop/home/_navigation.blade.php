@@ -11,6 +11,9 @@
                     <a class="nav-link text-dark" href="/aboutus">About Us</a>
                 </li>
                 <li class="nav-item hover-link mx-1">
+                    <a class="nav-link text-dark" href="/MyFirstDanceClass">My First Dance Class</a>
+                </li>
+                <li class="nav-item hover-link mx-1">
                     <a class="nav-link text-dark" href="/parent-responses">FAQ</a>
                 </li>
                 <li class="nav-item hover-link mx-1">

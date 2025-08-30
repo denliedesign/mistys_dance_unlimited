@@ -22,7 +22,7 @@
                     </div>
                 </div>
                 <div class="col-md px-0">
-                    <img src="/images-mist/discover-1.png" class="img-fluid" alt="">
+                    <img src="/images/first-hug.png" class="img-fluid" alt="">
                 </div>
             </div>
         </div>
@@ -95,7 +95,7 @@
                     </div>
                 </div>
                 <div class="col-md">
-                    <img src="/images-mist/discover-2.png" class="img-fluid d-none d-md-block" style="transform: scaleX(-1);" alt="">
+                    <img src="/images/first-point.png" class="img-fluid d-none d-md-block" style="" alt="">
                 </div>
             </div>
         </div>
@@ -105,7 +105,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md d-flex align-items-center">
-                    <img src="/images-mist/discover-3.png" class="img-fluid" alt="">
+                    <img src="/images/first-banner.jpg" class="img-fluid" alt="">
                 </div>
                 <div class="col-md">
                     <div style="font-size: 45px; font-weight: bold; line-height: 1.2;">Why Parents Love “My First
@@ -386,7 +386,7 @@
                 </div>
                 <div class="col-md d-flex align-items-center">
                     <div>
-                        <video width="100%" height="350" controls>
+                        <video width="100%" height="350" controls poster="/images/first-ribbon.jpg">
                             <source src="/images/if-you-let-me-dance.mp4" type="video/mp4">
                         </video>
                         <div class="mt-4" style="font-weight: bold; font-size: 35px;">
