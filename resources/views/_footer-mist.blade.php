@@ -16,7 +16,7 @@
                         </li>
                         <li class="list-group-item px-0 border-0">
                             <ion-icon style="font-size: 20px;" name="mail"></ion-icon>
-                            &nbsp;mistysdance@gmail.com
+                            &nbsp;info@mistysdance.com
                         </li>
                         <li class="list-group-item px-0 border-0">
                             <ion-icon style="font-size: 20px;" name="logo-facebook"></ion-icon>
@@ -80,7 +80,7 @@
                                 {{--                                </li>--}}
                                 @guest
                                     <li class="list-group-item px-0 border-0">
-                                        <a class="text-decoration-none" style="color: #008CC0;" href="{{ route('login') }}">{{ __('Login for Level Placements') }}</a>
+                                        <a class="text-decoration-none" style="color: #008CC0;" href="{{ route('login') }}">{{ __('Admin') }}</a>
                                     </li>
                                 @else
                                     <li class="list-group-item px-0 border-0 dropdown">

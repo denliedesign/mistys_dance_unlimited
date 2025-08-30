@@ -3,6 +3,7 @@
 namespace App\Providers;
 
 use App\Article;
+use App\Community;
 use App\Fest;
 use App\Post;
 use App\Student;
@@ -56,5 +57,8 @@ class AppServiceProvider extends ServiceProvider
         view()->composer('*',function($view) {
         $view->with('videos', Video::all());
     });
+        view()->composer('*',function($view) {
+            $view->with('communities', Community::all());
+        });
     }
 }

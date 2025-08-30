@@ -35,6 +35,7 @@ class AuthServiceProvider extends ServiceProvider
         'App\Video' => 'App\Policies\VideoPolicy',
         'App\Blog' => 'App\Policies\BlogPolicy',
         'App\Level' => 'App\Policies\LevelPolicy',
+        'App\Community' => 'App\Policies\CommunityPolicy',
     ];
 
     /**
