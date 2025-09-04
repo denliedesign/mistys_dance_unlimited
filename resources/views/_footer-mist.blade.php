@@ -71,6 +71,9 @@
                                 <li class="list-group-item px-0 border-0">
                                     <a class="text-decoration-none" style="color: #008CC0;" href="/alumni">Alumni</a>
                                 </li>
+                                <li class="list-group-item px-0 border-0">
+                                    <a class="text-decoration-none" style="color: #008CC0;" href="https://www.thewillowandgrace.com/" target="_blank">Boutique</a>
+                                </li>
 
                                 {{--                                <li class="list-group-item px-0 border-0">--}}
                                 {{--                                    <a class="text-decoration-none" style=color: #008CC0; href="/blogs">Blog</a>--}}

@@ -17,6 +17,7 @@ use App\Http\Controllers\Auth\LoginController;
 use App\Http\Controllers\Auth\RegisterController;
 use App\Http\Controllers\Auth\ResetPasswordController;
 use App\Http\Controllers\BlogController;
+use App\Http\Controllers\FreeTrialController;
 use App\Http\Controllers\HubController;
 use App\Http\Controllers\LevelsController;
 use App\Http\Controllers\PostController;
@@ -33,9 +34,15 @@ Route::get('/parent-responses', function () {
     return view('/parent-responses');
 });
 
-Route::get('/TrialClass', function () {
-    return view('/TrialClass');
-});
+// Form submit only
+Route::post('/trial', [FreeTrialController::class, 'store'])->name('trial.store');
+
+// If someone browses to /trial, send them to the page that has the form
+Route::permanentRedirect('/trial', '/trialclass'); // or Route::redirect('/trial', '/trialclass');
+
+Route::get('/{page}', function () {
+    return view('trialclass'); // file: resources/views/trialclass.blade.php
+})->where('page', '^(?i)trial-?class$');
 
 //Route::get('/errors/no_placement', function () {
 //    return view('/errors/no_placement');
@@ -495,9 +502,6 @@ Route::get('recital', function () {
 
 Route::get('frozen-friends', 'FrozenFriendsController@index')->name('frozen-friends');
 Route::post('frozen-friends', 'FrozenFriendsController@store')->name('frozen-friends.store');
-
-Route::get('trial', 'FreeTrialController@create')->name('trial.create');
-Route::post('trial', 'FreeTrialController@store')->name('trial.store');
 
 Route::resource('events', 'EventController');
 Route::resource('promotions', 'PromotionController');

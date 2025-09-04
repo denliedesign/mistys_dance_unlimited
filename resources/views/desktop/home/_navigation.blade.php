@@ -8,17 +8,20 @@
                     </a>
                 </li>
                 <li class="nav-item hover-link mx-1">
-                    <a class="nav-link text-dark" href="/aboutus">About Us</a>
-                </li>
-                <li class="nav-item hover-link mx-1">
-                    <a class="nav-link text-dark" href="/MyFirstDanceClass">My First Dance Class</a>
+                    <a class="nav-link text-dark" href="/aboutus">About</a>
                 </li>
                 <li class="nav-item hover-link mx-1">
                     <a class="nav-link text-dark" href="/parent-responses">FAQ</a>
                 </li>
                 <li class="nav-item hover-link mx-1">
+                    <a class="nav-link text-dark" href="/MyFirstDanceClass">My First Dance Class</a>
+                </li>
+                <li class="nav-item hover-link mx-1">
+                    <a class="nav-link text-dark" href="/TrialClass">Trial</a>
+                </li>
+                <li class="nav-item hover-link mx-1">
 {{--                    <a class="nav-link text-dark" href="/promotions">Winter/Spring</a>--}}
-                    <a class="nav-link text-dark" href="/promotions">Upcoming Classes</a>
+                    <a class="nav-link text-dark" href="/promotions">Upcoming</a>
                 </li>
 {{--                <li class="nav-item hover-link mx-1">--}}
 {{--                    <a class="nav-link text-dark" href="/summer">Summer</a>--}}
@@ -42,9 +45,9 @@
 {{--                    <a class="nav-link text-dark" href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank">Register</a>--}}
 {{--                </li>--}}
 
-                <li class="nav-item hover-link mx-1">
-                    <a class="nav-link text-dark" href="https://www.thewillowandgrace.com/" target="_blank">Boutique</a>
-                </li>
+{{--                <li class="nav-item hover-link mx-1">--}}
+{{--                    <a class="nav-link text-dark" href="https://www.thewillowandgrace.com/" target="_blank">Boutique</a>--}}
+{{--                </li>--}}
 {{--                <li class="nav-item hover-link mx-1">--}}
 {{--                    <a class="nav-link text-dark" href="https://360-dance-festival.myshopify.com" target="_blank">Gift of Dance</a>--}}
 {{--                </li>--}}

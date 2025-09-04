@@ -17,7 +17,7 @@
                             Every class includes a special gift!
                         </div>
                         <div class="mt-4">
-                            <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-lg" style="background: #FF66C3; color: white;">Book a Trial Class!</div></a>
+                            <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-lg" style="background: #FF66C3; color: white;">Book My First Dance Class!</div></a>
                         </div>
                     </div>
                 </div>
@@ -384,11 +384,14 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-md d-flex align-items-center">
+                <div class="col-md d-flex align-items-center mt-3">
                     <div>
-                        <video width="100%" height="350" controls poster="/images/first-ribbon.jpg">
-                            <source src="/images/if-you-let-me-dance.mp4" type="video/mp4">
-                        </video>
+                        <div>
+                            <img src="/images/first-ribbon.jpg" class="img-fluid" alt="">
+                        </div>
+{{--                        <video width="100%" height="350" controls poster="/images/first-ribbon.jpg">--}}
+{{--                            <source src="/images/if-you-let-me-dance.mp4" type="video/mp4">--}}
+{{--                        </video>--}}
                         <div class="mt-4" style="font-weight: bold; font-size: 35px;">
                             Big Smiles for Them. No Stress for You.
                             Discover the Joy of Dance!

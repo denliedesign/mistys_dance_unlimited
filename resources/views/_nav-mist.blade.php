@@ -17,17 +17,20 @@
                 </a>
             </li>
             <li class="nav-item mx-2">
-                <a class="nav-link" href="/aboutus">About Us</a>
-            </li>
-            <li class="nav-item mx-2">
-                <a class="nav-link" href="/MyFirstDanceClass">My First Dance Class</a>
+                <a class="nav-link" href="/aboutus">About</a>
             </li>
             <li class="nav-item mx-2">
                 <a class="nav-link" href="/parent-responses">FAQ</a>
             </li>
             <li class="nav-item mx-2">
+                <a class="nav-link" href="/MyFirstDanceClass">My First Dance Class</a>
+            </li>
+            <li class="nav-item mx-2">
+                <a class="nav-link" href="/TrialClass">Trial</a>
+            </li>
+            <li class="nav-item mx-2">
 {{--                <a class="nav-link" href="/promotions">Winter/Spring</a>--}}
-                <a class="nav-link" href="/promotions">Upcoming Classes</a>
+                <a class="nav-link" href="/promotions">Upcoming</a>
             </li>
 {{--            <li class="nav-item mx-2">--}}
 {{--                <a class="nav-link" href="/summer">Summer</a>--}}
@@ -51,9 +54,9 @@
 {{--                <a class="nav-link" href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank">Register</a>--}}
 {{--            </li>--}}
 
-            <li class="nav-item mx-2">
-                <a class="nav-link" href="https://www.thewillowandgrace.com/" target="_blank">Boutique</a>
-            </li>
+{{--            <li class="nav-item mx-2">--}}
+{{--                <a class="nav-link" href="https://www.thewillowandgrace.com/" target="_blank">Boutique</a>--}}
+{{--            </li>--}}
 {{--            <li class="nav-item mx-2">--}}
 {{--                <a class="nav-link" href="https://360-dance-festival.myshopify.com" target="_blank">Gift of Dance</a>--}}
 {{--            </li>--}}
