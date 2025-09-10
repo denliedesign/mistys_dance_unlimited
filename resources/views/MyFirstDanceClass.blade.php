@@ -49,26 +49,26 @@
                             Find the Experience That
                             Fits Your Schedule
                         </div>
-                        <div style="background: white; font-size: 24px;" class="p-4 mt-4 rounded">
-                            <div><strong><u>Friday, September 5</u></strong>
-                                <br>4:30-5:00pm - Ages 5-7
-                                <br>5:00-5:30pm - Ages 3-4
-                            </div>
-                            <div class="d-flex justify-content-end">
-                                <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-lg" style="background: #FF66C3; color: white;">Book</div></a>
-                            </div>
-                        </div>
-                        <div style="background: white; font-size: 24px;" class="p-4 mt-4 rounded">
-                            <div>
-<strong><u>Saturday, September 6</u></strong>
-                                <br>9:30-10:00am - Ages 5-7
-                                <br>10:00-10:30am - Ages 3-4
+{{--                        <div style="background: white; font-size: 24px;" class="p-4 mt-4 rounded">--}}
+{{--                            <div><strong><u>Friday, September 5</u></strong>--}}
+{{--                                <br>4:30-5:00pm - Ages 5-7--}}
+{{--                                <br>5:00-5:30pm - Ages 3-4--}}
+{{--                            </div>--}}
+{{--                            <div class="d-flex justify-content-end">--}}
+{{--                                <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-lg" style="background: #FF66C3; color: white;">Book</div></a>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                        <div style="background: white; font-size: 24px;" class="p-4 mt-4 rounded">--}}
+{{--                            <div>--}}
+{{--<strong><u>Saturday, September 6</u></strong>--}}
+{{--                                <br>9:30-10:00am - Ages 5-7--}}
+{{--                                <br>10:00-10:30am - Ages 3-4--}}
 
-                            </div>
-                            <div class="d-flex justify-content-end">
-                                <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-lg" style="background: #FF66C3; color: white;">Book</div></a>
-                            </div>
-                        </div>
+{{--                            </div>--}}
+{{--                            <div class="d-flex justify-content-end">--}}
+{{--                                <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-lg" style="background: #FF66C3; color: white;">Book</div></a>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
                         <div style="background: white; font-size: 24px;" class="p-4 mt-4 rounded">
                             <div>
                                 <strong><u>Friday, September 12</u></strong>
