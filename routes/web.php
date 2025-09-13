@@ -35,7 +35,7 @@ Route::get('/parent-responses', function () {
 });
 
 // Form submit only
-Route::post('/trial', [FreeTrialController::class, 'store'])->name('trial.store');
+Route::post('/trialclass', [FreeTrialController::class, 'store'])->name('trial.store');
 
 // If someone browses to /trial, send them to the page that has the form
 Route::permanentRedirect('/trial', '/trialclass'); // or Route::redirect('/trial', '/trialclass');

@@ -37,7 +37,8 @@ class FreeTrialController extends Controller
         $validated['day'] = implode(', ', $validated['day']);
         $validated['sms_consent'] = $request->boolean('sms_consent');
 
-        Mail::to(['customdenlie@gmail.com', 'diana@adspendadvantage.com', 'kp@mistysdance.com'])->send(new FreeTrialMail($validated));
+        Mail::to('customdenlie@gmail.com')->send(new FreeTrialMail($validated));
+//        Mail::to(['customdenlie@gmail.com', 'diana@adspendadvantage.com', 'kp@mistysdance.com'])->send(new FreeTrialMail($validated));
 
         return redirect('/')->with('message', 'Thank you for your interest. We will contact you shortly.');
     }

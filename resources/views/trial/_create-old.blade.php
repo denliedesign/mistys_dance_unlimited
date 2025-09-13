@@ -1,3 +1,5 @@
+<h1>Your First Class Free</h1>
+
 <form action="{{ route('trial.store') }}" method="POST">
     <div class="form-group">
         <label for="parentName">Parent Name</label>
@@ -72,5 +74,5 @@
     </div>
 
     @csrf
-    <button type="submit" class="btn btn-lg my-4" style="background: #ED174D; width: 100%; color: white;">Claim Your Trial Class</button>
+    <button type="submit" class="btn btn-primary">Claim Offer</button>
 </form>
