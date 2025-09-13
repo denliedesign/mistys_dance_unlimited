@@ -21,6 +21,7 @@ use App\Http\Controllers\FreeTrialController;
 use App\Http\Controllers\HubController;
 use App\Http\Controllers\LevelsController;
 use App\Http\Controllers\PostController;
+use App\Http\Controllers\StartController;
 use App\Http\Controllers\StudentController;
 use App\Post;
 use Illuminate\Support\Facades\Auth;
@@ -36,6 +37,7 @@ Route::get('/parent-responses', function () {
 
 // Form submit only
 Route::post('/trialclass', [FreeTrialController::class, 'store'])->name('trial.store');
+Route::post('/MyFirstDanceClass', [StartController::class, 'store'])->name('start.store');
 
 // If someone browses to /trial, send them to the page that has the form
 Route::permanentRedirect('/trial', '/trialclass'); // or Route::redirect('/trial', '/trialclass');

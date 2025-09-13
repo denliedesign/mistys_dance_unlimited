@@ -3,7 +3,7 @@
 
     <section id="header">
         <div class="container">
-            <div class="row">
+            <div class="row mb-4">
                 <div class="col-md px-0 d-flex align-items-center">
                     <div>
                         <div style="font-size: 75px; font-weight: bold; line-height: 1.1;">
@@ -16,13 +16,14 @@
                             experience. Made for curious kids and busy families.
                             Every class includes a special gift!
                         </div>
-                        <div class="mt-4">
-                            <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-lg" style="background: #FF66C3; color: white;">Book My First Dance Class!</div></a>
+                        <div class="my-4">
+                            <a href="#schedule"><div class="btn btn-lg" style="background: #FF66C3; color: white;">Book My First Dance Class!</div></a>
                         </div>
                     </div>
                 </div>
-                <div class="col-md px-0">
-                    <img src="/images/first-hug.png" class="img-fluid" alt="">
+                <div class="col-md d-flex align-items-center">
+                    <img src="/images/my-first-dance-class.jpg" class="img-fluid" alt="">
+{{--                    <img src="/images/first-hug.png" class="img-fluid" alt="">--}}
                 </div>
             </div>
         </div>
@@ -46,10 +47,11 @@
                 <div class="col-md rounded" style="background: #F5F5F5; font-size: 35px; ">
                     <div class="p-4">
                         <div style="font-weight: bold;">
-                            Find the Experience That
-                            Fits Your Schedule
+                            Book your MY FIRST DANCE CLASS Experience!
+{{--                            Find the Experience That--}}
+{{--                            Fits Your Schedule--}}
                         </div>
-{{--                        <div style="background: white; font-size: 24px;" class="p-4 mt-4 rounded">--}}
+                        <div style="background: white; font-size: 24px;" class="p-4 mt-4 rounded">
 {{--                            <div><strong><u>Friday, September 5</u></strong>--}}
 {{--                                <br>4:30-5:00pm - Ages 5-7--}}
 {{--                                <br>5:00-5:30pm - Ages 3-4--}}
@@ -69,31 +71,39 @@
 {{--                                <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-lg" style="background: #FF66C3; color: white;">Book</div></a>--}}
 {{--                            </div>--}}
 {{--                        </div>--}}
-                        <div style="background: white; font-size: 24px;" class="p-4 mt-4 rounded">
-                            <div>
-                                <strong><u>Friday, September 12</u></strong>
-                                <br>4:30-5:00pm - Ages 5-7
-                                <br>5:00-5:30pm - Ages 3-4
-                            </div>
-                            <div class="d-flex justify-content-end">
-                                <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-lg" style="background: #FF66C3; color: white;">Book</div></a>
-                            </div>
-                        </div>
-                        <div style="background: white; font-size: 24px;" class="p-4 mt-4 rounded">
-                            <div>
-                                <strong><u>Saturday, September 13</u></strong>
-                                <br>9:30-10:00am - Ages 5-7
-                                <br>10:00-10:30am - Ages 3-4
-                            </div>
-                            <div class="d-flex justify-content-end">
-                                <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-lg" style="background: #FF66C3; color: white;">Book</div></a>
-                            </div>
+
+{{--                        <div style="background: white; font-size: 24px;" class="p-4 mt-4 rounded">--}}
+{{--                            <div>--}}
+{{--                                <strong><u>Friday, September 12</u></strong>--}}
+{{--                                <br>4:30-5:00pm - Ages 5-7--}}
+{{--                                <br>5:00-5:30pm - Ages 3-4--}}
+{{--                            </div>--}}
+{{--                            <div class="d-flex justify-content-end">--}}
+{{--                                <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-lg" style="background: #FF66C3; color: white;">Book</div></a>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                        <div style="background: white; font-size: 24px;" class="p-4 mt-4 rounded">--}}
+{{--                            <div>--}}
+{{--                                <strong><u>Saturday, September 13</u></strong>--}}
+{{--                                <br>9:30-10:00am - Ages 5-7--}}
+{{--                                <br>10:00-10:30am - Ages 3-4--}}
+{{--                            </div>--}}
+{{--                            <div class="d-flex justify-content-end">--}}
+{{--                                <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-lg" style="background: #FF66C3; color: white;">Book</div></a>--}}
+{{--                            </div>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                    <div class="mx-4">--}}
+{{--                        <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-lg mb-4" style="background: #9C70F0; width: 100%; color: white;">View All Available Times</div></a>--}}
+{{--                    </div>--}}
+
+                        @include('start.create')
+
                         </div>
                     </div>
-                    <div class="mx-4">
-                        <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-lg mb-4" style="background: #9C70F0; width: 100%; color: white;">View All Available Times</div></a>
+
+
                     </div>
-                </div>
                 <div class="col-md">
                     <img src="/images/first-point.png" class="img-fluid d-none d-md-block" style="" alt="">
                 </div>
@@ -278,7 +288,8 @@
                     </div>
                 </div>
                 <div class="col-md">
-                    <img src="/images-mist/discover-4.png" class="img-fluid" alt="">
+                    <img src="/images/discover-dance.jpg" class="img-fluid" alt="">
+{{--                    <img src="/images-mist/discover-4.png" class="img-fluid" alt="">--}}
                 </div>
             </div>
         </div>

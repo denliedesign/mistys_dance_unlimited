@@ -2,16 +2,16 @@
 
 namespace App\Http\Controllers;
 
-use App\Mail\FreeTrialMail;
+use App\Mail\StartMail;
 use Illuminate\Http\Request;
 use Illuminate\Support\Facades\Mail;
 
-class FreeTrialController extends Controller
+class StartController extends Controller
 {
 
     public function create()
     {
-        return view('trial.create');
+        return view('start.create');
     }
 
     /**
@@ -28,17 +28,14 @@ class FreeTrialController extends Controller
             'phone'        => ['required','string','max:50'],
             'studentName'  => ['required','string','max:255'],
             'birthdate'    => ['required','date'],
-            'day'          => ['required','array','min:1'],
-            'day.*'        => ['in:M,T,W,TH,F'],
             'sms_consent'  => ['accepted'],  // must be checked
         ]);
 
         // Normalize for email readability
-        $validated['day'] = implode(', ', $validated['day']);
         $validated['sms_consent'] = $request->boolean('sms_consent');
 
-        Mail::to('customdenlie@gmail.com')->send(new FreeTrialMail($validated));
-//        Mail::to(['customdenlie@gmail.com', 'diana@adspendadvantage.com', 'kp@mistysdance.com'])->send(new FreeTrialMail($validated));
+        Mail::to('customdenlie@gmail.com')->send(new StartMail($validated));
+//        Mail::to(['customdenlie@gmail.com', 'diana@adspendadvantage.com', 'kp@mistysdance.com'])->send(new StartMail($validated));
 
         return redirect('/')->with('message', 'Thank you for your interest. We will contact you shortly.');
     }
