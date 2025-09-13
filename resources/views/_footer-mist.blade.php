@@ -34,7 +34,7 @@
                         <div class="col-md">
                             <ul class="list-group" id="footer-list">
                                 <li class="list-group-item px-0 border-0">
-                                    <a class="text-decoration-none" style="color: #008CC0;" href="https://forms.gle/mJvjSGHhSFBvvqV98" target="_blank">Absence Reporting</a>
+                                    <a class="text-decoration-none" style="color: #008CC0;" href="/absence-reporting">Absence Reporting</a>
                                 </li>
                                 <li class="list-group-item px-0 border-0">
                                     <a class="text-decoration-none" style="color: #008CC0;" href="/events">Calendar of Events</a>
