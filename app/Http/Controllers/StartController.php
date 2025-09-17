@@ -34,8 +34,8 @@ class StartController extends Controller
         // Normalize for email readability
         $validated['sms_consent'] = $request->boolean('sms_consent');
 
-        Mail::to('customdenlie@gmail.com')->send(new StartMail($validated));
-//        Mail::to(['customdenlie@gmail.com', 'diana@adspendadvantage.com', 'kp@mistysdance.com'])->send(new StartMail($validated));
+//        Mail::to('customdenlie@gmail.com')->send(new StartMail($validated));
+        Mail::to(['customdenlie@gmail.com', 'diana@adspendadvantage.com', 'kp@mistysdance.com'])->send(new StartMail($validated));
 
         return redirect('/')->with('message', 'Thank you for your interest. We will contact you shortly.');
     }
