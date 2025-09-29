@@ -321,6 +321,18 @@
                 </div>
                 <div class="col-sm mt-3" style="height: 100%;">
                     <div style="position: relative;">
+                        <img src="/images/staff-rubie.jpeg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
+                        <div id="triangle-bottomleft-staff"></div>
+                        <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br>Rubie Stetzer</div>
+                    </div>
+                    <p class="poppins">
+                        <span class="txt-yellow" style="font-size: 1.4em;">Dance Instructor</span><br>
+                        Miss Rubie is an established stage actor, on-camera actor, vocalist, model and dancer. Rubie is a BFA musical theatre major with a dance minor at Viterbo University.
+                        In high school, Rubie performed with the award winning Onalaska Hilltopper Show Choir. She is honored to be part of the same team that influenced her love for dance.
+                    </p>
+                </div>
+                <div class="col-sm mt-3" style="height: 100%;">
+                    <div style="position: relative;">
                         <img src="/images-lava/staff-suzanne.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
                         <div id="triangle-bottomleft-staff"></div>
                         <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br>Suzanne Swanson Wagner</div>
