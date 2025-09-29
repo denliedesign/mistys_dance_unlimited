@@ -98,6 +98,17 @@
                 </div>
                 <div class="col-sm mt-3" style="height: 100%;">
                     <div style="position: relative;">
+                        <img src="/images-lava/staff-lexi.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
+                        <div id="triangle-bottomleft-staff"></div>
+                        <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br>Lexi Fishbein</div>
+                    </div>
+                    <p class="poppins">
+                        <span class="txt-yellow" style="font-size: 1.1em;">Performing Groups Admin & Instructor</span><br>
+                        Lexi grew up dancing at Summit Dance Shoppe in Plymouth, Minnesota where she danced and competed for 15 years. She attends Winona State University where she studies psychology and continues her love for dance by teaching! She helps out with the Performance Company as well as teaching jazz, lyrical and contemporary classes!
+                    </p>
+                </div>
+                <div class="col-sm mt-3" style="height: 100%;">
+                    <div style="position: relative;">
                         <img src="/images-lava/staff-tiffany.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
                         <div id="triangle-bottomleft-staff"></div>
                         <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br>Tiffany Fischer</div>
@@ -107,17 +118,7 @@
                         Miss Tiffany grew up dancing at MDU and has been teaching since 2008. She is an award-winning choreographer. Miss Tiffany is proficient in all styles of dance and has a passion for seeing students develop their God-given talents in a nurturing environment. Miss Tiffany teaches a variety of our classes, Performing Groups, and is our senior class advisor. She is also our Costume Coordinator.
                     </p>
                 </div>
-                <div class="col-sm mt-3" style="height: 100%;">
-                    <div style="position: relative;">
-                        <img src="/images-lava/staff-chloe-jane.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
-                        <div id="triangle-bottomleft-staff"></div>
-                        <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br>Chloe Jane Bulman</div>
-                    </div>
-                    <p class="poppins">
-                        <span class="txt-yellow" style="font-size: 1.4em;">Admin Assistant</span><br>
-                        Miss Chloe Jane began dancing at MDU at the age of 3, she performed in Ballet La Crosse for 10 years and was a member of our Pre-professional ballet program. She is thrilled to be able to share her love of dance by being a rehearsal assistant with Ballet La Crosse, as well as instructing all ages in ballet, tap, and Steps of Praise. Miss Chloe Jane also serves as our Admin Assistant.
-                    </p>
-                </div>
+
                 <div class="col-sm mt-3" style="height: 100%;">
                     <div style="position: relative;">
                         <img src="/images-lava/staff-misty.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
@@ -171,26 +172,27 @@
 {{--                </div>--}}
                 <div class="col-sm mt-3" style="height: 100%;">
                     <div style="position: relative;">
-                        <img src="/images-lava/staff-emma.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
+                        <img src="/images-lava/staff-chloe-jane.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
                         <div id="triangle-bottomleft-staff"></div>
-                        <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br>Emma Calmes</div>
+                        <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br>Chloe Jane Bulman</div>
                     </div>
                     <p class="poppins">
                         <span class="txt-yellow" style="font-size: 1.4em;">Dance Instructor</span><br>
-                        Miss Emma grew up dancing at Misty’s and recently graduated from the program. She can’t imagine a world without dance and has always dreamed of sharing her love of dance with others.
+                        Miss Chloe Jane began dancing at MDU at the age of 3, she performed in Ballet La Crosse for 10 years and was a member of our Pre-professional ballet program. She is thrilled to be able to share her love of dance by being a rehearsal assistant with Ballet La Crosse, as well as instructing all ages in ballet, tap, and Steps of Praise. Miss Chloe Jane also serves as our Admin Assistant.
                     </p>
                 </div>
                 <div class="col-sm mt-3" style="height: 100%;">
                     <div style="position: relative;">
-                        <img src="/images-lava/staff-lexi.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
+                        <img src="/images-lava/staff-hannah.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
                         <div id="triangle-bottomleft-staff"></div>
-                        <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br>Lexi Fishbein</div>
+                        <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br>Hannah Dummer</div>
                     </div>
                     <p class="poppins">
                         <span class="txt-yellow" style="font-size: 1.4em;">Dance Instructor</span><br>
-                        Lexi grew up dancing at Summit Dance Shoppe in Plymouth, Minnesota where she danced and competed for 15 years. She attends Winona State University where she studies psychology and continues her love for dance by teaching! She helps out with the Performance Company as well as teaching jazz, lyrical and contemporary classes!
+                        Miss Hannah grew up dancing at MDU and performed with Ballet La Crosse for 6 years. She graduated with a degree in Computer Science and works as a Software Engineer. Hannah started teaching at MDU in 2022 and currently serves as an instructor and rehearsal assistant with Ballet La Crosse.
                     </p>
                 </div>
+
 
 {{--                <div class="col-sm mt-3" style="height: 100%;">--}}
 {{--                    <div style="position: relative;">--}}
@@ -214,28 +216,8 @@
                         Miss Hailey grew up competitively dancing at Broadway Academy of Art and Dance in Lake Geneva, Wisconsin. She also competed on the Burlington High School Varsity Dance Team for all four years. She currently attends Viterbo University where she studies social work and criminal justice. She is also on the competitive dance team at Viterbo. She teaches hip hop classes, Crew, Crew Jr., and Guys Hip Hop Team!
                     </p>
                 </div>
-                <div class="col-sm mt-3" style="height: 100%;">
-                    <div style="position: relative;">
-                        <img src="/images-lava/staff-hannah.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
-                        <div id="triangle-bottomleft-staff"></div>
-                        <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br>Hannah Hunt</div>
-                    </div>
-                    <p class="poppins">
-                        <span class="txt-yellow" style="font-size: 1.4em;">Dance Instructor</span><br>
-                        Miss Hannah grew up dancing at MDU and performed with Ballet La Crosse for 6 years. She graduated with a degree in Computer Science and works as a Software Engineer. Hannah started teaching at MDU in 2022 and currently serves as an instructor and rehearsal assistant with Ballet La Crosse.
-                    </p>
-                </div>
-                <div class="col-sm mt-3" style="height: 100%;">
-                    <div style="position: relative;">
-                        <img src="/images-lava/staff-olivia.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
-                        <div id="triangle-bottomleft-staff"></div>
-                        <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br>Olivia Key</div>
-                    </div>
-                    <p class="poppins">
-                        <span class="txt-yellow" style="font-size: 1.4em;">Dance Instructor</span><br>
-                        Miss Olivia grew up dancing at MDU and has been teaching since 2017. Her favorite styles include ballet, lyrical and modern but she is able to teach all styles. Miss Olivia graduated from UW-Stevens Point with a degree in elementary education and dance. She is also a part of our Pre-Professional ballet program and Ballet La Crosse.
-                    </p>
-                </div>
+
+
                 <div class="col-sm mt-3" style="height: 100%;">
                     <div style="position: relative;">
                         <img src="/images-mist/staff-alex.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
@@ -272,6 +254,17 @@
                 </div>
                 <div class="col-sm mt-3" style="height: 100%;">
                     <div style="position: relative;">
+                        <img src="/images-lava/staff-emma.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
+                        <div id="triangle-bottomleft-staff"></div>
+                        <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br>Emma Miller</div>
+                    </div>
+                    <p class="poppins">
+                        <span class="txt-yellow" style="font-size: 1.4em;">Dance Instructor</span><br>
+                        Miss Emma grew up dancing at Misty’s and recently graduated from the program. She can’t imagine a world without dance and has always dreamed of sharing her love of dance with others.
+                    </p>
+                </div>
+                <div class="col-sm mt-3" style="height: 100%;">
+                    <div style="position: relative;">
                         <img src="/images/miss-kyra-moore.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
                         <div id="triangle-bottomleft-staff"></div>
                         <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br> Kyra Moore</div>
@@ -293,7 +286,17 @@
                     </p>
                 </div>
 
-
+                <div class="col-sm mt-3" style="height: 100%;">
+                    <div style="position: relative;">
+                        <img src="/images-lava/staff-olivia.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
+                        <div id="triangle-bottomleft-staff"></div>
+                        <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br>Olivia Servais</div>
+                    </div>
+                    <p class="poppins">
+                        <span class="txt-yellow" style="font-size: 1.4em;">Dance Instructor</span><br>
+                        Miss Olivia grew up dancing at MDU and has been teaching since 2017. Her favorite styles include ballet, lyrical and modern but she is able to teach all styles. Miss Olivia graduated from UW-Stevens Point with a degree in elementary education and dance. She is also a part of our Pre-Professional ballet program and Ballet La Crosse.
+                    </p>
+                </div>
                 <div class="col-sm mt-3" style="height: 100%;">
                     <div style="position: relative;">
                         <img src="/images-lava/staff-kristina.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
