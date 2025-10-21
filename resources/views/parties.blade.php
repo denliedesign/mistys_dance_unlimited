@@ -3,68 +3,69 @@
 
     <div class="bg-white">
         <div class="container mx-4 pb-5 pt-3">
-            <h1 class="born-7 poppins fw-bold p-0 m-0" style="font-size: 45px;">Kid Birthday Parties at MDU!</h1>
-            <img src="/images/dance-birthday-parties.png" alt="party info" class="img-fluid shadow rounded my-5" style="max-height: 95vh; height: 100%; width: auto;">
+            <h1 class="born-7 poppins fw-bold p-0 m-0" style="font-size: 45px;">🎉 Celebrate Your Child’s Birthday at MDU! 🎉</h1>
+{{--            <img src="/images/dance-birthday-parties.png" alt="party info" class="img-fluid shadow rounded my-5" style="max-height: 95vh; height: 100%; width: auto;">--}}
             <div>
                 <p class="poppins" style="font-size: 20px;">
-                    Book Your Birthday Bash at Misty's Dance Unlimited! 🎈Thank you for your interest in celebrating a special birthday with us at MDU. We offer three fabulous birthday packages designed to make your party unforgettable. Let's make some magical birthday memories together!
+                    Looking for a birthday party packed with fun, dancing, and unforgettable memories? At MDU, your child and their friends will learn a dance routine to their favorite song, perform a show, and enjoy a party made just for them!
                 </p>
                 <h2 class="mt-5">📅 Available Party Days & Times:</h2>
                 <ul>
-                    <li>Fridays: Between 4-8PM</li>
-                    <li>Saturdays: 10AM-12PM and 1:00-3:00PM</li>
+                    <li>Fridays: 4:00 PM – 6:00 PM or 5:00 PM – 7:00 PM</li>
+                    <li>Saturdays: 10:00 AM – 12:00 PM or 1:00 PM – 3:00 PM</li>
+                </ul>
+                <h5>Please note:</h5>
+                <ul>
+                    <li>We require at least 3 weeks’ notice to schedule your party.</li>
+                    <li>A final guest count is due 2 weeks before the party date.</li>
+                    <li>You’ll have 30 minutes to set up before the party starts.</li>
+                    <li>Feel free to bring your own food—we have kitchen space and a sink ready for you!</li>
                 </ul>
 
-                <h2 class="mt-5">🎂 All Party Packages Include:</h2>
+                <h2 class="mt-5">🎂 What’s Included with EVERY PARTY PACKAGE:</h2>
                 <ul>
-                    <li>10 kids plus the birthday boy or girl</li>
-                    <li>Studio space with a private instructor</li>
-                    <li>Public kitchen area for your food and drink</li>
-                    <li>30-minute setup time</li>
-                    <li>Music fun: Birthday child selects a song for a dance routine</li>
-                    <li>Special gift for birthday boy or girl: Dance tutu or bow tie, plus a $10 gift certificate to Willow and Grace Boutique</li>
+                    <li>Fun for 10 kids (including the birthday child); $15 each for extra guests (up to 15 kids total)</li>
+                    <li>Private studio space with a dedicated dance instructor</li>
+                    <li>A dance routine to a song chosen by the birthday child and a final performance for friends and family</li>
+                    <li>A $10 gift certificate to Willow & Grace Boutique for the birthday child</li>
                 </ul>
 
                 <h2 class="mt-5">🌟 Choose Your Party Package:</h2>
-                <h5>STARTER Party Package - $149</h5>
+                <h5>STARTER – 90 minute party ($199)</h5>
                 <ul>
-                    <li>90-minute party</li>
-                    <li>Set up and decorate on your own</li>
-                    <li>Parents and grownups can enjoy a special show at the end</li>
+                    <li>You handle setup and decorations, we handle the dancing!</li>
                 </ul>
 
-                <h5>ALL-INCLUSIVE Party Package - $199</h5>
+                <h5>ALL-INCLUSIVE – 2 hour party ($275)</h5>
                 <ul>
-                    <li>2-hour party</li>
-                    <li>Includes photo backdrop, tablecloth, napkins, plates, and utensils</li>
-                    <li>Goody bags for guests</li>
-                    <li>Special craft and activity</li>
-                    <li>Obstacle course to enjoy</li>
-                    <li>A show on our in-house stage</li>
+                    <li>We do the decorating!</li>
+                    <li>Plates, cups, and utensils provided.</li>
+                    <li>A fun photo backdrop.</li>
+                    <li>Goody bags for all of your guests.</li>
+                    <li>Special craft activity and fun obstacle course.</li>
                 </ul>
 
-                <h5>THEMED Party Package - $249</h5>
+                <h5>THEMED – 2 hour party ($325)</h5>
                 <ul>
-                    <li>2 Hour Party</li>
-                    <li>Everything noted in the All-Inclusive party PLUS:</li>
-                    <li>Choose a fun theme like Barbie, Blues Clues, Superheroes, Mermaids, Paw Patrol, etc.</li>
-                    <li>Includes: decor and balloons</li>
-                    <li>Themed games, dance, and craft and activities</li>
-                    <li>Custom downloadable invite template for easy invitations</li>
+                    <li>Everything in the ALL INCLUSIVE package plus:</li>
+                    <li>Choose a fun theme like Barbie, Superheroes, Mermaids, Paw Patrol, etc. for your party decor and activities</li>
+                    <li>Custom downloadable invitation template</li>
                 </ul>
 
-                <h2 class="mt-5">💰 Additional Information:</h2>
-                <ul>
-                    <li>Bring your own food: No extra fee!</li>
-                    <li>Extra participants: Just $10 for each additional child</li>
-                </ul>
+{{--                <h2 class="mt-5">💰 Additional Information:</h2>--}}
+{{--                <ul>--}}
+{{--                    <li>Bring your own food: No extra fee!</li>--}}
+{{--                    <li>Extra participants: Just $10 for each additional child</li>--}}
+{{--                </ul>--}}
 
                 <h2 class="mt-5">📝 Ready to Book?</h2>
-                <p>To schedule your party, please fill out this <a href="https://forms.gle/KRrNhH7BVbUGPwvg8" target="_blank">google form</a> and we will be in touch soon.</p>
+                <p>
+                    Fill out <a href="https://forms.gle/1nYCirBPPhYqhWav7" target="_blank">this form</a> and let’s create a magical birthday experience together!
+                </p>
 
             </div>
         </div>
 
-        </div>
+    </div>
 
 @endsection
