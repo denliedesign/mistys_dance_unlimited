@@ -52,6 +52,33 @@
 {{--                            Fits Your Schedule--}}
                         </div>
                         <div style="background: white; font-size: 24px;" class="p-4 mt-4 rounded">
+
+                                                    <div style="background: white; font-size: 24px;" class="p-4 mt-4 rounded">
+                                                        <div>
+                            <strong><u>Saturday, November 8</u></strong>
+                                                            <br>9:30-10:00am - Ages 5-7
+                                                            <br>10:00-10:30am - Ages 3-4
+
+                                                        </div>
+                                                    </div>
+                            <div style="background: white; font-size: 24px;" class="p-4 mt-4 rounded">
+                                <div>
+                                    <strong><u>Saturday, November 15</u></strong>
+                                    <br>9:30-10:00am - Ages 5-7
+                                    <br>10:00-10:30am - Ages 3-4
+
+                                </div>
+                            </div>
+                            <div style="background: white; font-size: 24px;" class="p-4 mt-4 rounded">
+                                <div>
+                                    <strong><u>Saturday, November 22</u></strong>
+                                    <br>9:30-10:00am - Ages 5-7
+                                    <br>10:00-10:30am - Ages 3-4
+
+                                </div>
+                            </div>
+
+
 {{--                            <div><strong><u>Friday, September 5</u></strong>--}}
 {{--                                <br>4:30-5:00pm - Ages 5-7--}}
 {{--                                <br>5:00-5:30pm - Ages 3-4--}}
