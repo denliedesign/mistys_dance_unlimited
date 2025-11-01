@@ -183,6 +183,17 @@
                 </div>
                 <div class="col-sm mt-3" style="height: 100%;">
                     <div style="position: relative;">
+                        <img src="/images/staff-hannah-derksen.jpeg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
+                        <div id="triangle-bottomleft-staff"></div>
+                        <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br>Hannah Derksen</div>
+                    </div>
+                    <p class="poppins">
+                        <span class="txt-yellow" style="font-size: 1.4em;">Dance Instructor</span><br>
+                        Miss Hannah grew up dancing competitively at Just For Kix - Waupun, and was also on the Waupun Varsity Dance Team for four years. She has previously taught dance at her home studio since sophomore year of high school, and currently attends UW-La Crosse where she is majoring in Marketing with a minor in Dance. She is also a member of the UWL dance team.
+                    </p>
+                </div>
+                <div class="col-sm mt-3" style="height: 100%;">
+                    <div style="position: relative;">
                         <img src="/images-lava/staff-hannah.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
                         <div id="triangle-bottomleft-staff"></div>
                         <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br>Hannah Dummer</div>
