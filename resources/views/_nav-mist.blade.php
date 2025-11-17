@@ -22,9 +22,9 @@
             <li class="nav-item mx-2">
                 <a class="nav-link" href="/parent-responses">FAQ</a>
             </li>
-            <li class="nav-item mx-2">
-                <a class="nav-link" href="/MyFirstDanceClass">My First Dance Class</a>
-            </li>
+{{--            <li class="nav-item mx-2">--}}
+{{--                <a class="nav-link" href="/MyFirstDanceClass">My First Dance Class</a>--}}
+{{--            </li>--}}
             <li class="nav-item mx-2">
                 <a class="nav-link" href="/TrialClass">Trial</a>
             </li>

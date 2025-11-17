@@ -51,7 +51,7 @@ Route::get('/{page}', function () {
 //});
 
 Route::get('MyFirstDanceClass', function () {
-    return view('MyFirstDanceClass');
+    return view('welcome-mist');
 });
 
 Route::get('absence-reporting', function () {
