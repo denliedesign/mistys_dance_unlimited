@@ -172,7 +172,7 @@
 {{--                </div>--}}
                 <div class="col-sm mt-3" style="height: 100%;">
                     <div style="position: relative;">
-                        <img src="/images-lava/staff-chloe-jane.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
+                        <img src="/images/25-staff-chloe-jane.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
                         <div id="triangle-bottomleft-staff"></div>
                         <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br>Chloe Jane Bulman</div>
                     </div>
@@ -183,7 +183,7 @@
                 </div>
                 <div class="col-sm mt-3" style="height: 100%;">
                     <div style="position: relative;">
-                        <img src="/images/staff-hannah-derksen.jpeg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
+                        <img src="/images/25-staff-hannah-derksen.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
                         <div id="triangle-bottomleft-staff"></div>
                         <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br>Hannah Derksen</div>
                     </div>
@@ -201,6 +201,28 @@
                     <p class="poppins">
                         <span class="txt-yellow" style="font-size: 1.4em;">Dance Instructor</span><br>
                         Miss Hannah grew up dancing at MDU and performed with Ballet La Crosse for 6 years. She graduated with a degree in Computer Science and works as a Software Engineer. Hannah started teaching at MDU in 2022 and currently serves as an instructor and rehearsal assistant with Ballet La Crosse.
+                    </p>
+                </div>
+                <div class="col-sm mt-3" style="height: 100%;">
+                    <div style="position: relative;">
+                        <img src="/images/25-staff-madalyn.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
+                        <div id="triangle-bottomleft-staff"></div>
+                        <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br>Madalyn Erickson</div>
+                    </div>
+                    <p class="poppins">
+                        <span class="txt-yellow" style="font-size: 1.4em;">Dance Instructor</span><br>
+                        Bio coming soon.
+                    </p>
+                </div>
+                <div class="col-sm mt-3" style="height: 100%;">
+                    <div style="position: relative;">
+                        <img src="/images/25-staff-maddie-hischke.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
+                        <div id="triangle-bottomleft-staff"></div>
+                        <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br>Maddie Hischke</div>
+                    </div>
+                    <p class="poppins">
+                        <span class="txt-yellow" style="font-size: 1.4em;">Dance Instructor</span><br>
+                        Bio coming soon.
                     </p>
                 </div>
 
@@ -240,6 +262,17 @@
                         Miss Alex has been teaching at MDU since 2012. She is a ballet and tap specialist with a love for children. She is a graduate of Winona State University and fuels her love of science during the day as a surgical technician for Gundersen Health. She currently serves as the administrative coordinator for Ballet La Crosse.
                     </p>
                 </div>
+                <div class="col-sm mt-3" style="height: 100%;">
+                    <div style="position: relative;">
+                        <img src="/images/25-staff-macy.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
+                        <div id="triangle-bottomleft-staff"></div>
+                        <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br>Macy Meyer</div>
+                    </div>
+                    <p class="poppins">
+                        <span class="txt-yellow" style="font-size: 1.4em;">Dance Instructor</span><br>
+                        Bio coming soon.
+                    </p>
+                </div>
 {{--                <div class="col-sm mt-3" style="height: 100%;">--}}
 {{--                    <div style="position: relative;">--}}
 {{--                        <img src="/images-lava/staff-denise.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">--}}
@@ -254,7 +287,7 @@
 
                 <div class="col-sm mt-3" style="height: 100%;">
                     <div style="position: relative;">
-                        <img src="/images-lava/staff-beth.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
+                        <img src="/images/25-staff-elisabeth.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
                         <div id="triangle-bottomleft-staff"></div>
                         <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br>Elisabeth Michelson</div>
                     </div>
@@ -299,7 +332,7 @@
 
                 <div class="col-sm mt-3" style="height: 100%;">
                     <div style="position: relative;">
-                        <img src="/images-lava/staff-olivia.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
+                        <img src="/images/25-staff-olivia.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
                         <div id="triangle-bottomleft-staff"></div>
                         <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br>Olivia Servais</div>
                     </div>
@@ -317,6 +350,17 @@
                     <p class="poppins">
                         <span class="txt-yellow" style="font-size: 1.4em;">Dance Instructor</span><br>
                         Miss Kristina is proud to be one of Misty’s original students and one of the first seven students to be on the first ever Performance Company. She taught from 2001-2009 and attests skills acquired at MDU to ultimately help her achieve winning Miss Wisconsin 2009, allowing her to share her passion of dance on the Miss America stage. Miss Kristina is elated to be back at MDU!
+                    </p>
+                </div>
+                <div class="col-sm mt-3" style="height: 100%;">
+                    <div style="position: relative;">
+                        <img src="/images/25-staff-aly.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
+                        <div id="triangle-bottomleft-staff"></div>
+                        <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br>Aly Small</div>
+                    </div>
+                    <p class="poppins">
+                        <span class="txt-yellow" style="font-size: 1.4em;">Dance Instructor</span><br>
+                        Bio coming soon.
                     </p>
                 </div>
                 <div class="col-sm mt-3" style="height: 100%;">
@@ -436,10 +480,10 @@
 
 
             </div>
-            <p class="poppins mt-5 text-center">
-                <span class="txt-yellow" style="font-size: 1.4em;">Please also welcome our new instructors for 2025. Head shots and biographies coming soon!</span><br>
-                Julia Chirillo, Madalyn Erickson, and Macy Meyer
-            </p>
+{{--            <p class="poppins mt-5 text-center">--}}
+{{--                <span class="txt-yellow" style="font-size: 1.4em;">Please also welcome our new instructors for 2025. Head shots and biographies coming soon!</span><br>--}}
+{{--                Julia Chirillo, Madalyn Erickson, and Macy Meyer--}}
+{{--            </p>--}}
 
             <p class="poppins mt-5 text-center">
                 <span class="txt-yellow" style="font-size: 1.4em;">Summer Instructors/Subbing Team</span><br>
