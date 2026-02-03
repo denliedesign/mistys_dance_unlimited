@@ -26,9 +26,9 @@
 {{--                <li class="nav-item hover-link mx-1">--}}
 {{--                    <a class="nav-link text-dark" href="/summer">Summer</a>--}}
 {{--                </li>--}}
-                <li class="nav-item hover-link mx-1">
-                    <a class="nav-link text-dark" href="/fall">Fall</a>
-                </li>
+{{--                <li class="nav-item hover-link mx-1">--}}
+{{--                    <a class="nav-link text-dark" href="/fall">Fall</a>--}}
+{{--                </li>--}}
                 <li class="nav-item hover-link mx-1">
                     <a class="nav-link text-dark" href="/community-programming">Community Programs</a>
                 </li>
@@ -38,9 +38,9 @@
                 <li class="nav-item hover-link mx-1">
                     <a class="nav-link text-dark" href="/articles">News</a>
                 </li>
-{{--                <li class="nav-item hover-link mx-1">--}}
-{{--                    <a class="nav-link text-dark" href="/recital">Recital</a>--}}
-{{--                </li>--}}
+                <li class="nav-item hover-link mx-1">
+                    <a class="nav-link text-dark" href="/recital">Recital</a>
+                </li>
 {{--                <li class="nav-item hover-link mx-1">--}}
 {{--                    <a class="nav-link text-dark" href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank">Register</a>--}}
 {{--                </li>--}}
