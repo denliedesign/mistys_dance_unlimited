@@ -36,23 +36,23 @@ Route::get('/parent-responses', function () {
 });
 
 // Form submit only
-Route::post('/trialclass', [FreeTrialController::class, 'store'])->name('trial.store');
-Route::post('/MyFirstDanceClass', [StartController::class, 'store'])->name('start.store');
+//Route::post('/trialclass', [FreeTrialController::class, 'store'])->name('trial.store');
+//Route::post('/MyFirstDanceClass', [StartController::class, 'store'])->name('start.store');
 
 // If someone browses to /trial, send them to the page that has the form
-Route::permanentRedirect('/trial', '/trialclass'); // or Route::redirect('/trial', '/trialclass');
+//Route::permanentRedirect('/trial', '/trialclass'); // or Route::redirect('/trial', '/trialclass');
 
-Route::get('/{page}', function () {
-    return view('trialclass'); // file: resources/views/trialclass.blade.php
-})->where('page', '^(?i)trial-?class$');
+//Route::get('/{page}', function () {
+//    return view('trialclass'); // file: resources/views/trialclass.blade.php
+//})->where('page', '^(?i)trial-?class$');
 
 //Route::get('/errors/no_placement', function () {
 //    return view('/errors/no_placement');
 //});
 
-Route::get('MyFirstDanceClass', function () {
-    return view('welcome-mist');
-});
+//Route::get('MyFirstDanceClass', function () {
+//    return view('welcome-mist');
+//});
 
 Route::get('absence-reporting', function () {
     return view('absence-reporting');

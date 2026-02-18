@@ -16,9 +16,9 @@
 {{--                <li class="nav-item hover-link mx-1">--}}
 {{--                    <a class="nav-link text-dark" href="/MyFirstDanceClass">My First Dance Class</a>--}}
 {{--                </li>--}}
-                <li class="nav-item hover-link mx-1">
-                    <a class="nav-link text-dark" href="/TrialClass">Trial</a>
-                </li>
+{{--                <li class="nav-item hover-link mx-1">--}}
+{{--                    <a class="nav-link text-dark" href="/TrialClass">Trial</a>--}}
+{{--                </li>--}}
                 <li class="nav-item hover-link mx-1">
 {{--                    <a class="nav-link text-dark" href="/promotions">Winter/Spring</a>--}}
                     <a class="nav-link text-dark" href="/promotions">Upcoming</a>
