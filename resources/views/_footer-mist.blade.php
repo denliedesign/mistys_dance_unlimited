@@ -99,6 +99,13 @@
                                 @endguest
                             </ul>
                         </div>
+                        <div class="col-md">
+                            <ul class="list-group" id="footer-list">
+                                <li class="list-group-item px-0 border-0">
+                                    <a class="text-decoration-none" style="color: #008CC0;" href="/images/dress-code-25-26.pdf" target="_blank">Dress Code</a>
+                                </li>
+                            </ul>
+                        </div>
                     </div>
                 </div>
             </div>
