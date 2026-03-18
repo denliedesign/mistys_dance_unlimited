@@ -9,29 +9,29 @@
             <p class="pb-0 mb-0 poppins text-muted" style="font-size: 30px;">MDU 2026</p>
             <h1 class="born-7 poppins fw-bold p-0 m-0" style="font-size: 45px;">Children's Summer Dance Classes</h1>
             <div style="background: #008CC0; color: white; font-size: 20px;" class="btn poppins fw-bold btn-interact"><a class="text-white text-decoration-none" disabled>Enroll Wednesday, March 18!</a></div>
-            <div style="background: #008CC0; color: white; font-size: 20px;" class="btn poppins fw-bold btn-interact mx-3"><a class="text-white text-decoration-none" href="/images/26-summer.pdf" target="_blank">View PDF</a></div>
+            <div style="background: #008CC0; color: white; font-size: 20px;" class="btn poppins fw-bold btn-interact mx-3"><a class="text-white text-decoration-none" href="/images/26-summer-3-18.pdf" target="_blank">View PDF</a></div>
             <div style="color: white; font-size: 20px;" class="btn poppins fw-bold"><a href="/images/dress-code-25-26.pdf" target="_blank"><button class="btn btn-danger btn-lg">Summer Dress Code</button></a></div>
 
 
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-1">
-                <img src="images/26-summer-kids.jpg" alt="summer dance classes" class="my-3">
-                <img src="images/26-summer-kids-2.jpg" alt="summer dance classes" class="my-3">
-                <img src="images/26-summer-kids-glossary.jpg" alt="summer dance classes" class="my-3">
+                <img src="images/26-summer-3-18-1.jpg" alt="summer dance classes" class="my-3">
+                <img src="images/26-summer-3-18-2.jpg" alt="summer dance classes" class="my-3">
+                <img src="images/26-summer-3-18-3.jpg" alt="summer dance classes" class="my-3">
             </div>
 
                         <hr class="my-5">
             <p class="pb-0 mb-0 poppins text-muted" style="font-size: 30px;">MDU 2026</p>
             <h1 class="born-7 poppins fw-bold p-0 m-0" style="font-size: 45px;">Graded Summer Dance Classes</h1>
             <div style="background: #008CC0; color: white; font-size: 20px;" class="btn poppins fw-bold btn-interact"><a class="text-white text-decoration-none" disabled>Enroll Wednesday, March 18!</a></div>
-            <div style="background: #008CC0; color: white; font-size: 20px;" class="btn poppins fw-bold btn-interact ms-3"><a class="text-white text-decoration-none" href="/images/26-summer.pdf" target="_blank">View PDF</a></div>
+            <div style="background: #008CC0; color: white; font-size: 20px;" class="btn poppins fw-bold btn-interact ms-3"><a class="text-white text-decoration-none" href="/images/26-summer-3-18.pdf" target="_blank">View PDF</a></div>
 
             <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-1">
-                <img src="images/26-summer.jpg" alt="summer dance classes" class="my-3">
-                <img src="images/26-summer-2.jpg" alt="summer dance classes" class="my-3">
-                <img src="images/26-summer-3.jpg" alt="summer dance classes" class="my-3">
-                <img src="images/26-summer-4.jpg" alt="summer dance classes" class="my-3">
-                <img src="images/26-summer-5.jpg" alt="summer dance classes" class="my-3">
-                <img src="images/26-summer-6.jpg" alt="summer dance classes" class="my-3">
+                <img src="images/26-summer-3-18-4.jpg" alt="summer dance classes" class="my-3">
+                <img src="images/26-summer-3-18-5.jpg" alt="summer dance classes" class="my-3">
+                <img src="images/26-summer-3-18-6.jpg" alt="summer dance classes" class="my-3">
+                <img src="images/26-summer-3-18-7.jpg" alt="summer dance classes" class="my-3">
+                <img src="images/26-summer-3-18-8.jpg" alt="summer dance classes" class="my-3">
+                <img src="images/26-summer-3-18-9.jpg" alt="summer dance classes" class="my-3">
             </div>
 
             {{--            <div class="text-center d-flex d-inline justify-content-center my-3">--}}
