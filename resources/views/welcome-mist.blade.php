@@ -21,35 +21,35 @@
 
     <div class="" style="height: 125px;"></div>
 
-    <section id="header">
-        <div class="container">
-            <div class="row mb-4">
-                <div class="col-md px-0 d-flex align-items-center">
-                    <div>
-                        <div style="font-size: 75px; font-weight: bold; line-height: 1.1;">
-                            Let Your Little One
-                            Discover the Joy of
-                            Dance!
-                        </div>
-                        <div class="mt-4" style="font-size: 35px;">
-                            Try our beginner-friendly, “My First Dance Class”
-                            experience. Made for curious kids and busy families.
-                            Every class includes a special gift!
-                        </div>
-                        <div class="my-4">
-                            <a href="/MyFirstDanceClass#schedule"><div class="btn btn-lg" style="background: #FF66C3; color: white;">Book My First Dance Class!</div></a>
-                        </div>
-                    </div>
-                </div>
-                <div class="col-md d-flex align-items-center">
-                    <img src="/images/my-first-dance-class.jpg" class="img-fluid" alt="">
-                    {{--                    <img src="/images/first-hug.png" class="img-fluid" alt="">--}}
-                </div>
-            </div>
-        </div>
-    </section>
+{{--    <section id="header">--}}
+{{--        <div class="container">--}}
+{{--            <div class="row mb-4">--}}
+{{--                <div class="col-md px-0 d-flex align-items-center">--}}
+{{--                    <div>--}}
+{{--                        <div style="font-size: 75px; font-weight: bold; line-height: 1.1;">--}}
+{{--                            Let Your Little One--}}
+{{--                            Discover the Joy of--}}
+{{--                            Dance!--}}
+{{--                        </div>--}}
+{{--                        <div class="mt-4" style="font-size: 35px;">--}}
+{{--                            Try our beginner-friendly, “My First Dance Class”--}}
+{{--                            experience. Made for curious kids and busy families.--}}
+{{--                            Every class includes a special gift!--}}
+{{--                        </div>--}}
+{{--                        <div class="my-4">--}}
+{{--                            <a href="/MyFirstDanceClass#schedule"><div class="btn btn-lg" style="background: #FF66C3; color: white;">Book My First Dance Class!</div></a>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--                <div class="col-md d-flex align-items-center">--}}
+{{--                    <img src="/images/my-first-dance-class.jpg" class="img-fluid" alt="">--}}
+{{--                    --}}{{--                    <img src="/images/first-hug.png" class="img-fluid" alt="">--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--        </div>--}}
+{{--    </section>--}}
 
-    <div class="" style="height: 125px;"></div>
+{{--    <div class="" style="height: 125px;"></div>--}}
 
     <div class="d-block d-lg-none mx-4">
         <h1 class="born-3 poppins fw-bold p-0 m-0" style="font-size: 45px; transform: translateY(45px); opacity: 0;">Dance makes great kids! <ion-icon name="happy-outline"></ion-icon></h1>
