@@ -6,39 +6,39 @@
 
     <div class="bg-white py-5">
         <div class="container">
-            <div class="text-center pb-4">
-                <div class="row poppins">
-                    <div class="col-sm mt-3">
-                        <strong>Returning Student</strong>
-                        <br>Login using the main email from your studio account
-                        <br>(If you created an account last year to view level placements)
-                    </div>
-                    <div class="col-sm mt-3">
-                        <strong>New Students (1st time receiving level placement results)</strong>
-                        <br>Register a new account with the main email from your studio account
-                        <div class="d-flex justify-content-center">
-                            <a href="/register" class="text-center text-decoration-none">Click here to <span class="text-danger fw-bold">Register</span></a>
-                        </div>
-                    </div>
-                </div>
-            </div>
-            <hr class="my-3">
-            <div class="row poppins">
-                <div class="col-sm-2"></div>
-                <div class="col-sm">
-                    <div>
-                        <p class="text-center mt-3 mb-0 pb-0"><strong>Helpful Tips</strong></p>
-                        <ul class="mb-3 mt-0 pt-0">
-                            <li>If you have multiple dancers, just create one account.</li>
-                            <li>If you try to Register a new account and you receive a message in red that says "the email has already been taken", then use the Login option.</li>
-                            <li>If you forgot your password, click “forgot your password”, enter your email address, and click send password reset link.</li>
-                            <li>Level placements are only provided for the style (Ballet, Jazz, Tap) that you took.  If there is a 0 noted, that means your dancer did not participate in that style this past season.</li>
-                            <li>If you don’t see your dancer’s info, please try one of your other email addresses.</li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-sm-2"></div>
-            </div>
+{{--            <div class="text-center pb-4">--}}
+{{--                <div class="row poppins">--}}
+{{--                    <div class="col-sm mt-3">--}}
+{{--                        <strong>Returning Student</strong>--}}
+{{--                        <br>Login using the main email from your studio account--}}
+{{--                        <br>(If you created an account last year to view level placements)--}}
+{{--                    </div>--}}
+{{--                    <div class="col-sm mt-3">--}}
+{{--                        <strong>New Students (1st time receiving level placement results)</strong>--}}
+{{--                        <br>Register a new account with the main email from your studio account--}}
+{{--                        <div class="d-flex justify-content-center">--}}
+{{--                            <a href="/register" class="text-center text-decoration-none">Click here to <span class="text-danger fw-bold">Register</span></a>--}}
+{{--                        </div>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--            </div>--}}
+{{--            <hr class="my-3">--}}
+{{--            <div class="row poppins">--}}
+{{--                <div class="col-sm-2"></div>--}}
+{{--                <div class="col-sm">--}}
+{{--                    <div>--}}
+{{--                        <p class="text-center mt-3 mb-0 pb-0"><strong>Helpful Tips</strong></p>--}}
+{{--                        <ul class="mb-3 mt-0 pt-0">--}}
+{{--                            <li>If you have multiple dancers, just create one account.</li>--}}
+{{--                            <li>If you try to Register a new account and you receive a message in red that says "the email has already been taken", then use the Login option.</li>--}}
+{{--                            <li>If you forgot your password, click “forgot your password”, enter your email address, and click send password reset link.</li>--}}
+{{--                            <li>Level placements are only provided for the style (Ballet, Jazz, Tap) that you took.  If there is a 0 noted, that means your dancer did not participate in that style this past season.</li>--}}
+{{--                            <li>If you don’t see your dancer’s info, please try one of your other email addresses.</li>--}}
+{{--                        </ul>--}}
+{{--                    </div>--}}
+{{--                </div>--}}
+{{--                <div class="col-sm-2"></div>--}}
+{{--            </div>--}}
             <div class="my-3"></div>
             <div class="row justify-content-center poppins">
                 <div class="col-md-8">
