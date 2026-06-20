@@ -29,7 +29,7 @@
                             <li>Ballroom and Latin</li>
                         </ul>
                         <br>
-                        If you LOVE dance and working with children, please send your resume to Misty Lown: mistysdance@gmail.com
+                        If you LOVE dance and working with children, please send your resume to: info@mistysdance.com
                     </div>
                 </div>
             </div>

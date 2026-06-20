@@ -96,17 +96,17 @@
                         Miss Sandy has been with MDU since day one! She is our Hospitality Services leader at the front desk as well as Miss Misty’s mom! Miss Sandy is the first friendly face you will see when you come in and always happy to help. She enjoys the warmth and camaraderie of the families and staff at MDU and watching our students grow throughout the years.
                     </p>
                 </div>
-                <div class="col-sm mt-3" style="height: 100%;">
-                    <div style="position: relative;">
-                        <img src="/images-lava/staff-lexi.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
-                        <div id="triangle-bottomleft-staff"></div>
-                        <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br>Lexi Fishbein</div>
-                    </div>
-                    <p class="poppins">
-                        <span class="txt-yellow" style="font-size: 1.1em;">Performing Groups Admin & Instructor</span><br>
-                        Lexi grew up dancing at Summit Dance Shoppe in Plymouth, Minnesota where she danced and competed for 15 years. She attends Winona State University where she studies psychology and continues her love for dance by teaching! She helps out with the Performance Company as well as teaching jazz, lyrical and contemporary classes!
-                    </p>
-                </div>
+{{--                <div class="col-sm mt-3" style="height: 100%;">--}}
+{{--                    <div style="position: relative;">--}}
+{{--                        <img src="/images-lava/staff-lexi.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">--}}
+{{--                        <div id="triangle-bottomleft-staff"></div>--}}
+{{--                        <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br>Lexi Fishbein</div>--}}
+{{--                    </div>--}}
+{{--                    <p class="poppins">--}}
+{{--                        <span class="txt-yellow" style="font-size: 1.1em;">Performing Groups Admin & Instructor</span><br>--}}
+{{--                        Lexi grew up dancing at Summit Dance Shoppe in Plymouth, Minnesota where she danced and competed for 15 years. She attends Winona State University where she studies psychology and continues her love for dance by teaching! She helps out with the Performance Company as well as teaching jazz, lyrical and contemporary classes!--}}
+{{--                    </p>--}}
+{{--                </div>--}}
                 <div class="col-sm mt-3" style="height: 100%;">
                     <div style="position: relative;">
                         <img src="/images-lava/staff-tiffany.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
@@ -307,17 +307,7 @@
                         Miss Emma grew up dancing at Misty’s and recently graduated from the program. She can’t imagine a world without dance and has always dreamed of sharing her love of dance with others.
                     </p>
                 </div>
-                <div class="col-sm mt-3" style="height: 100%;">
-                    <div style="position: relative;">
-                        <img src="/images/miss-kyra-moore.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
-                        <div id="triangle-bottomleft-staff"></div>
-                        <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br> Kyra Moore</div>
-                    </div>
-                    <p class="poppins">
-                        <span class="txt-yellow" style="font-size: 1.4em;">Dance Instructor</span><br>
-                        Miss Kyra grew up in the area and started dancing at Misty's when she was 3. She was involved in the Performance Company for 5 years and was on the Holmen Dance Team for all 4 years of high school. Last summer, she was trained through the AcrobaticArts curriculum and has expanded her teaching to Acro classes along with Tap, Jazz, and Lyrical! She is excited to share her passion for dance with all of her students!
-                    </p>
-                </div>
+
                 <div class="col-sm mt-3" style="height: 100%;">
                     <div style="position: relative;">
                         <img src="/images-lava/staff-larissa.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
@@ -352,17 +342,17 @@
                         Miss Kristina is proud to be one of Misty’s original students and one of the first seven students to be on the first ever Performance Company. She taught from 2001-2009 and attests skills acquired at MDU to ultimately help her achieve winning Miss Wisconsin 2009, allowing her to share her passion of dance on the Miss America stage. Miss Kristina is elated to be back at MDU!
                     </p>
                 </div>
-                <div class="col-sm mt-3" style="height: 100%;">
-                    <div style="position: relative;">
-                        <img src="/images/25-staff-aly.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
-                        <div id="triangle-bottomleft-staff"></div>
-                        <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br>Aly Small</div>
-                    </div>
-                    <p class="poppins">
-                        <span class="txt-yellow" style="font-size: 1.4em;">Dance Instructor</span><br>
-                        Bio coming soon.
-                    </p>
-                </div>
+{{--                <div class="col-sm mt-3" style="height: 100%;">--}}
+{{--                    <div style="position: relative;">--}}
+{{--                        <img src="/images/25-staff-aly.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">--}}
+{{--                        <div id="triangle-bottomleft-staff"></div>--}}
+{{--                        <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br>Aly Small</div>--}}
+{{--                    </div>--}}
+{{--                    <p class="poppins">--}}
+{{--                        <span class="txt-yellow" style="font-size: 1.4em;">Dance Instructor</span><br>--}}
+{{--                        Bio coming soon.--}}
+{{--                    </p>--}}
+{{--                </div>--}}
                 <div class="col-sm mt-3" style="height: 100%;">
                     <div style="position: relative;">
                         <img src="/images-lava/staff-carmina.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
@@ -397,17 +387,7 @@
                         Miss Suzanne Swanson Wagner was Miss Misty's main teacher growing up and is the former owner of the Marilyn School of Dance in Tomah and Black River Falls. She will be driving in a couple of times per week to share her experience with our students–super exciting!
                     </p>
                 </div>
-                <div class="col-sm mt-3" style="height: 100%;">
-                    <div style="position: relative;">
-                        <img src="/images-lava/staff-greta.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
-                        <div id="triangle-bottomleft-staff"></div>
-                        <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br>Greta Vollendorf</div>
-                    </div>
-                    <p class="poppins">
-                        <span class="txt-yellow" style="font-size: 1.4em;">Dance Instructor</span><br>
-                        Miss Greta Vollendorf is a former competitive dancer from Forthcoming Danspace in Stevens Point, Wisconsin. She is currently studying elementary education and dance at UW-L. She is also a 2nd year member of the UWL Dance Team.
-                    </p>
-                </div>
+
 {{--                <div class="col-sm mt-3" style="height: 100%;">--}}
 {{--                    <div style="position: relative;">--}}
 {{--                        <img src="/images-lava/staff-addi.jpg" alt="staff member" class="img-fluid" style=max-height: 382.50px; filter: grayscale(100%);>--}}
@@ -521,6 +501,28 @@
                     <p class="poppins">
                         <span class="txt-yellow" style="font-size: 1.4em;">Dance Instructor</span><br>
                         Miss Tabitha has been dancing at Misty’s for 14 years and is a part of Performance Company, Ballet La Crosse, Crew, and Traveling Team. Her favorite styles are contemporary and Hip Hop. This is her second year teaching and she’s excited for it!
+                    </p>
+                </div>
+                <div class="col-sm mt-3" style="height: 100%;">
+                    <div style="position: relative;">
+                        <img src="/images/miss-kyra-moore.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
+                        <div id="triangle-bottomleft-staff"></div>
+                        <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br> Kyra Moore</div>
+                    </div>
+                    <p class="poppins">
+                        <span class="txt-yellow" style="font-size: 1.4em;">Dance Instructor</span><br>
+                        Miss Kyra grew up in the area and started dancing at Misty's when she was 3. She was involved in the Performance Company for 5 years and was on the Holmen Dance Team for all 4 years of high school. Last summer, she was trained through the AcrobaticArts curriculum and has expanded her teaching to Acro classes along with Tap, Jazz, and Lyrical! She is excited to share her passion for dance with all of her students!
+                    </p>
+                </div>
+                <div class="col-sm mt-3" style="height: 100%;">
+                    <div style="position: relative;">
+                        <img src="/images-lava/staff-greta.jpg" alt="staff member" class="img-fluid" style="max-height: 382.50px; filter: grayscale(100%);">
+                        <div id="triangle-bottomleft-staff"></div>
+                        <div class="triangle-text poppins mt-2" style="font-size: 30px; line-height: 0.9em;">Miss<br>Greta Vollendorf</div>
+                    </div>
+                    <p class="poppins">
+                        <span class="txt-yellow" style="font-size: 1.4em;">Dance Instructor</span><br>
+                        Miss Greta Vollendorf is a former competitive dancer from Forthcoming Danspace in Stevens Point, Wisconsin. She is currently studying elementary education and dance at UW-L. She is also a 2nd year member of the UWL Dance Team.
                     </p>
                 </div>
                 <div class="col-sm mt-3" style="height: 100%;">

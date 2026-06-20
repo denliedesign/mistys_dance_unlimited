@@ -50,24 +50,24 @@
 {{--                        @endforeach--}}
 {{--                    </div>--}}
                     <div class="col-sm mt-4">
-                        <h3 style="font-family: 'Pacifico', cursive; font-size: 50px;">February</h3>
+                        <h3 style="font-family: 'Pacifico', cursive; font-size: 50px;">June</h3>
                         <hr>
                         @foreach($communities as $community)
-                            @if($community->month == 'February')@include('_community-program')@endif
+                            @if($community->month == 'June')@include('_community-program')@endif
                         @endforeach
                     </div>
                     <div class="col-sm mt-4">
-                        <h3 style="font-family: 'Pacifico', cursive; font-size: 50px;">March</h3>
+                        <h3 style="font-family: 'Pacifico', cursive; font-size: 50px;">July</h3>
                         <hr>
                         @foreach($communities as $community)
-                            @if($community->month == 'March')@include('_community-program')@endif
+                            @if($community->month == 'July')@include('_community-program')@endif
                         @endforeach
                     </div>
                     <div class="col-sm mt-4">
-                        <h3 style="font-family: 'Pacifico', cursive; font-size: 50px;">April</h3>
+                        <h3 style="font-family: 'Pacifico', cursive; font-size: 50px;">August</h3>
                         <hr>
                         @foreach($communities as $community)
-                            @if($community->month == 'April')@include('_community-program')@endif
+                            @if($community->month == 'August')@include('_community-program')@endif
                         @endforeach
                     </div>
                 </div>
