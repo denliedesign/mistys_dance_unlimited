@@ -26,6 +26,8 @@
     <meta name="theme-color" content="#30393e">
     <meta name="google-site-verification" content="pEj8FQ1at3uraMLV77FgIB99LibvKtfCd2E3Jr8B2Hw" />
 
+    @include('cookie-consent-head')
+
     <img src="https://servedby.ipromote.com/ad/?src=pixel_cid&nid=2482&cid=T7VJY1WDF8F&cat=11902" width="1" height="1" border="0" alt="" style="position: absolute; visibility: hidden;"/>
 
     <!-- Fonts -->
@@ -59,6 +61,7 @@
 @include('_nav-mist')
 @yield('content')
 @include('_footer-mist')
+@include('cookie-consent')
 
 <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
 <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>

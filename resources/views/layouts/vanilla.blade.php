@@ -28,6 +28,8 @@
     <meta name="theme-color" content="#30393e">
     <meta name="google-site-verification" content="pEj8FQ1at3uraMLV77FgIB99LibvKtfCd2E3Jr8B2Hw" />
 
+    @include('cookie-consent-head')
+
     <img src="https://servedby.ipromote.com/ad/?src=pixel_cid&nid=2482&cid=T7VJY1WDF8F&cat=11902" width="1" height="1" border="0" alt="" style="position: absolute; visibility: hidden;">
 
 {{--    @include('saferstudiobanner')--}}
@@ -35,6 +37,7 @@
     @include('header-21')
     @yield('content')
     @include('footer-21')
+    @include('cookie-consent')
 
 </head>
 <body>
@@ -166,4 +169,3 @@
 
     </body>
 </html>
-

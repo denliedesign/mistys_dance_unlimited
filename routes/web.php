@@ -70,6 +70,10 @@ Route::get('contact', function () {
     return view('contact');
 });
 
+Route::get('privacy-policy', function () {
+    return view('privacy-policy');
+});
+
 //Route::get('birthday', function () {
 //    return view('birthday');
 //});
@@ -567,4 +571,3 @@ Route::get('password/reset', [ForgotPasswordController::class, 'showLinkRequestF
 Route::post('password/email', [ForgotPasswordController::class, 'sendResetLinkEmail'])->name('password.email');
 Route::get('password/reset/{token}', [ResetPasswordController::class, 'showResetForm'])->name('password.reset');
 Route::post('password/reset', [ResetPasswordController::class, 'reset'])->name('password.update');
-

@@ -11,6 +11,8 @@
     <link rel="stylesheet" href="/css/style.css">
     <link rel="stylesheet" href="/css/class-style.css">
 
+    @include('cookie-consent-head')
+
     <title>@yield('title', 'Misty\'s Dance Unlimited Community Resources | Onalaska, WI')</title>
 
 </head>
@@ -59,6 +61,7 @@
     </div>
 </div>
 
+@include('cookie-consent')
 
 
 <script src="https://code.jquery.com/jquery-3.4.1.slim.min.js" integrity="sha384-J6qa4849blE2+poT4WnyKhv5vZF5SrPo0iEjwBvKU7imGFAV0wwj1yYfoRSJoZ+n" crossorigin="anonymous"></script>

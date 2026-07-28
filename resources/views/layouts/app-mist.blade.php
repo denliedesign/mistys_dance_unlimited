@@ -26,6 +26,8 @@
     <meta name="theme-color" content="#30393e">
     <meta name="google-site-verification" content="pEj8FQ1at3uraMLV77FgIB99LibvKtfCd2E3Jr8B2Hw" />
 
+    @include('cookie-consent-head')
+
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F3Q8GM09JM"></script>
     <script>
@@ -80,6 +82,7 @@
 @include('_nav-mist')
 @yield('content')
 @include('_footer-mist')
+@include('cookie-consent')
 
 <script type="module" src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
 <script nomodule src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>

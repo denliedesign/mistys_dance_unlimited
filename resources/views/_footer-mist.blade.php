@@ -61,6 +61,9 @@
                                 <li class="list-group-item px-0 border-0">
                                     <a class="text-decoration-none" style="color: #008CC0;" href="/employment">Employment</a>
                                 </li>
+                                <li class="list-group-item px-0 border-0">
+                                    <a class="text-decoration-none" style="color: #008CC0;" href="/privacy-policy">Privacy Policy</a>
+                                </li>
                             </ul>
                         </div>
                         <div class="col-md">

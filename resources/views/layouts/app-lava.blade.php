@@ -45,6 +45,8 @@
     <meta name="msapplication-TileColor" content="#30393e">
     <meta name="theme-color" content="#30393e">
 
+    @include('cookie-consent-head')
+
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-F3Q8GM09JM"></script>
     <script>
@@ -70,6 +72,7 @@
 @include('nav-lava')
 @yield('content')
 @include('footer-lava')
+@include('cookie-consent')
 
 <script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
 <script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
