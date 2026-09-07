@@ -2,9 +2,9 @@
     <li class="nav-item">
         <a class="nav-link" href="/aboutus">About Us</a>
     </li>
-    <li class="nav-item">
-        <a class="nav-link" href="/summer">Summer</a>
-    </li>
+{{--    <li class="nav-item">--}}
+{{--        <a class="nav-link" href="/summer">Summer</a>--}}
+{{--    </li>--}}
     <li class="nav-item">
         <a class="nav-link" href="/events">Events</a>
     </li>
