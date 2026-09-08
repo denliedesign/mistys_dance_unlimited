@@ -20,11 +20,11 @@
                         </li>
                         <li class="list-group-item px-0 border-0">
                             <ion-icon style="font-size: 20px;" name="logo-facebook"></ion-icon>
-                            &nbsp;<a style="color: #008CC0;" class="text-decoration-none" href="https://www.facebook.com/mistysdance/" target="_blank">facebook</a>
+                            &nbsp;<a style="color: #006b93;" class="text-decoration-none" href="https://www.facebook.com/mistysdance/" target="_blank">facebook</a>
                         </li>
                         <li class="list-group-item px-0 border-0">
                             <ion-icon style="font-size: 20px;" name="logo-instagram"></ion-icon>
-                            &nbsp;<a style="color: #008CC0;" class="text-decoration-none" href="https://www.instagram.com/mistysdance/" target="_blank">instagram</a>
+                            &nbsp;<a style="color: #006b93;" class="text-decoration-none" href="https://www.instagram.com/mistysdance/" target="_blank">instagram</a>
                         </li>
                     </ul>
                 </div>
@@ -34,63 +34,63 @@
                         <div class="col-md">
                             <ul class="list-group" id="footer-list">
                                 <li class="list-group-item px-0 border-0">
-                                    <a class="text-decoration-none" style="color: #008CC0;" href="/absence-reporting">Absence Reporting</a>
+                                    <a class="text-decoration-none" style="color: #006b93;" href="/absence-reporting">Absence Reporting</a>
                                 </li>
                                 <li class="list-group-item px-0 border-0">
-                                    <a class="text-decoration-none" style="color: #008CC0;" href="/events">Calendar of Events</a>
+                                    <a class="text-decoration-none" style="color: #006b93;" href="/events">Calendar of Events</a>
                                 </li>
                                 <li class="list-group-item px-0 border-0">
-                                    <a class="text-decoration-none" style="color: #008CC0;" href="/pl">Private Lessons</a>
+                                    <a class="text-decoration-none" style="color: #006b93;" href="/pl">Private Lessons</a>
                                 </li>
                                 <li class="list-group-item px-0 border-0">
-                                    <a class="text-decoration-none" style="color: #008CC0;" href="/community-first">Community</a>
-                                </li>
-                            </ul>
-                        </div>
-                        <div class="col-md">
-                            <ul class="list-group" id="footer-list">
-                                <li class="list-group-item px-0 border-0">
-                                    <a class="text-decoration-none" style="color: #008CC0;" href="https://forms.gle/F7wGR7uFH15jpRbx5" target="_blank">Student Lockers</a>
-                                </li>
-                                <li class="list-group-item px-0 border-0">
-                                    <a class="text-decoration-none" style="color: #008CC0;" href="https://docs.google.com/forms/d/e/1FAIpQLSfzEyUJ7xwdSlv_IMNtLznZo1Lwk5jH0yfAKQZ32jGRpuWdCw/viewform?c=0&w=1" target="_blank">Performance Request</a>
-                                </li>
-                                <li class="list-group-item px-0 border-0">
-                                    <a class="text-decoration-none" style="color: #008CC0;" href="/studio">Studio</a>
-                                </li>
-                                <li class="list-group-item px-0 border-0">
-                                    <a class="text-decoration-none" style="color: #008CC0;" href="/employment">Employment</a>
-                                </li>
-                                <li class="list-group-item px-0 border-0">
-                                    <a class="text-decoration-none" style="color: #008CC0;" href="/privacy-policy">Privacy Policy</a>
+                                    <a class="text-decoration-none" style="color: #006b93;" href="/community-first">Community</a>
                                 </li>
                             </ul>
                         </div>
                         <div class="col-md">
                             <ul class="list-group" id="footer-list">
                                 <li class="list-group-item px-0 border-0">
-                                    <a class="text-decoration-none" style="color: #008CC0;" href="/pc">Audition</a>
+                                    <a class="text-decoration-none" style="color: #006b93;" href="https://forms.gle/F7wGR7uFH15jpRbx5" target="_blank">Student Lockers</a>
                                 </li>
                                 <li class="list-group-item px-0 border-0">
-                                    <a class="text-decoration-none" style="color: #008CC0;" href="/alumni">Alumni</a>
+                                    <a class="text-decoration-none" style="color: #006b93;" href="https://docs.google.com/forms/d/e/1FAIpQLSfzEyUJ7xwdSlv_IMNtLznZo1Lwk5jH0yfAKQZ32jGRpuWdCw/viewform?c=0&w=1" target="_blank">Performance Request</a>
                                 </li>
                                 <li class="list-group-item px-0 border-0">
-                                    <a class="text-decoration-none" style="color: #008CC0;" href="https://www.thewillowandgrace.com/" target="_blank">Boutique</a>
+                                    <a class="text-decoration-none" style="color: #006b93;" href="/studio">Studio</a>
+                                </li>
+                                <li class="list-group-item px-0 border-0">
+                                    <a class="text-decoration-none" style="color: #006b93;" href="/employment">Employment</a>
+                                </li>
+                                <li class="list-group-item px-0 border-0">
+                                    <a class="text-decoration-none" style="color: #006b93;" href="/privacy-policy">Privacy Policy</a>
+                                </li>
+                            </ul>
+                        </div>
+                        <div class="col-md">
+                            <ul class="list-group" id="footer-list">
+                                <li class="list-group-item px-0 border-0">
+                                    <a class="text-decoration-none" style="color: #006b93;" href="/pc">Audition</a>
+                                </li>
+                                <li class="list-group-item px-0 border-0">
+                                    <a class="text-decoration-none" style="color: #006b93;" href="/alumni">Alumni</a>
+                                </li>
+                                <li class="list-group-item px-0 border-0">
+                                    <a class="text-decoration-none" style="color: #006b93;" href="https://www.thewillowandgrace.com/" target="_blank">Boutique</a>
                                 </li>
 
                                 {{--                                <li class="list-group-item px-0 border-0">--}}
-                                {{--                                    <a class="text-decoration-none" style=color: #008CC0; href="/blogs">Blog</a>--}}
+                                {{--                                    <a class="text-decoration-none" style=color: #006b93; href="/blogs">Blog</a>--}}
                                 {{--                                </li>--}}
                                 {{--                                <li class="list-group-item px-0 border-0">--}}
-                                {{--                                    <a class="text-decoration-none" style=color: #008CC0; href="https://mistysdance.store">Gift of Dance</a>--}}
+                                {{--                                    <a class="text-decoration-none" style=color: #006b93; href="https://mistysdance.store">Gift of Dance</a>--}}
                                 {{--                                </li>--}}
                                 @guest
                                     <li class="list-group-item px-0 border-0">
-                                        <a class="text-decoration-none" style="color: #008CC0;" href="{{ route('login') }}">{{ __('Admin') }}</a>
+                                        <a class="text-decoration-none" style="color: #006b93;" href="{{ route('login') }}">{{ __('Admin') }}</a>
                                     </li>
                                 @else
                                     <li class="list-group-item px-0 border-0 dropdown">
-                                        <a class="text-decoration-none" style="color: #008CC0;" href="{{ route('logout') }}"
+                                        <a class="text-decoration-none" style="color: #006b93;" href="{{ route('logout') }}"
                                            onclick="event.preventDefault();
                                                                                      document.getElementById('logout-form').submit();">
                                             {{ __('Logout') }}
@@ -105,7 +105,7 @@
                         <div class="col-md">
                             <ul class="list-group" id="footer-list">
                                 <li class="list-group-item px-0 border-0">
-                                    <a class="text-decoration-none" style="color: #008CC0;" href="/images/26-27-dress-code.pdf" target="_blank">Dress Code</a>
+                                    <a class="text-decoration-none" style="color: #006b93;" href="/images/26-27-dress-code.pdf" target="_blank">Dress Code</a>
                                 </li>
                             </ul>
                         </div>

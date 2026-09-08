@@ -57,7 +57,7 @@
 
 .hover-unred {color: #ED174D;}
 .hover-unblue {color: #008CC0;}
-.hover-unyellow {color: #EBE82E;}
+.hover-unyellow {color: #827000;}
 .hover-unred:hover, .hover-unblue:hover, .hover-unyellow:hover, .hover-unred:active, .hover-unblue:active, .hover-unyellow:active {color: black; position: relative; z-index: 1; cursor: default;}
 
 /*.btn-interact:hover, .btn-interact:active { background: RGBA(0, 140, 192, 0.1) !important; }*/
@@ -359,3 +359,6 @@
         display: none;
     }
 }
+
+/* Preserve partner logo proportions inside flex columns. */
+#brand img, #day img { object-fit: contain; width: auto; max-width: 100%; }

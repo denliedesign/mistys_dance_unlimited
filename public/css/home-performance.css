@@ -1,0 +1,28 @@
+/* Content is visible immediately, including when JavaScript is unavailable. */
+.home-page [class*="born-"], .home-page [class*="bloom-"] {
+    opacity: 1 !important;
+    transform: none !important;
+}
+.home-page .boop-1, .home-page .boop-2,
+.home-page .boop-3, .home-page .boop-4 { width: 85px !important; height: 85px !important; }
+.home-page .boop-5, .home-page .boop-6,
+.home-page .boop-7, .home-page .boop-8 { width: 32px !important; height: 32px !important; }
+.home-page .ages-wrapper { overflow-x: auto; scroll-snap-type: x proximity; }
+.home-page .ages-container { width: auto; flex: 0 0 auto; }
+.home-page .age { width: 60vw; scroll-snap-align: start; }
+.home-page .full-screen-nav { overflow-y: auto; transition: transform .25s ease, visibility .25s; }
+.home-page .full-screen-nav.is-open { transform: translateY(0); visibility: visible; }
+.home-page .menu-icon { border: 0; padding: 0; background: transparent; color: inherit; min-width: 44px; min-height: 44px; }
+.home-page .btn-interact { transition: transform .2s ease; }
+@media (hover: hover) and (prefers-reduced-motion: no-preference) {
+    .home-page .btn-interact:hover { transform: translateY(-5px) scale(1.05); }
+}
+@media (prefers-reduced-motion: reduce) {
+    .home-page *, .home-page *::before, .home-page *::after { transition: none !important; animation: none !important; scroll-behavior: auto !important; }
+}
+/* Bootstrap 4 is unnecessary on the homepage; preserve its body defaults. */
+.home-page { color: #212529; }
+.home-page ion-icon { display: inline-block; width: 1em; height: 1em; }
+.home-page video { aspect-ratio: 16 / 9; }
+.home-page .age img, .home-page .age-desktop img { height: auto; }
+.home-page #brand img { object-fit: contain; width: auto; max-width: 100%; height: auto; max-height: 160px; opacity: .7; }

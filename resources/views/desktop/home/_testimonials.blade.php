@@ -4,7 +4,7 @@
         <div class="bloom-1 my-4" style="position: relative; transform: scale(0.95) translateY(10px);">
             <div class="rounded p-3" style="height: 260px; background: #FFE9ED;">
                 <div class="d-flex align-items-center">
-                    <img src="/images-mist/review-jamie-dahl.png" alt="headshot" class="img-fluid">
+                    <x-site-image src="/images-mist/review-jamie-dahl.png" alt="headshot" class="img-fluid" width="75" height="75" loading="lazy" sizes="100vw" />
                     <div class="fw-bold poppins ms-3" style="font-size: 20px;">Jamie Dahl</div>
                 </div>
                 <p class="text-muted poppins mt-3" style="font-size: 20px;">
@@ -15,7 +15,7 @@
         <div class="bloom-2 my-4" style="position: relative; transform: scale(0.95) translateY(10px);">
             <div class="rounded p-3" style="height: 260px; background: #FEFDEC;">
                 <div class="d-flex align-items-center">
-                    <img src="/images-mist/review-mindy-cadd.png" alt="headshot" class="img-fluid">
+                    <x-site-image src="/images-mist/review-mindy-cadd.png" alt="headshot" class="img-fluid" width="75" height="75" loading="lazy" sizes="100vw" />
                     <div class="fw-bold poppins ms-3" style="font-size: 20px;">Mindy Cadd</div>
                 </div>
                 <p class="text-muted poppins mt-3" style="font-size: 20px;">
@@ -26,7 +26,7 @@
         <div class="bloom-3 my-4" style="position: relative; transform: scale(0.95) translateY(10px);">
             <div class="rounded p-3" style="height: 260px; background: #EAF3F9;">
                 <div class="d-flex align-items-center">
-                    <img src="/images-mist/review-alex-leuck.png" alt="headshot" class="img-fluid">
+                    <x-site-image src="/images-mist/review-alex-leuck.png" alt="headshot" class="img-fluid" width="75" height="75" loading="lazy" sizes="100vw" />
                     <div class="fw-bold poppins ms-3" style="font-size: 20px;">Alexandra Leuck</div>
                 </div>
                 <p class="text-muted poppins mt-3" style="font-size: 20px;">
@@ -37,7 +37,7 @@
         <div class="bloom-4 my-4" style="position: relative; transform: scale(0.95) translateY(10px);">
             <div class="rounded p-3" style="height: 260px; background: #FFE9ED;">
                 <div class="d-flex align-items-center">
-                    <img src="/images-mist/review-latesha.png" alt="headshot" class="img-fluid">
+                    <x-site-image src="/images-mist/review-latesha.png" alt="headshot" class="img-fluid" width="75" height="75" loading="lazy" sizes="100vw" />
                     <div class="fw-bold poppins ms-3" style="font-size: 20px;">Latesha Berrong</div>
                 </div>
                 <p class="text-muted poppins mt-3" style="font-size: 20px;">

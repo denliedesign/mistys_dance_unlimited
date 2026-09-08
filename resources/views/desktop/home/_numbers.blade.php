@@ -1,6 +1,6 @@
 <section class="d-none d-lg-block mx-5" style="position: relative; height: 600px;">
     <div>
-        <img src="/images-mist/numbers.png" alt="" class="img-fluid" style="position: absolute; top: 50%; right: 0; transform: translateY(-50%); z-index: -1; height: 600px; width: auto;">
+        <x-site-image src="/images-mist/numbers.png" alt="" class="img-fluid" style="position: absolute; top: 50%; right: 0; transform: translateY(-50%); z-index: -1; height: 600px; width: auto;" width="673" height="747" loading="lazy" sizes="100vw" />
     </div>
     <div class="d-flex align-items-center" style="height: 100%;">
         <div>

@@ -34,6 +34,8 @@ document.addEventListener("DOMContentLoaded", (event) => {
 
     menuIcon.addEventListener('click', function() {
         const isOpen = fullScreenNav.style.visibility === 'visible';
+        menuIcon.setAttribute('aria-expanded', String(!isOpen));
+        menuIcon.setAttribute('aria-label', isOpen ? 'Open navigation' : 'Close navigation');
 
         if (isOpen) {
             gsap.to(fullScreenNav, { y: '-100%', duration: 0.5, onComplete: () => {
@@ -53,5 +55,11 @@ document.addEventListener("DOMContentLoaded", (event) => {
         }
     });
 
+    document.addEventListener('keydown', (event) => {
+        if (event.key === 'Escape' && menuIcon.getAttribute('aria-expanded') === 'true') {
+            menuIcon.click();
+            menuIcon.focus();
+        }
+    });
 
 });

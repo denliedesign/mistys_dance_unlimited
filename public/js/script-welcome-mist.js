@@ -100,6 +100,7 @@ document.addEventListener("DOMContentLoaded", (event) => {
 
 
     // Initialize Draggable
+    if (document.querySelector('.ages-container') && document.querySelector('.ages-wrapper')) {
     Draggable.create(".ages-container", {
         type: "x",
         edgeResistance: 0.65,
@@ -124,6 +125,8 @@ document.addEventListener("DOMContentLoaded", (event) => {
             });
         }
     });
+
+    }
 
     gsap.to("#brand img", {
         opacity: 0.7,

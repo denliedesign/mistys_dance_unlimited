@@ -28,7 +28,7 @@
     }
 
     #cookie-consent a {
-        color: #008CC0;
+        color: #006b93;
         text-decoration: underline;
     }
 
@@ -41,7 +41,7 @@
     .cookie-consent-button {
         min-width: 110px;
         padding: 10px 16px;
-        border: 1px solid #008CC0;
+        border: 1px solid #006b93;
         border-radius: 5px;
         font-size: 14px;
         font-weight: 700;
@@ -51,11 +51,11 @@
 
     .cookie-consent-accept {
         color: #fff;
-        background: #008CC0;
+        background: #006b93;
     }
 
     .cookie-consent-decline {
-        color: #008CC0;
+        color: #006b93;
         background: #fff;
     }
 

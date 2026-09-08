@@ -387,7 +387,7 @@
         <div class="container">
             <h2 class="fw-bold text-center" style="font-size: 2.75em;">If you let me dance...</h2>
             <div class="d-flex justify-content-center">
-                <video poster="/images-lava/if-you-let-me-dance-poster.png" src="/images-lava/if-you-let-me-dance.mp4" type="video/mp4" controls="" class="shadow rounded" style="max-width: 950px; width: 100%; height: auto;"></video>
+                <video poster="/images-lava/if-you-let-me-dance-poster.jpg" src="/images-lava/if-you-let-me-dance.mp4" type="video/mp4" controls="" class="shadow rounded" style="max-width: 950px; width: 100%; height: auto;"></video>
             </div>
         </div>
     </div>

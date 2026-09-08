@@ -6,11 +6,8 @@ use App\Article;
 use App\Community;
 use App\Fest;
 use App\Post;
-use App\Student;
 use App\Update;
-use App\User;
 use App\Video;
-use Illuminate\Pagination\Paginator;
 use Illuminate\Support\ServiceProvider;
 
 class AppServiceProvider extends ServiceProvider
@@ -32,32 +29,24 @@ class AppServiceProvider extends ServiceProvider
      */
     public function boot()
     {
-//        view()->composer('*',function($view) {
-//            $view->with('students', Student::all());
-//        });
-//        Paginator::useBootstrap();
-        view()->composer('*',function($view) {
-            $view->with('users', User::all());
-        });
-
-        view()->composer('*',function($view) {
+        // Only fetch collections for templates that actually use them. A wildcard
+        // composer repeats every query for every partial and anonymous component.
+        view()->composer(['posts._old-show', 'posts._old-index'], function ($view) {
             $view->with('posts', Post::all());
         });
 
-        view()->composer('*',function($view) {
+        view()->composer(['saferstudiobanner', 'saferstudiopolicy.archive'], function ($view) {
             $view->with('updates', Update::all());
         });
 
-        view()->composer('*',function($view) {
+        view()->composer('mdu-fest', function ($view) {
             $view->with('fests', Fest::all());
         });
-        view()->composer('*',function($view) {
+        view()->composer('articles.index', function ($view) {
             $view->with('articles', Article::all());
+            $view->with('videos', Video::all());
         });
-        view()->composer('*',function($view) {
-        $view->with('videos', Video::all());
-    });
-        view()->composer('*',function($view) {
+        view()->composer('communities.index', function ($view) {
             $view->with('communities', Community::all());
         });
     }

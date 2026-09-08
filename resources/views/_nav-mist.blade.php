@@ -2,18 +2,18 @@
 <div class="d-block d-lg-none">
     <div class="d-flex justify-content-between my-3">
         <div class="mx-4">
-            <a href="/"><img src="/images-mist/logo-mdu.png" alt="mdu logo" class="img-fluid" style="height: 50px; width: auto;"></a>
+            <a href="/"><x-site-image src="/images-mist/logo-mdu.png" alt="mdu logo" class="img-fluid" style="height: 50px; width: auto;" width="1275" height="397" loading="eager" sizes="100vw" /></a>
         </div>
         <div class="d-flex align-items-center">
-            <div style="font-size: 30px;" class="mx-4 menu-icon"><ion-icon name="menu-outline" data-icon="menu"></ion-icon></div>
+            <button type="button" style="font-size: 30px; border: 0; background: transparent;" class="mx-4 menu-icon" aria-label="Open navigation" aria-expanded="false" aria-controls="mobile-navigation"><ion-icon name="menu-outline" data-icon="menu" aria-hidden="true"></ion-icon></button>
         </div>
     </div>
 
-    <div class="full-screen-nav poppins">
+    <nav class="full-screen-nav poppins" id="mobile-navigation" aria-label="Mobile navigation">
         <ul class="navbar-nav mb-2 mb-lg-0 align-items-center" style="font-size: 20px;">
             <li class="nav-item mx-2">
                 <a class="nav-link" href="/">
-                    <img src="/images-mist/logo-mdu.png" alt="mdu logo" class="img-fluid" style="height: 50px; width: auto;">
+                    <x-site-image src="/images-mist/logo-mdu.png" alt="mdu logo" class="img-fluid" style="height: 50px; width: auto;" width="1275" height="397" loading="eager" sizes="100vw" />
                 </a>
             </li>
             <li class="nav-item mx-2">
@@ -66,5 +66,5 @@
                 </a>
             </li>
         </ul>
-    </div>
+    </nav>
 </div>

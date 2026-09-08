@@ -17,7 +17,7 @@
 
 {{--    <div class="" style="height: 125px;"></div>--}}
 
-    <img src="/images-mist/header.jpg" alt="all ages of dancers in a row" class="img-fluid">
+    <x-site-image src="/images-mist/header.jpg" alt="all ages of dancers in a row" class="img-fluid" width="1575" height="777" loading="eager" sizes="100vw" fetchpriority="high" />
 
     <div class="" style="height: 125px;"></div>
 
@@ -125,31 +125,31 @@
         <div class="ages-wrapper">
             <div class="ages-container">
                 <div class="age">
-                    <img src="/images-mist/age-1.jpg" alt="child dancer" class="img-fluid" style="border: 3px solid #008CC0;">
+                    <x-site-image src="/images-mist/age-1.jpg" alt="child dancer" class="img-fluid" style="border: 3px solid #008CC0;" width="1500" height="2100" loading="lazy" sizes="(max-width: 767px) 60vw, 25vw" />
                     <div class="age-title"><a class="d-flex align-items-center text-decoration-none text-dark" style="width: max-content;" href="/fall#ab">Age 1-2 <ion-icon class="ms-1" style="color: #008CC0;" name="arrow-forward-outline"></ion-icon></a></div>
                 </div>
                 <div class="age">
-                    <img src="/images-mist/age-2.jpg" alt="child dancer" class="img-fluid" style="border: 3px solid #008CC0;">
+                    <x-site-image src="/images-mist/age-2.jpg" alt="child dancer" class="img-fluid" style="border: 3px solid #008CC0;" width="1500" height="2100" loading="lazy" sizes="(max-width: 767px) 60vw, 25vw" />
                     <div class="age-title"><a class="d-flex align-items-center text-decoration-none text-dark" style="width: max-content;" href="/fall#ab">Age 3-4 <ion-icon class="ms-1" style="color: #008CC0;" name="arrow-forward-outline"></ion-icon></a></div>
                 </div>
                 <div class="age">
-                    <img src="/images-mist/age-3.jpg" alt="child dancer" class="img-fluid" style="border: 3px solid #008CC0;">
+                    <x-site-image src="/images-mist/age-3.jpg" alt="child dancer" class="img-fluid" style="border: 3px solid #008CC0;" width="1500" height="2100" loading="lazy" sizes="(max-width: 767px) 60vw, 25vw" />
                     <div class="age-title"><a class="d-flex align-items-center text-decoration-none text-dark" style="width: max-content;" href="/fall#c">Age 5-6 <ion-icon class="ms-1" style="color: #008CC0;" name="arrow-forward-outline"></ion-icon></a></div>
                 </div>
                 <div class="age">
-                    <img src="/images-mist/age-4.jpg" alt="child dancer" class="img-fluid" style="border: 3px solid #008CC0;">
+                    <x-site-image src="/images-mist/age-4.jpg" alt="child dancer" class="img-fluid" style="border: 3px solid #008CC0;" width="1500" height="2100" loading="lazy" sizes="(max-width: 767px) 60vw, 25vw" />
                     <div class="age-title"><a class="d-flex align-items-center text-decoration-none text-dark" style="width: max-content;" href="/fall#d">Age 7-8 <ion-icon class="ms-1" style="color: #008CC0;" name="arrow-forward-outline"></ion-icon></a></div>
                 </div>
                 <div class="age">
-                    <img src="/images-mist/age-5.jpg" alt="child dancer" class="img-fluid" style="border: 3px solid #008CC0;">
+                    <x-site-image src="/images-mist/age-5.jpg" alt="child dancer" class="img-fluid" style="border: 3px solid #008CC0;" width="1500" height="2100" loading="lazy" sizes="(max-width: 767px) 60vw, 25vw" />
                     <div class="age-title"><a class="d-flex align-items-center text-decoration-none text-dark" style="width: max-content;" href="/fall#e">Age 9-12 <ion-icon class="ms-1" style="color: #008CC0;" name="arrow-forward-outline"></ion-icon></a></div>
                 </div>
                 <div class="age">
-                    <img src="/images-mist/age-6.jpg" alt="child dancer" class="img-fluid" style="border: 3px solid #008CC0;">
+                    <x-site-image src="/images-mist/age-6.jpg" alt="child dancer" class="img-fluid" style="border: 3px solid #008CC0;" width="1500" height="2100" loading="lazy" sizes="(max-width: 767px) 60vw, 25vw" />
                     <div class="age-title"><a class="d-flex align-items-center text-decoration-none text-dark" style="width: max-content;" href="/fall#e">Teens <ion-icon class="ms-1" style="color: #008CC0;" name="arrow-forward-outline"></ion-icon></a></div>
                 </div>
                 <div class="age">
-                    <img src="/images-mist/age-7.jpg" alt="child dancer" class="img-fluid" style="border: 3px solid #008CC0;">
+                    <x-site-image src="/images-mist/age-7.jpg" alt="child dancer" class="img-fluid" style="border: 3px solid #008CC0;" width="1500" height="2100" loading="lazy" sizes="(max-width: 767px) 60vw, 25vw" />
                     <div class="age-title"><a class="d-flex align-items-center text-decoration-none text-dark" style="width: max-content;" href="/fall#age-guys">Guys Only <ion-icon class="ms-1" style="color: #008CC0;" name="arrow-forward-outline"></ion-icon></a></div>
                 </div>
                 <div class="age">
@@ -166,7 +166,7 @@
                                 </div>
                             </div>
                         </div>
-                        <img src="/images-mist/age-7.jpg" alt="child dancer" class="img-fluid" style="opacity: 0;">
+                        <x-site-image src="/images-mist/age-7.jpg" alt="child dancer" class="img-fluid" style="opacity: 0;" width="1500" height="2100" loading="lazy" sizes="(max-width: 767px) 60vw, 25vw" />
                     </div>
                     <div class="age-title"><a class="d-flex align-items-center text-decoration-none text-dark" style="width: max-content; opacity: 0;">Guys Only <ion-icon class="ms-1" style="color: #008CC0;" name="arrow-forward-outline"></ion-icon></a></div>
                 </div>
@@ -244,7 +244,7 @@
         <div class="bloom-1 my-4" style="position: relative; transform: scale(0.95) translateY(10px);">
             <div class="rounded p-3" style="background: #FFE9ED;">
                 <div class="d-flex align-items-center">
-                    <img src="/images-mist/review-jamie-dahl.png" alt="headshot" class="img-fluid">
+                    <x-site-image src="/images-mist/review-jamie-dahl.png" alt="headshot" class="img-fluid" width="75" height="75" loading="lazy" sizes="100vw" />
                     <div class="fw-bold poppins ms-3">Jamie Dahl</div>
                 </div>
                 <p class="text-muted poppins mt-3">
@@ -255,7 +255,7 @@
         <div class="bloom-2 my-4" style="position: relative; transform: scale(0.95) translateY(10px);">
             <div class="rounded p-3" style="background: #FEFDEC;">
                 <div class="d-flex align-items-center">
-                    <img src="/images-mist/review-mindy-cadd.png" alt="headshot" class="img-fluid">
+                    <x-site-image src="/images-mist/review-mindy-cadd.png" alt="headshot" class="img-fluid" width="75" height="75" loading="lazy" sizes="100vw" />
                     <div class="fw-bold poppins ms-3">Mindy Cadd</div>
                 </div>
                 <p class="text-muted poppins mt-3">
@@ -266,7 +266,7 @@
         <div class="bloom-3 my-4" style="position: relative; transform: scale(0.95) translateY(10px);">
             <div class="rounded p-3" style="background: #EAF3F9;">
                 <div class="d-flex align-items-center">
-                    <img src="/images-mist/review-alex-leuck.png" alt="headshot" class="img-fluid">
+                    <x-site-image src="/images-mist/review-alex-leuck.png" alt="headshot" class="img-fluid" width="75" height="75" loading="lazy" sizes="100vw" />
                     <div class="fw-bold poppins ms-3">Alexandra Leuck</div>
                 </div>
                 <p class="text-muted poppins mt-3">
@@ -278,7 +278,7 @@
 {{--            <div class="rounded gradient-background" style="height: 100%; width: 100%; position: absolute;"></div>--}}
             <div class="rounded p-3" style="background: #ffe9ed;">
                 <div class="d-flex align-items-center">
-                    <img src="/images-mist/review-latesha.png" alt="headshot" class="img-fluid">
+                    <x-site-image src="/images-mist/review-latesha.png" alt="headshot" class="img-fluid" width="75" height="75" loading="lazy" sizes="100vw" />
                     <div class="fw-bold poppins ms-3">Latesha Berrong</div>
                 </div>
                 <p class="text-muted poppins mt-3">
@@ -324,7 +324,7 @@
                             </div>
                             <div class="col p-0 m-0" style="height: 43vh; background: RGBA(237, 23, 77, 1); border-radius: 0 0 30px 30px; position: relative;">
                                 <div>
-                                    <img src="/images-mist/logo-guarantee.png" alt="" class="img-fluid" style="height: 200px; width: auto; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+                                    <x-site-image src="/images-mist/logo-guarantee.png" alt="" class="img-fluid" style="height: 200px; width: auto; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);" width="418" height="315" loading="lazy" sizes="100vw" />
                                 </div>
                             </div>
                         </div>
@@ -340,7 +340,7 @@
                             </div>
                             <div style="height: 43vh; background: #0F0E0C; border-radius: 0 0 30px 30px; position: relative;">
                                 <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 100%;">
-                                    <video poster="/images-mist/if-you-let-me-dance-poster.png" src="/images-lava/if-you-let-me-dance.mp4" type="video/mp4" controls="" class="shadow rounded" style="max-width: 950px; width: 100%; height: auto;"></video>
+                                    <video preload="none" playsinline width="2560" height="1440" data-poster="{{ is_file(public_path('images-mist/if-you-let-me-dance-poster.webp')) ? '/images-mist/if-you-let-me-dance-poster.webp' : '/images-mist/if-you-let-me-dance-poster.jpg' }}" src="/images/if-you-let-me-dance.mp4" controls="" class="shadow rounded" style="max-width: 950px; width: 100%; height: auto;"></video>
                                 </div>
                             </div>
                         </div>
@@ -356,7 +356,7 @@
                             </div>
                             <div class="col p-0 m-0" style="height: 43vh; background: RGBA(237, 23, 77, 1); border-radius: 0 0 30px 30px; position: relative;">
                                 <div>
-                                    <img src="/images-mist/logo-mtjgd.png" alt="" class="img-fluid" style="height: 200px; width: auto; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+                                    <x-site-image src="/images-mist/logo-mtjgd.png" alt="" class="img-fluid" style="height: 200px; width: auto; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);" width="1000" height="808" loading="lazy" sizes="100vw" />
                                 </div>
                             </div>
                         </div>
@@ -372,7 +372,7 @@
                             </div>
                             <div style="height: 43vh; background: RGBA(235, 232, 46, 1); border-radius: 0 0 30px 30px; position: relative;">
                                 <div>
-                                    <img src="/images-mist/logo-ypad.png" alt="" class="img-fluid" style="height: 100px; width: auto; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+                                    <x-site-image src="/images-mist/logo-ypad.png" alt="" class="img-fluid" style="height: 100px; width: auto; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);" width="1878" height="712" loading="lazy" sizes="100vw" />
                                 </div>
                             </div>
                         </div>
@@ -388,7 +388,7 @@
                             </div>
                             <div style="height: 43vh; background: RGBA(0, 140, 192, 1); border-radius: 0 0 30px 30px; position: relative;">
                                 <div>
-                                    <img src="/images-mist/logo-safe.png" alt="" class="img-fluid" style="height: 175px; width: auto; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+                                    <x-site-image src="/images-mist/logo-safe.png" alt="" class="img-fluid" style="height: 175px; width: auto; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);" width="1606" height="894" loading="lazy" sizes="100vw" />
                                 </div>
                             </div>
                         </div>
@@ -407,15 +407,15 @@
         <p class="text-muted mb-0 poppins" style="font-size: 20px;">Proudly partnering with these outstanding organizations</p>
         {{--    <div class="fw-bold poppins p-0" style="font-size: 20px; line-height: 0.9;">Proudly partnering with these outstanding organizations</div>--}}
         <div class="row row-cols-3 row-cols-sm-3 row-cols-md-3 row-cols-lg-3">
-            <div class="col p-0 d-flex align-items-center justify-content-center"><img src="/images-mist/partner1.jpeg" alt="partner logo"></div>
-            <div class="col p-0 d-flex align-items-center justify-content-center"><img src="/images-mist/partner2.png" alt="partner logo"></div>
-            <div class="col p-0 d-flex align-items-center justify-content-center"><img src="/images-mist/partner3.png" alt="partner logo"></div>
-            <div class="col p-0 d-flex align-items-center justify-content-center"><img src="/images-mist/partner4.png" alt="partner logo"></div>
-            <div class="col p-0 d-flex align-items-center justify-content-center"><img src="/images-mist/partner5.png" alt="partner logo"></div>
-            <div class="col p-0 d-flex align-items-center justify-content-center"><img src="/images-mist/partner6.jpg" alt="partner logo"></div>
-            <div class="col p-0 d-flex align-items-center justify-content-center"><img src="/images-mist/partner7.png" alt="partner logo"></div>
-            <div class="col p-0 d-flex align-items-center justify-content-center"><img src="/images-mist/partner8.jpg" alt="partner logo"></div>
-            <div class="col p-0 d-flex align-items-center justify-content-center"><img src="/images-mist/partner9.png" alt="partner logo"></div>
+            <div class="col p-0 d-flex align-items-center justify-content-center"><x-site-image src="/images-mist/partner1.jpeg" alt="partner logo" width="320" height="219" loading="lazy" sizes="100vw" /></div>
+            <div class="col p-0 d-flex align-items-center justify-content-center"><x-site-image src="/images-mist/partner2.png" alt="partner logo" width="150" height="133" loading="lazy" sizes="100vw" /></div>
+            <div class="col p-0 d-flex align-items-center justify-content-center"><x-site-image src="/images-mist/partner3.png" alt="partner logo" width="400" height="67" loading="lazy" sizes="100vw" /></div>
+            <div class="col p-0 d-flex align-items-center justify-content-center"><x-site-image src="/images-mist/partner4.png" alt="partner logo" width="300" height="67" loading="lazy" sizes="100vw" /></div>
+            <div class="col p-0 d-flex align-items-center justify-content-center"><x-site-image src="/images-mist/partner5.png" alt="partner logo" width="407" height="106" loading="lazy" sizes="100vw" /></div>
+            <div class="col p-0 d-flex align-items-center justify-content-center"><x-site-image src="/images-mist/partner6.jpg" alt="partner logo" width="300" height="106" loading="lazy" sizes="100vw" /></div>
+            <div class="col p-0 d-flex align-items-center justify-content-center"><x-site-image src="/images-mist/partner7.png" alt="partner logo" width="282" height="73" loading="lazy" sizes="100vw" /></div>
+            <div class="col p-0 d-flex align-items-center justify-content-center"><x-site-image src="/images-mist/partner8.jpg" alt="partner logo" width="359" height="129" loading="lazy" sizes="100vw" /></div>
+            <div class="col p-0 d-flex align-items-center justify-content-center"><x-site-image src="/images-mist/partner9.png" alt="partner logo" width="800" height="96" loading="lazy" sizes="100vw" /></div>
         </div>
     </div>
     @include('/desktop/home/_partners')

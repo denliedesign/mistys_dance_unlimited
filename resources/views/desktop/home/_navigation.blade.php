@@ -4,7 +4,7 @@
             <ul class="nav d-flex align-items-center mb-2 mb-lg-0" style="font-size: 15px;">
                 <li class="nav-item hover-link mx-1">
                     <a href="/" class="nav-link text-dark">
-                        <img src="/images-mist/logo-mdu.png" alt="mdu logo" class="img-fluid" style="height: 50px; width: auto;">
+                        <x-site-image src="/images-mist/logo-mdu.png" alt="mdu logo" class="img-fluid" style="height: 50px; width: auto;" width="1275" height="397" loading="eager" sizes="100vw" />
                     </a>
                 </li>
                 <li class="nav-item hover-link mx-1">

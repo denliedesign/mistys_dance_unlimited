@@ -1,7 +1,7 @@
 <section class="d-none d-lg-block mx-5" style="position: relative;">
     <div class="row">
         <div class="col-5 d-flex justify-content-end align-items-center">
-            <img src="/images-mist/parents-love-mistys.png" alt="young dancer star leap" class="img-fluid" style="min-height: 100%; max-height: 600px; width: auto;">
+            <x-site-image src="/images-mist/parents-love-mistys.png" alt="young dancer star leap" class="img-fluid" style="min-height: 100%; max-height: 600px; width: auto;" width="700" height="1072" loading="lazy" sizes="100vw" />
         </div>
         <div class="col-7 d-flex justify-content-start align-items-center">
             <div>
