@@ -28,6 +28,7 @@ class HomepagePerformanceTest extends TestCase
         foreach ($xpath->query('//video') as $video) {
             $this->assertSame('none', $video->getAttribute('preload'));
             $this->assertFalse($video->hasAttribute('poster'));
+            $this->assertFileExists(public_path($video->getAttribute('data-poster')));
             $this->assertTrue($video->hasAttribute('controls'));
         }
         foreach ($xpath->query('//script[@src]') as $script) {

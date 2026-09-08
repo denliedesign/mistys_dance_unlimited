@@ -35,7 +35,7 @@
                         </div>
                         <div style="height: 57vh; background: #0F0E0C; border-radius: 0 30px 30px 0; position: relative;">
                             <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 100%;">
-                                <video preload="none" playsinline width="2560" height="1440" data-poster="{{ is_file(public_path('images-mist/if-you-let-me-dance-poster.webp')) ? '/images-mist/if-you-let-me-dance-poster.webp' : '/images-mist/if-you-let-me-dance-poster.png' }}" src="/images/if-you-let-me-dance.mp4" controls="" class="shadow rounded" style="max-width: 950px; width: 100%; height: auto;"></video>
+                                <video preload="none" playsinline width="2560" height="1440" data-poster="{{ is_file(public_path('images-mist/if-you-let-me-dance-poster.webp')) ? '/images-mist/if-you-let-me-dance-poster.webp' : '/images-mist/if-you-let-me-dance-poster.jpg' }}" src="/images/if-you-let-me-dance.mp4" controls="" class="shadow rounded" style="max-width: 950px; width: 100%; height: auto;"></video>
                             </div>
                         </div>
                     </div>
