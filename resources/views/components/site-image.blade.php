@@ -1,10 +1,10 @@
 @props(['src', 'width', 'height', 'sizes' => '100vw', 'loading' => 'lazy'])
 @php
-    // Originals stay usable until the optimized exports have been uploaded.
+    // Optimized legacy files remain fallbacks; browsers select the matching WebP size.
     $base = preg_replace('/\.[^.]+$/', '', $src);
     $webp = $base . '.webp';
     $candidates = [];
-    foreach ([320, 480, 640, 800, 960, 1200, 1575] as $candidateWidth) {
+    foreach ([320, 480, 500, 640, 800, 960, 1200, 1575] as $candidateWidth) {
         $candidate = $base . '-' . $candidateWidth . '.webp';
         if (is_file(public_path($candidate))) {
             $candidates[] = $candidate . ' ' . $candidateWidth . 'w';

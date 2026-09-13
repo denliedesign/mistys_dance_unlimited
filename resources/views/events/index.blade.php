@@ -56,7 +56,7 @@
                     </div>
                 </div>
                 <div class="col-sm-4">
-                    <img src="images/parent-quote.png" alt="">
+                    <img src="images/parent-quote.png.webp" alt="">
                 </div>
             </div>
 

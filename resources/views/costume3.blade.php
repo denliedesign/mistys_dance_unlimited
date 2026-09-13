@@ -17,55 +17,55 @@
                 <div class="costume-grid">
                     <div class="costume-col">
                         <div>
-                            <img src="images/costume3/1.png">
+                            <img src="images/costume3/1.png.webp">
                             <p class="costume-txt">1st Int. Lyrical (in Teal)</p>
                         </div>
                         <div>
-                            <img src="images/costume3/4.png">
+                            <img src="images/costume3/4.png.webp">
                             <p class="costume-txt">High Int. Lyrical</p>
                         </div>
                         <div>
-                            <img src="images/costume3/7.png">
+                            <img src="images/costume3/7.png.webp">
                             <p class="costume-txt">Advanced Lyrical</p>
                         </div>
                     </div>
                     <div class="costume-col">
                         <div>
-                            <img src="images/costume3/2.png">
+                            <img src="images/costume3/2.png.webp">
                             <p class="costume-txt">1st Int. Modern</p>
                         </div>
                         <div>
-                            <img src="images/costume3/5.png">
+                            <img src="images/costume3/5.png.webp">
                             <p class="costume-txt">High Int. Modern</p>
                         </div>
                         <div>
-                            <img src="images/costume3/8.png">
+                            <img src="images/costume3/8.png.webp">
                             <p class="costume-txt">Advanced Modern</p>
                         </div>
                     </div>
                     <div class="costume-col">
                         <div>
-                            <img src="images/costume3/3.png">
+                            <img src="images/costume3/3.png.webp">
                             <p class="costume-txt">1st Int. Hip Hop</p>
                         </div>
                         <div>
-                            <img src="images/costume3/6.png">
+                            <img src="images/costume3/6.png.webp">
                             <p class="costume-txt">High Int. Hip Hop</p>
                         </div>
                         <div>
-                            <img src="images/costume3/9.png">
+                            <img src="images/costume3/9.png.webp">
                             <p class="costume-txt">Advanced Hip Hop</p>
                         </div>
                     </div>
                     <div class="costume-col">
                         <div>
-                            <img src="images/costume3/10.png">
+                            <img src="images/costume3/10.png.webp">
                             <p class="costume-txt">Hip Hop Choreography</p>
                         </div>
                     </div>
                     <div class="costume-col">
                         <div>
-                            <img src="images/costume3/11.png">
+                            <img src="images/costume3/11.png.webp">
                             <p class="costume-txt">Dance Team (in Gold)</p>
                         </div>
                     </div>

@@ -217,16 +217,16 @@
     <div class="jumbotron jumbotron-fluid d-flex align-items-center bg-ivory">
         <div id="photobanner-container">
             <div class="photobanner">
-                <img class="first" src="images/insta1.png" alt="" />
-                <img src="images/insta2.png" alt="" />
-                <img src="images/insta3.png" alt="" />
-                <img src="images/insta4.png" alt="" />
-                <img src="images/insta5.png" alt="" />
-                <img src="images/insta6.png" alt="" />
-                <img src="images/insta1.png" alt="" />
-                <img src="images/insta2.png" alt="" />
-                <img src="images/insta3.png" alt="" />
-                <img src="images/insta4.png" alt="" />
+                <img class="first" src="images/insta1.png.webp" alt="" />
+                <img src="images/insta2.png.webp" alt="" />
+                <img src="images/insta3.png.webp" alt="" />
+                <img src="images/insta4.png.webp" alt="" />
+                <img src="images/insta5.png.webp" alt="" />
+                <img src="images/insta6.png.webp" alt="" />
+                <img src="images/insta1.png.webp" alt="" />
+                <img src="images/insta2.png.webp" alt="" />
+                <img src="images/insta3.png.webp" alt="" />
+                <img src="images/insta4.png.webp" alt="" />
             </div>
         </div>
     </div>
@@ -265,7 +265,7 @@
                             <img src="images/partner9.png" class="card-img-top" alt="...">
                         </div>
                         <div class="card">
-                            <img src="images/partner10.png" class="card-img-top" alt="...">
+                            <img src="images/partner10.png.webp" class="card-img-top" alt="...">
                         </div>
                         <div class="card">
                             <img src="images/partner11.png" class="card-img-top" alt="...">

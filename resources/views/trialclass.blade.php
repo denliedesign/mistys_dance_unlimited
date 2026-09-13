@@ -20,7 +20,7 @@
                     </div>
                 </div>
                 <div class="col-md px-0">
-                    <img src="/images-mist/lyla.png" class="img-fluid" alt="">
+                    <img src="/images-mist/lyla.png.webp" class="img-fluid" alt="">
                 </div>
             </div>
         </div>
@@ -55,7 +55,7 @@
 {{--                    </div>--}}
                 </div>
                 <div class="col-md">
-                    <img src="/images-mist/know-crop.png" class="img-fluid d-none d-md-block" style="" alt="">
+                    <img src="/images-mist/know-crop.png.webp" class="img-fluid d-none d-md-block" style="" alt="">
                 </div>
             </div>
         </div>
@@ -65,7 +65,7 @@
         <div class="container">
             <div class="row">
                 <div class="col-md d-flex align-items-center">
-                    <img src="/images-mist/parents-love-mistys.png" class="img-fluid" alt="">
+                    <img src="/images-mist/parents-love-mistys.png.webp" class="img-fluid" alt="">
                 </div>
                 <div class="col-md">
                     <div style="font-size: 45px; font-weight: bold; line-height: 1.2;">Why Misty’s Dance?</div>
@@ -249,7 +249,7 @@ something new.
                     </div>
                 </div>
                 <div class="col-md">
-                    <img src="/images-mist/numbers.png" class="img-fluid" alt="">
+                    <img src="/images-mist/numbers.png.webp" class="img-fluid" alt="">
                 </div>
             </div>
         </div>

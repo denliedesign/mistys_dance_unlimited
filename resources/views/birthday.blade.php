@@ -14,7 +14,7 @@
             <h3 class="text-center py-5">Birthday Parties</h3>
             <p class="lead fw-bold">Birthday parties are fun and easy at Misty’s Dance Unlimited!</p>
             <p>You’ve found it!  Imagine an hour and a half of dancing fun for your child with 10 of their closest friends! Let us help you celebrate your child’s big day.</p>
-            <img src="images/birthday.png" style="max-width: 100%;"><br><br>
+            <img src="images/birthday.png.webp" style="max-width: 100%;"><br><br>
 
 
             MDU’s birthday party package includes:<br>

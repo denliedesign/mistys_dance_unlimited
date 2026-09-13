@@ -24,7 +24,7 @@
                         <img src="images/bravo/1.jpg">
                     </div>
                     <div class="col-sm">
-                        <img src="images/bravo/2.png">
+                        <img src="images/bravo/2.png.webp">
                     </div>
                     <div class="col-sm"></div>
                     <div class="col-sm"></div>
@@ -34,22 +34,22 @@
                     <div class="col-sm">
                         <div><a href="http://facebook.com/mainstreamboutiqueonalaska" target="_blank"><img src="images/bravo/3.jpg"></a></div>
                         <div><a href="http://www.muellerphotography.net/" target="_blank"><img src="images/bravo/4.jpg"></a></div>
-                        <div><a href="http://www.onlinecastles.com/" target="_blank"><img src="images/bravo/5.png"></a></div>
-                        <div><a href="http://www.moveitorloseit.info/" target="_blank"><img src="images/bravo/6.png"></a></div>
+                        <div><a href="http://www.onlinecastles.com/" target="_blank"><img src="images/bravo/5.png.webp"></a></div>
+                        <div><a href="http://www.moveitorloseit.info/" target="_blank"><img src="images/bravo/6.png.webp"></a></div>
                         <div><a href="http://www.sandyhelfrichphotography.com/" target="_blank"><img src="images/bravo/7.png"></a></div>
-                        <div><a href="http://www.thethrivehealthcenter.com/" target="_blank"><img src="images/bravo/8.png"></a></div>
+                        <div><a href="http://www.thethrivehealthcenter.com/" target="_blank"><img src="images/bravo/8.png.webp"></a></div>
                         <div><a href="https://www.advocare.com/10077000/" target="_blank"><img src="images/bravo/9.jpg"></a></div>
                         <div><a href="http://www.style-encoreonalaska.com/" target="_blank"><img src="images/bravo/10.jpg"></a></div>
                         <div><a href="http://www.musicmixoflacrosse.com/home.html" target="_blank"><img src="images/bravo/11.jpg"></a></div>
                         <div><a href="http://www.funmuseum.org/" target="_blank"><img src="images/bravo/12.jpg"></a></div>
                         <div><a href="http://www.ayusa.org/" target="_blank"><img src="images/bravo/13.jpg"></a></div>
-                        <div><a href="http://n6941.myubam.com/895162" target="_blank"><img src="images/bravo/14.png"></a></div>
+                        <div><a href="http://n6941.myubam.com/895162" target="_blank"><img src="images/bravo/14.png.webp"></a></div>
                         <div><a href="http://edi-wi.com/" target="_blank"><img src="images/bravo/15.jpg"></a></div>
                     </div>
                     <div class="col-sm">
                         <div><a href="http://www.northcountrysteakbuffet.com/" target="_blank"><img src="images/bravo/16.jpg"></a></div>
-                        <div><a href="http://www.cabincoffeecompany.com/" target="_blank"><img src="images/bravo/17.png"></a></div>
-                        <div><a href="http://www.corkyspizza.net/" target="_blank"><img src="images/bravo/18.png"></a></div>
+                        <div><a href="http://www.cabincoffeecompany.com/" target="_blank"><img src="images/bravo/17.png.webp"></a></div>
+                        <div><a href="http://www.corkyspizza.net/" target="_blank"><img src="images/bravo/18.png.webp"></a></div>
                         <div><a href="http://karlacollins.norwex.biz/" target="_blank"><img src="images/bravo/19.png"></a></div>
                         <div><a href="http://www.citizensstatebank.us/" target="_blank"><img src="images/bravo/20.png"></a></div>
                         <div><a href="http://www.jhugo.cbrivervalley.com/" target="_blank"><img src="images/bravo/21.jpg"></a></div>
@@ -58,7 +58,7 @@
                         <div><a href="http://www.platosclosetlacrosse.com/" target="_blank"><img src="images/bravo/24.jpg"></a></div>
                         <div><a href="http://www.roomsbyjess.com/" target="_blank"><img src="images/bravo/25.png"></a></div>
                         <div><a href="http://www.altra.org/" target="_blank"><img src="images/bravo/26.jpg"></a></div>
-                        <div><a href="http://aaronssmallenginerepair.com/" target="_blank"><img src="images/bravo/27.png"></a></div>
+                        <div><a href="http://aaronssmallenginerepair.com/" target="_blank"><img src="images/bravo/27.png.webp"></a></div>
                         <div><a href="https://www.zenandpow.com/" target="_blank"><img src="images/bravo/52.svg"></a></div>
                     </div>
                     <div class="col-sm">
@@ -74,18 +74,18 @@
                         <div><a href="http://midwestfamilyentertainment.com/" target="_blank"><img src="images/bravo/37.jpg"></a></div>
                         <div><a href="http://www.justdrivewi.com/Drivers-Education-School/onalaska/onalaska-home/" target="_blank"><img src="images/bravo/38.jpg"></a></div>
                         <div><a href="http://marygreen.juiceplus.com/" target="_blank"><img src="images/bravo/39.png"></a></div>
-                        <div><a href="https://www.facebook.com/pg/PurpleThumbLavender/about/" target="_blank"><img src="images/bravo/purple-thumb.png"></a></div>
+                        <div><a href="https://www.facebook.com/pg/PurpleThumbLavender/about/" target="_blank"><img src="images/bravo/purple-thumb.png.webp"></a></div>
                     </div>
                     <div class="col-sm">
                         <div><a href="http://www.newcastletitle.us/" target="_blank"><img src="images/bravo/40.jpg"></a></div>
                         <div><a href="http://www.amfam.com/" target="_blank"><img src="images/bravo/41.jpg"></a></div>
-                        <div><a href="https://www.facebook.com/carrollslacrosse" target="_blank"><img src="images/bravo/42.png"></a></div>
+                        <div><a href="https://www.facebook.com/carrollslacrosse" target="_blank"><img src="images/bravo/42.png.webp"></a></div>
                         <div><a href="https://www.facebook.com/zwickeyfuneralhomes" target="_blank"><img src="images/bravo/43.jpg"></a></div>
                         <div><a href="http://www.eupraxia.us/" target="_blank"><img src="images/bravo/44.png"></a></div>
-                        <div><a href="http://www.n2pub.com/" target="_blank"><img src="images/bravo/45.png"></a></div>
+                        <div><a href="http://www.n2pub.com/" target="_blank"><img src="images/bravo/45.png.webp"></a></div>
                         <div><a href="http://www.reneevenner.arbonne.com/" target="_blank"><img src="images/bravo/46.png"></a></div>
                         <div><a href="http://strattoncleaningservices.com/" target="_blank"><img src="images/bravo/47.jpg"></a></div>
-                        <div><a href="http://www.beforedrugs.com/" target="_blank"><img src="images/bravo/48.png"></a></div>
+                        <div><a href="http://www.beforedrugs.com/" target="_blank"><img src="images/bravo/48.png.webp"></a></div>
                         <div><a href="http://www.greatharvest.com/" target="_blank"><img src="images/bravo/49.jpg"></a></div>
                         <div><a href="http://mydoterra.com/ashleyruedy" target="_blank"><img src="images/bravo/50.jpg"></a></div>
                         <div><a href="http://mainstlawoffices.com/index.html" target="_blank"><img src="images/bravo/51.jpg"></a></div>

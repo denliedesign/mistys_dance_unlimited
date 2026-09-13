@@ -88,7 +88,7 @@
         <br><br>
         PLUS, we still have all of our bonus content going. Check out the fun!
         <br><br>
-        <img src="/images/onlineschedule.png" alt="" class="img-fluid">
+        <img src="/images/onlineschedule.png.webp" alt="" class="img-fluid">
         <br><br>
         It's going to be awesome, so hang in there and finish strong!
         <br><br>
@@ -113,7 +113,7 @@
         <br><br>
         Beginning June 15, we will be establishing a family emergency communication so that at all times there will be a colored circle in the upper corner of our website and social media pages indicating to families what the status of classes is for the day. If it's green it means that classes are happening as usual. If yellow, it means we are proceeding with some kind of changes, so please check your email for further instructions. Red means stop, stay home and learn online.
         <br><br>
-        <img src="images/emmergencycommunication.png" alt="" class="img-fluid">
+        <img src="images/emmergencycommunication.png.webp" alt="" class="img-fluid">
         <br><br>
         <strong>Building for the Future</strong>
         <br><br>

@@ -17,97 +17,97 @@
                 <div class="costume-grid">
                     <div class="costume-col">
                         <div>
-                            <img src="images/costume2/1.png">
+                            <img src="images/costume2/1.png.webp">
                             <p class="costume-txt">Ballet 1</p>
                         </div>
                         <div>
-                            <img src="images/costume2/4.png">
+                            <img src="images/costume2/4.png.webp">
                             <p class="costume-txt">Ballet 2</p>
                         </div>
                         <div>
-                            <img src="images/costume2/7.png">
+                            <img src="images/costume2/7.png.webp">
                             <p class="costume-txt">Ballet 3</p>
                         </div>
                     </div>
                     <div class="costume-col">
                         <div>
-                            <img src="images/costume2/2.png">
+                            <img src="images/costume2/2.png.webp">
                             <p class="costume-txt">Jazz 1</p>
                         </div>
                         <div>
-                            <img src="images/costume2/5.png">
+                            <img src="images/costume2/5.png.webp">
                             <p class="costume-txt">Jazz 2</p>
                         </div>
                         <div>
-                            <img src="images/costume2/8.png">
+                            <img src="images/costume2/8.png.webp">
                             <p class="costume-txt">Jazz 3</p>
                         </div>
                     </div>
                     <div class="costume-col">
                         <div>
-                            <img src="images/costume2/3.png">
+                            <img src="images/costume2/3.png.webp">
                             <p class="costume-txt">Tap 1</p>
                         </div>
                         <div>
-                            <img src="images/costume2/6.png">
+                            <img src="images/costume2/6.png.webp">
                             <p class="costume-txt">Tap 2</p>
                         </div>
                         <div>
-                            <img src="images/costume2/9.png">
+                            <img src="images/costume2/9.png.webp">
                             <p class="costume-txt">Tap 3</p>
                         </div>
                     </div>
                     <div class="costume-col">
                         <div>
-                            <img src="images/costume2/10.png">
+                            <img src="images/costume2/10.png.webp">
                             <p class="costume-txt">Ballet 4</p>
                         </div>
                         <div>
-                            <img src="images/costume2/13.png">
+                            <img src="images/costume2/13.png.webp">
                             <p class="costume-txt">Jazz 5</p>
                         </div>
                         <div>
-                            <img src="images/costume2/16.png">
+                            <img src="images/costume2/16.png.webp">
                             <p class="costume-txt">Pointe 2/3</p>
                         </div>
                     </div>
                     <div class="costume-col">
                         <div>
-                            <img src="images/costume2/11.png">
+                            <img src="images/costume2/11.png.webp">
                             <p class="costume-txt">Jazz 4</p>
                         </div>
                         <div>
-                            <img src="images/costume2/14.png">
+                            <img src="images/costume2/14.png.webp">
                             <p class="costume-txt">Tap 5</p>
                         </div>
                         <div>
-                            <img src="images/costume2/17.png">
+                            <img src="images/costume2/17.png.webp">
                             <p class="costume-txt">Jazz 6</p>
                         </div>
                     </div>
                     <div class="costume-col">
                         <div>
-                            <img src="images/costume2/12.png">
+                            <img src="images/costume2/12.png.webp">
                             <p class="costume-txt">Tap 4</p>
                         </div>
                         <div>
-                            <img src="images/costume2/15.png">
+                            <img src="images/costume2/15.png.webp">
                             <p class="costume-txt">Ballet 5/6</p>
                         </div>
                         <div>
-                            <img src="images/costume2/18.png">
+                            <img src="images/costume2/18.png.webp">
                             <p class="costume-txt">Tap 6 (Guys - Blue Shirt)</p>
                         </div>
                     </div>
                     <div class="costume-col">
                         <div>
-                            <img src="images/costume2/19.png">
+                            <img src="images/costume2/19.png.webp">
                             <p class="costume-txt">Jazz 7</p>
                         </div>
                     </div>
                     <div class="costume-col">
                         <div>
-                            <img src="images/costume2/20.png">
+                            <img src="images/costume2/20.png.webp">
                             <p class="costume-txt">Tap 7</p>
                         </div>
                     </div>

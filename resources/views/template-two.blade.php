@@ -188,7 +188,7 @@
                     </div>
                     <div class="col-sm">
                         <div class="d-flex justify-content-center align-items-center" style="height: 100%;">
-                            <img src="/images/mtjgd-logo.png" alt="more than just great dancing logo" class="img-fluid" style="width: auto; height: 250px;">
+                            <img src="/images/mtjgd-logo.png.webp" alt="more than just great dancing logo" class="img-fluid" style="width: auto; height: 250px;">
                         </div>
                     </div>
                 </div>
@@ -201,7 +201,7 @@
             <div class="row">
                 <div class="col-sm">
                     <div class="d-flex justify-content-center">
-                        <img src="/images/safer-studio-logo.png" alt="safer studio logo" class="img-fluid" style="width: auto; height: 250px; filter: invert(1);">
+                        <img src="/images/safer-studio-logo.png.webp" alt="safer studio logo" class="img-fluid" style="width: auto; height: 250px; filter: invert(1);">
                     </div>
                     <h2 class="text-center">MDU is a Safer Studio™</h2>
                     <p>
@@ -210,7 +210,7 @@
                 </div>
                 <div class="col-sm">
                     <div class="d-flex justify-content-center">
-                        <img src="/images/ypad-badge.png" alt="ypad logo" class="img-fluid" style="width: auto; height: 250px;">
+                        <img src="/images/ypad-badge.png.webp" alt="ypad logo" class="img-fluid" style="width: auto; height: 250px;">
                     </div>
                     <h2 class="text-center">MDU is Youth Protection Advocates in Dance®  Certified!</h2>
                     <p>
@@ -245,7 +245,7 @@
 {{--                            <img src="images/partner12.jpg" class="img-fluid" style="width: auto; max-height: 75%;" alt="...">--}}
 {{--                        </div>--}}
 {{--                        <div class="partner-div p-3">-- d-flex justify-content-center}}
-{{--                            <img src="images/partner10.png" class="img-fluid" style="width: auto; max-height: 75%;" alt="...">--}}
+{{--                            <img src="images/partner10.png.webp" class="img-fluid" style="width: auto; max-height: 75%;" alt="...">--}}
 {{--                        </div>--}}
                         <div class="partner-div p-3 d-flex align-items-center">
                             <img src="images/partner2.png" class="img-fluid" alt="...">
@@ -269,7 +269,7 @@
                             <img src="images/partner9.png" class="img-fluid" alt="...">
                         </div>
                         <div class="partner-div p-3 d-flex justify-content-center">
-                            <img src="images/logo-willow-and-grace.png" class="img-fluid" alt="...">
+                            <img src="images/logo-willow-and-grace.png.webp" class="img-fluid" alt="...">
                         </div>
                     </div>
                 </div>

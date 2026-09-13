@@ -12,3 +12,8 @@ npm-debug.log
 yarn-error.log
 .idea/
 *.iml
+
+# Temporary image optimization outputs and cloud archive staging.
+/image-audit/
+__pycache__/
+*.pyc

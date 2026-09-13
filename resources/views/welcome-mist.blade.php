@@ -43,7 +43,7 @@
 {{--                </div>--}}
 {{--                <div class="col-md d-flex align-items-center">--}}
 {{--                    <img src="/images/my-first-dance-class.jpg" class="img-fluid" alt="">--}}
-{{--                    --}}{{--                    <img src="/images/first-hug.png" class="img-fluid" alt="">--}}
+{{--                    --}}{{--                    <img src="/images/first-hug.png.webp" class="img-fluid" alt="">--}}
 {{--                </div>--}}
 {{--            </div>--}}
 {{--        </div>--}}

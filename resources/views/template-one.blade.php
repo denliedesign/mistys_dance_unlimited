@@ -259,7 +259,7 @@
                     <h1 class="text-uppercase text-right">mdu is a safer</h1>
                     <p class="text-center">MDU focuses on a hierarchy of measures to create a Safer Studio&trade; environment beginning with requiring students and staff who are ill to stay home, followed by frequent hand cleansing and good hygiene practices, amplified cleaning, and making curricular and facility adaptations to minimizing contact and mingling.</p>
                     <div class="d-flex justify-content-center">
-                        <img src="/images/safer-studio-logo.png" alt="" style="max-height: 200px;">
+                        <img src="/images/safer-studio-logo.png.webp" alt="" style="max-height: 200px;">
                     </div>
                 </div>
             </div>
@@ -281,7 +281,7 @@
                             </p>
                         </div>
                         <div class="col-sm d-flex align-items-center justify-content-center">
-                            <img src="/images/ypad-logo-rotate.png" alt="" class="img-fluid">
+                            <img src="/images/ypad-logo-rotate.png.webp" alt="" class="img-fluid">
                         </div>
                     </div>
                 </div>
@@ -295,7 +295,7 @@
             students and staff who are ill to stay home, followed by frequent hand cleansing and good hygiene practices,
             amplified cleaning, and making curricular and facility adaptations to minimizing contact and mingling.</p>
         <div class="d-flex justify-content-center pb-2">
-            <img src="/images/safer-studio-logo.png" alt="" style="max-height: 250px;">
+            <img src="/images/safer-studio-logo.png.webp" alt="" style="max-height: 250px;">
         </div>
         <p class="font-weight-bold">MDU is Youth Protection Advocates in Dance&reg; Certified!</p>
         <p>
@@ -324,7 +324,7 @@
             Social media safety practices
         </p>
         <div class="d-flex justify-content-center">
-            <img src="/images/ypad-logo-rotate.png" alt="" style="height: 150px;">
+            <img src="/images/ypad-logo-rotate.png.webp" alt="" style="height: 150px;">
         </div>
     </div>
 
@@ -509,7 +509,7 @@
     {{--                    <p id="focus-list" class="text-uppercase font-weight-bold mt-5">teacher classes:</p>--}}
     {{--                </div>--}}
     {{--                <div class="col-6 d-flex justify-content-center">--}}
-    {{--                    <img src="images/teacher-of-the-month.png" alt="" class="img-fluid d-none d-md-block">--}}
+    {{--                    <img src="images/teacher-of-the-month.png.webp" alt="" class="img-fluid d-none d-md-block">--}}
     {{--                </div>--}}
     {{--            </div>--}}
     {{--            <div class="row pb-5" id="teacher-focus-classes">--}}
@@ -588,7 +588,7 @@
             <h2 class="my-5 font-weight-bold text-center text-uppercase">Dance Blog</h2>
             <div class="row row-cols-1 row-cols-md-2 row-cols-lg-3">
                 <div class="blog-card col">
-                    <a class="blog-link-img" href="/posts/3"><img src="images/insta1.png" alt="" class="img-fluid mb-4"></a>
+                    <a class="blog-link-img" href="/posts/3"><img src="images/insta1.png.webp" alt="" class="img-fluid mb-4"></a>
                     <div class="row">
                         <div class="col-3">
                             <div class="gold-date-box">
@@ -604,7 +604,7 @@
                     </div>
                 </div>
                 <div class="blog-card col">
-                    <a class="blog-link-img" href="/posts/10"><img src="images/insta4.png" alt="" class="img-fluid mb-4"></a>
+                    <a class="blog-link-img" href="/posts/10"><img src="images/insta4.png.webp" alt="" class="img-fluid mb-4"></a>
                     <div class="row">
                         <div class="col-3">
                             <div class="gold-date-box">
@@ -620,7 +620,7 @@
                     </div>
                 </div>
                 <div class="blog-card col">
-                    <a class="blog-link-img" href="/posts/2"><img src="images/insta5.png" alt="" class="img-fluid mb-4"></a>
+                    <a class="blog-link-img" href="/posts/2"><img src="images/insta5.png.webp" alt="" class="img-fluid mb-4"></a>
                     <div class="row">
                         <div class="col-3">
                             <div class="gold-date-box">

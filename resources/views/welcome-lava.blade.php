@@ -116,7 +116,7 @@
                     <a data-bs-toggle="offcanvas" href="#offcanvasLoved" role="button" style="color: inherit;">loved</a>
                 </h3>
                 <div>
-                    <img src="/images-lava/happy-healthy-safe-dance-la-crosse.png" alt="female contemporary dancer" class="img-fluid" id="happy-healthy-safe-image">
+                    <img src="/images-lava/happy-healthy-safe-dance-la-crosse.png.webp" alt="female contemporary dancer" class="img-fluid" id="happy-healthy-safe-image">
                 </div>
                 <h3 class="apple-effect font-staat text-lowercase text-center" style="font-size: 100px; position: absolute; top: 36%; left: 50%; transform: translate(-50%, -50%); width: 100%; color: #D90036; z-index: 1 !important; line-height: 0.9;">keeping your dancer<br>
                     <a data-bs-toggle="offcanvas" href="#offcanvasHappy" role="button" style="color: inherit;">happy</a>,
@@ -141,7 +141,7 @@
                     <a data-bs-toggle="offcanvas" href="#offcanvasLoved" role="button" style="color: inherit;">loved</a>
                 </h3>
                 <div>
-                    <img src="/images-lava/happy-healthy-safe-dance-la-crosse.png" alt="female contemporary dancer" class="img-fluid" id="happy-healthy-safe-mobile">
+                    <img src="/images-lava/happy-healthy-safe-dance-la-crosse.png.webp" alt="female contemporary dancer" class="img-fluid" id="happy-healthy-safe-mobile">
                 </div>
                 <h3 class="apple-effect font-staat text-lowercase text-center" style="font-size: 100px; position: absolute; top: 36%; left: 50%; transform: translate(-50%, -50%); width: 100%; color: #D90036; z-index: 1 !important; line-height: 0.9;">keeping your dancer<br>
                     <a data-bs-toggle="offcanvas" href="#offcanvasHappy" role="button" style="color: inherit;">happy</a>,
@@ -163,7 +163,7 @@
     {{--                <a data-bs-toggle="offcanvas" href="#offcanvasSafe" role="button" style="color: inherit;">safe</a>--}}
     {{--            </h3>--}}
     {{--            <div>--}}
-    {{--                <img src="/images-lava/summit-main-dancer.png" alt="female contemporary dancer" class="img-fluid d-none d-lg-block" id="badge-image">--}}
+    {{--                <img src="/images-lava/summit-main-dancer.png.webp" alt="female contemporary dancer" class="img-fluid d-none d-lg-block" id="badge-image">--}}
     {{--            </div>--}}
     {{--            <h3 class="apple-effect font-staat text-lowercase text-center" style="font-size: 100px; position: absolute; top: 36%; left: 50%; transform: translate(-50%, -50%); width: 100%; color: #D90036; z-index: 1 !important; line-height: 0.9;">keeping your dancer<br>--}}
     {{--                <a data-bs-toggle="offcanvas" href="#offcanvasHappy" role="button" style="color: inherit;">happy</a>,--}}
@@ -181,7 +181,7 @@
         </div>
         <div class="offcanvas-body" style="font-size: 22px;">
             <div class="d-flex justify-content-center">
-                <img src="/images-lava/logo-mtjgd.png" alt="mtjgd logo" style="height: 180px; width: auto;">
+                <img src="/images-lava/logo-mtjgd.png.webp" alt="mtjgd logo" style="height: 180px; width: auto;">
             </div>
             <p class="text-center font-syne mx-4">
                 <strong>What does that mean?</strong>
@@ -195,7 +195,7 @@
         </div>
         <div class="offcanvas-body" style="font-size: 22px;">
             <div class="d-flex justify-content-center">
-                <img src="/images-lava/logo-ypad.png" alt="ypad logo" style="height: 180px; width: auto;">
+                <img src="/images-lava/logo-ypad.png.webp" alt="ypad logo" style="height: 180px; width: auto;">
             </div>
             <p class="text-center font-syne mx-4">
                 <strong>What does that mean?</strong>
@@ -241,7 +241,7 @@
             </div>
             <div class="offcanvas-body" style="font-size: 22px;">
                 <div class="d-flex justify-content-center">
-                    <img src="/images/logo-luv.png" alt="luv michael logo" style="height: 180px; width: auto;">
+                    <img src="/images/logo-luv.png.webp" alt="luv michael logo" style="height: 180px; width: auto;">
                 </div>
                 <p class="text-center font-syne mx-4">
                     <strong>What does that mean?</strong>
@@ -359,7 +359,7 @@
             </div>
         </div>
         <div>
-            <img src="/images-lava/parents-love-mistys-dance-la-crosse.png" alt="" class="img-fluid d-none d-lg-block" id="parents-image">
+            <img src="/images-lava/parents-love-mistys-dance-la-crosse.png.webp" alt="" class="img-fluid d-none d-lg-block" id="parents-image">
         </div>
     </div>
 
@@ -646,8 +646,8 @@
             </div>
         </div>
         <div>
-            <img src="/images-lava/find-joy-in-dance-la-crosse.png" alt="" class="img-fluid d-none d-lg-block" id="joy-image">
-            <img src="/images-lava/find-joy-in-dance-la-crosse.png" alt="" class="img-fluid d-block d-lg-none" id="joy-mobile">
+            <img src="/images-lava/find-joy-in-dance-la-crosse.png.webp" alt="" class="img-fluid d-none d-lg-block" id="joy-image">
+            <img src="/images-lava/find-joy-in-dance-la-crosse.png.webp" alt="" class="img-fluid d-block d-lg-none" id="joy-mobile">
         </div>
     </div>
 
@@ -655,12 +655,12 @@
     {{--    <div class="container">--}}
     {{--        <div class="row">--}}
     {{--            <div class="col-sm d-flex align-items-center">--}}
-    {{--                <img src="/images-lava/safer-studio-dancer.png" alt="" class="img-fluid">--}}
+    {{--                <img src="/images-lava/safer-studio-dancer.png.webp" alt="" class="img-fluid">--}}
     {{--            </div>--}}
     {{--            <div class="col-sm d-flex align-items-center">--}}
     {{--                <div>--}}
     {{--                    <div class="d-flex justify-content-center">--}}
-    {{--                        <img src="/images-lava/ypad-badge.png" alt="ypad logo" class="img-fluid" style="width: auto; height: 250px;">--}}
+    {{--                        <img src="/images-lava/ypad-badge.png.webp" alt="ypad logo" class="img-fluid" style="width: auto; height: 250px;">--}}
     {{--                    </div>--}}
     {{--                    <h2 class="text-center">MDU is Youth Protection Advocates in Dance  Certified!</h2>--}}
     {{--                    <p class="txt-crimson" style="font-size: 1.25em;">--}}
@@ -680,7 +680,7 @@
     {{--        <div class="row mb-0 pb-0 mt-4">--}}
     {{--            <div class="col-sm">--}}
     {{--                <div class="d-flex justify-content-center">--}}
-    {{--                    <img src="/images-lava/safer-studio-logo.png" alt="safer studio logo" class="img-fluid" style="width: auto; height: 250px; filter: invert(1);">--}}
+    {{--                    <img src="/images-lava/safer-studio-logo.png.webp" alt="safer studio logo" class="img-fluid" style="width: auto; height: 250px; filter: invert(1);">--}}
     {{--                </div>--}}
     {{--                <h2 class="text-center">MDU is a Safer Studio</h2>--}}
     {{--                <p class="txt-crimson" style="font-size: 1.25em;">--}}
@@ -688,7 +688,7 @@
     {{--                </p>--}}
     {{--            </div>--}}
     {{--            <div class="col-sm">--}}
-    {{--                <img src="/images-lava/dancer-huddle.png" alt="" class="img-fluid">--}}
+    {{--                <img src="/images-lava/dancer-huddle.png.webp" alt="" class="img-fluid">--}}
     {{--            </div>--}}
     {{--        </div>--}}
     {{--    </div>--}}
@@ -783,7 +783,7 @@
             </div>
         </div>
         <div>
-            <img src="/images-lava/cta-dance-classes-la-crosse.png" alt="" class="img-fluid d-none d-lg-block" id="cta-image">
+            <img src="/images-lava/cta-dance-classes-la-crosse.png.webp" alt="" class="img-fluid d-none d-lg-block" id="cta-image">
         </div>
     </div>
 
@@ -894,7 +894,7 @@
             <div class="col p-0 d-flex align-items-center justify-content-center"><div><a href="https://www.couleeparenting.com" target="_blank"><img src="/images-lava/logo-coulee-parenting.jpg" alt="logo"></a></div></div>
             <div class="col p-0 d-flex align-items-center justify-content-center"><div><a href="https://www.webercenterarts.org" target="_blank"><img src="/images-lava/logo-weber-center.png" alt="logo" style="filter: invert(100%);"></a></div></div>
             <div class="col p-0 d-flex align-items-center justify-content-center"><div><a href="https://www.balletlacrosse.com" target="_blank"><img src="/images-lava/logo-blc-2.jpg" alt="logo"></a></div></div>
-            <div class="col p-0 d-flex align-items-center justify-content-center"><div><a href="https://www.thewillowandgrace.com" target="_blank"><img src="/images-lava/logo-willow-and-grace.png" alt="logo"></a></div></div>
+            <div class="col p-0 d-flex align-items-center justify-content-center"><div><a href="https://www.thewillowandgrace.com" target="_blank"><img src="/images-lava/logo-willow-and-grace.png.webp" alt="logo"></a></div></div>
         </div>
     </div>
 
@@ -906,7 +906,7 @@
                 <div class="col"><p class="text-white-50 text-center font-staat" style="font-size: 1.5em;"><small>dance Holmen</small></p></div>
             </div>
             <div class="d-flex justify-content-center">
-                <img src="/images-lava/gauranteed-best-dance-la-crosse.png" alt="" class="img-fluid">
+                <img src="/images-lava/gauranteed-best-dance-la-crosse.png.webp" alt="" class="img-fluid">
             </div>
             <h2 class="fw-bold text-center text-white" style="font-size: 2.75em;">Our Guarantee</h2>
             <p class="text-center txt-crimson" style="font-size: 1.75em;">You'll love your experience or we'll work with you to make it right!</p>

@@ -56,7 +56,7 @@
             </div>
             <div class="row">
                 <div class="col-sm pb-5 bg-ivory text-white" id="adult-box-wed">
-                    <img src="images/weddingpageant.png" alt="">
+                    <img src="images/weddingpageant.png.webp" alt="">
                     <p>
                         We’d love to help make your special day GREAT!
 
@@ -71,7 +71,7 @@
             </div>
             <div class="row">
                 <div class="col-sm pb-5 bg-white" id="adult-box-ballet">
-                    <img src="images/adultballet.png" alt="">
+                    <img src="images/adultballet.png.webp" alt="">
                     <p>
                         The Year of YOU continues at Misty's Dance Unlimited!
                         <br>Step out of your comfort zone and join us for our next 6 week Adult Ballet session beginning on Thursday, January 30th.

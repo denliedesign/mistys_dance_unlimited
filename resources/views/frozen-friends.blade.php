@@ -6,7 +6,7 @@
 
     <div class="jumbotron jumbotron-fluid bg-aliceblue">
         <div class="container">
-            <img src="images/frozen-friends.png" class="pb-5" alt="" style="width: 100%;">
+            <img src="images/frozen-friends.png.webp" class="pb-5" alt="" style="width: 100%;">
             <h3 class="text-center pb-5">Frozen Friends Musical Theater Mini Session</h3>
 
             <p>

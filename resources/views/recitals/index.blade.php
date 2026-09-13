@@ -9,7 +9,7 @@
 {{--    </div>--}}
 
     <div class="jumbotron jumbotron-fluid bg-aliceblue p-0">
-        <img src="/images/MDURedCarpetRecital.png" alt="Red Carpet Recital" style="width: 100%;" class="mt-5">
+        <img src="/images/MDURedCarpetRecital.png.webp" alt="Red Carpet Recital" style="width: 100%;" class="mt-5">
         <div class="container" id="everythingrecital">
 
 {{--            <h3 class="text-center py-5">Everything Recital</h3>--}}

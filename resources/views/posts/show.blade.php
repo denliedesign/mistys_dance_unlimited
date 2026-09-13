@@ -20,7 +20,7 @@
                 <div class="col-md-3"></div>
                 <div class="col">
                     <div class="d-flex justify-content-center">
-                        <img src="/images-lava/blog-1.png" alt="NEED IMG UPLOAD AND SEO IMG NAME" class="img-fluid">
+                        <img src="/images-lava/blog-1.png.webp" alt="NEED IMG UPLOAD AND SEO IMG NAME" class="img-fluid">
                     </div>
                 </div>
                 <div class="col-md-3"></div>
@@ -36,22 +36,22 @@
             <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4">
                 <div class="col">
                     <a href="">
-                        <img src="/images-lava/blog-1.png" class="img-fluid blog-link-img shadow rounded" alt="...">
+                        <img src="/images-lava/blog-1.png.webp" class="img-fluid blog-link-img shadow rounded" alt="...">
                     </a>
                 </div>
                 <div class="col">
                     <a href="">
-                        <img src="/images-lava/blog-1.png" class="img-fluid blog-link-img shadow rounded" alt="...">
+                        <img src="/images-lava/blog-1.png.webp" class="img-fluid blog-link-img shadow rounded" alt="...">
                     </a>
                 </div>
                 <div class="col">
                     <a href="">
-                        <img src="/images-lava/blog-1.png" class="img-fluid blog-link-img shadow rounded" alt="...">
+                        <img src="/images-lava/blog-1.png.webp" class="img-fluid blog-link-img shadow rounded" alt="...">
                     </a>
                 </div>
                 <div class="col">
                     <a href="">
-                        <img src="/images-lava/blog-1.png" class="img-fluid blog-link-img shadow rounded" alt="...">
+                        <img src="/images-lava/blog-1.png.webp" class="img-fluid blog-link-img shadow rounded" alt="...">
                     </a>
                 </div>
             </div>

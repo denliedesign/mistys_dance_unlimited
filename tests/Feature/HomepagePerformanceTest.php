@@ -41,4 +41,33 @@ class HomepagePerformanceTest extends TestCase
     {
         $this->get('/aboutus')->assertOk()->assertSee('script-welcome-mist.js', false)->assertSee('gsap.min.js', false);
     }
+
+    public function test_homepage_webp_sources_exist_and_describe_real_image_widths()
+    {
+        $response = $this->get('/');
+        $response->assertOk();
+        $dom = new \DOMDocument();
+        @$dom->loadHTML($response->getContent());
+        $xpath = new \DOMXPath($dom);
+        $sources = $xpath->query('//picture/source[@type="image/webp"]');
+        $this->assertGreaterThan(20, $sources->length);
+        $responsiveImages = 0;
+        foreach ($sources as $source) {
+            $candidates = explode(',', $source->getAttribute('srcset'));
+            if (count($candidates) > 1) {
+                $responsiveImages++;
+            }
+            foreach ($candidates as $candidate) {
+                $parts = preg_split('/\s+/', trim($candidate));
+                $path = public_path(ltrim($parts[0], '/'));
+                $this->assertFileExists($path);
+                $metadata = getimagesize($path);
+                $this->assertSame('image/webp', $metadata['mime']);
+                if (isset($parts[1])) {
+                    $this->assertSame((int) $parts[1], $metadata[0]);
+                }
+            }
+        }
+        $this->assertGreaterThanOrEqual(8, $responsiveImages);
+    }
 }

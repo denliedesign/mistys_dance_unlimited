@@ -6,7 +6,7 @@
             <div class="row">
                 <div class="col-sm">
                     <div class="d-flex justify-content-center">
-                        <img src="/images-lava/alumni-thumb.png" alt="alumni logo" class="img-fluid" style="max-height: 350px;">
+                        <img src="/images-lava/alumni-thumb.png.webp" alt="alumni logo" class="img-fluid" style="max-height: 350px;">
                     </div>
                 </div>
                 <div class="col-sm">

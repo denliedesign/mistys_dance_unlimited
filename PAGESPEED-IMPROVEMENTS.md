@@ -1,5 +1,7 @@
 # PageSpeed improvements — September 8, 2026
 
+**September 13 update:** Image optimization and Drive archiving are complete locally. See [IMAGE-OPTIMIZATION.md](IMAGE-OPTIMIZATION.md) for actual sizes, responsive exports, archive links, validation and deployment notes. The export instructions below describe the earlier plan; actual age-card originals in this checkout are 500 pixels wide, so the implemented exports are 320 and 500 pixels without upscaling.
+
 ## Baseline supplied reports
 
 | Category | [Mobile](https://pagespeed.web.dev/analysis/https-mistysdance-com/uefti6tr23?form_factor=mobile) | [Desktop](https://pagespeed.web.dev/analysis/https-mistysdance-com/uefti6tr23?form_factor=desktop) |

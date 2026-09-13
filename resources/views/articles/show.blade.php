@@ -15,9 +15,9 @@
         @if($article->id == 42)
            <div class="mx-4">
                <div class="row">
-                   <div class="col-sm py-2"><img src="/images/a1.png" alt="" class="img-fluid"></div>
+                   <div class="col-sm py-2"><img src="/images/a1.png.webp" alt="" class="img-fluid"></div>
                    <div class="col-sm py-2"><img src="/images/a2.jpg" alt="" class="img-fluid"></div>
-                   <div class="col-sm py-2"><img src="/images/a3.png" alt="" class="img-fluid"></div>
+                   <div class="col-sm py-2"><img src="/images/a3.png.webp" alt="" class="img-fluid"></div>
                </div>
            </div>
         @endif

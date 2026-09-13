@@ -13,9 +13,9 @@
                 <p class="text-center"><a class="text-dark" href="/communities/create">Add New Community Program</a></p>
             @endcan
             {{--            <div class="row row-cols-3 row-cols-sm-3 row-cols-md-4 row-cols-lg-4">--}}
-            {{--                <div class="col p-0 d-flex align-items-center justify-content-center"><div><a href="https://www.honeybeeoccupationaltherapy.com" target="_blank"><img src="/images/logo-bumble-and-tumble.png" alt="logo"></a></div></div>--}}
+            {{--                <div class="col p-0 d-flex align-items-center justify-content-center"><div><a href="https://www.honeybeeoccupationaltherapy.com" target="_blank"><img src="/images/logo-bumble-and-tumble.png.webp" alt="logo"></a></div></div>--}}
             {{--                <div class="col p-0 d-flex align-items-center justify-content-center"><div><a href="https://www.varcinc.com" target="_blank"><img src="/images/logo-varc.png" alt="logo" style="filter: contrast(0%);"></a></div></div>--}}
-            {{--                <div class="col p-0 d-flex align-items-center justify-content-center"><div><a href="https://sistercircle.co/home/" target="_blank"><img src="/images/logo-sister-circle.png" alt="logo"></a></div></div>--}}
+            {{--                <div class="col p-0 d-flex align-items-center justify-content-center"><div><a href="https://sistercircle.co/home/" target="_blank"><img src="/images/logo-sister-circle.png.webp" alt="logo"></a></div></div>--}}
             {{--                <div class="col p-0 d-flex align-items-center justify-content-center"><div><a><img src="/images/logo-homeschool.png" alt="logo"></a></div></div>--}}
             {{--                --}}{{--                <div class="col p-0 d-flex align-items-center justify-content-center"><div><a href="" target="_blank"><img src="/images/" alt="logo"></a></div></div>--}}
             {{--                --}}{{--                <div class="col p-0 d-flex align-items-center justify-content-center"><div><a href="" target="_blank"><img src="/images/" alt="logo"></a></div></div>--}}

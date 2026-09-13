@@ -23,7 +23,7 @@
                 </div>
                 <div class="col-md d-flex align-items-center">
                     <img src="/images/my-first-dance-class.jpg" class="img-fluid" alt="">
-{{--                    <img src="/images/first-hug.png" class="img-fluid" alt="">--}}
+{{--                    <img src="/images/first-hug.png.webp" class="img-fluid" alt="">--}}
                 </div>
             </div>
         </div>
@@ -132,7 +132,7 @@
 
                     </div>
                 <div class="col-md">
-                    <img src="/images/first-point.png" class="img-fluid d-none d-md-block" style="" alt="">
+                    <img src="/images/first-point.png.webp" class="img-fluid d-none d-md-block" style="" alt="">
                 </div>
             </div>
         </div>
@@ -316,7 +316,7 @@
                 </div>
                 <div class="col-md">
                     <img src="/images/discover-dance.jpg" class="img-fluid" alt="">
-{{--                    <img src="/images-mist/discover-4.png" class="img-fluid" alt="">--}}
+{{--                    <img src="/images-mist/discover-4.png.webp" class="img-fluid" alt="">--}}
                 </div>
             </div>
         </div>

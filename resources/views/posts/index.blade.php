@@ -20,17 +20,17 @@
         <div class="row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-3">
             <div class="col">
                 <a href="/posts/show" alt="SEO TITLE WHICH IS SLUG HERE">
-                    <img src="/images-lava/blog-1.png" class="img-fluid blog-link-img shadow rounded" alt="NEED IMG UPLOAD AND SEO IMG NAME">
+                    <img src="/images-lava/blog-1.png.webp" class="img-fluid blog-link-img shadow rounded" alt="NEED IMG UPLOAD AND SEO IMG NAME">
                 </a>
             </div>
             <div class="col">
                 <a href="/posts/show" alt="SEO TITLE WHICH IS SLUG HERE">
-                    <img src="/images-lava/blog-1.png" class="img-fluid blog-link-img shadow rounded" alt="NEED IMG UPLOAD AND SEO IMG NAME">
+                    <img src="/images-lava/blog-1.png.webp" class="img-fluid blog-link-img shadow rounded" alt="NEED IMG UPLOAD AND SEO IMG NAME">
                 </a>
             </div>
             <div class="col">
                 <a href="/posts/show" alt="SEO TITLE WHICH IS SLUG HERE">
-                    <img src="/images-lava/blog-1.png" class="img-fluid blog-link-img shadow rounded" alt="NEED IMG UPLOAD AND SEO IMG NAME">
+                    <img src="/images-lava/blog-1.png.webp" class="img-fluid blog-link-img shadow rounded" alt="NEED IMG UPLOAD AND SEO IMG NAME">
                 </a>
             </div>
         </div>

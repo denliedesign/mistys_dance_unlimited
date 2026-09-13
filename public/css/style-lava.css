@@ -275,7 +275,7 @@ body {
 .font-dm { font-family: 'DM Serif Display', serif; }
 
 #section-badge {
-    background: url("/images-lava/happy-dancer.png");
+    background: url("/images-lava/happy-dancer.png.webp");
     background-position: 95% 50%;
     background-attachment: scroll;
     background-size: contain;
@@ -283,7 +283,7 @@ body {
 }
 
 #section-badge:hover {
-    background: url("/images-lava/happy-dancer-2.png");
+    background: url("/images-lava/happy-dancer-2.png.webp");
     background-position: 95% 50%;
     background-attachment: scroll;
     background-size: contain;

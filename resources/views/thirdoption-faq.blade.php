@@ -3,7 +3,7 @@
 @section('content')
 
    <div class="container">
-       <img src="/images/third-option-learning-hub-ribbon.png" alt="third option learning hub logo" class="img-fluid">
+       <img src="/images/third-option-learning-hub-ribbon.png.webp" alt="third option learning hub logo" class="img-fluid">
        <p class="text-center my-5">
            “Transcend traditional solutions by forging a path toward a third option.
            A third alternative moves beyond this way or that way to a higher and better way—
@@ -157,13 +157,13 @@
                </p>
            </div>
            <div class="col-sm">
-               <img src="/images/third-option-classroom-1.png" alt="" class="img-fluid mb-5">
-               <img src="/images/third-option-classroom-2.png" alt="" class="img-fluid mb-5">
-               <img src="/images/third-option-classroom-3.png" alt="" class="img-fluid mb-5">
-               <img src="/images/third-option-classroom-4.png" alt="" class="img-fluid mb-5">
-               <img src="/images/third-option-classroom-5.png" alt="" class="img-fluid mb-5">
-               <img src="/images/third-option-classroom-6.png" alt="" class="img-fluid mb-5">
-               <img src="/images/third-option-classroom-7.png" alt="" class="img-fluid mb-5">
+               <img src="/images/third-option-classroom-1.png.webp" alt="" class="img-fluid mb-5">
+               <img src="/images/third-option-classroom-2.png.webp" alt="" class="img-fluid mb-5">
+               <img src="/images/third-option-classroom-3.png.webp" alt="" class="img-fluid mb-5">
+               <img src="/images/third-option-classroom-4.png.webp" alt="" class="img-fluid mb-5">
+               <img src="/images/third-option-classroom-5.png.webp" alt="" class="img-fluid mb-5">
+               <img src="/images/third-option-classroom-6.png.webp" alt="" class="img-fluid mb-5">
+               <img src="/images/third-option-classroom-7.png.webp" alt="" class="img-fluid mb-5">
            </div>
        </div>
        <p class="text-center txt-mdu-blue my-5" style="font-size: 2.25em;">

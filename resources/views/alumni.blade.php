@@ -12,7 +12,7 @@
     <div class="bg-white">
         <div class="container py-5">
             <div class="d-flex justify-content-center">
-                <img src="/images/alumni-thumb.png" alt="alumni logo" class="img-fluid" style="max-height: 350px;">
+                <img src="/images/alumni-thumb.png.webp" alt="alumni logo" class="img-fluid" style="max-height: 350px;">
             </div>
             <h2 class="pt-5 text-center">Alumni</h2>
             <p class="text-center mb-0">

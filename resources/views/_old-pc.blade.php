@@ -45,7 +45,7 @@
                 </div>
                 <div class="col-sm-5">
                     <div class="d-flex justify-content-center my-5">
-                        <img src="/images/23-audition-2.png" alt="pre-audition meeting dancers" style="max-width: 400px; height: auto;">
+                        <img src="/images/23-audition-2.png.webp" alt="pre-audition meeting dancers" style="max-width: 400px; height: auto;">
                     </div>
                 </div>
             </div>

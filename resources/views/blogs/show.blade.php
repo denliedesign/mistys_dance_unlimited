@@ -41,17 +41,17 @@
 
 {{--                <div class="col">--}}
 {{--                    <a href="">--}}
-{{--                        <img src="/images-lava/blog-1.png" class="img-fluid blog-link-img shadow rounded" alt="...">--}}
+{{--                        <img src="/images-lava/blog-1.png.webp" class="img-fluid blog-link-img shadow rounded" alt="...">--}}
 {{--                    </a>--}}
 {{--                </div>--}}
 {{--                <div class="col">--}}
 {{--                    <a href="">--}}
-{{--                        <img src="/images-lava/blog-1.png" class="img-fluid blog-link-img shadow rounded" alt="...">--}}
+{{--                        <img src="/images-lava/blog-1.png.webp" class="img-fluid blog-link-img shadow rounded" alt="...">--}}
 {{--                    </a>--}}
 {{--                </div>--}}
 {{--                <div class="col">--}}
 {{--                    <a href="">--}}
-{{--                        <img src="/images-lava/blog-1.png" class="img-fluid blog-link-img shadow rounded" alt="...">--}}
+{{--                        <img src="/images-lava/blog-1.png.webp" class="img-fluid blog-link-img shadow rounded" alt="...">--}}
 {{--                    </a>--}}
 {{--                </div>--}}
             </div>

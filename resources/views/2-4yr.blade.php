@@ -23,7 +23,7 @@
             </p>
         </div>
         <div class="class-card">
-            <img src="images/kid5b.png">
+            <img src="images/kid5b.png.webp">
             <p>
                 Introduces the 4 year old dancer to Ballet through the stories of the great ballets.
             </p>

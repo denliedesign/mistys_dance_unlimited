@@ -4,7 +4,7 @@
     <div class="bg-white">
         <div class="container mx-4 pb-5 pt-3">
             <h1 class="born-7 poppins fw-bold p-0 m-0" style="font-size: 45px;">🎉 Celebrate Your Child’s Birthday at MDU! 🎉</h1>
-{{--            <img src="/images/dance-birthday-parties.png" alt="party info" class="img-fluid shadow rounded my-5" style="max-height: 95vh; height: 100%; width: auto;">--}}
+{{--            <img src="/images/dance-birthday-parties.png.webp" alt="party info" class="img-fluid shadow rounded my-5" style="max-height: 95vh; height: 100%; width: auto;">--}}
             <div>
                 <p class="poppins" style="font-size: 20px;">
                     Looking for a birthday party packed with fun, dancing, and unforgettable memories? At MDU, your child and their friends will learn a dance routine to their favorite song, perform a show, and enjoy a party made just for them!

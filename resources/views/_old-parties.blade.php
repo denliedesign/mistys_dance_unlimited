@@ -4,7 +4,7 @@
     <div class="bg-white">
         <div class="container mx-4 pb-5 pt-3">
             <h1 class="born-7 poppins fw-bold p-0 m-0" style="font-size: 45px;">Kid Birthday Parties at MDU!</h1>
-            <img src="/images/dance-birthday-parties.png" alt="party info" class="img-fluid shadow rounded my-5" style="max-height: 95vh; height: 100%; width: auto;">
+            <img src="/images/dance-birthday-parties.png.webp" alt="party info" class="img-fluid shadow rounded my-5" style="max-height: 95vh; height: 100%; width: auto;">
             <div>
                 <p class="poppins" style="font-size: 20px;">
                     Book Your Birthday Bash at Misty's Dance Unlimited! 🎈Thank you for your interest in celebrating a special birthday with us at MDU. We offer three fabulous birthday packages designed to make your party unforgettable. Let's make some magical birthday memories together!
