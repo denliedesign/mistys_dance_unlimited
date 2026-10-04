@@ -35,41 +35,15 @@
                 {{--                </div>--}}
 
                 <div class="row row-cols-1 row-cols-sm-1 row-cols-md-1 row-cols-lg-3" id="community-calendar">
-{{--                        <div class="col-sm mt-4">--}}
-{{--                            <h3 style="font-family: 'Pacifico', cursive; font-size: 50px;">September</h3>--}}
-{{--                            <hr>--}}
-{{--                            @foreach($communities as $community)--}}
-{{--                                @if($community->month == 'September')@include('_community-program')@endif--}}
-{{--                            @endforeach--}}
-{{--                        </div>--}}
-{{--                    <div class="col-sm mt-4">--}}
-{{--                        <h3 style="font-family: 'Pacifico', cursive; font-size: 50px;">October</h3>--}}
-{{--                        <hr>--}}
-{{--                        @foreach($communities as $community)--}}
-{{--                            @if($community->month == 'October')@include('_community-program')@endif--}}
-{{--                        @endforeach--}}
-{{--                    </div>--}}
-                    <div class="col-sm mt-4">
-                        <h3 style="font-family: 'Pacifico', cursive; font-size: 50px;">September</h3>
-                        <hr>
-                        @foreach($communities as $community)
-                            @if($community->month == 'September')@include('_community-program')@endif
-                        @endforeach
-                    </div>
-                    <div class="col-sm mt-4">
-                        <h3 style="font-family: 'Pacifico', cursive; font-size: 50px;">October</h3>
-                        <hr>
-                        @foreach($communities as $community)
-                            @if($community->month == 'October')@include('_community-program')@endif
-                        @endforeach
-                    </div>
-                    <div class="col-sm mt-4">
-                        <h3 style="font-family: 'Pacifico', cursive; font-size: 50px;">November</h3>
-                        <hr>
-                        @foreach($communities as $community)
-                            @if($community->month == 'November')@include('_community-program')@endif
-                        @endforeach
-                    </div>
+                    @foreach(['October', 'November', 'December'] as $month)
+                        <div class="col-sm mt-4">
+                            <h3 style="font-family: 'Pacifico', cursive; font-size: 50px;">{{ $month }}</h3>
+                            <hr>
+                            @foreach($communities as $community)
+                                @if($community->month == $month)@include('_community-program')@endif
+                            @endforeach
+                        </div>
+                    @endforeach
                 </div>
             </div>
         </div>

@@ -72,5 +72,6 @@
     </div>
 
     @csrf
+    @include('partials.form-security')
     <button type="submit" class="btn btn-lg my-4" style="background: #ED174D; width: 100%; color: white;">Claim Your Trial Class</button>
 </form>

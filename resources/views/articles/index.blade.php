@@ -18,6 +18,7 @@
                             <form action="/videos/{{ $video->id }}" method="POST">
                                 @method('DELETE')
                                 @csrf
+                                @include('partials.form-security')
 
                                 <button class="btn btn-danger ml-4" type="submit" style="border: 1px solid white;">Delete</button>
                             </form>
@@ -58,6 +59,7 @@
                                             <form action="/articles/{{ $article->id }}" method="POST">
                                                 @method('DELETE')
                                                 @csrf
+                                                @include('partials.form-security')
 
                                                 <button class="btn btn-danger ml-4" type="submit">Delete</button>
                                             </form>

@@ -74,5 +74,6 @@
     </div>
 
     @csrf
+    @include('partials.form-security')
     <button type="submit" class="btn btn-primary">Claim Offer</button>
 </form>

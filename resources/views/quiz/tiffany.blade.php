@@ -14,6 +14,7 @@
                     <input type="submit" id="submit" class="btn btn-primary" value="Take The Quiz">
                 </div>
                 @csrf
+                @include('partials.form-security')
             </form>
         </div>
     </div>

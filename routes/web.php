@@ -513,11 +513,11 @@ Route::get('recital', function () {
 Route::get('frozen-friends', 'FrozenFriendsController@index')->name('frozen-friends');
 Route::post('frozen-friends', 'FrozenFriendsController@store')->name('frozen-friends.store');
 
-Route::resource('events', 'EventController');
-Route::resource('promotions', 'PromotionController');
-Route::resource('articles', 'ArticleController');
-Route::resource('videos', 'VideoController');
-Route::resource('communities', 'CommunityController');
+Route::resource('events', 'EventController')->middleware('content.editor:App\Event');
+Route::resource('promotions', 'PromotionController')->middleware('content.editor:App\Promotion');
+Route::resource('articles', 'ArticleController')->middleware('content.editor:App\Article');
+Route::resource('videos', 'VideoController')->middleware('content.editor:App\Video');
+Route::resource('communities', 'CommunityController')->middleware('content.editor:App\Community');
 //Route::resource('posts', 'PostController');
 //Route::resource('recitals/generals', 'GeneralController');
 //Route::resource('recitals/ads', 'AdController');
@@ -531,15 +531,15 @@ Route::resource('communities', 'CommunityController');
 //Route::resource('recitals/volunteers', 'VolunteerController');
 //Route::resource('students', 'StudentController');
 //Route::resource('contents', StudentController::class);
-Route::resource('updates', 'UpdateController');
-Route::resource('fests', 'FestController');
-Route::resource('hubs', 'HubController');
+Route::resource('updates', 'UpdateController')->middleware('content.editor:App\Update');
+Route::resource('fests', 'FestController')->middleware('content.editor:App\Fest');
+Route::resource('hubs', 'HubController')->middleware('content.editor:App\Hub');
 
 //Auth::routes();
 
 //Route::get('/home', 'HomeController@index')->name('home');
 
-Route::resource('blogs', 'BlogController')->except(['show']);
+Route::resource('blogs', 'BlogController')->middleware('content.editor:App\Blog')->except(['show']);
 Route::get('/blogs/{blog:slug}', ['BlogController', 'show'])->name('blogs.show');
 
 Route::middleware(['auth', 'redirect.user'])->group(function () {
@@ -554,8 +554,8 @@ Route::middleware(['auth'])->group(function () {
     Route::get('/levels', [LevelsController::class, 'index'])->name('levels.index');
 });
 
-Route::get('/levels/import', [LevelsController::class, 'showForm'])->name('levels.import.form');
-Route::post('/levels/import', [LevelsController::class, 'import'])->name('levels.import');
+Route::get('/levels/import', [LevelsController::class, 'showForm'])->name('levels.import.form')->middleware('can:viewAny,App\Level');
+Route::post('/levels/import', [LevelsController::class, 'import'])->name('levels.import')->middleware('can:viewAny,App\Level');
 
 // Login Routes
 Route::get('login', [LoginController::class, 'showLoginForm'])->name('login');

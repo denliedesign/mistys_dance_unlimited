@@ -33,3 +33,4 @@
     <textarea class="form-control" id="description" name="description" rows="5">{{ old('description') ?? $student->description }}</textarea>
 </div>
 @csrf
+@include('partials.form-security')

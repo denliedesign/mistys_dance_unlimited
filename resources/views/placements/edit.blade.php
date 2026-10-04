@@ -5,6 +5,7 @@
         <h1>Edit Dancer</h1>
         <form action="{{ route('placements.update', $placement->id) }}" method="POST">
             @csrf
+            @include('partials.form-security')
             @method('PUT')
             <div class="form-group">
                 <label for="firstName">First Name:</label>

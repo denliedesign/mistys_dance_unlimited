@@ -7,6 +7,7 @@
 
         <form action="{{ route('levels.import') }}" method="POST" enctype="multipart/form-data">
             @csrf
+            @include('partials.form-security')
             <input type="file" name="file" required>
             <button type="submit">Import</button>
         </form>

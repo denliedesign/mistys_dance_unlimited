@@ -56,6 +56,7 @@
                         <a href="{{ route('placements.edit', $placement->id) }}" class="btn button-yellow">Edit</a>
                         <form action="{{ route('placements.destroy', $placement->id) }}" method="POST" style="display: inline-block;">
                             @csrf
+                            @include('partials.form-security')
                             @method('DELETE')
                             <button type="submit" class="btn button-red" onclick="return confirm('Are you sure you want to delete {{$placement->firstName}} {{$placement->lastName}}?')">Delete</button>
                         </form>

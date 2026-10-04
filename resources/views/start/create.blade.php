@@ -40,6 +40,7 @@
     </div>
 
     @csrf
+    @include('partials.form-security')
     <button type="submit" class="btn btn-lg mt-4 mb-2" style="background: #ED174D; width: 100%; color: white;">Submit Form</button>
     <div class="d-flex justify-content-center">
         <div style="font-size: 18px;" class="text-center text-muted">We will contact you with your next steps.</div>

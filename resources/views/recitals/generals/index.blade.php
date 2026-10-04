@@ -31,6 +31,7 @@
                             <form action="{{ route('generals.destroy', ['general' => $general->id]) }}" method="POST">
                                 @method('DELETE')
                                 @csrf
+                                @include('partials.form-security')
 
                                 <button class="btn btn-danger ml-3" type="submit">Delete</button>
                             </form>

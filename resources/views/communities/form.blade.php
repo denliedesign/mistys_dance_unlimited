@@ -36,3 +36,4 @@
 </div>
 
 @csrf
+@include('partials.form-security')

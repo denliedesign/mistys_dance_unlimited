@@ -10,6 +10,7 @@
                 <div class="card-body">
                     <form method="POST" action="{{ route('password.update') }}">
                         @csrf
+                        @include('partials.form-security')
 
                         <input type="hidden" name="token" value="{{ $token }}">
 

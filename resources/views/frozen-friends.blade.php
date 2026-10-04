@@ -62,6 +62,7 @@
                     </div>
                 </div>
                 @csrf
+                @include('partials.form-security')
                 <div class="d-flex justify-content-center">
                     <button type="submit" class="btn btn-danger mt-2">Register Now</button>
                 </div>

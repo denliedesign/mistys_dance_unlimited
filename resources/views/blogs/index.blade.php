@@ -37,6 +37,7 @@
                                             <form action="/blogs/{{ $blog->id }}" method="POST">
                                                 @method('DELETE')
                                                 @csrf
+                                                @include('partials.form-security')
                                                 <button type="submit" class="text-red" style="background: none; border: none;" onclick="return confirm('Are you sure?')"><ion-icon name="trash"></ion-icon></button>
                                             </form>
                                         </div>

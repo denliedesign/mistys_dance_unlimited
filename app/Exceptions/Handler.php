@@ -34,6 +34,9 @@ class Handler extends ExceptionHandler
         'current_password',
         'password',
         'password_confirmation',
+        'cf-turnstile-response',
+        '_form_guard',
+        'contact_website',
     ];
 
     /**

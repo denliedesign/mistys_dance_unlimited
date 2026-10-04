@@ -23,11 +23,11 @@ class FrozenFriendsController extends Controller
     public function store(Request $request)
     {
         $frozen = request()->validate([
-            'parentName' => 'required',
-            'email' => 'required|email',
-            'phone' => 'required',
-            'studentName' => 'required',
-            'birthdate' => 'required'
+            'parentName' => 'required|string|max:255',
+            'email' => 'required|email|max:254',
+            'phone' => 'required|string|max:50',
+            'studentName' => 'required|string|max:255',
+            'birthdate' => 'required|date|before_or_equal:today'
         ]);
 
         Mail::to('kris.mistysdance@gmail.com')->send(new FrozenFriendsMail($frozen));

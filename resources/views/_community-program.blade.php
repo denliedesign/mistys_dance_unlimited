@@ -16,6 +16,7 @@
                 <form action="/communities/{{ $community->id }}" method="POST">
                     @method('DELETE')
                     @csrf
+                    @include('partials.form-security')
 
                     <button class="btn btn-danger ml-4" type="submit">Delete</button>
                 </form>

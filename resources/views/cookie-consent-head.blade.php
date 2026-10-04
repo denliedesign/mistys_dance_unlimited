@@ -23,3 +23,10 @@
         });
     }
 </script>
+@if(session()->pull('verified_trial_submission', false))
+    <script>
+        // Conversion tags should listen to this server-confirmed event only.
+        window.dataLayer = window.dataLayer || [];
+        window.dataLayer.push({ event: 'mdu_trial_submitted', form_name: 'trial_class' });
+    </script>
+@endif

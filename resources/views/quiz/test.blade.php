@@ -637,6 +637,7 @@
                 </div>
             </ul>
             @csrf
+            @include('partials.form-security')
         </form>
     </div>
 </div>

@@ -6,3 +6,4 @@
 
 
 @csrf
+@include('partials.form-security')

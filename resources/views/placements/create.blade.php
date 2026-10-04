@@ -5,6 +5,7 @@
         <h1>Add New Dancer</h1>
         <form action="{{ route('placements.store') }}" method="POST">
             @csrf
+            @include('partials.form-security')
             <div class="form-group">
                 <label for="firstName">First Name:</label>
                 <input type="text" name="firstName" class="form-control">
