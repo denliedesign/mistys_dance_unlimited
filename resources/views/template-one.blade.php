@@ -181,7 +181,7 @@
                 {{--                        </div>--}}
                 {{--                        <div class="box-two flip-card-back d-flex align-items-center justify-content-center text-center">--}}
                 {{--                            <p>--}}
-                {{--                                One instructor to a small group of students--}}
+                {{--                                One teacher to a small group of students--}}
                 {{--                                <br><u>Great for:</u>--}}
                 {{--                                <br>&middot; Rapid learning & advancement--}}
                 {{--                                <br>&middot; Small group--}}
@@ -215,7 +215,7 @@
                 {{--                        </div>--}}
                 {{--                        <div class="box-four flip-card-back d-flex align-items-center justify-content-center text-center">--}}
                 {{--                            <p>--}}
-                {{--                                One instructor to a small group of students--}}
+                {{--                                One teacher to a small group of students--}}
                 {{--                                <br><u>Great for:</u>--}}
                 {{--                                <br>&middot; Learning from the convenience of your own home--}}
                 {{--                                <br>&middot; Makeup classes--}}
@@ -490,7 +490,7 @@
                         <br><br>
                         At once-a-week classes at MDU, Darby’s Dancers learn all types of dance in a fun, encouraging atmosphere. Dancers in the program gain confidence, coordination, strength and lifelong friends, all while feeling like a star. DD also provides volunteer opportunities for teens who dance at MDU. Our youth volunteers learn important lessons in responsibility and friendship by providing one-on-one assistance to a special needs dancer.
                         <br><br>
-                        DD classes are taught by volunteer dance instructors and take place in donated studio space. The charitable contributions of youth volunteers, dance instructors, community dance studios and local businesses allow DD to provide dance classes, supplies and costumes to special needs dancers at no cost to their parents.
+                        DD classes are taught by volunteer dance teachers and take place in donated studio space. The charitable contributions of youth volunteers, dance teachers, community dance studios and local businesses allow DD to provide dance classes, supplies and costumes to special needs dancers at no cost to their parents.
                         <br><br>
                         If you would like to learn more about Darby’s Dancers for your child, please email mistysdance@gmail.com.
                     </p>

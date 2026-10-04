@@ -36,7 +36,7 @@
                 <hr class="d-block d-md-none my-2" style="width: 80%;">
                 <div>Ages 3-7<br>Beginner Friendly</div>
                 <hr class="d-block d-md-none my-2" style="width: 80%;">
-                <div>CPR & YPAD<br>Certified Instructors</div>
+                <div>CPR & YPAD<br>Certified Teachers</div>
             </div>
         </div>
     </section>
@@ -156,7 +156,7 @@
                         <strong>Beginner-Friendly & Age-Appropriate</strong>
                         <br>
                         Specially designed for first-time dancers, led by
-                        instructors who love working with little ones.
+                        teachers who love working with little ones.
                         <br><br>
                         <strong>Try Multiple Styles in One Class</strong>
                         <br>

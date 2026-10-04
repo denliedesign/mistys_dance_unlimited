@@ -37,7 +37,7 @@
                 <div class="col-sm">
                     <h3 class="font-staat" style="font-size: 100px; line-height: 0.9em;">Learn from the Best at Our La Crosse Dance Camp</h3>
                     <p class="font-syne" style="font-size: 22px;">
-                        Our dance camps are led by a team of experienced instructors who are passionate about dance and dedicated to providing a rewarding and educational experience for all campers. At our La Crosse dance camp, instructors focus on enhancing each dancer's skills through personalized attention and high-quality training in a fun and engaging environment.
+                        Our dance camps are led by a team of experienced teachers who are passionate about dance and dedicated to providing a rewarding and educational experience for all campers. At our La Crosse dance camp, teachers focus on enhancing each dancer's skills through personalized attention and high-quality training in a fun and engaging environment.
                     </p>
                     <div class="d-flex justify-content-center">
                         <a href="/aboutus">

@@ -23,7 +23,7 @@
 {{--                <div class="col-sm">--}}
 {{--                    <h3 class="font-staat" style="font-size: 100px; line-height: 0.9em;">Onalaska Dance Teams</h3>--}}
 {{--                    <p class="font-syne" style="font-size: 22px;">--}}
-{{--                        Misty’s Dance Unlimited in Onalaska is your premier destination for aspiring dancers looking to join the esteemed Onalaska dance team. Our carefully curated dance classes are tailored to nurture your talents and prepare you for the challenges and excitement of being part of a dance team in Onalaska. Whether you're new to dancing or already have experience, our dedicated instructors will help you refine your skills and develop the grace and precision required to shine on the Onalaska dance team. Join us today, and let Misty’s Dance Unlimited be your stepping stone towards becoming a sought-after dancer on the Onalaska dance team.--}}
+{{--                        Misty’s Dance Unlimited in Onalaska is your premier destination for aspiring dancers looking to join the esteemed Onalaska dance team. Our carefully curated dance classes are tailored to nurture your talents and prepare you for the challenges and excitement of being part of a dance team in Onalaska. Whether you're new to dancing or already have experience, our dedicated teachers will help you refine your skills and develop the grace and precision required to shine on the Onalaska dance team. Join us today, and let Misty’s Dance Unlimited be your stepping stone towards becoming a sought-after dancer on the Onalaska dance team.--}}
 {{--                    </p>--}}
 {{--                    <div class="d-flex justify-content-center">--}}
 {{--                        <a href="/fall">--}}

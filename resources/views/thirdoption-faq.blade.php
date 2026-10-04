@@ -79,7 +79,7 @@
                    <br><br>
                    <strong>Is there a fee?</strong>
                    <br>Yes, Third Option™ Learning Hub is a fee-based service similar to a day camp or other youth development activities. Registration requires a one-time, non-refundable registration fee of $45 which will hold your space between now and the start of classes.
-                   Beginning the first week of classes, weekly fees of $25/per day for half days or $39/per day for full days will be charged to your account on Monday of each week. For your convenience weekly fees will be drafted automatically beginning Monday, Aug. 31 until you terminate your enrollment or the end of the CRVA. Need based, financial assistance is available.
+                   Beginning the first week of classes, weekly fees of $25/per day for half days or $39/per day for full days will be charged to your account on Monday of each week. For your convenience weekly fees will be drafted automatically beginning Monday, Aug. 31 until you cancel your registration or the end of the CRVA. Need based, financial assistance is available.
                    <br><br>
                    Please note: A one week notice is required to withdraw.
                    <br><br>
@@ -115,7 +115,7 @@
                        <br>Our staff is temperature checked on a daily basis, but we do not temperature check students.
                    <br><br>
                    <strong>Will the staff and students have to wear masks?</strong>
-                       <br>Our staff have been wearing masks all summer and will continue to do so while the County is in red and orange. The current State Emergency Order #1 allows for instructors to step back more than six feet from students and lower their mask to give large group instructions.
+                       <br>Our staff have been wearing masks all summer and will continue to do so while the County is in red and orange. The current State Emergency Order #1 allows for teachers to step back more than six feet from students and lower their mask to give large group instructions.
                    <br><br>
                    State Emergency Order #1 requires all students over the age of five to wear a cloth face covering while indoors until September 28, 2020. Students do not have to wear a face covering while outdoors if spread out appropriately from other children. Once the emergency order expires, parents will be allowed to make their own decision for their children regarding masks and face
                    coverings unless another order is put into place.
@@ -151,7 +151,7 @@
 
                </ul>
                <strong>Other</strong>
-               <br>At the end of next week, all enrolled students will receive an student profile form so that we can get to know your students better, complete necessary waiver forms, and begin our hiring process to find the right Instructional Guides for your child’s cohort.
+               <br>At the end of next week, all registered students will receive a student profile form so that we can get to know your students better, complete necessary waiver forms, and begin our hiring process to find the right Instructional Guides for your child’s cohort.
                    <br><br>
                    You can expect to hear from your Instructional Guide the week before school and private tours of the facility will be made available at that time as well. A private FB page will be started for our learning community at the end of the month to foster a sense of community between families and students.
                </p>

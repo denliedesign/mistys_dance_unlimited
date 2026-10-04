@@ -17,7 +17,7 @@
 
             <p>
                 At Misty’s Dance Unlimited, we give every young dancer, regardless of skill, favorite style, and experience a chance to grow and learn through dance.
-                <br><br>We have skilled instructors, many performing opportunities and our facility is the best in the
+                <br><br>We have skilled teachers, many performing opportunities and our facility is the best in the
             </p>
 
             <p class="lead font-weight-bold">Call us today or send us an email:</p>

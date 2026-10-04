@@ -28,7 +28,7 @@
                 <div class="col-sm">
                     <h3 class="font-staat" style="font-size: 100px; line-height: 0.9em;">Leading Dance Studios in La Crosse</h3>
                     <p class="font-syne" style="font-size: 22px;">
-                        Our dance studio in La Crosse is equipped with state-of-the-art facilities to provide the best possible learning environment for our students. We pride ourselves on being one of the top dance studios in La Crosse, with a team of experienced instructors who are dedicated to helping each student reach their full potential.
+                        Our dance studio in La Crosse is equipped with state-of-the-art facilities to provide the best possible learning environment for our students. We pride ourselves on being one of the top dance studios in La Crosse, with a team of experienced teachers who are dedicated to helping each student reach their full potential.
                     </p>
                     <div class="d-flex justify-content-center">
                         <a href="/fall">
@@ -52,7 +52,7 @@
                 <div class="col-sm">
                     <h3 class="font-staat" style="font-size: 100px; line-height: 0.9em;">Professional Dance Lessons in La Crosse</h3>
                     <p class="font-syne" style="font-size: 22px;">
-                        Misty's Dance Unlimited offers professional dance lessons in La Crosse for students of all ages. Our lessons are tailored to meet the needs of each dancer, focusing on technique, performance, and personal growth. Whether you're looking for beginner lessons or advanced training, our experienced instructors are here to guide you.
+                        Misty's Dance Unlimited offers professional dance lessons in La Crosse for students of all ages. Our lessons are tailored to meet the needs of each dancer, focusing on technique, performance, and personal growth. Whether you're looking for beginner lessons or advanced training, our experienced teachers are here to guide you.
                     </p>
                     <div class="d-flex justify-content-center">
                         <a href="/fall">

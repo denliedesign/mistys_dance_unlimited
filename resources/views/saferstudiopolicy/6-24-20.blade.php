@@ -19,7 +19,7 @@
             <li>We are finishing all classes for this week (6/22 - 6/27) ONLINE as previously announced.</li>
             <li>Next week (6/29 - 7/3) we will offer modified live classes at the studio with a zoom feed option from the classroom for those who prefer to, or need to, keep learning at home.</li>
         </ol>
-            As you may recall when we started our summer term on June 15, assembly guidelines from the country allowed for 15 students in a class.  We will be reducing that to 9 students for next week’s classes.  Please note, there will be NO changes to the schedules - we will just split any class that has more than 9 students enrolled and add teachers as needed <3.  Please refer to our June term re-opening policies for full details.
+            As you may recall when we started our summer term on June 15, assembly guidelines from the country allowed for 15 students in a class.  We will be reducing that to 9 students for next week’s classes.  Please note, there will be NO changes to the schedules - we will just split any class that has more than 9 students registered and add teachers as needed <3.  Please refer to our June term re-opening policies for full details.
         <br><br>
             We will continue to follow the More Than Just Great Dancing!® Safer Studio™ guidelines for operations and the Youth Protection Advocates in Dance® Studio Sanitation guidelines for cleaning. Our teachers will continue to be well checked before attending class and be wearing masks.  As always we ask families with any symptoms of illness of any kind to dance at home <3.
         <br><br>

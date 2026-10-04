@@ -62,7 +62,7 @@
 {{--            </li>--}}
             <li class="nav-item mx-2">
                 <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" class="nav-link">
-                    <div class="btn btn-danger shadow">Enroll Now!</div>
+                    <div class="btn btn-danger shadow">Register Now!</div>
                 </a>
             </li>
         </ul>

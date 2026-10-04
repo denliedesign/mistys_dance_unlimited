@@ -1,6 +1,6 @@
 @extends('layouts.app-lava')
 @section('title', 'Dance Classes in La Crosse WI | Misty\'s Dance Unlimited')
-@section('description', 'Experience the joy of dance at MDU in La Crosse, WI! Discover a variety of dance classes for all ages, taught by experienced instructors, and join a community that values passion and performance.')
+@section('description', 'Experience the joy of dance at MDU in La Crosse, WI! Discover a variety of dance classes for all ages, taught by experienced teachers, and join a community that values passion and performance.')
 @section('content')
 
     <div class="banner-wrap d-none d-md-block" style="position: relative;">
@@ -35,9 +35,9 @@
             <hr class="my-5">
             <div class="row">
                 <div class="col-sm">
-                    <h3 class="font-staat" style="font-size: 100px; line-height: 0.9em;">Meet Our Expert Dance Instructors in La Crosse</h3>
+                    <h3 class="font-staat" style="font-size: 100px; line-height: 0.9em;">Meet Our Expert Dance Teachers in La Crosse</h3>
                     <p class="font-syne" style="font-size: 22px;">
-                        Our dance teachers at Misty's Dance Unlimited are not just instructors—they are mentors who bring a wealth of experience and passion to our La Crosse dance studios. Each teacher is dedicated to nurturing students' skills and helping them achieve their fullest potential in dance. With a commitment to excellence and a love for teaching, our faculty stands out in the La Crosse dance community.
+                        Our dance teachers at Misty's Dance Unlimited also serve as mentors, bringing a wealth of experience and passion to our La Crosse dance studios. Each teacher is dedicated to nurturing students' skills and helping them achieve their fullest potential in dance. With a commitment to excellence and a love for teaching, our faculty stands out in the La Crosse dance community.
                     </p>
                     <div class="d-flex justify-content-center">
                         <a href="/aboutus">

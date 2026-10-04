@@ -23,7 +23,7 @@
                         <br>Mondays 5:30-6:00 PM
                         <br>Tuition $69
                     </p>
-                    <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><button class="btn btn-danger text-uppercase">Enroll Today!</button></a>
+                    <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><button class="btn btn-danger text-uppercase">Register Today!</button></a>
                     <p class="text-white">
                         <br><br><strong>Adult Hip Hop for Intermediate / Advanced dancers</strong>
                         <br>Join Miss Michelle for these Drop In Adult Hip Hop Classes!
@@ -34,7 +34,7 @@
                         <br>March 18
                         <br>April 22
                     </p>
-                    <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><button class="btn btn-danger mb-3 text-uppercase">Enroll Today!</button></a>
+                    <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><button class="btn btn-danger mb-3 text-uppercase">Register Today!</button></a>
                 </div>
             </div>
             <div class="row">
@@ -51,7 +51,7 @@
                         <br>Beginning Level 6:30-7:00PM
                         <br>Intermediate 7:00-7:30PM
                     </p>
-                    <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><button class="btn btn-danger text-uppercase">Enroll Today!</button></a>
+                    <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><button class="btn btn-danger text-uppercase">Register Today!</button></a>
                 </div>
             </div>
             <div class="row">
@@ -84,7 +84,7 @@
                         <br>Teacher: Mr. Dennis
                         <br>Notes: Ballet shoes are required. You are welcome to shop in our Everything Dance Boutique.
                     </p>
-                    <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><button class="btn btn-danger text-uppercase mb-3">Enroll Today!</button></a>
+                    <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><button class="btn btn-danger text-uppercase mb-3">Register Today!</button></a>
                 </div>
             </div>
 

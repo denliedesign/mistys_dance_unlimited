@@ -18,11 +18,11 @@
                 <p>
                     Introducing: Third Option™ Learning Hub!
                     <br><br>
-                    Looking for another option to support your child’s virtual learning this fall? Trying to figure out how to balance work and home-learning?  Do you value quality instructors and enrichment activities for your child? Check out Third Option™ Learning Hub at MDU for support for your CRVA or 30-day virtual school start student!
+                    Looking for another option to support your child’s virtual learning this fall? Trying to figure out how to balance work and home-learning?  Do you value quality teachers and enrichment activities for your child? Check out Third Option™ Learning Hub at MDU for support for your CRVA or 30-day virtual school start student!
                     <br><br>
                     Third Option™ was designed to support Coulee Region Virtual Academy and can also support 30-day virtual school start students! Classes will be held inside MDU’s bright and cheery studio spaces. Socialize safely in our full or part-time program.  Choose the right level of support for your learner.
                     <br><br>
-                    Special educational needs may be supported with cooperation from the La Crosse Area Autism Foundation. Financial assistance is available. Enroll today!
+                    Special educational needs may be supported with cooperation from the La Crosse Area Autism Foundation. Financial assistance is available. Register today!
                     <br><br>
                     “Transcend traditional solutions by forging a path toward a third option. A third alternative moves beyond this way or that way to a higher and better way—a far better place than either had envisioned.” - Stephen R. Covey                </p>
             </div>
@@ -88,7 +88,7 @@
 
     <div class="container mb-5">
         <p class="text-center bg-dark text-white py-5" style="font-size: 1.33em;">
-            Enrollment will require a $45 non-refundable enrollment fee. Fees paid weekly. Cancel at any time with a one week notice. A sibling discount of 30% is available. Complimentary early drop off and late pick up are available for an hour on either side of programming. Additional surround care is offered at just $5/per hour.
+            A $45 non-refundable registration fee is required. Fees paid weekly. Cancel at any time with a one week notice. A sibling discount of 30% is available. Complimentary early drop off and late pick up are available for an hour on either side of programming. Additional surround care is offered at just $5/per hour.
             <br><br>
             Registration is now open for full-time and part-time students!
         </p>
@@ -118,7 +118,7 @@
 
                         <li> ✔️No long term commitments - cancel at anytime</li>
                     </ul>
-                    Our learning hub offers live, in-person support from our Instructional Guides for as little as $6.50/hour. Financial assistance is available. Enroll today!
+                    Our learning hub offers live, in-person support from our Instructional Guides for as little as $6.50/hour. Financial assistance is available. Register today!
 
                 </div>
             </div>
@@ -203,7 +203,7 @@
                     <br><br>
                     <strong>Is there a fee?</strong>
                     <br>Yes, Third Option™ Learning Hub is a fee-based service similar to a day camp or other youth development activities. Registration requires a one-time, non-refundable registration fee of $45 which will hold your space between now and the start of classes.
-                    Beginning the first week of classes, weekly fees of $25/per day for half days or $39/per day for full days will be charged to your account on Monday of each week. For your convenience weekly fees will be drafted automatically beginning Monday, Aug. 31 until you terminate your enrollment or the end of the CRVA. Need based, financial assistance is available.
+                    Beginning the first week of classes, weekly fees of $25/per day for half days or $39/per day for full days will be charged to your account on Monday of each week. For your convenience weekly fees will be drafted automatically beginning Monday, Aug. 31 until you cancel your registration or the end of the CRVA. Need based, financial assistance is available.
                     <br><br>
                     Please note: A one week notice is required to withdraw.
                     <br><br>
@@ -239,7 +239,7 @@
                     <br>Our staff is temperature checked on a daily basis, but we do not temperature check students.
                     <br><br>
                     <strong>Will the staff and students have to wear masks?</strong>
-                    <br>Our staff have been wearing masks all summer and will continue to do so while the County is in red and orange. The current State Emergency Order #1 allows for instructors to step back more than six feet from students and lower their mask to give large group instructions.
+                    <br>Our staff have been wearing masks all summer and will continue to do so while the County is in red and orange. The current State Emergency Order #1 allows for teachers to step back more than six feet from students and lower their mask to give large group instructions.
                     <br><br>
                     State Emergency Order #1 requires all students over the age of five to wear a cloth face covering while indoors until September 28, 2020. Students do not have to wear a face covering while outdoors if spread out appropriately from other children. Once the emergency order expires, parents will be allowed to make their own decision for their children regarding masks and face
                     coverings unless another order is put into place.
@@ -275,7 +275,7 @@
 
                 </ul>
                 <strong>Other</strong>
-                <br>At the end of next week, all enrolled students will receive an student profile form so that we can get to know your students better, complete necessary waiver forms, and begin our hiring process to find the right Instructional Guides for your child’s cohort.
+                <br>At the end of next week, all registered students will receive a student profile form so that we can get to know your students better, complete necessary waiver forms, and begin our hiring process to find the right Instructional Guides for your child’s cohort.
                 <br><br>
                 You can expect to hear from your Instructional Guide the week before school and private tours of the facility will be made available at that time as well. A private FB page will be started for our learning community at the end of the month to foster a sense of community between families and students.
                 </p>

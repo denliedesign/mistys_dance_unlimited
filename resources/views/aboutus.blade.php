@@ -1,6 +1,6 @@
 @extends('layouts.vanilla')
 
-@section('title', 'Instructors | Misty\'s Dance Unlimited')
+@section('title', 'Teachers | Misty\'s Dance Unlimited')
 @section('description', 'Learn About Our Team And How We Can Help You.')
 
 @section('content')
@@ -220,7 +220,7 @@
                            <button class="bioaccordion"><p class="lead my-1 p-0">Miss Kris Nandory</p></button>
                            <div class="biopanel-open">
 
-                               <p>Kris comes to us with 25 plus years of excelling in managerial careers. She started at MDU in 2013 and currently serves as our Family Services leader and well as coordinating our boutique, Everything Dance. She manages student enrollment, studio emails, family accounts, student attendance, and more! She loves working with families and kids!</p>
+                               <p>Kris comes to us with 25 plus years of excelling in managerial careers. She started at MDU in 2013 and currently serves as our Family Services leader and well as coordinating our boutique, Everything Dance. She manages student registration, studio emails, family accounts, student attendance, and more! She loves working with families and kids!</p>
                            </div>
                        </div>
                    </div>

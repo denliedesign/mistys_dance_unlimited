@@ -14,7 +14,7 @@
                     <div class="poppins" style="font-size: 20px;">
                         <p class="text-muted">MDU is growing!</p>
                         <p class="text-muted">Find employment opportunities with us</p>
-                        At Misty’s Dance Unlimited we are always looking for positive, enthusiastic, qualified instructors.
+                        At Misty’s Dance Unlimited we are always looking for positive, enthusiastic, qualified teachers.
                         <br><br>
                         Employment for teaching positions available include:
                         <br>

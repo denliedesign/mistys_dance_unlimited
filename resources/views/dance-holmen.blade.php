@@ -16,7 +16,7 @@
         <div class="container pb-5 pt-3">
             <h3 class="font-staat text-center" style="font-size: 100px; line-height: 0.9em;">Dance Holmen</h3>
             <p class="font-syne text-center" style="font-size: 22px;">
-                Misty's Dance Unlimited is your destination for exceptional dance. From ballet to hip-hop, our diverse dance classes in Holmen cater to every dancer’s dream. Our experienced instructors are dedicated to providing personalized attention, ensuring every student reaches their full potential. Embrace your love for dance in a community that celebrates creativity and growth.
+                Misty's Dance Unlimited is your destination for exceptional dance. From ballet to hip-hop, our diverse dance classes in Holmen cater to every dancer’s dream. Our experienced teachers are dedicated to providing personalized attention, ensuring every student reaches their full potential. Embrace your love for dance in a community that celebrates creativity and growth.
             </p>
         </div>
     </div>

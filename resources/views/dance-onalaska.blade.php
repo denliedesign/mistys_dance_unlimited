@@ -16,7 +16,7 @@
         <div class="container pb-5 pt-3">
             <h3 class="font-staat text-center" style="font-size: 100px; line-height: 0.9em;">Dance Onalaska</h3>
             <p class="font-syne text-center" style="font-size: 22px;">
-                Welcome to Misty's Dance Unlimited, where passion meets purpose in every dance lesson in Onalaska. Our studio offers a variety of dance classes tailored to nurture talent at all levels. Whether you're stepping onto the dance floor for the first time or honing advanced skills, our expert instructors are here to guide you. Join our community and experience the joy of dance in a supportive and inspiring setting.
+                Welcome to Misty's Dance Unlimited, where passion meets purpose in every dance lesson in Onalaska. Our studio offers a variety of dance classes tailored to nurture talent at all levels. Whether you're stepping onto the dance floor for the first time or honing advanced skills, our expert teachers are here to guide you. Join our community and experience the joy of dance in a supportive and inspiring setting.
             </p>
         </div>
     </div>

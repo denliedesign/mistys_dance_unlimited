@@ -105,7 +105,7 @@
         Providing a free and fun week of free summer classes
         <br>(More details coming on this new program)
         <br><br>
-        Splitting up fall enrollment fees (1st month and membership fee only)
+        Splitting up fall registration fees (1st month and membership fee only)
         <br><br>
         Modifying some of our dress code, class and costume requirements
         <br><br>

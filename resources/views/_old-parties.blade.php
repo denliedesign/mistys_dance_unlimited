@@ -18,7 +18,7 @@
                 <h2 class="mt-5">🎂 All Party Packages Include:</h2>
                 <ul>
                     <li>10 kids plus the birthday boy or girl</li>
-                    <li>Studio space with a private instructor</li>
+                    <li>Studio space with a private teacher</li>
                     <li>Public kitchen area for your food and drink</li>
                     <li>30-minute setup time</li>
                     <li>Music fun: Birthday child selects a song for a dance routine</li>

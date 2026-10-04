@@ -23,7 +23,7 @@
                 <div class="col-sm">
                     <h3 class="font-staat" style="font-size: 100px; line-height: 0.9em;">Dance Team La Crosse</h3>
                     <p class="font-syne" style="font-size: 22px;">
-                        Misty’s Dance Unlimited in La Crosse is your gateway to joining a prestigious La Crosse dance team. Our dance classes are meticulously designed to equip you with the essential skills, discipline, and artistry required to excel as a dancer. Whether you're a novice looking to get started or an experienced dancer aiming to improve, our instructors are here to guide you on your journey. Join Misty’s Dance Unlimited today and experience the transformative power of our dance programs, making you a sought-after talent for any La Crosse dance team.
+                        Misty’s Dance Unlimited in La Crosse is your gateway to joining a prestigious La Crosse dance team. Our dance classes are meticulously designed to equip you with the essential skills, discipline, and artistry required to excel as a dancer. Whether you're a novice looking to get started or an experienced dancer aiming to improve, our teachers are here to guide you on your journey. Join Misty’s Dance Unlimited today and experience the transformative power of our dance programs, making you a sought-after talent for any La Crosse dance team.
                     </p>
                     <div class="d-flex justify-content-center">
                         <a href="/fall">

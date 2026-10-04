@@ -22,7 +22,7 @@
                 <br><strong>Attire:</strong> Your favorite Frozen costume and ballet shoes
                 <br><strong>Performance:</strong> Special in-house performance for families on the last day of class
                 <br><br>
-                Sign Up your dancer by filling out this short form.  Miss Kris will be in touch to finalize payment and enrollment:)
+                Sign Up your dancer by filling out this short form.  Miss Kris will be in touch to finalize payment and registration:)
                 <br><br>
             </p>
 
@@ -63,7 +63,7 @@
                 </div>
                 @csrf
                 <div class="d-flex justify-content-center">
-                    <button type="submit" class="btn btn-danger mt-2">Enroll Now</button>
+                    <button type="submit" class="btn btn-danger mt-2">Register Now</button>
                 </div>
             </form>
         </div>

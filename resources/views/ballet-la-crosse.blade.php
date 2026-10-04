@@ -1,6 +1,6 @@
 @extends('layouts.app-lava')
 @section('title', 'Ballet La Crosse | Misty\'s Dance Unlimited')
-@section('description', 'Discover premier ballet training at Misty\'s Dance Unlimited in La Crosse. From full-length productions to pre-professional programs, join our community and learn ballet from expert instructors.')
+@section('description', 'Discover premier ballet training at Misty\'s Dance Unlimited in La Crosse. From full-length productions to pre-professional programs, join our community and learn ballet from expert teachers.')
 @section('content')
 
     <div class="banner-wrap d-none d-md-block" style="position: relative;">

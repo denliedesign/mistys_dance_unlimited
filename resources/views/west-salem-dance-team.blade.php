@@ -23,7 +23,7 @@
                 <div class="col-sm">
                     <h3 class="font-staat" style="font-size: 100px; line-height: 0.9em;">West Salem Dance Team</h3>
                     <p class="font-syne" style="font-size: 22px;">
-                        Misty’s Dance Unlimited in West Salem is your premier destination for aspiring dancers eager to join the distinguished West Salem dance team. Our West Salem dance classes are designed to nurture your talents and provide you with the expertise required to thrive as a dancer on the West Salem dance team. Whether you're just starting or have prior experience, our dedicated instructors are here to help you refine your skills and develop the grace, precision, and teamwork necessary to shine on the West Salem dance team. Join us today, and let Misty’s Dance Unlimited be your gateway to becoming a sought-after dancer on the West Salem dance team.
+                        Misty’s Dance Unlimited in West Salem is your premier destination for aspiring dancers eager to join the distinguished West Salem dance team. Our West Salem dance classes are designed to nurture your talents and provide you with the expertise required to thrive as a dancer on the West Salem dance team. Whether you're just starting or have prior experience, our dedicated teachers are here to help you refine your skills and develop the grace, precision, and teamwork necessary to shine on the West Salem dance team. Join us today, and let Misty’s Dance Unlimited be your gateway to becoming a sought-after dancer on the West Salem dance team.
                     </p>
                     <div class="d-flex justify-content-center">
                         <a href="/fall">

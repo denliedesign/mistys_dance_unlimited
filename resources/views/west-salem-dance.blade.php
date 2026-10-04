@@ -1,6 +1,6 @@
 @extends('layouts.app-lava')
 @section('title', 'West Salem Dance | Misty\'s Dance Unlimited')
-@section('description', 'Discover the Magic of Dance at Misty\'s Dance Unlimited in West Salem - Offering Exceptional Dance Classes, Instructors, and Values')
+@section('description', 'Discover the Magic of Dance at Misty\'s Dance Unlimited in West Salem - Offering Exceptional Dance Classes, Teachers, and Values')
 @section('content')
 
     <div class="banner-wrap d-none d-md-block" style="position: relative;">
@@ -35,9 +35,9 @@
             <hr class="my-5">
             <div class="row">
                 <div class="col-sm">
-                    <h3 class="font-staat" style="font-size: 100px; line-height: 0.9em;">Meet Our Dedicated Instructors - The Heart of Dance Education in West Salem</h3>
+                    <h3 class="font-staat" style="font-size: 100px; line-height: 0.9em;">Meet Our Dedicated Teachers - The Heart of Dance Education in West Salem</h3>
                     <p class="font-syne" style="font-size: 22px;">
-                        At Misty's Dance Unlimited, our team of passionate instructors is dedicated to nurturing young talent in West Salem. These instructors bring extensive experience and a deep love for dance to every lesson. Their guidance, support, and personalized attention create a vibrant and inspiring environment, ensuring that every child's dance experience in West Salem is both enriching and enjoyable.
+                        At Misty's Dance Unlimited, our team of passionate teachers is dedicated to nurturing young talent in West Salem. These teachers bring extensive experience and a deep love for dance to every lesson. Their guidance, support, and personalized attention create a vibrant and inspiring environment, ensuring that every child's dance experience in West Salem is both enriching and enjoyable.
                     </p>
                     <div class="d-flex justify-content-center">
                         <a href="/aboutus">

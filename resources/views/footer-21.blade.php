@@ -3,7 +3,7 @@
         <div id="next-steps-copy" class="row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-3 d-flex justify-content-center bg-white pt-5 pb-3">
             <div class="next-step mt-3 mt-md-0 shadow">
                 <p class="txt-green">Ready To Leap In?</p>
-                <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-green btn-family">&#10097; Enroll today!</div></a>
+                <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-green btn-family">&#10097; Register today!</div></a>
             </div>
 {{--            <div class="next-step mt-3 mt-md-0 shadow">--}}
 {{--                <p class="txt-blue">Want To Give It A Try?</p>--}}

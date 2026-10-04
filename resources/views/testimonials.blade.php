@@ -63,7 +63,7 @@
                             Kari Robinson
                         </p>
                         <p>
-                            My daughter and I LOVE Misty's Dance and all the personnel and instructors there.  We have always felt more than welcome walking in the door.  Everyone has a smile on their face.   They are professional, organized and great role models for our youth.  Plus they are doing all they can to keep a safe & clean environment amidst COVID-19!!
+                            My daughter and I LOVE Misty's Dance and all the personnel and teachers there.  We have always felt more than welcome walking in the door.  Everyone has a smile on their face.   They are professional, organized and great role models for our youth.  Plus they are doing all they can to keep a safe & clean environment amidst COVID-19!!
                         </p>
                     </div>
                 </div>
@@ -93,7 +93,7 @@
                             Elizabeth Bruns
                         </p>
                         <p>
-                            We couldn't be more pleased with the quality of instruction at Misty's Dance Unlimited. Our girls have grown so much in their dance knowledge and skill. They look so forward to class and learning from quality instructors who have wonderful, caring personalities. Misty is a role model to all the students and staff with her dancing talent, public speaking, and delightful personality. We are so thankful to have this classy studio in the area.                        </p>
+                            We couldn't be more pleased with the quality of instruction at Misty's Dance Unlimited. Our girls have grown so much in their dance knowledge and skill. They look so forward to class and learning from quality teachers who have wonderful, caring personalities. Misty is a role model to all the students and staff with her dancing talent, public speaking, and delightful personality. We are so thankful to have this classy studio in the area.                        </p>
                     </div>
                 </div>
                 <div class="col-md m-4 p-4 shadow">

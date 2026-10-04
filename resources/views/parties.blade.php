@@ -25,7 +25,7 @@
                 <h2 class="mt-5">🎂 What’s Included with EVERY PARTY PACKAGE:</h2>
                 <ul>
                     <li>Fun for 10 kids (including the birthday child); $15 each for extra guests (up to 15 kids total)</li>
-                    <li>Private studio space with a dedicated dance instructor</li>
+                    <li>Private studio space with a dedicated dance teacher</li>
                     <li>A dance routine to a song chosen by the birthday child and a final performance for friends and family</li>
                     <li>A $10 gift certificate to Willow & Grace Boutique for the birthday child</li>
                 </ul>

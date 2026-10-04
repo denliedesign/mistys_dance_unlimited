@@ -37,7 +37,7 @@
                 <div class="col-sm">
                     <h3 class="font-staat" style="font-size: 100px; line-height: 0.9em;">Expert Instruction at Our La Crosse Ballet Camps</h3>
                     <p class="font-syne" style="font-size: 22px;">
-                        Our ballet camps in La Crosse are taught by seasoned instructors with professional backgrounds in dance. They bring a wealth of knowledge and passion to each class, ensuring that every camper receives personalized attention and guidance. Our teachers are dedicated to creating a supportive and motivating environment where all students can thrive and achieve their personal best.
+                        Our ballet camps in La Crosse are taught by seasoned teachers with professional backgrounds in dance. They bring a wealth of knowledge and passion to each class, ensuring that every camper receives personalized attention and guidance. Our teachers are dedicated to creating a supportive and motivating environment where all students can thrive and achieve their personal best.
                     </p>
                     <div class="d-flex justify-content-center">
                         <a href="/aboutus">

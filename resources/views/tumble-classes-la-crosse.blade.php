@@ -1,6 +1,6 @@
 @extends('layouts.app-lava')
 @section('title', 'Ballet La Crosse | Misty\'s Dance Unlimited')
-@section('description', 'Elevate your acro and tumbling skills at Misty\'s Dance Unlimited in La Crosse! Join our expertly taught classes, led by certified Acrobatic Arts instructors, to enhance your agility and strength in a supportive environment. Suitable for all ages and skill levels.')
+@section('description', 'Elevate your acro and tumbling skills at Misty\'s Dance Unlimited in La Crosse! Join our expertly taught classes, led by certified Acrobatic Arts teachers, to enhance your agility and strength in a supportive environment. Suitable for all ages and skill levels.')
 @section('content')
 
     <div class="banner-wrap d-none d-md-block" style="position: relative;">
@@ -23,7 +23,7 @@
                 <div class="col-sm">
                     <h3 class="font-staat" style="font-size: 100px; line-height: 0.9em;">Discover Tumbling Classes in La Crosse</h3>
                     <p class="font-syne" style="font-size: 22px;">
-                        At Misty's Dance Unlimited, our tumbling classes offer students of all ages the opportunity to build strength, flexibility, and confidence. With a team of trained and certified instructors, we provide a safe and supportive environment tailored for beginners and advanced gymnasts alike. Our curriculum is designed to challenge each student appropriately, ensuring personal growth and skill development in every class.
+                        At Misty's Dance Unlimited, our tumbling classes offer students of all ages the opportunity to build strength, flexibility, and confidence. With a team of trained and certified teachers, we provide a safe and supportive environment tailored for beginners and advanced gymnasts alike. Our curriculum is designed to challenge each student appropriately, ensuring personal growth and skill development in every class.
                     </p>
                     <div class="d-flex justify-content-center">
                         <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank">

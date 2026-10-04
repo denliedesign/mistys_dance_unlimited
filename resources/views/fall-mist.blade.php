@@ -5,7 +5,7 @@
         <div class="container pb-5 pt-3">
             <p class="pb-0 mb-0 poppins text-muted" style="font-size: 30px;">MDU 2026-2027</p>
             <h1 class="born-7 poppins fw-bold p-0 m-0" style="font-size: 45px;">Class Schedule</h1>
-            <div style="color: white; font-size: 20px;" class="btn btn-danger poppins fw-bold btn-interact me-3 mt-3"><a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" class="text-white text-decoration-none" target="_blank">Enroll Now!</a></div>
+            <div style="color: white; font-size: 20px;" class="btn btn-danger poppins fw-bold btn-interact me-3 mt-3"><a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" class="text-white text-decoration-none" target="_blank">Register Now!</a></div>
             <div style="background: #008CC0; color: white; font-size: 20px;" class="btn poppins fw-bold btn-interact me-3 mt-3"><a class="text-white text-decoration-none" href="/images/7-20-26-fall-schedule.pdf" target="_blank">View Class Schedule PDF</a></div>
             <div style="border: 2px solid #008CC0; color: #008CC0; background: white; font-size: 20px;" class="btn poppins fw-bold btn-interact me-3 mt-3"><a style="color: #008CC0;"  class="text-decoration-none" href="/images/26-27-dress-code.pdf" target="_blank">Dress Code</a></div>
             <div style="border: 2px solid #008CC0; color: #008CC0; background: white; font-size: 20px;" class="btn poppins fw-bold btn-interact me-3 mt-3"><a style="color: #008CC0;" class="text-decoration-none" href="/images/26-27-policy.pdf" target="_blank">Studio Policies</a></div>

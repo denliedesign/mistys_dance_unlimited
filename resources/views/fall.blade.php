@@ -12,8 +12,8 @@
         <div class="container py-5">
             <h2 class="text-center">2022-23 Class Schedule</h2>
             <p class="text-center">
-                Online Enrollment has begun! Join the fun – YOU belong HERE!
-{{--                It’s not too late to join the fun – enrollment ends January 31st--}}
+                Online Registration has begun! Join the fun – YOU belong HERE!
+{{--                It’s not too late to join the fun – registration ends January 31st--}}
 {{--                <br>--}}
 {{--                Sign up <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank">HERE</a>--}}
             </p>

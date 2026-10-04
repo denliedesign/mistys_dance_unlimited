@@ -33,7 +33,7 @@
                 <hr class="d-block d-md-none my-2" style="width: 80%;">
                 <div>Voted “Best of <br>La Crosse 2025</div>
                 <hr class="d-block d-md-none my-2" style="width: 80%;">
-                <div>CPR & YPAD<br>Certified Instructors</div>
+                <div>CPR & YPAD<br>Certified Teachers</div>
             </div>
         </div>
     </section>
@@ -152,7 +152,7 @@ your availability.
 Your child attends the
 class and gets a feel for
 the studio, the
-instructor, and the fun!
+teacher, and the fun!
                             </span>
                         </div>
                     </div>
@@ -228,7 +228,7 @@ something new.
                                         </button>
                                     </div>
                                     <div id="flush-collapseFour" class="accordion-collapse collapse" aria-labelledby="flush-headingFour" data-bs-parent="#accordionFlushExample">
-                                        <div class="accordion-body text-muted">We'll follow up to see how the trial went and share all your options for enrolling. No pressure—just info to help you decide what works best for your family!
+                                        <div class="accordion-body text-muted">We'll follow up to see how the trial went and share all your options for registering. No pressure—just info to help you decide what works best for your family!
 
                                         </div>
                                     </div>
@@ -262,7 +262,7 @@ something new.
                     For Your Child. Take a Leap!</div>
                 <div class="col-md-4 d-flex align-items-center justify-content-end">
                     <div><a href="/TrialClass#form"><div class="btn btn-lg" style="background: #EBE834; font-weight: bold;">Book Trial</div></a></div>
-                    <div class="ms-4"><a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-lg" style="background: #D8D8D8; font-weight: bold;">Enroll Now</div></a></div>
+                    <div class="ms-4"><a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"><div class="btn btn-lg" style="background: #D8D8D8; font-weight: bold;">Register Now</div></a></div>
                 </div>
             </div>
         </div>

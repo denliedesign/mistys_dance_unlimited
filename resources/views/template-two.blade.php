@@ -25,14 +25,14 @@
 </div>
 
 
-    <!-- PINK ENROLLMENT WITH CTA
+    <!-- PINK REGISTRATION WITH CTA
 
     <div id="primary-bg">
         <div class="color-filter-pink"></div>
         <h2 id="primary-txt-mobile" class="d-md-none">Take The First Step To Dance With Us</h2>
         <h2 id="primary-txt" class="d-none d-md-block">Take The First Step To Dance With Us</h2>
-        <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank" class="d-md-none btn-opacity"><div id="button-mobile" class="shadow btn btn-lg btn-turq primary-btn-pos btn-family">&#10097; Enroll today!</div></a>
-        <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank" class="d-none d-md-block btn-opacity"><div id="button-tablet" class="shadow btn btn-lg btn-turq primary-btn-pos btn-family">&#10097; Enroll today!</div></a>
+        <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank" class="d-md-none btn-opacity"><div id="button-mobile" class="shadow btn btn-lg btn-turq primary-btn-pos btn-family">&#10097; Register today!</div></a>
+        <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank" class="d-none d-md-block btn-opacity"><div id="button-tablet" class="shadow btn btn-lg btn-turq primary-btn-pos btn-family">&#10097; Register today!</div></a>
     </div>
 
 {{--    @include('trial-modal')--}}
@@ -42,7 +42,7 @@
                 <div class="row row-cols-1 row-cols-sm-1 row-cols-md-3 row-cols-lg-3 d-flex justify-content-center">
                     <div class="next-step mt-3 mt-md-0 shadow">
                         <p class="txt-green">Ready To Leap In?</p>
-                        <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-green btn-family">&#10097; Enroll today!</div></a>
+                        <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank" class="btn-opacity"><div class="shadow btn btn-lg btn-green btn-family">&#10097; Register today!</div></a>
                 </div>
 {{--                <div class="next-step mt-3 mt-md-0 shadow">--}}
     {{--                    <p class="txt-blue">Want To Give It A Try?</p>--}}
@@ -58,7 +58,7 @@
         </div>
     </div>
 
-     END PINK ENROLLMENT WITH CTA-->
+     END PINK REGISTRATION WITH CTA-->
 
 {{--    <div id="vision" class="text-center text-white">--}}
     <div class="text-center text-white py-5">
@@ -157,7 +157,7 @@
                         <br><br>
                         Dancers in the program gain confidence, coordination, strength and lifelong friends, all while feeling like a star.  Our youth volunteers learn important lessons in responsibility and friendship by providing one-on-one assistance their dancer.
                         <br><br>
-                        The charitable contributions of youth volunteers, dance instructors, and MDU provide dance classes, supplies and costumes to dancers with special needs at no cost to their parents.
+                        The charitable contributions of youth volunteers, dance teachers, and MDU provide dance classes, supplies and costumes to dancers with special needs at no cost to their parents.
                     </p>
                 </div>
             </div>

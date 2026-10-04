@@ -18,7 +18,7 @@
             <p class="font-syne text-center" style="font-size: 22px;">
                 <mark><small>Misty's Dance Unlimited located in Onalaska and Holmen, welcomes families from all surrounding areas including La Crosse.</small></mark>
                 <br>
-                Misty's Dance Unlimited is your destination for exceptional dance education. We serve the community with high-quality dance classes in La Crosse that inspire and motivate. Regardless of your age or experience level, our dedicated instructors are here to guide you through your dance journey, ensuring personal growth and fun in every class.
+                Misty's Dance Unlimited is your destination for exceptional dance education. We serve the community with high-quality dance classes in La Crosse that inspire and motivate. Regardless of your age or experience level, our dedicated teachers are here to guide you through your dance journey, ensuring personal growth and fun in every class.
             </p>
             <div class="text-center">
                 <a class="text-decoration-none" href="/dance-studios-in-la-crosse-wi"><small class="text-muted">Dance Studios in La Crosse WI</small></a>

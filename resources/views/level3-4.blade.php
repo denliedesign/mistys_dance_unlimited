@@ -9,7 +9,7 @@
     </div>
     <section class="new-class-section">
         <h3 class="text-center py-5">Levels III & IV <span class="class-title-sub-txt">High Intermediate</span></h3>
-        <p>Graded Technique classes are for dancers age 9 and up who love to dance. Advancement is based on correct placement, skill mastery, and instructor recommendation-not by age-which means all classes have a variety of age levels. Students spend an average of two years at each level before mastering the skills to advance. Students receive annual skills tests. In addition to Graded Technique classes, extend your dancing experience with Specialty Classes.</p>
+        <p>Graded Technique classes are for dancers age 9 and up who love to dance. Advancement is based on correct placement, skill mastery, and teacher recommendation-not by age-which means all classes have a variety of age levels. Students spend an average of two years at each level before mastering the skills to advance. Students receive annual skills tests. In addition to Graded Technique classes, extend your dancing experience with Specialty Classes.</p>
     </section>
 
     <section class="class-info">

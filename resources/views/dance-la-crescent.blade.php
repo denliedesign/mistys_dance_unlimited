@@ -18,7 +18,7 @@
             <p class="font-syne text-center" style="font-size: 22px;">
                 <mark><small>Misty's Dance Unlimited located in Onalaska and Holmen, welcomes families from all surrounding areas including La Crescent.</small></mark>
                 <br>
-                Misty's Dance Unlimited is recognized as a premier destination for dance education. Our dance studio offers a range of La Crescent dance classes designed to nurture talent at any level. With a focus on both technique and self-expression, our instructors are passionate about helping each dancer achieve their fullest potential.
+                Misty's Dance Unlimited is recognized as a premier destination for dance education. Our dance studio offers a range of La Crescent dance classes designed to nurture talent at any level. With a focus on both technique and self-expression, our teachers are passionate about helping each dancer achieve their fullest potential.
             </p>
         </div>
     </div>

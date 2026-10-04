@@ -37,7 +37,7 @@
     {{--                <div class="text-center text-white">--}}
     {{--                    <div class="fw-bold" style="font-size: 2em;">FIND JOY IN MOVING</div>--}}
     {{--                    <div class="txt-crimson" style="font-size: 1.5em;">Try your <u>FREE</u> trial class today.</div>--}}
-    {{--                    --}}{{--                        <div class="txt-crimson" style="font-size: 1.5em;">Our Experienced Dance Instructors Will Guide You In A <u>FREE</u> Video-Recorded Dance Lesson. Enter Your Email To Get Started.</div>--}}
+    {{--                    --}}{{--                        <div class="txt-crimson" style="font-size: 1.5em;">Our Experienced Dance Teachers Will Guide You In A <u>FREE</u> Video-Recorded Dance Lesson. Enter Your Email To Get Started.</div>--}}
     {{--                </div>--}}
     {{--            </div>--}}
     {{--            <div class="col-sm d-flex justify-content-center align-items-center">--}}
@@ -757,7 +757,7 @@
                             <p class="txt-green">Ready To Leap In?</p>
                             <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"
                                class="">
-                                <div class="shadow btn btn-lg btn-green btn-family">&#10097; Enroll today!</div>
+                                <div class="shadow btn btn-lg btn-green btn-family">&#10097; Register today!</div>
                             </a>
                         </div>
                     </div>
@@ -800,7 +800,7 @@
                             <p class="txt-green">Ready To Leap In?</p>
                             <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank"
                                class="">
-                                <div class="shadow btn btn-lg btn-green btn-family">&#10097; Enroll today!</div>
+                                <div class="shadow btn btn-lg btn-green btn-family">&#10097; Register today!</div>
                             </a>
                         </div>
                     </div>

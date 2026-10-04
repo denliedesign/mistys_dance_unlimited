@@ -21,7 +21,7 @@
             <ul>
                 <li>a private studio</li>
                 <li>table and chairs for guests</li>
-                <li>a fabulous dance instructor</li>
+                <li>a fabulous dance teacher</li>
                 <li>dance choreography</li>
                 <li>show for parents at the end of the party</li>
                 <li>*Parents, please bring decorations and cake or treats!</li>

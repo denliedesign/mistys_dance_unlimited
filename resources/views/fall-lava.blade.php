@@ -15,7 +15,7 @@
             <div class="row d-flex align-items-center">
                 <div class="col-sm text-center">
 {{--                    <p class="text-center">--}}
-{{--                        Enrollment has closed for our full dance season which runs mid August through mid May.<br>We invite you to check out our mini sessions.--}}
+{{--                        Registration has closed for our full dance season which runs mid August through mid May.<br>We invite you to check out our mini sessions.--}}
 {{--                    </p>--}}
                     <div class="m-2 px-2">
                         <a href="/images/24-25-fall-b.pdf" target="_blank"><button class="btn btn-green btn-lg btn-family">VIEW CLASS SCHEDULE PDF</button></a>
@@ -30,8 +30,8 @@
                 <div class="col-sm">
                     <h3 class="font-staat" style="font-size: 100px; line-height: 0.9em;">2024-25 Class Schedule</h3>
                     <p class="font-syne" style="font-size: 22px;">
-{{--                        Online Enrollment has begun! Join the fun – YOU belong HERE!--}}
-{{--                        Online enrollment begins Saturday, June 10th. Join the fun - YOU belong HERE!--}}
+{{--                        Online Registration has begun! Join the fun – YOU belong HERE!--}}
+{{--                        Online registration begins Saturday, June 10th. Join the fun - YOU belong HERE!--}}
                     </p>
                 </div>
             </div>
