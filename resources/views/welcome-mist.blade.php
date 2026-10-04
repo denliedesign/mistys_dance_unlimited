@@ -1,4 +1,9 @@
 @extends('layouts.app-mist')
+@section('title', 'Dance Classes in Onalaska & Holmen | Misty’s Dance Unlimited')
+@section('description', 'Find dance classes for kids and teens in Onalaska and Holmen, serving La Crosse area families. Explore ballet, hip hop, tap, jazz and a free trial.')
+@section('structured_data')
+@include('seo.business-schema')
+@endsection
 @section('content')
     {{--    background: RGBA(237, 23, 77, 0.1); red--}}
     {{--background: RGBA(235, 232, 46, 0.1); yellow--}}
@@ -7,9 +12,9 @@
 {{--    <div class="" style="height: 125px;"></div>--}}
 
     <div class="d-block d-lg-none mx-4">
-        <h1 class="born-1 poppins fw-bold p-0 m-0" style="font-size: 45px; transform: translateY(45px); opacity: 0;">You belong here <span style="color: #ED174D;"><ion-icon name="heart"></ion-icon></span></h1>
+        <p class="born-1 poppins fw-bold p-0 m-0" style="font-size: 45px; transform: translateY(45px); opacity: 0;">You belong here <span style="color: #ED174D;"><ion-icon name="heart"></ion-icon></span></p>
         <div class="born-2" style="transform: translateY(45px); opacity: 0;">
-            <h2 class="poppins p-0 m-0 text-muted my-3" style="font-size: 20px;">Your child will fall in love with dance with our classes for ages 2-18!</h2>
+            <p class="poppins p-0 m-0 text-muted my-3" style="font-size: 20px;">Your child will fall in love with dance with our classes for ages 2-18!</p>
             <div style="background: #008CC0; color: white; font-size: 20px;" class="btn poppins fw-bold btn-interact"><a class="text-white text-decoration-none" href="/fall">Find your class</a></div>
         </div>
     </div>
@@ -52,16 +57,16 @@
 {{--    <div class="" style="height: 125px;"></div>--}}
 
     <div class="d-block d-lg-none mx-4">
-        <h1 class="born-3 poppins fw-bold p-0 m-0" style="font-size: 45px; transform: translateY(45px); opacity: 0;">Dance makes great kids! <ion-icon name="happy-outline"></ion-icon></h1>
-        <h2 class="born-4 poppins p-0 m-0 text-muted my-3" style="font-size: 20px; transform: translateY(45px); opacity: 0;">From your child’s first class to their graduation performance, your child will thrive at MDU! At MDU, dance classes are More Than Just Great Dancing!®. Our dancers go beyond technique to develop important life skills, learning to be respectful, confident, and conscientious young people who share their gifts and talents with the community.</h2>
+        <h2 class="born-3 poppins fw-bold p-0 m-0" style="font-size: 45px; transform: translateY(45px); opacity: 0;">Dance makes great kids! <ion-icon name="happy-outline"></ion-icon></h2>
+        <p class="born-4 poppins p-0 m-0 text-muted my-3" style="font-size: 20px; transform: translateY(45px); opacity: 0;">From your child’s first class to their graduation performance, your child will thrive at MDU! At MDU, dance classes are More Than Just Great Dancing!®. Our dancers go beyond technique to develop important life skills, learning to be respectful, confident, and conscientious young people who share their gifts and talents with the community.</p>
     </div>
     @include('/desktop/home/_vision')
 
     <div class="" style="height: 125px;"></div>
 
     <div class="mx-4 d-block d-lg-none">
-        <h1 class="born-5 poppins fw-bold p-0 m-0" style="font-size: 45px; transform: translateY(45px); opacity: 0;">Did you know... <ion-icon name="bulb-outline"></ion-icon></h1>
-        <h2 class="born-6 poppins p-0 m-0 text-muted" style="font-size: 20px; transform: translateY(45px); opacity: 0;">Students who regularly participate in dance:</h2>
+        <h2 class="born-5 poppins fw-bold p-0 m-0" style="font-size: 45px; transform: translateY(45px); opacity: 0;">Did you know... <ion-icon name="bulb-outline"></ion-icon></h2>
+        <p class="born-6 poppins p-0 m-0 text-muted" style="font-size: 20px; transform: translateY(45px); opacity: 0;">Students who regularly participate in dance:</p>
         <div class="mx-4">
             <div class="my-4" style="display: grid; grid-template-columns: auto 1fr; align-items: center;">
                 <div style="position: relative;">
@@ -121,7 +126,7 @@
     <div class="" style="height: 125px;"></div>
 
     <div class="d-block d-md-none">
-        <h1 class="poppins fw-bold p-0 mx-4 my-0" style="font-size: 45px;">Check Out Our Convenient Classes & Camps</h1>
+        <h2 class="poppins fw-bold p-0 mx-4 my-0" style="font-size: 45px;">Check Out Our Convenient Classes & Camps</h2>
         <div class="ages-wrapper">
             <div class="ages-container">
                 <div class="age">
@@ -157,7 +162,7 @@
                         <div style="position: absolute; height: 100%; width: 100%; background: #ED174D; border-radius: 30px; z-index: 4;">
                             <div class="d-flex justify-content-center align-items-center poppins text-white" style="height: 100%;">
                                 <div class="mx-2 text-center">
-                                    <h2 class="text-uppercase my-0 py-0" style="font-size: 20px;">Program Feature <ion-icon name="heart" style=""></ion-icon></h2>
+                                    <p class="text-uppercase my-0 py-0" style="font-size: 20px;">Program Feature <ion-icon name="heart" style=""></ion-icon></p>
                                     <p class="fw-bold my-0 py-0" style="font-size: 30px;">Darby's Dancers</p>
                                     <p style="font-size: 16px;" class="my-0 py-0">
                                         MDU is proud to offer through a chapter of the national non-profit organization Darby’s Dancers, an opportunity for children with special needs to participate in the performing arts through dance education at no cost to their families. MDU's chapter of Darby's Dancers is supported by the
@@ -179,14 +184,14 @@
 
 
     <section class="d-block d-lg-none mx-4">
-        <h1 class="poppins fw-bold p-0 my-0" style="font-size: 45px;">Misty's Dance Unlimited has MORE to love!</h1>
+        <h2 class="poppins fw-bold p-0 my-0" style="font-size: 45px;">Misty's Dance Unlimited has MORE to love!</h2>
         <div class="row row-cols-2 my-5 py-2">
             <div class="col-3" style="position: relative;">
                 <div class="poppins fw-bold boop-1" style="height: 0px; width: 0px; background: #ED174D; color: white; border-radius: 50%; font-size: 30px; position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);"><div style="height: 100%; width: 100%;" class="d-flex justify-content-center align-items-center">2</div></div>
                 {{--                <img src="/images/Color_9.png" alt="dancer illustration" class="img-fluid">--}}
             </div>
             <div class="col-9 d-flex align-items-center">
-                <h1 class="poppins text-muted p-0 m-0" style="font-size: 20px;">Convenient locations in Holmen & Onalaska</h1>
+                <p class="poppins text-muted p-0 m-0" style="font-size: 20px;">Convenient locations in Holmen & Onalaska</p>
             </div>
         </div>
 
@@ -196,7 +201,7 @@
                 {{--                <img src="/images/Color_3.png" alt="dancer illustration" class="img-fluid">--}}
             </div>
             <div class="col-9 d-flex align-items-center">
-                <h1 class="poppins text-muted p-0 m-0" style="font-size: 20px;">Years of serving the Coulee region</h1>
+                <p class="poppins text-muted p-0 m-0" style="font-size: 20px;">Years of serving the Coulee region</p>
             </div>
         </div>
         <div class="row row-cols-2 my-5 py-2">
@@ -205,7 +210,7 @@
                 {{--                <img src="/images/Color_2.png" alt="dancer illustration" class="img-fluid">--}}
             </div>
             <div class="col-9 d-flex align-items-center">
-                <h1 class="poppins text-muted p-0 m-0" style="font-size: 20px;">Youth Protection Association for Dance™ trained educators and staff</h1>
+                <p class="poppins text-muted p-0 m-0" style="font-size: 20px;">Youth Protection Association for Dance™ trained educators and staff</p>
             </div>
         </div>
         <div class="row row-cols-2 my-5 py-2">
@@ -214,7 +219,7 @@
                 {{--                <img src="/images/Color_4.png" alt="dancer illustration" class="img-fluid">--}}
             </div>
             <div class="col-9 d-flex align-items-center">
-                <h1 class="poppins text-muted p-0 m-0" style="font-size: 20px;">Classes per week to choose from</h1>
+                <p class="poppins text-muted p-0 m-0" style="font-size: 20px;">Classes per week to choose from</p>
             </div>
         </div>
     </section>
@@ -240,7 +245,7 @@
     <div class="" style="height: 125px;"></div>
 
     <section class="d-block d-lg-none mx-4">
-        <h1 class="poppins fw-bold p-0 m-0 text-center" style="font-size: 45px;">Thank you parents for making MDU<br> "Best of La Crosse" in 2024!</h1>
+        <h2 class="poppins fw-bold p-0 m-0 text-center" style="font-size: 45px;">Thank you parents for making MDU<br> "Best of La Crosse" in 2024!</h2>
         <div class="bloom-1 my-4" style="position: relative; transform: scale(0.95) translateY(10px);">
             <div class="rounded p-3" style="background: #FFE9ED;">
                 <div class="d-flex align-items-center">
@@ -292,9 +297,9 @@
     <div class="" style="height: 125px;"></div>
 
     <div class="mx-4 d-block d-lg-none">
-        <h1 class="born-7 poppins fw-bold p-0 m-0" style="font-size: 45px; transform: translateY(45px); opacity: 0;">See what dance can do for your child!</h1>
+        <h2 class="born-7 poppins fw-bold p-0 m-0" style="font-size: 45px; transform: translateY(45px); opacity: 0;">See what dance can do for your child!</h2>
         <div class="born-8" style="transform: translateY(45px); opacity: 0;">
-            <h2 class="poppins p-0 m-0 text-muted my-3" style="font-size: 20px;">"At Misty's Dance Unlimited, we don't teach kids to make great dancers. We teach dance to make great kids!" <small><em>-Misty Lown</em></small></h2>
+            <p class="poppins p-0 m-0 text-muted my-3" style="font-size: 20px;">"At Misty's Dance Unlimited, we don't teach kids to make great dancers. We teach dance to make great kids!" <small><em>-Misty Lown</em></small></p>
             <div style="background: #008CC0; color: white; font-size: 20px;" class="btn poppins fw-bold btn-interact"><a class="text-white text-decoration-none" href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank">Register today</a></div>
 {{--            <div style="background: #ED174D; color: white; font-size: 20px;" class="btn poppins fw-bold btn-interact mx-3"><a class="text-white text-decoration-none" href="#footer-mist">Contact us</a></div>--}}
         </div>
@@ -407,15 +412,15 @@
         <p class="text-muted mb-0 poppins" style="font-size: 20px;">Proudly partnering with these outstanding organizations</p>
         {{--    <div class="fw-bold poppins p-0" style="font-size: 20px; line-height: 0.9;">Proudly partnering with these outstanding organizations</div>--}}
         <div class="row row-cols-3 row-cols-sm-3 row-cols-md-3 row-cols-lg-3">
-            <div class="col p-0 d-flex align-items-center justify-content-center"><x-site-image src="/images-mist/partner1.jpeg" alt="partner logo" width="320" height="219" loading="lazy" sizes="100vw" /></div>
-            <div class="col p-0 d-flex align-items-center justify-content-center"><x-site-image src="/images-mist/partner2.png" alt="partner logo" width="150" height="133" loading="lazy" sizes="100vw" /></div>
-            <div class="col p-0 d-flex align-items-center justify-content-center"><x-site-image src="/images-mist/partner3.png" alt="partner logo" width="400" height="67" loading="lazy" sizes="100vw" /></div>
-            <div class="col p-0 d-flex align-items-center justify-content-center"><x-site-image src="/images-mist/partner4.png" alt="partner logo" width="300" height="67" loading="lazy" sizes="100vw" /></div>
-            <div class="col p-0 d-flex align-items-center justify-content-center"><x-site-image src="/images-mist/partner5.png" alt="partner logo" width="407" height="106" loading="lazy" sizes="100vw" /></div>
-            <div class="col p-0 d-flex align-items-center justify-content-center"><x-site-image src="/images-mist/partner6.jpg" alt="partner logo" width="300" height="106" loading="lazy" sizes="100vw" /></div>
-            <div class="col p-0 d-flex align-items-center justify-content-center"><x-site-image src="/images-mist/partner7.png" alt="partner logo" width="282" height="73" loading="lazy" sizes="100vw" /></div>
-            <div class="col p-0 d-flex align-items-center justify-content-center"><x-site-image src="/images-mist/partner8.jpg" alt="partner logo" width="359" height="129" loading="lazy" sizes="100vw" /></div>
-            <div class="col p-0 d-flex align-items-center justify-content-center"><x-site-image src="/images-mist/partner9.png" alt="partner logo" width="800" height="96" loading="lazy" sizes="100vw" /></div>
+            <div class="col p-0 d-flex align-items-center justify-content-center"><a href="https://www.reedmusicstudios.com/" target="_blank" rel="noopener noreferrer" class="d-flex align-items-center justify-content-center" style="max-width: 100%;" aria-label="Reed Music Studios (opens in a new tab)"><x-site-image src="/images-mist/partner1.jpeg" alt="Reed Music Studios" width="320" height="219" loading="lazy" sizes="100vw" /></a></div>
+            <div class="col p-0 d-flex align-items-center justify-content-center"><a href="https://www.viterbo.edu/" target="_blank" rel="noopener noreferrer" class="d-flex align-items-center justify-content-center" style="max-width: 100%;" aria-label="Viterbo University (opens in a new tab)"><x-site-image src="/images-mist/partner2.png" alt="Viterbo University" width="150" height="133" loading="lazy" sizes="100vw" /></a></div>
+            <div class="col p-0 d-flex align-items-center justify-content-center"><a href="https://morethanjustgreatdancing.com/" target="_blank" rel="noopener noreferrer" class="d-flex align-items-center justify-content-center" style="max-width: 100%;" aria-label="More Than Just Great Dancing! (opens in a new tab)"><x-site-image src="/images-mist/partner3.png" alt="More Than Just Great Dancing!" width="400" height="67" loading="lazy" sizes="100vw" /></a></div>
+            <div class="col p-0 d-flex align-items-center justify-content-center"><a href="https://www.lacrossesymphony.org/" target="_blank" rel="noopener noreferrer" class="d-flex align-items-center justify-content-center" style="max-width: 100%;" aria-label="La Crosse Symphony Orchestra (opens in a new tab)"><x-site-image src="/images-mist/partner4.png" alt="La Crosse Symphony Orchestra" width="300" height="67" loading="lazy" sizes="100vw" /></a></div>
+            <div class="col p-0 d-flex align-items-center justify-content-center"><a href="https://www.chancetodancefoundation.org/" target="_blank" rel="noopener noreferrer" class="d-flex align-items-center justify-content-center" style="max-width: 100%;" aria-label="A Chance to Dance Foundation (opens in a new tab)"><x-site-image src="/images-mist/partner5.png" alt="A Chance to Dance Foundation" width="407" height="106" loading="lazy" sizes="100vw" /></a></div>
+            <div class="col p-0 d-flex align-items-center justify-content-center"><x-site-image src="/images-mist/partner6.jpg" alt="Coulee Parenting Connection" width="300" height="106" loading="lazy" sizes="100vw" /></div>
+            <div class="col p-0 d-flex align-items-center justify-content-center"><a href="https://www.webercenterarts.org/" target="_blank" rel="noopener noreferrer" class="d-flex align-items-center justify-content-center" style="max-width: 100%;" aria-label="Weber Center for the Performing Arts (opens in a new tab)"><x-site-image src="/images-mist/partner7.png" alt="Weber Center for the Performing Arts" width="282" height="73" loading="lazy" sizes="100vw" /></a></div>
+            <div class="col p-0 d-flex align-items-center justify-content-center"><x-site-image src="/images-mist/partner8.jpg" alt="Ballet La Crosse" width="359" height="129" loading="lazy" sizes="100vw" /></div>
+            <div class="col p-0 d-flex align-items-center justify-content-center"><a href="https://www.thewillowandgrace.com/" target="_blank" rel="noopener noreferrer" class="d-flex align-items-center justify-content-center" style="max-width: 100%;" aria-label="Willow &amp; Grace Boutique (opens in a new tab)"><x-site-image src="/images-mist/partner9.png" alt="Willow &amp; Grace Boutique" width="800" height="96" loading="lazy" sizes="100vw" /></a></div>
         </div>
     </div>
     @include('/desktop/home/_partners')

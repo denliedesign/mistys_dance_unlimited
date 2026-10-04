@@ -1,24 +1,18 @@
-@extends('layouts.app-lava')
-@section('title', 'Dance Classes in Onalaska | Misty\'s Dance Unlimited')
-@section('description', 'Discover top-tier dance classes in Onalaska at Misty\'s Dance Unlimited. Elevate your skills in a welcoming environment designed to inspire.')
-@section('content')
-
-    <div class="banner-wrap d-none d-md-block" style="position: relative;">
-        <div class="banner-la-crosse"></div>
-        <div class="custom-shape-divider-bottom-1663856745">
-            <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
-                <path d="M598.97 114.72L0 0 0 120 1200 120 1200 0 598.97 114.72z" class="shape-fill"></path>
-            </svg>
-        </div>
-    </div>
-
-    <div class="bg-white">
-        <div class="container pb-5 pt-3">
-            <h3 class="font-staat text-center" style="font-size: 100px; line-height: 0.9em;">Dance Onalaska</h3>
-            <p class="font-syne text-center" style="font-size: 22px;">
-                Welcome to Misty's Dance Unlimited, where passion meets purpose in every dance lesson in Onalaska. Our studio offers a variety of dance classes tailored to nurture talent at all levels. Whether you're stepping onto the dance floor for the first time or honing advanced skills, our expert teachers are here to guide you. Join our community and experience the joy of dance in a supportive and inspiring setting.
-            </p>
-        </div>
-    </div>
-
+@extends('seo.layout')
+@section('title', 'Dance classes in Onalaska, WI | Misty’s Dance Unlimited')
+@section('description', 'Explore MDU dance classes for Onalaska families. Compare programs, plan your studio visit, view schedules and book a free trial.')
+@section('page')
+<h1>Dance classes in Onalaska, WI</h1>
+<h2 class="mt-4">Visit our Onalaska studio</h2>
+<p>Misty’s Dance Unlimited’s Onalaska studio is located at 923 12th Ave S, Suite 103. For families looking for dance lessons close to home in Onalaska, this is the address to use when comparing classes with your school pickup, workday, and evening routine. MDU serves the wider La Crosse area as well, with programs for young beginners through experienced teen dancers.</p>
+<h2 class="mt-4">Choose the class before planning drop-off</h2>
+<p>Check that your selected class is listed at Onalaska: MDU also offers Holmen classes, and a familiar class name does not by itself tell you which campus to visit. Use the directions link below to find Suite 103 and contact our team for parking and arrival guidance. Before the first lesson, confirm the day, start time, dress requirements, and how your child will meet the teacher. These small details can make a new activity feel much more comfortable.</p>
+<h2 class="mt-4">Options for siblings and growing dancers</h2>
+<p>A preschooler and a teen may need very different dance experiences. Our program guides let you compare playful early movement with ballet technique, rhythmic tap, jazz, hip hop, and tumbling or acro options. If you are choosing for more than one child, bring each dancer’s age and experience to the conversation. We can help you compare the current schedule rather than assuming all programs meet on the same day. Returning dancers can also ask which level fits their experience before enrolling.</p>
+<p><a href="https://www.google.com/maps/dir/?api=1&amp;origin=Onalaska%2C+WI&amp;destination=923+12th+Ave+S+Suite+103%2C+Onalaska%2C+WI+54650">Get directions from Onalaska to the Onalaska studio</a></p>
+<figure class="my-4">
+<img src="/images/studio1.jpg" alt="MDU studio lobby with seating, a staircase, and an upper-level walkway" class="img-fluid rounded" width="1920" height="1399" loading="lazy">
+<figcaption class="small text-muted">A look inside Misty's Dance Unlimited.</figcaption>
+</figure>
+@include('seo.visit')
 @endsection

@@ -1,4 +1,6 @@
 @extends('layouts.app-side-mist')
+@section('title', 'Dance Birthday Parties in Onalaska | Misty’s Dance Unlimited')
+@section('description', 'Plan a dance birthday party in Onalaska for your La Crosse area family. Explore party packages, activities and booking details at MDU.')
 @section('content')
 
     <div class="bg-white">
@@ -7,7 +9,7 @@
 {{--            <img src="/images/dance-birthday-parties.png.webp" alt="party info" class="img-fluid shadow rounded my-5" style="max-height: 95vh; height: 100%; width: auto;">--}}
             <div>
                 <p class="poppins" style="font-size: 20px;">
-                    Looking for a birthday party packed with fun, dancing, and unforgettable memories? At MDU, your child and their friends will learn a dance routine to their favorite song, perform a show, and enjoy a party made just for them!
+                    Planning a birthday party in Onalaska for your La Crosse area family? At MDU, your child and their friends will learn a dance routine to their favorite song, perform a show, and enjoy a party made just for them!
                 </p>
                 <h2 class="mt-5">📅 Available Party Days & Times:</h2>
                 <ul>

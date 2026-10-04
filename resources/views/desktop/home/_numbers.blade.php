@@ -4,7 +4,7 @@
     </div>
     <div class="d-flex align-items-center" style="height: 100%;">
         <div>
-            <h1 class="poppins fw-bold text-center p-0 my-0" style="font-size: 45px;">Misty's Dance Unlimited has MORE to love!</h1>
+            <h2 class="poppins fw-bold text-center p-0 my-0" style="font-size: 45px;">Misty's Dance Unlimited has MORE to love!</h2>
 
             <div class="row row-cols-2 my-5 py-2">
                 <div class="col-1" style="position: relative;">
@@ -12,7 +12,7 @@
                     {{--                <img src="/images/Color_9.png" alt="dancer illustration" class="img-fluid">--}}
                 </div>
                 <div class="col-10 d-flex align-items-center">
-                    <h1 class="poppins text-muted p-0 m-0" style="font-size: 30px;">Convenient locations in Holmen & Onalaska</h1>
+                    <p class="poppins text-muted p-0 m-0" style="font-size: 30px;">Convenient locations in Holmen & Onalaska</p>
                 </div>
             </div>
 
@@ -22,7 +22,7 @@
                     {{--                <img src="/images/Color_3.png" alt="dancer illustration" class="img-fluid">--}}
                 </div>
                 <div class="col-10 d-flex align-items-center">
-                    <h1 class="poppins text-muted p-0 m-0" style="font-size: 30px;">Years of serving the Coulee region</h1>
+                    <p class="poppins text-muted p-0 m-0" style="font-size: 30px;">Years of serving the Coulee region</p>
                 </div>
             </div>
             <div class="row row-cols-2 my-5 py-2">
@@ -31,7 +31,7 @@
                     {{--                <img src="/images/Color_2.png" alt="dancer illustration" class="img-fluid">--}}
                 </div>
                 <div class="col-10 d-flex align-items-center">
-                    <h1 class="poppins text-muted p-0 m-0" style="font-size: 30px;">Youth Protection Association for Dance™ trained educators and staff</h1>
+                    <p class="poppins text-muted p-0 m-0" style="font-size: 30px;">Youth Protection Association for Dance™ trained educators and staff</p>
                 </div>
             </div>
             <div class="row row-cols-2 my-5 py-2">
@@ -40,7 +40,7 @@
                     {{--                <img src="/images/Color_4.png" alt="dancer illustration" class="img-fluid">--}}
                 </div>
                 <div class="col-10 d-flex align-items-center">
-                    <h1 class="poppins text-muted p-0 m-0" style="font-size: 30px;">Classes per week to choose from</h1>
+                    <p class="poppins text-muted p-0 m-0" style="font-size: 30px;">Classes per week to choose from</p>
                 </div>
             </div>
         </div>

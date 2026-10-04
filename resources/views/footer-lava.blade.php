@@ -10,6 +10,11 @@
                             923 12th Ave S, STE 103, Onalaska, WI 54650
                         </li>
                         <li class="list-group-item px-0 border-0">
+                            <ion-icon name="navigate"></ion-icon>
+                            &nbsp;<a class="text-decoration-none" style="color: inherit;" href="/dance-holmen">Holmen: Boys &amp; Girls Club<br>600 Holmen Dr N, Holmen, WI 54636</a>
+                            @include('seo.office-hours')
+                        </li>
+                        <li class="list-group-item px-0 border-0">
                             <ion-icon name="call"></ion-icon>
                             608.779.4642
                         </li>
@@ -112,7 +117,7 @@
     </div>
 </div>
 <div id="bottom" class="bg-dark text-white-50 text-center pt-3 font-syne">
-    © 2023 Misty's Dance Unlimited
+    © {{ date('Y') }} Misty's Dance Unlimited
 </div>
 <p id="credit" class="bg-dark text-center pb-3 m-0 font-syne text-muted px-4">
     <a class="text-decoration-none" href="https://denliedesign.com/" target="_blank"><small class="text-muted">Dance Website Design by Denlie Design</small></a><br>

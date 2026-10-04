@@ -4,10 +4,10 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta property="og:title" content="Dance Classes | Onalaska, La Crosse, WI">
-    <meta property="og:description" content="More than just great dancing! At MDU, we offer one of the most complete dance instruction programs in the Midwest and work with students of all ages and abilities.">
+    <meta property="og:title" content="@yield('title', 'Dance Classes | Misty’s Dance Unlimited')">
+    <meta property="og:description" content="@yield('description', 'Explore dance classes at Misty’s Dance Unlimited in Onalaska and Holmen.')">
     <meta property="og:image" content="https://mistysdance.com/images/schoolyr1.jpg">
-    <meta property="og:url" content="https://mistysdance.com/index.php">
+    <meta property="og:url" content="{{ 'https://mistysdance.com' . (request()->path() === '/' ? '/' : '/' . request()->path()) }}">
     <meta name="twitter:card" content="summary_large_image">
     <meta name="description" content="@yield('description', 'From your child’s first class to their graduation performance. MDU has a class for everyone!')">
 
@@ -79,6 +79,8 @@
     @endif
     <script defer src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
     {{--        @vite(['resources/css/app.css', 'resources/js/app.js'])--}}
+    <link rel="canonical" href="{{ 'https://mistysdance.com' . (request()->path() === '/' ? '/' : '/' . request()->path()) }}">
+    @yield('structured_data')
 </head>
 <body class="{{ $isHomepage ? 'home-page' : '' }}">
     <img src="https://servedby.ipromote.com/ad/?src=pixel_cid&nid=2482&cid=T7VJY1WDF8F&cat=11902" width="1" height="1" border="0" alt="" style="position: absolute; visibility: hidden;"/>

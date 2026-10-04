@@ -1,30 +1,18 @@
-@extends('layouts.app-lava')
-@section('title', 'Dance Lessons West Salem | Misty\'s Dance Unlimited')
-@section('description', 'Misty\'s Dance Unlimited offers exciting dance classes in West Salem, WI. Whether you\'re a beginner or advanced, find your rhythm with us today.')
-@section('content')
-
-    <div class="banner-wrap d-none d-md-block" style="position: relative;">
-        <div class="banner-la-crosse"></div>
-        <div class="custom-shape-divider-bottom-1663856745">
-            <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
-                <path d="M598.97 114.72L0 0 0 120 1200 120 1200 0 598.97 114.72z" class="shape-fill"></path>
-            </svg>
-        </div>
-    </div>
-
-    <div class="bg-white">
-        <div class="container pb-5 pt-3">
-            <h3 class="font-staat text-center" style="font-size: 100px; line-height: 0.9em;">Dance West Salem</h3>
-            <p class="font-syne text-center" style="font-size: 22px;">
-                <mark><small>Misty's Dance Unlimited located in Onalaska and Holmen, welcomes families from all surrounding areas including West Salem.</small></mark>
-                <br>
-                At Misty's Dance Unlimited we believe in the power of dance to enrich lives. Our dance classes are tailored to meet the needs of dancers at any level, providing a nurturing environment where individuals can grow not only in their dance technique but also in their confidence and creativity. With a wide range of styles including ballet, jazz, hip-hop, contemporary, and more, our passionate teachers are committed to helping each dancer achieve their fullest potential. We emphasize the importance of community, encouraging our students to support one another and form lasting friendships. Our state-of-the-art facilities are designed to inspire, featuring spacious dance studios with professional-grade floors and equipment. At Misty's Dance Unlimited, we're more than just a dance studio in West Salem; we're a family dedicated to celebrating the joy of movement and the transformative power of dance.
-            </p>
-            <div class="text-center">
-                <a class="text-decoration-none" href="/west-salem-dance"><small class="text-muted">West Salem Dance</small></a>
-                &nbsp; &middot; &nbsp; <a class="text-decoration-none" href="/dance-studios-in-west-salem-wi"><small class="text-muted">Dance Studios in West Salem WI</small></a>
-            </div>
-        </div>
-    </div>
-
+@extends('seo.layout')
+@section('title', 'Dance classes near West Salem, WI | Misty’s Dance Unlimited')
+@section('description', 'Explore MDU dance classes for West Salem families. Compare programs, plan your studio visit, view schedules and book a free trial.')
+@section('page')
+<h1>Dance classes near West Salem, WI</h1>
+<h2 class="mt-4">Dance lessons that fit a West Salem school week</h2>
+<p>West Salem families can explore Misty’s Dance Unlimited’s programs at our Onalaska and Holmen locations. When choosing a weekly activity, consider both the class experience and the trip around school, work, and other commitments. Our guides explain the differences between dance styles so you can narrow the choices before comparing the campus, day, and time in the current schedule.</p>
+<h2 class="mt-4">Compare the trip to each class</h2>
+<p>MDU’s Onalaska studio is at 923 12th Ave S, Suite 103. Use directions from your West Salem starting point to compare routes and traffic for the time you plan to leave. If a Holmen class better matches your child’s interests or your weekly schedule, contact us for its arrival details before deciding. Check the listed location for each class and confirm parking and pickup instructions; do not assume two classes with similar names take place at the same campus.</p>
+<h2 class="mt-4">Support a beginner or a team dancer</h2>
+<p>A first-time dancer may enjoy trying an introductory class before choosing a favorite style. A student interested in school dance team activities may want to discuss technique, coordination, or a specific training goal. Our dance team page is a starting point for that conversation, while ballet, tap and jazz, and hip hop guides explain other options. Tell our team about your child’s experience and school commitments so we can help compare suitable classes without adding unnecessary pressure to the week.</p>
+<p><a href="https://www.google.com/maps/dir/?api=1&amp;origin=West+Salem%2C+WI&amp;destination=923+12th+Ave+S+Suite+103%2C+Onalaska%2C+WI+54650">Get directions from West Salem to the Onalaska studio</a></p>
+<figure class="my-4">
+<x-site-image src="/images-mist/header.jpg" alt="MDU dancers of different ages standing together in a row" class="img-fluid rounded" width="1575" height="777" loading="lazy" sizes="(max-width: 1040px) 100vw, 1040px" />
+<figcaption class="small text-muted">Dancers at Misty's Dance Unlimited.</figcaption>
+</figure>
+@include('seo.visit')
 @endsection

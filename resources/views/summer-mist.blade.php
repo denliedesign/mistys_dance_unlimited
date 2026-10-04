@@ -1,13 +1,17 @@
 @extends('layouts.app-side-mist')
 
-@section('title', 'Summer | Misty\'s Dance Unlimited')
+@section('title', 'Summer Dance Classes & Camps near La Crosse | Misty’s Dance Unlimited')
+@section('description', 'Explore summer dance classes and camps at MDU in Onalaska, serving La Crosse area families. View published programs and ask about the next season.')
 
 @section('content')
 
     <div class="bg-white py-5 poppins">
         <div class="container" id="summer">
+<h1>Summer dance classes and camps in the La Crosse area</h1>
+<p>Explore summer dance at Misty's Dance Unlimited in Onalaska. The published brochures below describe their labeled season; contact us to confirm upcoming dates, class locations, and availability before planning your summer.</p>
+<p><a href="/contact">Ask about the next summer season</a> or <a href="/fall">view school-year classes</a>.</p>
             <p class="pb-0 mb-0 poppins text-muted" style="font-size: 30px;">MDU 2026</p>
-            <h1 class="born-7 poppins fw-bold p-0 m-0" style="font-size: 45px;">Children's Summer Dance Classes</h1>
+            <h2 class="born-7 poppins fw-bold p-0 m-0" style="font-size: 45px;">Children's Summer Dance Classes</h2>
             <div style="color: white; font-size: 20px;" class="btn btn-danger poppins fw-bold btn-interact"><a class="text-white text-decoration-none">Register Now!</a></div>
             <div style="background: #008CC0; color: white; font-size: 20px;" class="btn poppins fw-bold btn-interact mx-3"><a class="text-white text-decoration-none" href="/images/26-summer-3-18.pdf" target="_blank">View PDF</a></div>
             <div style="color: white; font-size: 20px;" class="btn poppins fw-bold"><a href="/images/dress-code-25-26.pdf" target="_blank"><button class="btn btn-danger btn-lg">Summer Dress Code</button></a></div>
@@ -21,7 +25,7 @@
 
                         <hr class="my-5">
             <p class="pb-0 mb-0 poppins text-muted" style="font-size: 30px;">MDU 2026</p>
-            <h1 class="born-7 poppins fw-bold p-0 m-0" style="font-size: 45px;">Graded Summer Dance Classes</h1>
+            <h2 class="born-7 poppins fw-bold p-0 m-0" style="font-size: 45px;">Graded Summer Dance Classes</h2>
             <div style="color: white; font-size: 20px;" class="btn btn-danger poppins fw-bold btn-interact"><a class="text-white text-decoration-none" disabled>Register Now!</a></div>
             <div style="background: #008CC0; color: white; font-size: 20px;" class="btn poppins fw-bold btn-interact ms-3"><a class="text-white text-decoration-none" href="/images/26-summer-3-18.pdf" target="_blank">View PDF</a></div>
 

@@ -1,76 +1,16 @@
-@extends('layouts.app-lava')
-@section('title', 'Ballet La Crosse | Misty\'s Dance Unlimited')
-@section('description', 'Elevate your acro and tumbling skills at Misty\'s Dance Unlimited in La Crosse! Join our expertly taught classes, led by certified Acrobatic Arts teachers, to enhance your agility and strength in a supportive environment. Suitable for all ages and skill levels.')
-@section('content')
-
-    <div class="banner-wrap d-none d-md-block" style="position: relative;">
-        <div class="banner"></div>
-        <div class="custom-shape-divider-bottom-1663856745">
-            <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
-                <path d="M598.97 114.72L0 0 0 120 1200 120 1200 0 598.97 114.72z" class="shape-fill"></path>
-            </svg>
-        </div>
-    </div>
-
-    <div class="bg-white">
-        <div class="container pb-5 pt-3">
-            <div class="row">
-                <div class="col-sm">
-                    <div class="d-flex justify-content-center align-items-center" style="height: 100%;">
-                        <img src="/images/tumble-la-crosse.jpg" alt="dancers" class="img-fluid">
-                    </div>
-                </div>
-                <div class="col-sm">
-                    <h3 class="font-staat" style="font-size: 100px; line-height: 0.9em;">Discover Tumbling Classes in La Crosse</h3>
-                    <p class="font-syne" style="font-size: 22px;">
-                        At Misty's Dance Unlimited, our tumbling classes offer students of all ages the opportunity to build strength, flexibility, and confidence. With a team of trained and certified teachers, we provide a safe and supportive environment tailored for beginners and advanced gymnasts alike. Our curriculum is designed to challenge each student appropriately, ensuring personal growth and skill development in every class.
-                    </p>
-                    <div class="d-flex justify-content-center">
-                        <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank">
-                            <div class="btn btn-lg btn-danger shadow">Register Now!</div>
-                        </a>
-                    </div>
-                </div>
-            </div>
-            <hr class="my-5">
-            <div class="row">
-                <div class="col-sm">
-                    <h3 class="font-staat" style="font-size: 100px; line-height: 0.9em;">Master Acrobatics with Our Acro Classes</h3>
-                    <p class="font-syne" style="font-size: 22px;">
-                        Our acro classes in La Crosse are led by certified Acrobatic Arts professionals who are dedicated to teaching dancers how to seamlessly integrate acrobatic movements into their routines. These classes cater to all levels, focusing on developing core strength, coordination, and the technical skills necessary for acrobatic performance. Whether you are starting out or looking to enhance your acro techniques, our studio is equipped to help you achieve your goals.
-                    </p>
-                    <div class="d-flex justify-content-center">
-                        <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank">
-                            <div class="btn btn-lg btn-danger shadow">Register Now!</div>
-                        </a>
-                    </div>
-                </div>
-                <div class="col-sm">
-                    <div class="d-flex justify-content-center align-items-center" style="height: 100%;">
-                        <img src="/images/tumble-classes-la-crosse.jpg" alt="dancers" class="img-fluid">
-                    </div>
-                </div>
-            </div>
-            <hr class="my-5">
-            <div class="row">
-                <div class="col-sm">
-                    <div class="d-flex justify-content-center align-items-center" style="height: 100%;">
-                        <img src="/images/acro-la-crosse.jpg" alt="dancers" class="img-fluid">
-                    </div>
-                </div>
-                <div class="col-sm">
-                    <h3 class="font-staat" style="font-size: 100px; line-height: 0.9em;">Join the Acrobatics Scene in La Crosse</h3>
-                    <p class="font-syne" style="font-size: 22px;">
-                        Misty's Dance Unlimited is a leader in the local acrobatics scene, known for our comprehensive training approach and certified staff. Our acrobatics offerings are diverse, welcoming students from all backgrounds and skill levels. The focus is on safety, technique, and creative expression, providing a solid foundation for dancers to excel in acrobatics. Our studio is committed to fostering a nurturing environment where every participant can thrive and contribute to the vibrant dance community in La Crosse.
-                    </p>
-                    <div class="d-flex justify-content-center">
-                        <a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank">
-                            <div class="btn btn-lg btn-danger shadow">Register Now!</div>
-                        </a>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-
+@extends('seo.layout')
+@section('title', 'Tumbling and acro classes near La Crosse | Misty’s Dance Unlimited')
+@section('description', 'Explore tumbling and acro at Misty’s Dance Unlimited in Onalaska. Ask about age groups, experience and placement, and view the current schedule.')
+@section('page')
+<h1>Tumbling and acro classes near La Crosse</h1>
+<h2 class="mt-4">Explore acro as part of dance</h2>
+<p>Families looking for tumbling or acro in the La Crosse area can explore Misty’s Dance Unlimited’s dance program in Onalaska. Acro brings an emphasis on strength, control, flexibility, and coordinated movement. Use the current schedule to see available classes and ask our team which option fits your child’s age and experience.</p>
+<h2 class="mt-4">Placement starts with a conversation</h2>
+<p>Tell us about any previous dance, tumbling, or gymnastics lessons. An impressive skill learned elsewhere does not by itself establish the right class level. Ask the teacher what experience is expected and how placement is determined. Our team can explain the class before you commit to a weekly routine.</p>
+<h2 class="mt-4">Prepare for your first visit</h2>
+<p>Confirm the studio location, clothing requirements, and arrival instructions when booking. If you are comparing dance acro with another activity, describe what your child hopes to learn and ask whether the class is suited to that goal. Check the <a href="/fall">current schedule and dress code</a> for practical details.</p>
+<h2 class="mt-4">Connect movement with other interests</h2>
+<p>Some dancers are interested in acro alongside <a href="/tap-jazz-classes">jazz</a> or other dance styles. Others are exploring movement for the first time. We can help you compare options without assuming every child needs the same combination of classes. Look at <a href="/summer">summer programs</a> for seasonal opportunities, or contact the team to discuss a trial and the next available class.</p>
+<h2>Acro and Mini Acro</h2>
+<p>The 2026–2027 guide describes <strong>Acro &amp; Mini Acro</strong> as programs that develop coordination, strength, agility, and flexibility. Skills described in the guide include cartwheels, walkovers, handsprings, and aerials. The appropriate skills and progression depend on the dancer’s class and readiness; ask our team about placement rather than expecting every skill in a first lesson.</p>
 @endsection

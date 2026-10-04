@@ -571,3 +571,9 @@ Route::get('password/reset', [ForgotPasswordController::class, 'showLinkRequestF
 Route::post('password/email', [ForgotPasswordController::class, 'sendResetLinkEmail'])->name('password.email');
 Route::get('password/reset/{token}', [ResetPasswordController::class, 'showResetForm'])->name('password.reset');
 Route::post('password/reset', [ResetPasswordController::class, 'reset'])->name('password.update');
+
+// Evergreen program guides.
+Route::view('/hip-hop-classes', 'hip-hop-classes');
+Route::view('/tap-jazz-classes', 'tap-jazz-classes');
+Route::view('/preschool-dance', 'preschool-dance');
+Route::view('/adult-dance-classes', 'adult-dance-classes');

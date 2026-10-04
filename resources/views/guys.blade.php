@@ -1,73 +1,16 @@
-@extends('layouts.app')
-@section('title', 'Guys Only | Misty\'s Dance Unlimited')
-@section('content')
-
-    <div class="banner-wrap">
-        <div class="banner"></div>
-    </div>
-
-    <section class="container pb-5">
-        <h3 class="text-center py-5">Guys Only</h3>
-        <div class="class-card-grid-md">
-            <div class="class-card mr-3">
-                <img src="images/kid15.png" class="class-gfx" id="shrink-img" style="width: 90%;">
-                <p>
-
-                    Beginning level “combination class” of tap and jazz for boys only! No experience required. Dance is the musical sport!
-
-                </p>
-            </div>
-            <div class="class-card mr-3">
-                <img src="images/GUYS-ONLY-1.png" class="class-gfx" id="shrink-img" style="width: 90%;">
-                <p>
-
-                    A class built around Hip Hop. Explore other movement, dance mechanics and learn the tools of dance.
-
-                </p>
-            </div>
-            <div class="class-card">
-                <img src="images/guyscomp.png" class="class-gfx" id="shrink-img">
-                <p>
-
-                    Auditions for our award winning Guy’s Only Competition Team take place at the end of May each year.  Perform at local events as well as regional competitions in Minneapolis or Madison.  MDU has a younger Guy’s Only Competition Team and a team for more advanced dancers.  Take your dancing to the next level by joining a team!
-
-                </p>
-            </div>
-        </div>
-    </section>
-
-    <section class="class-info">
-        <div class="class-register">
-            <div class="new-reg-btn"><a href="https://app.thestudiodirector.com/mistysdance/portal.sd?page=Login" target="_blank">Register</a></div>
-        </div>
-        <div class="season-table">
-            <div class="season-row">
-                <div class="season-item"><span>GUYS</span></div>
-                <div class="season-item">mon</div>
-                <div class="season-item">thr</div>
-            </div>
-            <div class="season-row">
-                <div class="season-item">man in motion</div>
-                <div class="season-item"><span class="nada"></span></div>
-                <div class="season-item">4:45-5:30</div>
-            </div>
-            <div class="season-row">
-                <div class="season-item">guys only 1</div>
-                <div class="season-item"><span class="nada"></span></div>
-                <div class="season-item">6:30-7:00pm</div>
-            </div>
-            <div class="season-row">
-                <div class="season-item">guys competition team</div>
-                <div class="season-item">6:30-8:30</div>
-                <div class="season-item"><span class="nada"></span></div>
-            </div>
-{{--            <div class="season-row">--}}
-{{--                <div class="season-item" id="season-tuition">$39/mo per class</div>--}}
-{{--            </div>--}}
-        </div>
-    </section>
-
-    <br><br><br><br>
-
-    @include('footer')
+@extends('seo.layout')
+@section('title', 'Guys Only dance classes in Onalaska | Misty’s Dance Unlimited')
+@section('description', 'Explore Guys Only at Misty’s Dance Unlimited for boys in Onalaska and the La Crosse area. Check current classes and book a free trial.')
+@section('page')
+<h1>Guys Only dance classes in Onalaska</h1>
+<h2 class="mt-4">Find your place in dance</h2>
+<p>Misty’s Dance Unlimited’s Guys Only program gives families looking for boys’ dance classes a clear place to begin. Our Onalaska studio serves families throughout the La Crosse area. Whether your child is trying dance for the first time or wants to build on previous lessons, start with the <a href="/fall">Guys Only section of the current schedule</a>.</p>
+<h2 class="mt-4">Start with the current program guide</h2>
+<p>Class names, ages, and times can change between seasons. Use the current guide to compare available options, then ask our team which class fits your dancer. Share your child’s age, experience, and interests rather than assuming a particular class is right based only on its name. Confirm the studio location when booking.</p>
+<h2 class="mt-4">A trial before a weekly routine</h2>
+<p>A free trial can help a new dancer meet the teacher and experience learning with a group. Ask what clothing and shoes to bring before purchasing dancewear. If your child has a particular interest in rhythm, movement, or performance, include that in your inquiry so the team can help narrow the choices.</p>
+<h2 class="mt-4">Explore beyond the first class</h2>
+<p>Boys can also explore the other dance programs at MDU. Read about <a href="/hip-hop-classes">hip hop</a>, <a href="/tap-jazz-classes">tap and jazz</a>, or <a href="/ballet-la-crosse">ballet</a> to compare interests. For dancers considering more training, ask our team about current opportunities and any placement requirements. <a href="/summer">Summer classes and camps</a> offer another season to explore what your dancer enjoys.</p>
+<h2>Programs in the 2026–2027 guide</h2>
+<p><strong>Man-in-Motion</strong> is a boys’ beginner class for kindergarten through third grade, with tap in the fall and jazz in the spring. <strong>Guys Technique</strong> builds on that introduction with a mix of styles and more advanced movement. Use the <a href="/fall">program guide</a> for the current schedule and ask our team which starting point suits your dancer.</p>
 @endsection

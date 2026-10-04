@@ -1,36 +1,18 @@
-@extends('layouts.app-lava')
-@section('title', 'Dance Classes La Crosse | Misty\'s Dance Unlimited')
-@section('description', 'Looking for dance classes near La Crosse, WI? Misty\'s Dance Unlimited offers engaging dance lessons for all ages. Start your dance journey with us!')
-@section('content')
-
-    <div class="banner-wrap d-none d-md-block" style="position: relative;">
-        <div class="banner-la-crosse"></div>
-        <div class="custom-shape-divider-bottom-1663856745">
-            <svg data-name="Layer 1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 120" preserveAspectRatio="none">
-                <path d="M598.97 114.72L0 0 0 120 1200 120 1200 0 598.97 114.72z" class="shape-fill"></path>
-            </svg>
-        </div>
-    </div>
-
-    <div class="bg-white">
-        <div class="container pb-5 pt-3">
-            <h3 class="font-staat text-center" style="font-size: 100px; line-height: 0.9em;">Dance La Crosse</h3>
-            <p class="font-syne text-center" style="font-size: 22px;">
-                <mark><small>Misty's Dance Unlimited located in Onalaska and Holmen, welcomes families from all surrounding areas including La Crosse.</small></mark>
-                <br>
-                Misty's Dance Unlimited is your destination for exceptional dance education. We serve the community with high-quality dance classes in La Crosse that inspire and motivate. Regardless of your age or experience level, our dedicated teachers are here to guide you through your dance journey, ensuring personal growth and fun in every class.
-            </p>
-            <div class="text-center">
-                <a class="text-decoration-none" href="/dance-studios-in-la-crosse-wi"><small class="text-muted">Dance Studios in La Crosse WI</small></a>
-                &nbsp; &middot; &nbsp; <a class="text-decoration-none" href="/dance-classes-in-la-crosse-wi"><small class="text-muted">Dance Classes in La Crosse WI</small></a>
-                &nbsp; &middot; &nbsp; <a class="text-decoration-none" href="/dance-classes-la-crosse"><small class="text-muted">Dance Classes La Crosse</small></a>
-                &nbsp; &middot; &nbsp; <a class="text-decoration-none" href="/la-crosse-dance"><small class="text-muted">La Crosse Dance</small></a>
-                &nbsp; &middot; &nbsp; <a class="text-decoration-none" href="/dance-camp-la-crosse"><small class="text-muted">Dance Camp La Crosse</small></a>
-                &nbsp; &middot; &nbsp; <a class="text-decoration-none" href="/ballet-camps-la-crosse"><small class="text-muted">Ballet Camps La Crosse</small></a>
-                &nbsp; &middot; &nbsp; <a class="text-decoration-none" href="/ballet-la-crosse"><small class="text-muted">Ballet La Crosse</small></a>
-                &nbsp; &middot; &nbsp; <a class="text-decoration-none" href="/tumble-classes-la-crosse"><small class="text-muted">Tumble Classes La Crosse</small></a>
-            </div>
-        </div>
-    </div>
-
+@extends('seo.layout')
+@section('title', 'Dance classes near La Crosse, WI | Misty’s Dance Unlimited')
+@section('description', 'Explore MDU dance classes for La Crosse families. Compare programs, plan your studio visit, view schedules and book a free trial.')
+@section('page')
+<h1>Dance classes near La Crosse, WI</h1>
+<h2 class="mt-4">A class worth making part of your week</h2>
+<p>For La Crosse families, choosing dance lessons means balancing the right teacher, an age-appropriate class, and a trip that fits around school and work. Misty’s Dance Unlimited welcomes dancers from the La Crosse area at our Onalaska and Holmen locations. Start with your child’s age and interests, then compare the campus and time shown on the class schedule. You do not need to choose an advanced training path to get started.</p>
+<h2 class="mt-4">Planning the trip from La Crosse</h2>
+<p>Our Onalaska address gives you a specific destination to compare with your daily route. A trip from the North Side will be different from one starting downtown or on the South Side, so check directions from your actual pickup point rather than relying on one citywide drive-time estimate. If you are comparing a Holmen class with an Onalaska class, ask us to confirm the Holmen arrival details and allow time to meet the teacher on your first visit.</p>
+<h2 class="mt-4">From a first lesson to a favorite style</h2>
+<p>Young beginners can explore our toddler and preschool programs. School-age dancers can compare ballet, tap, jazz, and hip hop; older students can ask about placement and training that supports their goals. If your child is interested in a school dance team, our dance team guide explains how to discuss technique and preparation with us. A free trial is a useful first step when your child is excited about dance but has not decided which style to try.</p>
+<p><a href="https://www.google.com/maps/dir/?api=1&amp;origin=La+Crosse%2C+WI&amp;destination=923+12th+Ave+S+Suite+103%2C+Onalaska%2C+WI+54650">Get directions from La Crosse to the Onalaska studio</a></p>
+<figure class="my-4">
+<x-site-image src="/images-mist/header.jpg" alt="MDU dancers of different ages standing together in a row" class="img-fluid rounded" width="1575" height="777" loading="lazy" sizes="(max-width: 1040px) 100vw, 1040px" />
+<figcaption class="small text-muted">Dancers at Misty's Dance Unlimited.</figcaption>
+</figure>
+@include('seo.visit')
 @endsection
